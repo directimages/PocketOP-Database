@@ -1,0 +1,321 @@
+{
+  "version": "1.0.0",
+  "verificationWarning": [
+    "ALL hFOVDegrees values in this file are UNVERIFIED estimates derived from training data.",
+    "Training data sources are not reliable for precise optical measurements and may contain",
+    "errors, conflated values from different capture formats, or values that were themselves",
+    "estimated in their original source.",
+    "",
+    "DO NOT use hFOVDegrees values in production calculations until each entry has been",
+    "verified by AT LEAST ONE of the following methods:",
+    "  (a) Direct measurement on physical hardware via AVCaptureDevice.activeFormat.videoFieldOfView,",
+    "  (b) Confirmation against a minimum of 3 independent, citable published sources",
+    "      (e.g. iFixit teardown measurements, Apple developer documentation, peer-reviewed technical analysis).",
+    "",
+    "When a value is verified, set hFOVVerified to true and update hFOVSource to describe",
+    "the verification method used (e.g. 'measured on device — AVFoundation videoFieldOfView').",
+    "",
+    "The hFOVSource field describes how the current estimate was derived — it does NOT",
+    "indicate the value has been confirmed. All entries start with hFOVVerified: false.",
+    "",
+    "modelIdentifiers for M4 iPad Pro and M2 iPad Air entries are also unverified and",
+    "should be confirmed against a physical device or the Apple model identifier registry."
+  ],
+  "notes": [
+    "The 2x label on 48MP-capable devices (iPhone 14 Pro and later, iPhone 15 and later) is a sensor crop from the main wide camera, not a separate physical camera. It is typed 'telephoto' for UI consistency with physical telephoto entries.",
+    "iPad Pro 11-inch and 13-inch (M4, 2024) are believed to ship with a single rear wide camera only — this must be confirmed on physical hardware.",
+    "This file lives in the repo root as a working draft. Per ADDENDUM-G Section G.2, the production copy belongs in the app bundle alongside lenses.json and ptz_cameras.json."
+  ],
+  "devices": [
+
+    {
+      "id": "iphone-11",
+      "marketingName": "iPhone 11",
+      "modelIdentifiers": ["iPhone12,1"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-11-pro",
+      "marketingName": "iPhone 11 Pro / iPhone 11 Pro Max",
+      "modelIdentifiers": ["iPhone12,3", "iPhone12,5"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 34.0,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 52mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-12",
+      "marketingName": "iPhone 12 mini / iPhone 12",
+      "modelIdentifiers": ["iPhone13,1", "iPhone13,2"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-12-pro",
+      "marketingName": "iPhone 12 Pro",
+      "modelIdentifiers": ["iPhone13,3"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 34.0,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 52mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-12-pro-max",
+      "marketingName": "iPhone 12 Pro Max",
+      "modelIdentifiers": ["iPhone13,4"],
+      "cameras": [
+        { "label": "0.5x",  "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",    "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "2.5x",  "type": "telephoto",  "hFOVDegrees": 28.0,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 65mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-13",
+      "marketingName": "iPhone 13 mini / iPhone 13",
+      "modelIdentifiers": ["iPhone14,4", "iPhone14,5"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-13-pro",
+      "marketingName": "iPhone 13 Pro / iPhone 13 Pro Max",
+      "modelIdentifiers": ["iPhone14,2", "iPhone14,3"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "3x",   "type": "telephoto",  "hFOVDegrees": 23.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 77mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-14",
+      "marketingName": "iPhone 14 / iPhone 14 Plus",
+      "modelIdentifiers": ["iPhone14,7", "iPhone14,8"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-14-pro",
+      "marketingName": "iPhone 14 Pro / iPhone 14 Pro Max",
+      "modelIdentifiers": ["iPhone15,2", "iPhone15,3"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 48MP sensor crop mode, not a physical camera" },
+        { "label": "3x",   "type": "telephoto",  "hFOVDegrees": 23.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 77mm equivalent focal length" }
+      ]
+    },
+
+    {
+      "id": "iphone-15",
+      "marketingName": "iPhone 15 / iPhone 15 Plus",
+      "modelIdentifiers": ["iPhone15,4", "iPhone15,5"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 48MP sensor crop mode, not a physical camera" }
+      ]
+    },
+
+    {
+      "id": "iphone-15-pro",
+      "marketingName": "iPhone 15 Pro",
+      "modelIdentifiers": ["iPhone16,1"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "ADDENDUM-G spec reference (author-sourced, not physically measured)" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "ADDENDUM-G spec reference updated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "ADDENDUM-G spec reference (author-sourced, not physically measured)" },
+        { "label": "3x",   "type": "telephoto",  "hFOVDegrees": 23.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "ADDENDUM-G spec reference (author-sourced, not physically measured)" }
+      ]
+    },
+
+    {
+      "id": "iphone-15-pro-max",
+      "marketingName": "iPhone 15 Pro Max",
+      "modelIdentifiers": ["iPhone16,2"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 48MP sensor crop mode, not a physical camera" },
+        { "label": "5x",   "type": "telephoto",  "hFOVDegrees": 15.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 120mm equivalent focal length (tetraprism)" }
+      ]
+    },
+
+    {
+      "id": "iphone-16",
+      "marketingName": "iPhone 16 / iPhone 16 Plus",
+      "modelIdentifiers": ["iPhone17,3", "iPhone17,4"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 48MP sensor crop mode, not a physical camera" }
+      ]
+    },
+
+    {
+      "id": "iphone-16-pro",
+      "marketingName": "iPhone 16 Pro / iPhone 16 Pro Max",
+      "modelIdentifiers": ["iPhone17,1", "iPhone17,2"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "2x",   "type": "telephoto",  "hFOVDegrees": 35.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 48MP sensor crop mode, not a physical camera" },
+        { "label": "5x",   "type": "telephoto",  "hFOVDegrees": 15.5,  "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 120mm equivalent focal length (tetraprism)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-11-m1",
+      "marketingName": "iPad Pro 11-inch (M1)",
+      "modelIdentifiers": ["iPad13,4", "iPad13,5"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-129-m1",
+      "marketingName": "iPad Pro 12.9-inch (M1)",
+      "modelIdentifiers": ["iPad13,8", "iPad13,9"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-11-m2",
+      "marketingName": "iPad Pro 11-inch (M2)",
+      "modelIdentifiers": ["iPad14,3", "iPad14,4"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-129-m2",
+      "marketingName": "iPad Pro 12.9-inch (M2)",
+      "modelIdentifiers": ["iPad14,5", "iPad14,6"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated — 13mm equivalent focal length" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.0,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-11-m4",
+      "marketingName": "iPad Pro 11-inch (M4)",
+      "modelIdentifiers": ["iPad16,3", "iPad16,4"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 73.0, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed; single-camera assumption unverified)" }
+      ]
+    },
+
+    {
+      "id": "ipad-pro-13-m4",
+      "marketingName": "iPad Pro 13-inch (M4)",
+      "modelIdentifiers": ["iPad16,5", "iPad16,6"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 73.0, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed; single-camera assumption unverified)" }
+      ]
+    },
+
+    {
+      "id": "ipad-air-m1",
+      "marketingName": "iPad Air (M1)",
+      "modelIdentifiers": ["iPad13,16", "iPad13,17"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 73.0, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-air-11-m2",
+      "marketingName": "iPad Air 11-inch (M2)",
+      "modelIdentifiers": ["iPad14,8", "iPad14,9"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 73.0, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "ipad-air-13-m2",
+      "marketingName": "iPad Air 13-inch (M2)",
+      "modelIdentifiers": ["iPad14,10", "iPad14,11"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 73.0, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated — 26mm equivalent focal length (iPad sensor dimensions unconfirmed)" }
+      ]
+    },
+
+    {
+      "id": "iphone-16e",
+      "marketingName": "iPhone 16e",
+      "modelIdentifiers": ["iPhone17,5"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 69.4, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated" }
+      ]
+    },
+
+    {
+      "id": "iphone-air",
+      "marketingName": "iPhone Air",
+      "modelIdentifiers": ["iPhone18,4"],
+      "cameras": [
+        { "label": "1x", "type": "wide", "hFOVDegrees": 69.4, "isDefault": true, "hFOVVerified": false, "hFOVSource": "estimated" }
+      ]
+    },
+
+    {
+      "id": "iphone-17",
+      "marketingName": "iPhone 17",
+      "modelIdentifiers": ["iPhone18,3"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 69.4,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated" }
+      ]
+    },
+
+    {
+      "id": "iphone-17-pro",
+      "marketingName": "iPhone 17 Pro",
+      "modelIdentifiers": ["iPhone18,1"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "8x",   "type": "telephoto",  "hFOVDegrees": 9.9,   "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated" }
+      ]
+    },
+
+    {
+      "id": "iphone-17-pro-max",
+      "marketingName": "iPhone 17 Pro Max",
+      "modelIdentifiers": ["iPhone18,2"],
+      "cameras": [
+        { "label": "0.5x", "type": "ultrawide", "hFOVDegrees": 120.0, "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated" },
+        { "label": "1x",   "type": "wide",       "hFOVDegrees": 73.7,  "isDefault": true,  "hFOVVerified": false, "hFOVSource": "estimated — 24mm equivalent focal length (Apple confirmed 24mm main camera from iPhone 14 Pro)" },
+        { "label": "8x",   "type": "telephoto",  "hFOVDegrees": 9.9,   "isDefault": false, "hFOVVerified": false, "hFOVSource": "estimated" }
+      ]
+    }
+
+  ]
+}
