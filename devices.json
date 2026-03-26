@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "verificationWarning": [
     "ALL hFOVDegrees values in this file are UNVERIFIED estimates derived from training data.",
     "Training data sources are not reliable for precise optical measurements and may contain",
