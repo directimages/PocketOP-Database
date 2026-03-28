@@ -31,4 +31,4 @@ Each file contains a `version` field using semantic versioning:
 
 ## License
 
-This data is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+This data is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE). Commercial use requires written permission from Direct Images.
