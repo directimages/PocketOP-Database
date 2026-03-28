@@ -14,12 +14,7 @@ This repository contains the JSON data files that the PocketOP app fetches at ru
 
 ## Delivery
 
-Files are served via [jsDelivr](https://www.jsdelivr.com/) CDN:
-```
-https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/lenses.json
-https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/ptz_cameras.json
-https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/devices.json
-```
+Files are delivered to the PocketOP app via CDN at runtime.
 
 ## Versioning
 
