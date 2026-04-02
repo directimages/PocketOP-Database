@@ -25,6 +25,8 @@ The three database files you own:
 
 ## Key rules
 
-- Database versions use semantic versioning (1.0.x)
+- Database versioning follows semantic versioning with this convention:
+  - Minor bump (1.x.0): new entries added or schema changes
+  - Patch bump (1.0.x): corrections to existing entries
 - Always purge the jsDelivr cache after any change: https://purge.jsdelivr.net/gh/directimages/PocketOP-Database@main/[filename]
 - Never guess missing specs -- flag them to Kay if data is incomplete
