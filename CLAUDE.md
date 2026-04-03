@@ -42,7 +42,7 @@ Run all of these before committing any change to any JSON file:
 3. No duplicate entries -- check for entries with identical or near-identical names that may have been accidentally added twice.
 4. Required fields present -- every entry must have all required non-optional fields populated. Do not null out fields that the Swift model declares as non-optional.
 5. Types correct -- string fields must be strings, number fields must be numbers, boolean fields must be booleans. No type mismatches.
-6. Version bumped -- bump the version number on every commit. Patch (1.0.x) for corrections, minor (1.x.0) for new entries or schema changes.
+6. Version bumped -- only bump the version of a file you are actually changing in that commit. If you change ptz_cameras.json, only ptz_cameras.json gets a version bump -- lenses.json and devices.json stay untouched. A version bump signals that something changed in that specific file; bumping a file that was not modified is misleading and causes unnecessary cache invalidation on user devices. To determine the target version: scan all entries for that file in CHANGELOG.md and find the highest version number ever recorded -- not just the top line, since a revert may have left a lower version at the top while a higher version exists further down. Always bump strictly above that maximum. Patch (1.0.x) for corrections, minor (1.x.0) for new entries or schema changes.
 7. jsDelivr cache purged -- always purge after pushing.
 
 A JSON file that passes all seven checks is safe to commit. A file that fails any check must be fixed before committing -- never push broken JSON to main.
