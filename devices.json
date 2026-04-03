@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "verificationWarning": [
     "hFOVDegrees values are calculated from Apple's officially published 35mm-equivalent focal lengths",
     "using the standard rectilinear formula 2\u00d7arctan(18/f_equiv), cross-checked against independent",
