@@ -46,3 +46,5 @@ Run all of these before committing any change to any JSON file:
 7. jsDelivr cache purged -- always purge after pushing.
 
 A JSON file that passes all seven checks is safe to commit. A file that fails any check must be fixed before committing -- never push broken JSON to main.
+
+8. CHANGELOG.md updated -- on every commit that touches a database file, add one line per file changed to CHANGELOG.md. Format: `- **version** (date) — what changed`. Most recent entry at the top of each file's section.
