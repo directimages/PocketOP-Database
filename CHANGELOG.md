@@ -24,6 +24,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## devices.json
 
+- **1.5.0** (2026-04-03) — Added isSensorCrop and videoZoomFactor fields to sensor-crop telephoto entries (iPhone 15 Pro Max 10x, iPhone 16 Pro 10x, iPhone 17 Pro 8x, iPhone 17 Pro Max 8x); schema addition from session 74.01
 - **1.4.0** (2026-04-03) — Version bump above high-water mark (1.3.0) for cache safety; full quality checklist passed
 - **1.3.0** (2026-04-03) — Version bump above high-water mark (1.2.0) for cache safety; full quality checklist passed
 - **1.2.0** (2026-03-30) — Version bump after audit
