@@ -33,6 +33,12 @@ The three database files you own:
 - Always purge the jsDelivr cache after any change: https://purge.jsdelivr.net/gh/directimages/PocketOP-Database@main/[filename]
 - Never guess missing specs -- flag them to Kay if data is incomplete
 
+## Skills check
+
+At the start of every task, consult skills-index.md and load any listed skills that are relevant to the work about to be done. Use the Skill tool to invoke them before proceeding.
+
+At the end of every session before a handoff, review whether there were moments to learn from -- gaps in knowledge, mistakes corrected, or approaches that worked especially well. Add confirmed lessons to learnings.md in the repo root. If there was a clear capability gap, recommend a skill to address it in the handoff note.
+
 ## Mandatory quality checks before every commit
 
 Run all of these before committing any change to any JSON file:
