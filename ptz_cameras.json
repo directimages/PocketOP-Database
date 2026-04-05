@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "ptzCameras": [
 
     {
@@ -429,14 +429,14 @@
       "sensorLabel": "1/2.3 inch",
       "sensorWidthMM": 6.17,
       "sensorHeightMM": 4.55,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
-      "hFOVWide": null,
-      "hFOVTele": null,
+      "minFocalLengthMM": 4.3,
+      "maxFocalLengthMM": 94.6,
+      "hFOVWide": 61.6,
+      "hFOVTele": 2.9,
       "opticalZoom": 22,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch MOS, 22x. Focal length range not found in any available source; HFOV not calculable. Discontinued."
+      "notes": "1/2.3-inch MOS, 22x optical zoom. HFOV 61.6° (wide) / 2.9° (tele) from published specs. Focal range 4.3–94.6mm. Source: avalive.com quoting Panasonic official specs."
     },
     {
       "id": "panasonic-aw-he20",
@@ -752,14 +752,14 @@
       "sensorLabel": "1/2.8 inch",
       "sensorWidthMM": 5.14,
       "sensorHeightMM": 3.84,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.9,
+      "maxFocalLengthMM": 94.0,
       "hFOVWide": 58.7,
-      "hFOVTele": null,
+      "hFOVTele": 3.4,
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. Auto-tracking PTZ module. Wide HFOV 58.7° published. Focal range and tele HFOV not available. Current."
+      "notes": "PTZ lens: 1/2.8-inch 2.13MP CMOS, 20x (actual 19.18x). Focal range 4.9–94mm from official Lumens VC-TR1 datasheet (mylumens.com, September 2021 version). hFOVWide 58.7° published. hFOVTele 3.4° (calc), confirmed by two independent methods using sensor dimensions and back-calculation from stated wide FOV."
     },
     {
       "id": "lumens-vc-r30",
@@ -852,11 +852,11 @@
       "minFocalLengthMM": 4.6,
       "maxFocalLengthMM": 135.0,
       "hFOVWide": 70.0,
-      "hFOVTele": null,
+      "hFOVTele": 2.44,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 30x. ~70° wide HFOV; tele not officially published. NDI native. Current."
+      "notes": "1/2.5-inch CMOS, 30x. Focal range 4.6–135mm, hFOVWide 70° from Marshall product page. hFOVTele 2.44° (calc) from sensor width 5.76mm and maxFocalLengthMM 135mm."
     },
     {
       "id": "marshall-cv630-bi",
@@ -868,11 +868,11 @@
       "minFocalLengthMM": 4.6,
       "maxFocalLengthMM": 120.5,
       "hFOVWide": 68.0,
-      "hFOVTele": null,
+      "hFOVTele": 2.73,
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 25x. ~68° wide HFOV; tele not officially published. IP variant. Current."
+      "notes": "1/2.5-inch CMOS, 25x. Focal range 4.6–120.5mm, hFOVWide 68° from marshall-usa.com. hFOVTele 2.73° (calc) from sensor width 5.76mm and maxFocalLengthMM 120.5mm."
     },
     {
       "id": "marshall-cv730-bk",
@@ -916,27 +916,27 @@
       "minFocalLengthMM": 7.1,
       "maxFocalLengthMM": 171.95,
       "hFOVWide": 60.0,
-      "hFOVTele": null,
+      "hFOVTele": 2.39,
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 25x. 60° wide HFOV published. Tele HFOV not officially published. Current."
+      "notes": "1/1.8-inch Sony CMOS, 25x. Focal range 7.1–171.95mm, hFOVWide 60° from marshall-usa.com. hFOVTele 2.39° (calc) from sensor width 7.18mm and maxFocalLengthMM 171.95mm."
     },
     {
       "id": "marshall-cv605-u3",
       "brand": "marshall",
       "model": "CV605-U3/U3W",
-      "sensorLabel": null,
-      "sensorWidthMM": null,
-      "sensorHeightMM": null,
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.14,
+      "sensorHeightMM": 3.86,
       "minFocalLengthMM": 3.0,
       "maxFocalLengthMM": 15.0,
       "hFOVWide": 85.0,
-      "hFOVTele": null,
+      "hFOVTele": 16.0,
       "opticalZoom": 5,
       "isFree": false,
       "isCustom": false,
-      "notes": "Sensor size not specified in official documentation. 5x optical zoom, 3–15mm, 85° wide HFOV published. Compact wide-angle PTZ. Current."
+      "notes": "1/2.8-inch CMOS, 5x optical zoom. Focal range 3–15mm. hFOVWide 85°, hFOVTele 16° both published directly by Marshall (3dbroadcastsales.com: '85° to 16°'). Source: marshall-usa.com and 3dbroadcastsales.com."
     },
 
     {
@@ -1075,14 +1075,14 @@
       "sensorLabel": "1/2.8 inch",
       "sensorWidthMM": 5.14,
       "sensorHeightMM": 3.84,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.3,
+      "maxFocalLengthMM": 94.6,
       "hFOVWide": 63.7,
       "hFOVTele": 2.3,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. HFOV ~63.7°/~2.3° inferred from shared 30x/1/2.8\" module. Focal range not published. Some retailers list 22x — possible hardware revision. Current."
+      "notes": "1/2.8-inch CMOS, 30x. Focal range 4.3–94.6mm, hFOVWide 63.7°, hFOVTele 2.3° all published by Datavideo (ManualsLib official manual)."
     },
     {
       "id": "datavideo-ptc-150t",
@@ -1091,14 +1091,14 @@
       "sensorLabel": "1/2.8 inch",
       "sensorWidthMM": 5.14,
       "sensorHeightMM": 3.84,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.3,
+      "maxFocalLengthMM": 129.0,
       "hFOVWide": 63.7,
       "hFOVTele": 2.3,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same specs as PTC-150 (T suffix = auto-tracking). Focal range not published. Current."
+      "notes": "1/2.8-inch CMOS, 30x. HDBaseT version. Focal range 4.3–129mm per datavideo.com/us/product/PTC-150T. hFOVWide 63.7°, hFOVTele 2.3° as published by Datavideo."
     },
     {
       "id": "datavideo-ptc-280",
@@ -1107,14 +1107,14 @@
       "sensorLabel": "1/2.5 inch",
       "sensorWidthMM": 5.76,
       "sensorHeightMM": 4.29,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
       "hFOVWide": 71.0,
-      "hFOVTele": null,
+      "hFOVTele": 6.24,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. ~71° wide HFOV inferred. Focal range and tele HFOV not published by Datavideo. Current."
+      "notes": "1/2.5-inch CMOS, 12x. Focal range 4.4–52.8mm, hFOVWide 71° from singaporeproaudio.com and ManualsLib PTC-280NDI manual. hFOVTele 6.24° (calc) from sensor width 5.76mm and maxFocalLengthMM 52.8mm."
     },
     {
       "id": "datavideo-ptc-285",
@@ -1123,14 +1123,14 @@
       "sensorLabel": "1/2.5 inch",
       "sensorWidthMM": 5.76,
       "sensorHeightMM": 4.29,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
       "hFOVWide": 80.0,
-      "hFOVTele": null,
+      "hFOVTele": 6.1,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. ~80° wide HFOV (super-wide, similar to JVC KY-PZ510). Focal range and tele HFOV not published. Current."
+      "notes": "1/2.8-inch CMOS, 12x. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285. hFOVWide 80° as published. hFOVTele 6.1° (calc) from sensor width 5.63mm and maxFocalLengthMM 52.8mm. Note: stated 80° wide includes barrel distortion and is inconsistent with the rectilinear formula — tele value is more accurate."
     },
     {
       "id": "datavideo-ptc-285t",
@@ -1139,14 +1139,14 @@
       "sensorLabel": "1/2.5 inch",
       "sensorWidthMM": 5.76,
       "sensorHeightMM": 4.29,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
       "hFOVWide": 80.0,
-      "hFOVTele": null,
+      "hFOVTele": 6.1,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same specs as PTC-285 (T = auto-tracking). Current."
+      "notes": "1/2.8-inch CMOS, 12x. HDBaseT version. Identical optics to PTC-285. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285T. hFOVTele 6.1° (calc)."
     },
     {
       "id": "datavideo-ptc-300",
@@ -1155,14 +1155,14 @@
       "sensorLabel": "1/1.8 inch",
       "sensorWidthMM": 7.18,
       "sensorHeightMM": 5.32,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
-      "hFOVWide": null,
-      "hFOVTele": null,
+      "minFocalLengthMM": 6.7,
+      "maxFocalLengthMM": 125.0,
+      "hFOVWide": 60.0,
+      "hFOVTele": 3.29,
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x. HFOV and focal length not confirmed from any official source. Current."
+      "notes": "1/1.8-inch CMOS, 20x. Focal range 6.7–125mm, hFOVWide 60° from ManualsLib PTC-300 official manual. hFOVTele 3.29° (calc) from sensor width 7.18mm and maxFocalLengthMM 125mm."
     },
     {
       "id": "datavideo-ptc-305",
@@ -1171,14 +1171,14 @@
       "sensorLabel": "1/1.8 inch",
       "sensorWidthMM": 7.18,
       "sensorHeightMM": 5.32,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
-      "hFOVWide": null,
-      "hFOVTele": null,
+      "minFocalLengthMM": 6.7,
+      "maxFocalLengthMM": 125.0,
+      "hFOVWide": 60.0,
+      "hFOVTele": 3.29,
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same specs as PTC-300. Current."
+      "notes": "1/1.8-inch CMOS, 20x. Auto-tracking version. Identical optics to PTC-300. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc)."
     },
     {
       "id": "datavideo-ptc-305t",
@@ -1187,14 +1187,14 @@
       "sensorLabel": "1/1.8 inch",
       "sensorWidthMM": 7.18,
       "sensorHeightMM": 5.32,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
-      "hFOVWide": null,
-      "hFOVTele": null,
+      "minFocalLengthMM": 6.7,
+      "maxFocalLengthMM": 125.0,
+      "hFOVWide": 60.0,
+      "hFOVTele": 3.29,
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same specs as PTC-305 (T = auto-tracking). Current."
+      "notes": "1/1.8-inch CMOS, 20x. HDBaseT auto-tracking version. Identical optics to PTC-300/305. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc)."
     },
 
     {
@@ -1204,14 +1204,14 @@
       "sensorLabel": "1/2.5 inch",
       "sensorWidthMM": 5.76,
       "sensorHeightMM": 4.29,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
       "hFOVWide": 72.5,
       "hFOVTele": 6.9,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. PT12X-4K-G3. HFOV published by PTZOptics. Focal length not published. Shares optics with Link 4K 12X. NDI|HX3 native. Current."
+      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2025-02-03)."
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
@@ -1252,14 +1252,14 @@
       "sensorLabel": "1/2.5 inch",
       "sensorWidthMM": 5.76,
       "sensorHeightMM": 4.29,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
       "hFOVWide": 72.5,
       "hFOVTele": 6.9,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "Identical optics to Move 4K 12X. PT12X-LINK-4K. Adds Dante AV-H. Current."
+      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Dante AV-H version. Identical optics to Move 4K 12X. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2024-10-03)."
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
