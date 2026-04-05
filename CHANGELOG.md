@@ -4,6 +4,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.5.0** (2026-04-05) — Added 75 cine zoom lenses: Canon CN/CN-E (14), Fujinon ZK/XK/Premista/Duvo (11), Angenieux Optimo Ultra/EZ/Style/Legacy (17), Cooke Varotal/CXX (6), Leitz Zoom (2), Zeiss CZ.2/LWZ (4), Sigma (3), Tokina Vista/ATX (4), ARRI Signature/UWZ (5), DZOFilm Pictor/Catta/Tango (9)
 - **1.4.0** (2026-04-03) — Version bump above high-water mark (1.3.0) for cache safety; full quality checklist passed
 - **1.3.0** (2026-04-03) — Version bump above high-water mark (1.2.0) for cache safety; full quality checklist passed
 - **1.2.0** (2026-03-28) — Version bump after adding 53 lenses
