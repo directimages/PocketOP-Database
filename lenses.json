@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -2047,7 +2047,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 14.0,
       "focalLengthMax": 35.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -3014,6 +3014,22 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Super 35 telephoto cine zoom, PL/EF/E mount. Source: dzofilm.com."
+    },
+    {
+      "id": "test-prime-bracket",
+      "manufacturer": "Test",
+      "model": "Prime Test 50mm",
+      "series": "Test",
+      "generation": "4K UHD",
+      "focalLengthMin": 50.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "twoThirdsInch",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Tijdelijke test entry voor wide=tele bracket gedrag. Na test verwijderen."
     }
   ]
 }

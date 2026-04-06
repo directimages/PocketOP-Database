@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "ptzCameras": [
 
     {
@@ -352,7 +352,7 @@
       "minFocalLengthMM": 2.21,
       "maxFocalLengthMM": 2.21,
       "hFOVWide": 111.0,
-      "hFOVTele": null,
+      "hFOVTele": 111.0,
       "opticalZoom": 1,
       "isFree": false,
       "isCustom": false,
