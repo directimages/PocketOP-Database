@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -173,7 +173,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Ultra-wide HD ENG. HFOV spec: wide 96.3°, tele 9.1° (unverified).",
+      "notes": "Ultra-wide HD ENG. HFOV spec: wide 96.3\u00b0, tele 9.1\u00b0 (unverified).",
       "isCustom": false
     },
     {
@@ -221,7 +221,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG 22x. IASE A drive unit variant. HFOV spec: wide 64.6°, tele 3.27° (unverified).",
+      "notes": "HD ENG 22x. IASE A drive unit variant. HFOV spec: wide 64.6\u00b0, tele 3.27\u00b0 (unverified).",
       "isCustom": false
     },
     {
@@ -429,7 +429,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide hybrid — two-in-one wide/tele.",
+      "notes": "Wide hybrid \u2014 two-in-one wide/tele.",
       "isCustom": false
     },
     {
@@ -781,7 +781,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD EFP. HFOV 16:9: 65.2° wide, 3.5° tele.",
+      "notes": "HD EFP. HFOV 16:9: 65.2\u00b0 wide, 3.5\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -797,7 +797,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD wide ENG. HFOV 16:9: 75.5° wide, 5.2° tele.",
+      "notes": "HD wide ENG. HFOV 16:9: 75.5\u00b0 wide, 5.2\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -813,7 +813,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ultra-telephoto EFP. Narrow wide-end. HFOV 16:9: 19.6° wide, 1.1° tele.",
+      "notes": "HD ultra-telephoto EFP. Narrow wide-end. HFOV 16:9: 19.6\u00b0 wide, 1.1\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -829,7 +829,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG with built-in Vari-Angle Prism image stabilizer. No optical extender. HFOV 16:9: 58.9° wide, 4.3° tele.",
+      "notes": "HD ENG with built-in Vari-Angle Prism image stabilizer. No optical extender. HFOV 16:9: 58.9\u00b0 wide, 4.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1085,7 +1085,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs ENG portable. Ultra-wide 15x. HFOV 96.3° wide, 8.4° tele [CALC].",
+      "notes": "4K UHDxs ENG portable. Ultra-wide 15x. HFOV 96.3\u00b0 wide, 8.4\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1101,7 +1101,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDgc ENG portable with built-in image stabilizer. No optical extender. HFOV 58.9° wide, 4.3° tele.",
+      "notes": "4K UHDgc ENG portable with built-in image stabilizer. No optical extender. HFOV 58.9\u00b0 wide, 4.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1117,7 +1117,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDgc super-telephoto ENG portable. Narrow wide-end. HFOV 19.6° wide, 1.1° tele.",
+      "notes": "4K UHDgc super-telephoto ENG portable. Narrow wide-end. HFOV 19.6\u00b0 wide, 1.1\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1133,7 +1133,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs ENG portable. Transitioning out. HFOV 63.2° wide, 3.5° tele.",
+      "notes": "4K UHDxs ENG portable. Transitioning out. HFOV 63.2\u00b0 wide, 3.5\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1149,7 +1149,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs long-throw EFP portable with IS. HFOV 38.9° wide, 0.9° tele.",
+      "notes": "4K UHDxs long-throw EFP portable with IS. HFOV 38.9\u00b0 wide, 0.9\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1165,7 +1165,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHD-DIGISUPER 66. 4K sports box lens. HFOV 56.1° wide, 0.92° tele.",
+      "notes": "UHD-DIGISUPER 66. 4K sports box lens. HFOV 56.1\u00b0 wide, 0.92\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1181,7 +1181,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHD-DIGISUPER 111. 4K Premium box lens. Air Sphere Coating. HFOV 60.1° wide, 0.59° tele.",
+      "notes": "UHD-DIGISUPER 111. 4K Premium box lens. Air Sphere Coating. HFOV 60.1\u00b0 wide, 0.59\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1213,7 +1213,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG standard 18x. HFOV 64.6° wide, 4.0° tele [CALC]. Discontinued.",
+      "notes": "HD ENG standard 18x. HFOV 64.6\u00b0 wide, 4.0\u00b0 tele [CALC]. Discontinued.",
       "isCustom": false
     },
     {
@@ -1229,7 +1229,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD EFP telephoto. HFOV 65.2° wide, 3.1° tele [CALC]. Discontinued.",
+      "notes": "HD EFP telephoto. HFOV 65.2\u00b0 wide, 3.1\u00b0 tele [CALC]. Discontinued.",
       "isCustom": false
     },
     {
@@ -1245,7 +1245,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 82.2° wide, 12.5° tele. Discontinued.",
+      "notes": "HD cine-style variant with 270\u00b0 focus rotation and T-stop ratings. No optical extender. HFOV 82.2\u00b0 wide, 12.5\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1261,7 +1261,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 91.2° wide, 10.5° tele. Discontinued.",
+      "notes": "HD cine-style variant with 270\u00b0 focus rotation and T-stop ratings. No optical extender. HFOV 91.2\u00b0 wide, 10.5\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1277,7 +1277,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 65.2° wide, 3.5° tele. Discontinued.",
+      "notes": "HD cine-style variant with 270\u00b0 focus rotation and T-stop ratings. No optical extender. HFOV 65.2\u00b0 wide, 3.5\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1293,7 +1293,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. KRSD suffix = no servo extender. HFOV 77.3° wide, 7.0° tele. Discontinued.",
+      "notes": "HDgc ENG. KRSD suffix = no servo extender. HFOV 77.3\u00b0 wide, 7.0\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1309,7 +1309,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. HFOV 63.9° wide, 4.4° tele. Discontinued.",
+      "notes": "HDgc ENG. HFOV 63.9\u00b0 wide, 4.4\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1325,7 +1325,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. IRSD variant has 2x extender; KRSD variant has none. HFOV 60.7° wide, 3.4° tele. Discontinued.",
+      "notes": "HDgc ENG. IRSD variant has 2x extender; KRSD variant has none. HFOV 60.7\u00b0 wide, 3.4\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1341,7 +1341,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG telephoto. HFOV 64.6° wide, 3.4° tele. Discontinued.",
+      "notes": "HDgc ENG telephoto. HFOV 64.6\u00b0 wide, 3.4\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1357,7 +1357,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 25 studio box. HFOV 70.4° wide, 3.2° tele [CALC]. Discontinued.",
+      "notes": "DIGISUPER 25 studio box. HFOV 70.4\u00b0 wide, 3.2\u00b0 tele [CALC]. Discontinued.",
       "isCustom": false
     },
     {
@@ -1373,7 +1373,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 86AF. Adds autofocus to XJ86x9.3B. Identical optics. HFOV 54.6° wide, 0.69° tele. Discontinued.",
+      "notes": "DIGISUPER 86AF. Adds autofocus to XJ86x9.3B. Identical optics. HFOV 54.6\u00b0 wide, 0.69\u00b0 tele. Discontinued.",
       "isCustom": false
     },
     {
@@ -1389,7 +1389,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 95 TELE. Ultra-long-throw telephoto box. HFOV 42.3° wide, 0.47° tele [CALC]. Discontinued.",
+      "notes": "DIGISUPER 95 TELE. Ultra-long-throw telephoto box. HFOV 42.3\u00b0 wide, 0.47\u00b0 tele [CALC]. Discontinued.",
       "isCustom": false
     },
     {
@@ -1405,7 +1405,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K ultra-wide ENG portable. Announced NAB 2026, shipping April 2026. HFOV ~90° wide, ~5.2° tele [CALC].",
+      "notes": "4K ultra-wide ENG portable. Announced NAB 2026, shipping April 2026. HFOV ~90\u00b0 wide, ~5.2\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1421,7 +1421,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UA107x8.4BESM with added autofocus. Identical optics. HFOV 59.4° wide, 0.6° tele.",
+      "notes": "UA107x8.4BESM with added autofocus. Identical optics. HFOV 59.4\u00b0 wide, 0.6\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1437,7 +1437,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K compact remote lens. No optical extender. Under 1.7 kg. HFOV 61.9° wide, 4.3° tele.",
+      "notes": "4K compact remote lens. No optical extender. Under 1.7 kg. HFOV 61.9\u00b0 wide, 4.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1453,7 +1453,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K compact remote lens. No optical extender. 16-bit absolute encoders for virtual production. Shipping Oct 2025. HFOV 63.2° wide, 2.3° tele.",
+      "notes": "4K compact remote lens. No optical extender. 16-bit absolute encoders for virtual production. Shipping Oct 2025. HFOV 63.2\u00b0 wide, 2.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1469,7 +1469,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD wide-angle ENG portable. HFOV 82.2° wide, 5.5° tele.",
+      "notes": "HD wide-angle ENG portable. HFOV 82.2\u00b0 wide, 5.5\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1485,7 +1485,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. HFOV ~66.0° wide, ~3.9° tele [CALC].",
+      "notes": "HD ENG portable. HFOV ~66.0\u00b0 wide, ~3.9\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1501,7 +1501,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. HFOV ~66.6° wide, ~3.4° tele [CALC].",
+      "notes": "HD ENG portable. HFOV ~66.6\u00b0 wide, ~3.4\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1517,7 +1517,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. Discontinued. HFOV ~63.2° wide, ~3.2° tele [CALC].",
+      "notes": "HD ENG portable. Discontinued. HFOV ~63.2\u00b0 wide, ~3.2\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1533,7 +1533,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD telephoto EFP portable. HFOV 45.3° wide, 1.9° tele.",
+      "notes": "HD telephoto EFP portable. HFOV 45.3\u00b0 wide, 1.9\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1549,7 +1549,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD super-telephoto EFP portable. HFOV 32.4° wide, 1.3° tele.",
+      "notes": "HD super-telephoto EFP portable. HFOV 32.4\u00b0 wide, 1.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1565,7 +1565,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD Select ENG portable. HFOV 64.5° wide, 3.3° tele.",
+      "notes": "HD Select ENG portable. HFOV 64.5\u00b0 wide, 3.3\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1581,7 +1581,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable with 2x optical extender. Variant of XA20sx8.5BRM. HFOV 58.9° wide, 3.2° tele.",
+      "notes": "HD eXceed ENG portable with 2x optical extender. Variant of XA20sx8.5BRM. HFOV 58.9\u00b0 wide, 3.2\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1597,7 +1597,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable. No optical extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC].",
+      "notes": "HD eXceed ENG portable. No optical extender. Discontinued. HFOV ~64.5\u00b0 wide, ~4.2\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1613,7 +1613,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable with 2x extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC].",
+      "notes": "HD eXceed ENG portable with 2x extender. Discontinued. HFOV ~64.5\u00b0 wide, ~4.2\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1629,7 +1629,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. HFOV 53.6° wide, 1.0° tele.",
+      "notes": "HD eXceed field box. HFOV 53.6\u00b0 wide, 1.0\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1645,7 +1645,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV 54.6° wide, 0.9° tele.",
+      "notes": "HD eXceed field box. Discontinued. HFOV 54.6\u00b0 wide, 0.9\u00b0 tele.",
       "isCustom": false
     },
     {
@@ -1661,7 +1661,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.81° tele [CALC].",
+      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6\u00b0 wide, ~0.81\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1677,7 +1677,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.68° tele [CALC].",
+      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6\u00b0 wide, ~0.68\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1693,7 +1693,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. Approximate max focal length. HFOV ~57.1° wide, ~0.71° tele [CALC].",
+      "notes": "HD eXceed field box. Discontinued. Approximate max focal length. HFOV ~57.1\u00b0 wide, ~0.71\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1709,7 +1709,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. End of life. HFOV ~59.4° wide, ~0.66° tele [CALC].",
+      "notes": "HD eXceed field box. End of life. HFOV ~59.4\u00b0 wide, ~0.66\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1725,7 +1725,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~56.7° wide, ~0.61° tele [CALC].",
+      "notes": "HD eXceed field box. Discontinued. HFOV ~56.7\u00b0 wide, ~0.61\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1741,12 +1741,12 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed studio box. Discontinued. 2x extender assumed. HFOV ~68.8° wide, ~3.6° tele [CALC].",
+      "notes": "HD eXceed studio box. Discontinued. 2x extender assumed. HFOV ~68.8\u00b0 wide, ~3.6\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
       "id": "angenieux-t12x5-3b",
-      "manufacturer": "Angénieux",
+      "manufacturer": "Ang\u00e9nieux",
       "model": "T12x5.3B1ESM AIF HR",
       "series": "T",
       "generation": "HD",
@@ -1757,12 +1757,12 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR (SD/early HD) rated. All HFOV values calculated. Discontinued. HFOV ~84.3° wide, ~8.6° tele [CALC].",
+      "notes": "Ang\u00e9nieux B4-mount ENG zoom. HR (SD/early HD) rated. All HFOV values calculated. Discontinued. HFOV ~84.3\u00b0 wide, ~8.6\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
       "id": "angenieux-t15x8-3b",
-      "manufacturer": "Angénieux",
+      "manufacturer": "Ang\u00e9nieux",
       "model": "T15x8.3B1ESM AIF HR",
       "series": "T",
       "generation": "HD",
@@ -1773,12 +1773,12 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR rated. Discontinued. HFOV ~60.0° wide, ~4.4° tele [CALC].",
+      "notes": "Ang\u00e9nieux B4-mount ENG zoom. HR rated. Discontinued. HFOV ~60.0\u00b0 wide, ~4.4\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
       "id": "angenieux-t19x7-3b",
-      "manufacturer": "Angénieux",
+      "manufacturer": "Ang\u00e9nieux",
       "model": "T19x7.3BESMD HD",
       "series": "T",
       "generation": "HD",
@@ -1789,12 +1789,12 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux sole dedicated HD B4-mount lens. Digital servo control. ~1.8 kg. Discontinued. HFOV ~66.6° wide, ~4.0° tele [CALC].",
+      "notes": "Ang\u00e9nieux sole dedicated HD B4-mount lens. Digital servo control. ~1.8 kg. Discontinued. HFOV ~66.6\u00b0 wide, ~4.0\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
       "id": "angenieux-t26x7-8b",
-      "manufacturer": "Angénieux",
+      "manufacturer": "Ang\u00e9nieux",
       "model": "T26x7.8BESMD AIF HR",
       "series": "T",
       "generation": "HD",
@@ -1805,7 +1805,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR/HD rated. Discontinued. HFOV ~63.2° wide, ~2.7° tele [CALC].",
+      "notes": "Ang\u00e9nieux B4-mount ENG zoom. HR/HD rated. Discontinued. HFOV ~63.2\u00b0 wide, ~2.7\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1821,7 +1821,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~77.3° wide, ~22.6° tele [CALC].",
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~77.3\u00b0 wide, ~22.6\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1837,7 +1837,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. 6.5x effective zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~31.5° wide, ~4.9° tele [CALC].",
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. 6.5x effective zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~31.5\u00b0 wide, ~4.9\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1853,7 +1853,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2\u00b0 wide, ~11.1\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1869,7 +1869,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Discontinued. HFOV ~58.9° wide, ~4.3° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Discontinued. HFOV ~58.9\u00b0 wide, ~4.3\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1885,7 +1885,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1\u00b0 wide, ~4.7\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -1901,7 +1901,7 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Approximate model designation. Discontinued. HFOV ~61.9° wide, ~3.6° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Approximate model designation. Discontinued. HFOV ~61.9\u00b0 wide, ~3.6\u00b0 tele [CALC].",
       "isCustom": false
     },
     {
@@ -2008,7 +2008,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 18.0,
       "focalLengthMax": 80.0,
-      "zoomRatio": 4,
+      "zoomRatio": 4.4,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2024,7 +2024,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 70.0,
       "focalLengthMax": 200.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.8,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2056,7 +2056,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 30.0,
       "focalLengthMax": 105.0,
-      "zoomRatio": 4,
+      "zoomRatio": 3.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2072,7 +2072,7 @@
       "generation": "8K",
       "focalLengthMin": 20.0,
       "focalLengthMax": 50.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2104,7 +2104,7 @@
       "generation": "8K",
       "focalLengthMin": 14.0,
       "focalLengthMax": 35.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2152,7 +2152,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 19.0,
       "focalLengthMax": 90.0,
-      "zoomRatio": 5,
+      "zoomRatio": 4.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2168,7 +2168,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 85.0,
       "focalLengthMax": 300.0,
-      "zoomRatio": 4,
+      "zoomRatio": 3.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2216,7 +2216,7 @@
       "generation": "Cinema",
       "focalLengthMin": 19.0,
       "focalLengthMax": 45.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.4,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2232,7 +2232,7 @@
       "generation": "Cinema",
       "focalLengthMin": 28.0,
       "focalLengthMax": 100.0,
-      "zoomRatio": 4,
+      "zoomRatio": 3.6,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2248,7 +2248,7 @@
       "generation": "Cinema",
       "focalLengthMin": 80.0,
       "focalLengthMax": 250.0,
-      "zoomRatio": 3,
+      "zoomRatio": 3.1,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2264,7 +2264,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 14.0,
       "focalLengthMax": 100.0,
-      "zoomRatio": 7,
+      "zoomRatio": 7.1,
       "extenderFactor": 1.5,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2280,7 +2280,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 24.0,
       "focalLengthMax": 300.0,
-      "zoomRatio": 13,
+      "zoomRatio": 12.5,
       "extenderFactor": 1.5,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2318,7 +2318,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "PL mount. IRO (Interchangeable Rear Optics) — physical rear-group swap, not a built-in extender. S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com."
+      "notes": "PL mount. IRO (Interchangeable Rear Optics) \u2014 physical rear-group swap, not a built-in extender. S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com."
     },
     {
       "id": "angenieux-optimo-ultra-compact-21-56",
@@ -2328,7 +2328,7 @@
       "generation": "Cinema",
       "focalLengthMin": 21.0,
       "focalLengthMax": 56.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2344,7 +2344,7 @@
       "generation": "Cinema",
       "focalLengthMin": 37.0,
       "focalLengthMax": 102.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2366,7 +2366,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "PL mount. IRO system — S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
+      "notes": "PL mount. IRO system \u2014 S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
     },
     {
       "id": "angenieux-type-ez-2",
@@ -2376,13 +2376,13 @@
       "generation": "Cinema",
       "focalLengthMin": 15.0,
       "focalLengthMax": 40.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Wide-angle PL mount. IRO system — S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
+      "notes": "Wide-angle PL mount. IRO system \u2014 S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
     },
     {
       "id": "angenieux-type-ez-3",
@@ -2392,13 +2392,13 @@
       "generation": "Cinema",
       "focalLengthMin": 45.0,
       "focalLengthMax": 165.0,
-      "zoomRatio": 4,
+      "zoomRatio": 3.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Telephoto PL mount. IRO system — S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
+      "notes": "Telephoto PL mount. IRO system \u2014 S35 rear optic focal lengths used. Also covers Full Frame with FF rear optic. Source: angenieux.com/lenses/type-ez-series."
     },
     {
       "id": "angenieux-optimo-style-16-40",
@@ -2408,7 +2408,7 @@
       "generation": "Cinema",
       "focalLengthMin": 16.0,
       "focalLengthMax": 40.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2424,7 +2424,7 @@
       "generation": "Cinema",
       "focalLengthMin": 30.0,
       "focalLengthMax": 76.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2440,7 +2440,7 @@
       "generation": "Cinema",
       "focalLengthMin": 48.0,
       "focalLengthMax": 130.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2472,7 +2472,7 @@
       "generation": "HD",
       "focalLengthMin": 15.0,
       "focalLengthMax": 40.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2488,7 +2488,7 @@
       "generation": "HD",
       "focalLengthMin": 28.0,
       "focalLengthMax": 76.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2504,7 +2504,7 @@
       "generation": "HD",
       "focalLengthMin": 45.0,
       "focalLengthMax": 120.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2520,7 +2520,7 @@
       "generation": "HD",
       "focalLengthMin": 17.0,
       "focalLengthMax": 80.0,
-      "zoomRatio": 5,
+      "zoomRatio": 4.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2536,7 +2536,7 @@
       "generation": "HD",
       "focalLengthMin": 19.5,
       "focalLengthMax": 94.0,
-      "zoomRatio": 5,
+      "zoomRatio": 4.8,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2584,7 +2584,7 @@
       "generation": "Cinema",
       "focalLengthMin": 19.0,
       "focalLengthMax": 40.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.1,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2600,7 +2600,7 @@
       "generation": "Cinema",
       "focalLengthMin": 30.0,
       "focalLengthMax": 95.0,
-      "zoomRatio": 3,
+      "zoomRatio": 3.2,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2616,7 +2616,7 @@
       "generation": "Cinema",
       "focalLengthMin": 85.0,
       "focalLengthMax": 215.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2632,7 +2632,7 @@
       "generation": "HD",
       "focalLengthMin": 15.0,
       "focalLengthMax": 40.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2648,7 +2648,7 @@
       "generation": "HD",
       "focalLengthMin": 18.0,
       "focalLengthMax": 100.0,
-      "zoomRatio": 6,
+      "zoomRatio": 5.6,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2696,7 +2696,7 @@
       "generation": "Cinema",
       "focalLengthMin": 55.0,
       "focalLengthMax": 125.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.3,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2728,7 +2728,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 28.0,
       "focalLengthMax": 80.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.9,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2744,7 +2744,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 70.0,
       "focalLengthMax": 200.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.9,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2760,7 +2760,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 21.0,
       "focalLengthMax": 100.0,
-      "zoomRatio": 5,
+      "zoomRatio": 4.8,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2776,7 +2776,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 18.0,
       "focalLengthMax": 35.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.9,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2808,7 +2808,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 24.0,
       "focalLengthMax": 35.0,
-      "zoomRatio": 1,
+      "zoomRatio": 1.5,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2824,7 +2824,7 @@
       "generation": "8K",
       "focalLengthMin": 16.0,
       "focalLengthMax": 28.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.8,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2840,7 +2840,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 11.0,
       "focalLengthMax": 20.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.8,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2872,7 +2872,7 @@
       "generation": "8K",
       "focalLengthMin": 50.0,
       "focalLengthMax": 135.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.7,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2904,7 +2904,7 @@
       "generation": "Cinema",
       "focalLengthMin": 24.0,
       "focalLengthMax": 75.0,
-      "zoomRatio": 3,
+      "zoomRatio": 3.1,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2936,7 +2936,7 @@
       "generation": "Cinema",
       "focalLengthMin": 65.0,
       "focalLengthMax": 300.0,
-      "zoomRatio": 5,
+      "zoomRatio": 4.6,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -2952,7 +2952,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 9.5,
       "focalLengthMax": 18.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.9,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2968,7 +2968,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 12.0,
       "focalLengthMax": 25.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.1,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -2984,7 +2984,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 14.0,
       "focalLengthMax": 30.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.1,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -3000,7 +3000,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 20.0,
       "focalLengthMax": 55.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.8,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -3016,7 +3016,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 50.0,
       "focalLengthMax": 125.0,
-      "zoomRatio": 3,
+      "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
@@ -3032,7 +3032,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 18.0,
       "focalLengthMax": 35.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.9,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -3048,7 +3048,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 35.0,
       "focalLengthMax": 80.0,
-      "zoomRatio": 2,
+      "zoomRatio": 2.3,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -3064,7 +3064,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 70.0,
       "focalLengthMax": 135.0,
-      "zoomRatio": 2,
+      "zoomRatio": 1.9,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
       "isPTZ": false,
@@ -3096,7 +3096,7 @@
       "generation": "4K UHD",
       "focalLengthMin": 65.0,
       "focalLengthMax": 280.0,
-      "zoomRatio": 4,
+      "zoomRatio": 4.3,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
       "isPTZ": false,
