@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "ptzCameras": [
 
     {
@@ -356,7 +356,7 @@
       "opticalZoom": 1,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic. Manual pan/tilt, no optical zoom. Wide-angle POV camera. Current."
+      "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic (LDC off). Motorized PTZ (+-110° pan, +-25° tilt). No optical zoom; digital zoom up to 4x with digital pan/tilt overlay. ePTZ camera. Current."
     },
     {
       "id": "panasonic-aw-he145",
@@ -884,11 +884,11 @@
       "minFocalLengthMM": 6.5,
       "maxFocalLengthMM": 202.0,
       "hFOVWide": 65.0,
-      "hFOVTele": 2.0,
+      "hFOVTele": 2.04,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOVTele 2.0° calculated (†). Discontinued."
+      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele based on Tim's calculations. Marshall publishes inconsistent specs across CV730 variants (65° vs 63° wide on same optical block). Pending clarification from manufacturer -- values may be updated. Discontinued."
     },
     {
       "id": "marshall-cv730-bhn",
@@ -899,12 +899,12 @@
       "sensorHeightMM": 5.32,
       "minFocalLengthMM": 6.5,
       "maxFocalLengthMM": 202.0,
-      "hFOVWide": 65.0,
-      "hFOVTele": 2.0,
+      "hFOVWide": 63.0,
+      "hFOVTele": 2.04,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as CV730-BK/WH. Current NDI variant. hFOVTele 2.0° calculated (†). Current."
+      "notes": "1/1.8-inch CMOS, 30x. hFOV wide per Marshall CV730-BHN datasheet (63°). Tele based on Tim's calculation. Marshall publishes inconsistent specs across CV730 variants. Pending clarification from manufacturer -- values may be updated. Current."
     },
     {
       "id": "marshall-cv625-tb",
