@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "ptzCameras": [
 
     {
@@ -1076,13 +1076,13 @@
       "sensorWidthMM": 5.14,
       "sensorHeightMM": 3.84,
       "minFocalLengthMM": 4.3,
-      "maxFocalLengthMM": 94.6,
+      "maxFocalLengthMM": 129.0,
       "hFOVWide": 63.7,
       "hFOVTele": 2.3,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. Focal range 4.3–94.6mm, hFOVWide 63.7°, hFOVTele 2.3° all published by Datavideo (ManualsLib official manual)."
+      "notes": "1/2.8-inch CMOS, 30x. Focal range 4.3–129mm, hFOVWide 63.7°, hFOVTele 2.3° published by Datavideo (ManualsLib official manual). maxFocalLengthMM corrected from 94.6 to 129.0 in v1.4.4 — prior value was a data entry error."
     },
     {
       "id": "datavideo-ptc-150t",

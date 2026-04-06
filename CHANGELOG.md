@@ -18,6 +18,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+- **1.4.4** (2026-04-06) — datavideo-ptc-150: maxFocalLengthMM corrected 94.6→129.0 (data entry error; correct 30x range is 4.3–129mm per Datavideo)
 - **1.4.3** (2026-04-06) — HFOV audit: marshall-cv730-bk hFOVTele 2.0→2.04 (calc), marshall-cv730-bhn hFOVWide 65.0→63.0 + hFOVTele 2.0→2.04, panasonic-aw-ue4 notes corrected (motorized PTZ + digital zoom)
 - **1.4.2** (2026-04-05) — panasonic-aw-ue4: hFOVTele null → 111.0 (ePTZ fixed lens, wide=tele)
 - **1.4.1** (2026-04-05) — Missing fields filled for 16 cameras: panasonic-aw-he38, marshall-cv630-ndi/bi, marshall-cv625-tb, marshall-cv605-u3, datavideo-ptc-150/150t/280/285/285t/300/305/305t, ptzoptics-pt12x-4k-g3/link-4k, lumens-vc-tr1 (sessions 72–78 research)
