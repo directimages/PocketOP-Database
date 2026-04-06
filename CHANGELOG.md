@@ -4,6 +4,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.6.1** (2026-04-06) — Broadcast lens verification audit: 19 corrections on 13 lenses (focalLengthMax from manufacturer specs replacing calculated values), CJ18ex7.6B extender 1.0→2.0, UJ90x9B 9.3-930→9-810mm, HJ40ex14B 14.3-572→14-560mm; removed 2 phantom entries (UA77x9.5, UA80x8); corrected XJ40x10B→HJ40x10B; Zeiss DigiZoom 17-112 zoom 7→6.5; added isCustom field to 119 entries; flagged XA17sx6.3 as unverified
 - **1.6.0** (2026-04-05) — Corrected fujinon-zk14-35mm-t2-9 zoomRatio 3 → 2.5 (ZK2.5x14); added test-prime-bracket temp entry (wide=tele bracket test)
 - **1.5.0** (2026-04-05) — Added 75 cine zoom lenses: Canon CN/CN-E (14), Fujinon ZK/XK/Premista/Duvo (11), Angenieux Optimo Ultra/EZ/Style/Legacy (17), Cooke Varotal/CXX (6), Leitz Zoom (2), Zeiss CZ.2/LWZ (4), Sigma (3), Tokina Vista/ATX (4), ARRI Signature/UWZ (5), DZOFilm Pictor/Catta/Tango (9)
 - **1.4.0** (2026-04-03) — Version bump above high-water mark (1.3.0) for cache safety; full quality checklist passed

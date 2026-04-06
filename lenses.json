@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8,13 +8,14 @@
       "series": "CJ",
       "generation": "4K UHD",
       "focalLengthMin": 4.3,
-      "focalLengthMax": 60.2,
+      "focalLengthMax": 60.0,
       "zoomRatio": 14,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": true,
-      "notes": "Free tier. Ultra-wide 4K ENG/EFP. Original seed data lens."
+      "notes": "Free tier. Ultra-wide 4K ENG/EFP. Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "canon-hj40ex14b",
@@ -22,14 +23,15 @@
       "model": "HJ40ex14B",
       "series": "HJ",
       "generation": "HD",
-      "focalLengthMin": 14.3,
-      "focalLengthMax": 572.0,
+      "focalLengthMin": 14.0,
+      "focalLengthMax": 560.0,
       "zoomRatio": 40,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": true,
-      "notes": "Free tier. Long-throw EFP telephoto. Original seed data lens."
+      "notes": "Free tier. Long-throw EFP telephoto. Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -44,7 +46,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": true,
-      "notes": "Free tier. Ubiquitous HD ENG. No optical extender. Original seed data lens."
+      "notes": "Free tier. Ubiquitous HD ENG. No optical extender. Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua80x9",
@@ -59,7 +62,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": true,
-      "notes": "Free tier. Iconic 4K UHD sports box. 2x extender reaches 1440mm. Original seed data lens."
+      "notes": "Free tier. Iconic 4K UHD sports box. 2x extender reaches 1440mm. Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "canon-cj12ex4-3b",
@@ -68,12 +72,13 @@
       "series": "CJ",
       "generation": "4K UHD",
       "focalLengthMin": 4.3,
-      "focalLengthMax": 51.6,
+      "focalLengthMax": 52.0,
       "zoomRatio": 12,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
-      "isFree": false
+      "isFree": false,
+      "isCustom": false
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -84,11 +89,12 @@
       "focalLengthMin": 7.6,
       "focalLengthMax": 137.0,
       "zoomRatio": 18,
-      "extenderFactor": 1.0,
+      "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHDgc series compact. No optical extender."
+      "notes": "UHDgc series compact. No optical extender.",
+      "isCustom": false
     },
     {
       "id": "canon-cj20ex5b",
@@ -103,7 +109,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHDxs series."
+      "notes": "UHDxs series.",
+      "isCustom": false
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -118,7 +125,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHDgc telephoto."
+      "notes": "UHDgc telephoto.",
+      "isCustom": false
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -133,7 +141,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Latest UHDxs. eXs-V drive unit."
+      "notes": "Latest UHDxs. eXs-V drive unit.",
+      "isCustom": false
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -148,7 +157,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Portable super-tele. Replaces HJ40 in 4K workflows."
+      "notes": "Portable super-tele. Replaces HJ40 in 4K workflows.",
+      "isCustom": false
     },
     {
       "id": "canon-hj14ex4.3b",
@@ -163,7 +173,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Ultra-wide HD ENG. HFOV spec: wide 96.3°, tele 9.1° (unverified)."
+      "notes": "Ultra-wide HD ENG. HFOV spec: wide 96.3°, tele 9.1° (unverified).",
+      "isCustom": false
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -172,13 +183,14 @@
       "series": "HJ",
       "generation": "HD",
       "focalLengthMin": 4.7,
-      "focalLengthMax": 51.7,
+      "focalLengthMax": 52.0,
       "zoomRatio": 11,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide ENG."
+      "notes": "Wide ENG.",
+      "isCustom": false
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -187,13 +199,14 @@
       "series": "HJ",
       "generation": "HD",
       "focalLengthMin": 7.6,
-      "focalLengthMax": 129.2,
+      "focalLengthMax": 130.0,
       "zoomRatio": 17,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Standard ENG workhorse."
+      "notes": "Standard ENG workhorse.",
+      "isCustom": false
     },
     {
       "id": "canon-hj22ex7.6b",
@@ -208,7 +221,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG 22x. IASE A drive unit variant. HFOV spec: wide 64.6°, tele 3.27° (unverified)."
+      "notes": "HD ENG 22x. IASE A drive unit variant. HFOV spec: wide 64.6°, tele 3.27° (unverified).",
+      "isCustom": false
     },
     {
       "id": "canon-hj40ex10b",
@@ -223,7 +237,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wider variant of HJ40ex14B."
+      "notes": "Wider variant of HJ40ex14B.",
+      "isCustom": false
     },
     {
       "id": "canon-uj25ex7-6b",
@@ -238,7 +253,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Studio wide box."
+      "notes": "Studio wide box.",
+      "isCustom": false
     },
     {
       "id": "canon-uj27x6-5b",
@@ -253,7 +269,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 27 studio."
+      "notes": "DIGISUPER 27 studio.",
+      "isCustom": false
     },
     {
       "id": "canon-uj86x9-3b",
@@ -268,7 +285,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 86 field."
+      "notes": "DIGISUPER 86 field.",
+      "isCustom": false
     },
     {
       "id": "canon-uj90x9b",
@@ -276,14 +294,15 @@
       "model": "UJ90x9B",
       "series": "UJ",
       "generation": "4K UHD",
-      "focalLengthMin": 9.3,
-      "focalLengthMax": 930.0,
+      "focalLengthMin": 9.0,
+      "focalLengthMax": 810.0,
       "zoomRatio": 90,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 90."
+      "notes": "DIGISUPER 90.",
+      "isCustom": false
     },
     {
       "id": "canon-uj122x8-2b",
@@ -298,7 +317,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 122. World's longest focal range at launch."
+      "notes": "DIGISUPER 122. World's longest focal range at launch.",
+      "isCustom": false
     },
     {
       "id": "canon-xj86x9-3b",
@@ -313,13 +333,14 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 86 HD. Common in sports."
+      "notes": "DIGISUPER 86 HD. Common in sports.",
+      "isCustom": false
     },
     {
-      "id": "canon-xj40x10b",
+      "id": "canon-hj40x10b",
       "manufacturer": "Canon",
-      "model": "XJ40x10B",
-      "series": "XJ",
+      "model": "HJ40x10B",
+      "series": "HJ",
       "generation": "HD",
       "focalLengthMin": 10.0,
       "focalLengthMax": 400.0,
@@ -328,7 +349,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 40 HD field."
+      "notes": "DIGISUPER 40 HD field.",
+      "isCustom": false
     },
     {
       "id": "canon-kj20x8-5b",
@@ -343,7 +365,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc standard telephoto."
+      "notes": "HDgc standard telephoto.",
+      "isCustom": false
     },
     {
       "id": "canon-kj17ex7-7b",
@@ -358,7 +381,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc standard ENG."
+      "notes": "HDgc standard ENG.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -373,7 +397,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Ultra-wide 4K. 2x extender reaches 118mm."
+      "notes": "Ultra-wide 4K. 2x extender reaches 118mm.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -388,7 +413,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Compact ultra-wide 4K."
+      "notes": "Compact ultra-wide 4K.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -403,7 +429,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide hybrid — two-in-one wide/tele."
+      "notes": "Wide hybrid — two-in-one wide/tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -418,7 +445,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Standard ENG 4K."
+      "notes": "Standard ENG 4K.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua22x8",
@@ -433,7 +461,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "ENG telephoto compact."
+      "notes": "ENG telephoto compact.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -448,7 +477,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Studio and field telephoto."
+      "notes": "Studio and field telephoto.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -457,13 +487,14 @@
       "series": "UA",
       "generation": "4K UHD",
       "focalLengthMin": 7.8,
-      "focalLengthMax": 187.2,
+      "focalLengthMax": 187.0,
       "zoomRatio": 24,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Original seed data lens."
+      "notes": "Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -478,7 +509,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide-angle super-tele portable. 2x extender reaches 874mm."
+      "notes": "Wide-angle super-tele portable. 2x extender reaches 874mm.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -493,7 +525,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Long-throw portable. 2x extender reaches 1242mm. Original seed data lens."
+      "notes": "Long-throw portable. 2x extender reaches 1242mm. Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -502,13 +535,14 @@
       "series": "UA",
       "generation": "4K UHD",
       "focalLengthMin": 6.5,
-      "focalLengthMax": 176.0,
+      "focalLengthMax": 180.0,
       "zoomRatio": 27,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Studio box standard."
+      "notes": "Studio box standard.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -517,43 +551,14 @@
       "series": "UA",
       "generation": "4K UHD",
       "focalLengthMin": 8.7,
-      "focalLengthMax": 601.0,
+      "focalLengthMax": 610.0,
       "zoomRatio": 70,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Field box mid-range."
-    },
-    {
-      "id": "fujinon-ua77x9-5",
-      "manufacturer": "Fujinon",
-      "model": "UA77x9.5",
-      "series": "UA",
-      "generation": "4K UHD",
-      "focalLengthMin": 9.5,
-      "focalLengthMax": 732.0,
-      "zoomRatio": 77,
-      "extenderFactor": 2.0,
-      "sensorFormat": "twoThirdsInch",
-      "isPTZ": false,
-      "isFree": false,
-      "notes": "Sports field box."
-    },
-    {
-      "id": "fujinon-ua80x8",
-      "manufacturer": "Fujinon",
-      "model": "UA80x8",
-      "series": "UA",
-      "generation": "4K UHD",
-      "focalLengthMin": 8.0,
-      "focalLengthMax": 640.0,
-      "zoomRatio": 80,
-      "extenderFactor": 2.0,
-      "sensorFormat": "twoThirdsInch",
-      "isPTZ": false,
-      "isFree": false,
-      "notes": "Premium box."
+      "notes": "Field box mid-range.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -568,7 +573,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Super-tele box."
+      "notes": "Super-tele box.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua125x8",
@@ -583,7 +589,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "World's highest zoom ratio at launch."
+      "notes": "World's highest zoom ratio at launch.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha13x4-5",
@@ -598,7 +605,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide-angle HD."
+      "notes": "Wide-angle HD.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -613,7 +621,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Ultra-wide HD."
+      "notes": "Ultra-wide HD.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -628,7 +637,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD wide telephoto."
+      "notes": "HD wide telephoto.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -643,7 +653,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Standard ENG HD."
+      "notes": "Standard ENG HD.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -652,13 +663,14 @@
       "series": "HA",
       "generation": "HD",
       "focalLengthMin": 7.6,
-      "focalLengthMax": 174.8,
+      "focalLengthMax": 175.0,
       "zoomRatio": 23,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Original seed data lens."
+      "notes": "Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -667,13 +679,14 @@
       "series": "HA",
       "generation": "HD",
       "focalLengthMin": 9.7,
-      "focalLengthMax": 407.0,
+      "focalLengthMax": 410.0,
       "zoomRatio": 42,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Super-tele portable HD."
+      "notes": "Super-tele portable HD.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -682,13 +695,14 @@
       "series": "HA",
       "generation": "HD",
       "focalLengthMin": 13.5,
-      "focalLengthMax": 567.0,
+      "focalLengthMax": 570.0,
       "zoomRatio": 42,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Original seed data lens."
+      "notes": "Original seed data lens.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa17sx6-3",
@@ -703,7 +717,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD Select portable. Original seed data lens."
+      "notes": "Unverified -- model not found in Fujinon product listings. Specs are internally consistent with model name but cannot be confirmed against primary source.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -718,7 +733,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD field box long-throw."
+      "notes": "HD field box long-throw.",
+      "isCustom": false
     },
     {
       "id": "fujinon-za12x4-5",
@@ -733,7 +749,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Wide-angle entry HD. No optical extender."
+      "notes": "Wide-angle entry HD. No optical extender.",
+      "isCustom": false
     },
     {
       "id": "fujinon-za17x7-6",
@@ -748,7 +765,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Standard ENG entry."
+      "notes": "Standard ENG entry.",
+      "isCustom": false
     },
     {
       "id": "canon-hj21ex7-5b",
@@ -763,7 +781,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD EFP. HFOV 16:9: 65.2° wide, 3.5° tele."
+      "notes": "HD EFP. HFOV 16:9: 65.2° wide, 3.5° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -778,7 +797,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD wide ENG. HFOV 16:9: 75.5° wide, 5.2° tele."
+      "notes": "HD wide ENG. HFOV 16:9: 75.5° wide, 5.2° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-hj18ex28b",
@@ -793,7 +813,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ultra-telephoto EFP. Narrow wide-end. HFOV 16:9: 19.6° wide, 1.1° tele."
+      "notes": "HD ultra-telephoto EFP. Narrow wide-end. HFOV 16:9: 19.6° wide, 1.1° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -808,7 +829,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG with built-in Vari-Angle Prism image stabilizer. No optical extender. HFOV 16:9: 58.9° wide, 4.3° tele."
+      "notes": "HD ENG with built-in Vari-Angle Prism image stabilizer. No optical extender. HFOV 16:9: 58.9° wide, 4.3° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-kj22ex7-6b",
@@ -823,7 +845,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc multi-purpose ENG."
+      "notes": "HDgc multi-purpose ENG.",
+      "isCustom": false
     },
     {
       "id": "canon-kj10ex4-5b",
@@ -838,7 +861,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc wide-angle ENG."
+      "notes": "HDgc wide-angle ENG.",
+      "isCustom": false
     },
     {
       "id": "canon-xj22x7-3b",
@@ -853,7 +877,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 22 compact studio."
+      "notes": "DIGISUPER 22 compact studio.",
+      "isCustom": false
     },
     {
       "id": "canon-xj23x7b",
@@ -868,7 +893,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 23 studio."
+      "notes": "DIGISUPER 23 studio.",
+      "isCustom": false
     },
     {
       "id": "canon-xj27x6-5b",
@@ -883,7 +909,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 27 wide-angle studio."
+      "notes": "DIGISUPER 27 wide-angle studio.",
+      "isCustom": false
     },
     {
       "id": "canon-xj60x9b",
@@ -898,7 +925,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 60 field."
+      "notes": "DIGISUPER 60 field.",
+      "isCustom": false
     },
     {
       "id": "canon-xj72x9-3b",
@@ -913,7 +941,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 72 field."
+      "notes": "DIGISUPER 72 field.",
+      "isCustom": false
     },
     {
       "id": "canon-xj75x9-3b",
@@ -928,7 +957,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 75 field. Built-in image stabilizer."
+      "notes": "DIGISUPER 75 field. Built-in image stabilizer.",
+      "isCustom": false
     },
     {
       "id": "canon-xj76x9b",
@@ -943,7 +973,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 76 field."
+      "notes": "DIGISUPER 76 field.",
+      "isCustom": false
     },
     {
       "id": "canon-xj80x8-8b",
@@ -958,7 +989,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 80 field. Built-in image stabilizer."
+      "notes": "DIGISUPER 80 field. Built-in image stabilizer.",
+      "isCustom": false
     },
     {
       "id": "canon-xj86x13-5b",
@@ -973,7 +1005,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 86 TELE xs. Ultra-telephoto field."
+      "notes": "DIGISUPER 86 TELE xs. Ultra-telephoto field.",
+      "isCustom": false
     },
     {
       "id": "canon-xj95x8-6b",
@@ -988,7 +1021,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 95 field. Built-in image stabilizer."
+      "notes": "DIGISUPER 95 field. Built-in image stabilizer.",
+      "isCustom": false
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1003,7 +1037,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 100 flagship field. Built-in image stabilizer."
+      "notes": "DIGISUPER 100 flagship field. Built-in image stabilizer.",
+      "isCustom": false
     },
     {
       "id": "canon-j35ex15b",
@@ -1018,7 +1053,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "SDTV ultra-telephoto EFP. Still in use in legacy workflows."
+      "notes": "SDTV ultra-telephoto EFP. Still in use in legacy workflows.",
+      "isCustom": false
     },
     {
       "id": "canon-j35ex11b",
@@ -1033,7 +1069,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "SDTV telephoto EFP. Still in use in legacy workflows."
+      "notes": "SDTV telephoto EFP. Still in use in legacy workflows.",
+      "isCustom": false
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -1048,7 +1085,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs ENG portable. Ultra-wide 15x. HFOV 96.3° wide, 8.4° tele [CALC]."
+      "notes": "4K UHDxs ENG portable. Ultra-wide 15x. HFOV 96.3° wide, 8.4° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -1063,7 +1101,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDgc ENG portable with built-in image stabilizer. No optical extender. HFOV 58.9° wide, 4.3° tele."
+      "notes": "4K UHDgc ENG portable with built-in image stabilizer. No optical extender. HFOV 58.9° wide, 4.3° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-cj18ex28b",
@@ -1078,7 +1117,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDgc super-telephoto ENG portable. Narrow wide-end. HFOV 19.6° wide, 1.1° tele."
+      "notes": "4K UHDgc super-telephoto ENG portable. Narrow wide-end. HFOV 19.6° wide, 1.1° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -1093,7 +1133,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs ENG portable. Transitioning out. HFOV 63.2° wide, 3.5° tele."
+      "notes": "4K UHDxs ENG portable. Transitioning out. HFOV 63.2° wide, 3.5° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -1108,7 +1149,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K UHDxs long-throw EFP portable with IS. HFOV 38.9° wide, 0.9° tele."
+      "notes": "4K UHDxs long-throw EFP portable with IS. HFOV 38.9° wide, 0.9° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-uj66x9b",
@@ -1123,7 +1165,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHD-DIGISUPER 66. 4K sports box lens. HFOV 56.1° wide, 0.92° tele."
+      "notes": "UHD-DIGISUPER 66. 4K sports box lens. HFOV 56.1° wide, 0.92° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1138,7 +1181,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHD-DIGISUPER 111. 4K Premium box lens. Air Sphere Coating. HFOV 60.1° wide, 0.59° tele."
+      "notes": "UHD-DIGISUPER 111. 4K Premium box lens. Air Sphere Coating. HFOV 60.1° wide, 0.59° tele.",
+      "isCustom": false
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1153,7 +1197,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UHD-DIGISUPER 122AF. Adds TTL phase-difference autofocus to UJ122x8.2B. Identical optics. 4K Premium."
+      "notes": "UHD-DIGISUPER 122AF. Adds TTL phase-difference autofocus to UJ122x8.2B. Identical optics. 4K Premium.",
+      "isCustom": false
     },
     {
       "id": "canon-hj18ex7-6b",
@@ -1168,7 +1213,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG standard 18x. HFOV 64.6° wide, 4.0° tele [CALC]. Discontinued."
+      "notes": "HD ENG standard 18x. HFOV 64.6° wide, 4.0° tele [CALC]. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -1183,7 +1229,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD EFP telephoto. HFOV 65.2° wide, 3.1° tele [CALC]. Discontinued."
+      "notes": "HD EFP telephoto. HFOV 65.2° wide, 3.1° tele [CALC]. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-hj8x5-5b-kll-sc",
@@ -1198,7 +1245,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 82.2° wide, 12.5° tele. Discontinued."
+      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 82.2° wide, 12.5° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-hj11x4-7b-kll-sc",
@@ -1207,13 +1255,14 @@
       "series": "HJ",
       "generation": "HD",
       "focalLengthMin": 4.7,
-      "focalLengthMax": 51.7,
+      "focalLengthMax": 52.0,
       "zoomRatio": 11,
       "extenderFactor": 1.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 91.2° wide, 10.5° tele. Discontinued."
+      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 91.2° wide, 10.5° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-hj21x7-5b-kll-sc",
@@ -1228,7 +1277,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 65.2° wide, 3.5° tele. Discontinued."
+      "notes": "HD cine-style variant with 270° focus rotation and T-stop ratings. No optical extender. HFOV 65.2° wide, 3.5° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-kj13x6b",
@@ -1243,7 +1293,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. KRSD suffix = no servo extender. HFOV 77.3° wide, 7.0° tele. Discontinued."
+      "notes": "HDgc ENG. KRSD suffix = no servo extender. HFOV 77.3° wide, 7.0° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1252,13 +1303,14 @@
       "series": "KJ",
       "generation": "HD",
       "focalLengthMin": 7.7,
-      "focalLengthMax": 123.2,
+      "focalLengthMax": 124.0,
       "zoomRatio": 16,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. HFOV 63.9° wide, 4.4° tele. Discontinued."
+      "notes": "HDgc ENG. HFOV 63.9° wide, 4.4° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1273,7 +1325,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG. IRSD variant has 2x extender; KRSD variant has none. HFOV 60.7° wide, 3.4° tele. Discontinued."
+      "notes": "HDgc ENG. IRSD variant has 2x extender; KRSD variant has none. HFOV 60.7° wide, 3.4° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1288,7 +1341,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HDgc ENG telephoto. HFOV 64.6° wide, 3.4° tele. Discontinued."
+      "notes": "HDgc ENG telephoto. HFOV 64.6° wide, 3.4° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-xj25x6-8b",
@@ -1303,7 +1357,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 25 studio box. HFOV 70.4° wide, 3.2° tele [CALC]. Discontinued."
+      "notes": "DIGISUPER 25 studio box. HFOV 70.4° wide, 3.2° tele [CALC]. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1318,7 +1373,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 86AF. Adds autofocus to XJ86x9.3B. Identical optics. HFOV 54.6° wide, 0.69° tele. Discontinued."
+      "notes": "DIGISUPER 86AF. Adds autofocus to XJ86x9.3B. Identical optics. HFOV 54.6° wide, 0.69° tele. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "canon-xj95x12-4b",
@@ -1333,7 +1389,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "DIGISUPER 95 TELE. Ultra-long-throw telephoto box. HFOV 42.3° wide, 0.47° tele [CALC]. Discontinued."
+      "notes": "DIGISUPER 95 TELE. Ultra-long-throw telephoto box. HFOV 42.3° wide, 0.47° tele [CALC]. Discontinued.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua22x4-8",
@@ -1348,7 +1405,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K ultra-wide ENG portable. Announced NAB 2026, shipping April 2026. HFOV ~90° wide, ~5.2° tele [CALC]."
+      "notes": "4K ultra-wide ENG portable. Announced NAB 2026, shipping April 2026. HFOV ~90° wide, ~5.2° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -1363,7 +1421,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "UA107x8.4BESM with added autofocus. Identical optics. HFOV 59.4° wide, 0.6° tele."
+      "notes": "UA107x8.4BESM with added autofocus. Identical optics. HFOV 59.4° wide, 0.6° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-la16x8",
@@ -1378,7 +1437,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K compact remote lens. No optical extender. Under 1.7 kg. HFOV 61.9° wide, 4.3° tele."
+      "notes": "4K compact remote lens. No optical extender. Under 1.7 kg. HFOV 61.9° wide, 4.3° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-la30x7-8",
@@ -1393,7 +1453,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "4K compact remote lens. No optical extender. 16-bit absolute encoders for virtual production. Shipping Oct 2025. HFOV 63.2° wide, 2.3° tele."
+      "notes": "4K compact remote lens. No optical extender. 16-bit absolute encoders for virtual production. Shipping Oct 2025. HFOV 63.2° wide, 2.3° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -1408,7 +1469,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD wide-angle ENG portable. HFOV 82.2° wide, 5.5° tele."
+      "notes": "HD wide-angle ENG portable. HFOV 82.2° wide, 5.5° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -1423,7 +1485,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. HFOV ~66.0° wide, ~3.9° tele [CALC]."
+      "notes": "HD ENG portable. HFOV ~66.0° wide, ~3.9° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -1438,7 +1501,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. HFOV ~66.6° wide, ~3.4° tele [CALC]."
+      "notes": "HD ENG portable. HFOV ~66.6° wide, ~3.4° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -1453,7 +1517,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD ENG portable. Discontinued. HFOV ~63.2° wide, ~3.2° tele [CALC]."
+      "notes": "HD ENG portable. Discontinued. HFOV ~63.2° wide, ~3.2° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -1468,7 +1533,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD telephoto EFP portable. HFOV 45.3° wide, 1.9° tele."
+      "notes": "HD telephoto EFP portable. HFOV 45.3° wide, 1.9° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -1483,7 +1549,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD super-telephoto EFP portable. HFOV 32.4° wide, 1.3° tele."
+      "notes": "HD super-telephoto EFP portable. HFOV 32.4° wide, 1.3° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-za22x7-6",
@@ -1498,7 +1565,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD Select ENG portable. HFOV 64.5° wide, 3.3° tele."
+      "notes": "HD Select ENG portable. HFOV 64.5° wide, 3.3° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1513,7 +1581,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable with 2x optical extender. Variant of XA20sx8.5BRM. HFOV 58.9° wide, 3.2° tele."
+      "notes": "HD eXceed ENG portable with 2x optical extender. Variant of XA20sx8.5BRM. HFOV 58.9° wide, 3.2° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -1528,7 +1597,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable. No optical extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC]."
+      "notes": "HD eXceed ENG portable. No optical extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -1543,7 +1613,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed ENG portable with 2x extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC]."
+      "notes": "HD eXceed ENG portable with 2x extender. Discontinued. HFOV ~64.5° wide, ~4.2° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -1558,7 +1629,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. HFOV 53.6° wide, 1.0° tele."
+      "notes": "HD eXceed field box. HFOV 53.6° wide, 1.0° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -1573,7 +1645,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV 54.6° wide, 0.9° tele."
+      "notes": "HD eXceed field box. Discontinued. HFOV 54.6° wide, 0.9° tele.",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -1588,7 +1661,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.81° tele [CALC]."
+      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.81° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -1603,7 +1677,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.68° tele [CALC]."
+      "notes": "HD eXceed field box. Discontinued. HFOV ~54.6° wide, ~0.68° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -1612,13 +1687,14 @@
       "series": "XA",
       "generation": "HD",
       "focalLengthMin": 8.8,
-      "focalLengthMax": 775.0,
+      "focalLengthMax": 777.0,
       "zoomRatio": 88,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. Approximate max focal length. HFOV ~57.1° wide, ~0.71° tele [CALC]."
+      "notes": "HD eXceed field box. Discontinued. Approximate max focal length. HFOV ~57.1° wide, ~0.71° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -1633,7 +1709,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. End of life. HFOV ~59.4° wide, ~0.66° tele [CALC]."
+      "notes": "HD eXceed field box. End of life. HFOV ~59.4° wide, ~0.66° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -1648,7 +1725,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed field box. Discontinued. HFOV ~56.7° wide, ~0.61° tele [CALC]."
+      "notes": "HD eXceed field box. Discontinued. HFOV ~56.7° wide, ~0.61° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "fujinon-xa22x7",
@@ -1663,7 +1741,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "HD eXceed studio box. Discontinued. 2x extender assumed. HFOV ~68.8° wide, ~3.6° tele [CALC]."
+      "notes": "HD eXceed studio box. Discontinued. 2x extender assumed. HFOV ~68.8° wide, ~3.6° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "angenieux-t12x5-3b",
@@ -1678,7 +1757,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR (SD/early HD) rated. All HFOV values calculated. Discontinued. HFOV ~84.3° wide, ~8.6° tele [CALC]."
+      "notes": "Angénieux B4-mount ENG zoom. HR (SD/early HD) rated. All HFOV values calculated. Discontinued. HFOV ~84.3° wide, ~8.6° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -1693,7 +1773,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR rated. Discontinued. HFOV ~60.0° wide, ~4.4° tele [CALC]."
+      "notes": "Angénieux B4-mount ENG zoom. HR rated. Discontinued. HFOV ~60.0° wide, ~4.4° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -1708,7 +1789,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux sole dedicated HD B4-mount lens. Digital servo control. ~1.8 kg. Discontinued. HFOV ~66.6° wide, ~4.0° tele [CALC]."
+      "notes": "Angénieux sole dedicated HD B4-mount lens. Digital servo control. ~1.8 kg. Discontinued. HFOV ~66.6° wide, ~4.0° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -1723,7 +1805,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Angénieux B4-mount ENG zoom. HR/HD rated. Discontinued. HFOV ~63.2° wide, ~2.7° tele [CALC]."
+      "notes": "Angénieux B4-mount ENG zoom. HR/HD rated. Discontinued. HFOV ~63.2° wide, ~2.7° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -1738,7 +1821,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~77.3° wide, ~22.6° tele [CALC]."
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~77.3° wide, ~22.6° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "zeiss-digizoom-17-112",
@@ -1748,12 +1832,13 @@
       "generation": "HD",
       "focalLengthMin": 17.0,
       "focalLengthMax": 112.0,
-      "zoomRatio": 7,
+      "zoomRatio": 6.5,
       "extenderFactor": 1.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. 6.5x effective zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~31.5° wide, ~4.9° tele [CALC]."
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. 6.5x effective zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~31.5° wide, ~4.9° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "nikon-s9x5-5b",
@@ -1768,7 +1853,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC]."
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "nikon-s15x8-5b",
@@ -1783,7 +1869,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Discontinued. HFOV ~58.9° wide, ~4.3° tele [CALC]."
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Discontinued. HFOV ~58.9° wide, ~4.3° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "nikon-s13x9",
@@ -1798,7 +1885,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC]."
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "nikon-s19x8",
@@ -1813,7 +1901,8 @@
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Approximate model designation. Discontinued. HFOV ~61.9° wide, ~3.6° tele [CALC]."
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. ED glass. SD era. Approximate model designation. Discontinued. HFOV ~61.9° wide, ~3.6° tele [CALC].",
+      "isCustom": false
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
