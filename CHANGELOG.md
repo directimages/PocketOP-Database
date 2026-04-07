@@ -4,6 +4,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.7.0** (2026-04-07) — Added 36 cine zoom lenses: ARRI/Fujinon Alura (4), ARRI/Zeiss Master Zoom (1), Fujinon HK Premier (4), Angénieux Optimo DP (2), Zeiss LWZ.2 + Supreme Zoom Radiance (4), Hawk/Vantage spherical zooms (3), Laowa OOOM + Ranger FF/S35 + Lite variants (13), Viltrox LUNA 30-300 (1), Sirui Jupiter (1), RED Pro (2), DZOFilm X-Tract probe zoom (1); removed test-prime-bracket temp entry; 3 Large Format lenses held pending schema support (largeFormat sensorFormat)
 - **1.6.2** (2026-04-06) — Cine lens zoomRatio audit: 49 corrections across all cine brands (Canon CN-E, Fujinon ZK/Premista/Duvo, Angenieux Optimo/Style/Legacy/EZ, Cooke, Leitz, Zeiss, Sigma, Tokina, ARRI, DZOFilm) — replaced rounded integers with manufacturer-published or calc-accurate values (1 decimal)
 - **1.6.1** (2026-04-06) — Broadcast lens verification audit: 19 corrections on 13 lenses (focalLengthMax from manufacturer specs replacing calculated values), CJ18ex7.6B extender 1.0→2.0, UJ90x9B 9.3-930→9-810mm, HJ40ex14B 14.3-572→14-560mm; removed 2 phantom entries (UA77x9.5, UA80x8); corrected XJ40x10B→HJ40x10B; Zeiss DigiZoom 17-112 zoom 7→6.5; added isCustom field to 119 entries; flagged XA17sx6.3 as unverified
 - **1.6.0** (2026-04-05) — Corrected fujinon-zk14-35mm-t2-9 zoomRatio 3 → 2.5 (ZK2.5x14); added test-prime-bracket temp entry (wide=tele bracket test)
