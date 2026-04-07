@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -3679,6 +3679,54 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Macro probe zoom lens (43.2mm image circle), PL mount. Current. ~$3,499. NOT a conventional cine zoom — 2.1× magnification, 6mm working distance, IP57 waterproof/dustproof. Available in 0°/90°/360° configurations. Source: bhphotovideo.com."
+    },
+    {
+      "id": "hawk-telephoto-zoom-150-450mm-t2-8",
+      "manufacturer": "Hawk",
+      "model": "Telephoto Zoom 150-450mm T2.8",
+      "series": "Hawk Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 150.0,
+      "focalLengthMax": 450.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "largeFormat",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Large Format telephoto cine zoom (54.12mm image circle), PL mount. Rental-only, not commercially sold. Vantage Film (Munich). Source: vantagefilm.com."
+    },
+    {
+      "id": "viltrox-luna-42-420mm-t5-6",
+      "manufacturer": "Viltrox",
+      "model": "LUNA 42-420mm T5.6",
+      "series": "LUNA",
+      "generation": "Cinema",
+      "focalLengthMin": 42.0,
+      "focalLengthMax": 420.0,
+      "zoomRatio": 10.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "largeFormat",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Large Format 10× parfocal cine zoom (60mm image circle — covers ARRI Alexa 65 / Open Gate), LPL mount. Current. ~$100,000. 8-blade iris, 0.8 MOD gears. Source: cined.com."
+    },
+    {
+      "id": "masterbuilt-cfz-27-60mm-t2-9",
+      "manufacturer": "MasterBuilt",
+      "model": "CFZ 27-60mm T2.9",
+      "series": "CFZ",
+      "generation": "Cinema",
+      "focalLengthMin": 27.0,
+      "focalLengthMax": 60.0,
+      "zoomRatio": 2.2,
+      "extenderFactor": 1.0,
+      "sensorFormat": "largeFormat",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Large Format cine zoom (54.12mm image circle — covers ARRI Alexa Open Gate and IMAX 65), PL mount. Current. ~$42,900. Designed to match MasterBuilt Classic Prime character. 114mm front diameter, best-in-class close focus at 11 inches. Boutique manufacturer, not affiliated with Panavision. Source: MasterBuilt authorized dealers."
     }
   ]
 }
