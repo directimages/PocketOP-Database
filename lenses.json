@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.3",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -825,7 +825,7 @@
       "focalLengthMin": 8.5,
       "focalLengthMax": 128.0,
       "zoomRatio": 15,
-      "extenderFactor": 1.0,
+      "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "isPTZ": false,
       "isFree": false,
