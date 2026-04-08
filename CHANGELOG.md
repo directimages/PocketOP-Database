@@ -4,6 +4,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.7.4** (2026-04-08) — Added 3 test prime entries: test-prime-s35 (superThirtyFive), test-prime-ff (fullFrame), test-prime-lf (largeFormat) — one prime bracket per cine sensor format
 - **1.7.3** (2026-04-07) — canon-hj15ex8-5b extenderFactor corrected 1.0→2.0 (confirmed via Canon pocket manual and Canon USA product page)
 - **1.7.1** (2026-04-07) — Added 3 Large Format cine zooms: Hawk Telephoto Zoom 150-450mm T2.8, Viltrox LUNA 42-420mm T5.6, MasterBuilt CFZ 27-60mm T2.9 (sensorFormat: largeFormat, schema now live in app)
 - **1.7.0** (2026-04-07) — Added 36 cine zoom lenses: ARRI/Fujinon Alura (4), ARRI/Zeiss Master Zoom (1), Fujinon HK Premier (4), Angénieux Optimo DP (2), Zeiss LWZ.2 + Supreme Zoom Radiance (4), Hawk/Vantage spherical zooms (3), Laowa OOOM + Ranger FF/S35 + Lite variants (13), Viltrox LUNA 30-300 (1), Sirui Jupiter (1), RED Pro (2), DZOFilm X-Tract probe zoom (1); removed test-prime-bracket temp entry; 3 Large Format lenses held pending schema support (largeFormat sensorFormat)

@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -3727,6 +3727,54 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Large Format cine zoom (54.12mm image circle — covers ARRI Alexa Open Gate and IMAX 65), PL mount. Current. ~$42,900. Designed to match MasterBuilt Classic Prime character. 114mm front diameter, best-in-class close focus at 11 inches. Boutique manufacturer, not affiliated with Panavision. Source: MasterBuilt authorized dealers."
+    },
+    {
+      "id": "test-prime-s35",
+      "manufacturer": "Test",
+      "model": "Test Prime 32mm S35",
+      "series": "Test",
+      "generation": "Cinema",
+      "focalLengthMin": 32.0,
+      "focalLengthMax": 32.0,
+      "zoomRatio": 1.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Test entry — superThirtyFive prime bracket."
+    },
+    {
+      "id": "test-prime-ff",
+      "manufacturer": "Test",
+      "model": "Test Prime 50mm FF",
+      "series": "Test",
+      "generation": "Cinema",
+      "focalLengthMin": 50.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 1.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Test entry — fullFrame prime bracket."
+    },
+    {
+      "id": "test-prime-lf",
+      "manufacturer": "Test",
+      "model": "Test Prime 65mm LF",
+      "series": "Test",
+      "generation": "Cinema",
+      "focalLengthMin": 65.0,
+      "focalLengthMax": 65.0,
+      "zoomRatio": 1.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "largeFormat",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Test entry — largeFormat prime bracket."
     }
   ]
 }
