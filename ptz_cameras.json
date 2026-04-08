@@ -1,5 +1,5 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "ptzCameras": [
 
     {
@@ -883,12 +883,12 @@
       "sensorHeightMM": 5.32,
       "minFocalLengthMM": 6.5,
       "maxFocalLengthMM": 202.0,
-      "hFOVWide": 65.0,
-      "hFOVTele": 2.04,
+      "hFOVWide": 63.0,
+      "hFOVTele": 3.7,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele based on Tim's calculations. Marshall publishes inconsistent specs across CV730 variants (65° vs 63° wide on same optical block). Pending clarification from manufacturer -- values may be updated. Discontinued."
+      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Discontinued."
     },
     {
       "id": "marshall-cv730-bhn",
@@ -900,11 +900,11 @@
       "minFocalLengthMM": 6.5,
       "maxFocalLengthMM": 202.0,
       "hFOVWide": 63.0,
-      "hFOVTele": 2.04,
+      "hFOVTele": 3.7,
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. hFOV wide per Marshall CV730-BHN datasheet (63°). Tele based on Tim's calculation. Marshall publishes inconsistent specs across CV730 variants. Pending clarification from manufacturer -- values may be updated. Current."
+      "notes": "1/1.8-inch CMOS, 30x. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Current."
     },
     {
       "id": "marshall-cv625-tb",
