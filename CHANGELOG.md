@@ -4,6 +4,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.7.6** (2026-04-09) — Added mount field to all 236 entries: B4 (119 broadcast), PL (103 cine), LPL (5 ARRI Signature + Viltrox LUNA 42-420), EF (7 Canon Compact-Servo + DZOFilm Catta Ace/Tango), RF (2 Canon Flex Zoom). DZOFilm Catta Ace and Tango notes updated with DZO EF-style bayonet disclaimer
 - **1.7.5** (2026-04-09) — zoomRatio audit: 143 entries recalculated to focalLengthMax/focalLengthMin (2 decimal places), all integers converted to floats; 17 cine Angénieux entries spelling corrected (Angenieux→Angénieux); 2 IDs with periods renamed (canon-hj14ex4.3b→canon-hj14ex4-3b, canon-hj22ex7.6b→canon-hj22ex7-6b)
 - **1.7.4** (2026-04-08) — Added 3 test prime entries: test-prime-s35 (superThirtyFive), test-prime-ff (fullFrame), test-prime-lf (largeFormat) — one prime bracket per cine sensor format
 - **1.7.3** (2026-04-07) — canon-hj15ex8-5b extenderFactor corrected 1.0→2.0 (confirmed via Canon pocket manual and Canon USA product page)
