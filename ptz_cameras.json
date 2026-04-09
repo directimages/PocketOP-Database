@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "ptzCameras": [
 
     {
@@ -98,6 +98,22 @@
       "isFree": false,
       "isCustom": false,
       "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T*. Clear Image Zoom extends to 24x (HD). HFOV from Sony specs / B&H. Focal lengths derived from HFOV and sensor width. 3G-SDI + HDMI output. Discontinued. (Duplicate entry removed v1.2.1 — second entry claimed shared optics with BRC-X1000 at 9.3–111.6mm with hFOVTele 6.8°; kept this entry's Sony/B&H-sourced values.)"
+    },
+    {
+      "id": "sony-brc-am7",
+      "brand": "sony",
+      "model": "BRC-AM7(W)",
+      "sensorLabel": "1 inch",
+      "sensorWidthMM": 13.2,
+      "sensorHeightMM": 8.8,
+      "minFocalLengthMM": 8.8,
+      "maxFocalLengthMM": 176.0,
+      "hFOVWide": 75.0,
+      "hFOVTele": 4.3,
+      "opticalZoom": 20,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1-inch Exmor RS CMOS, 20x. Focal range 8.8–176.0mm back-calculated from 24–480mm (35mm equiv) using sensorWidthMM/36.0 scale factor. hFOVWide 75.0° published by Sony (official help guide, 'Approx. 75°'). hFOVTele 4.3° calculated from maxFocalLengthMM (calc). (W) variant is white — identical specs. Lens module (8.8–176mm, 1-inch sensor) appears shared with Panasonic AW-HE145/UE160/UE150 series — same hFOVWide within 0.1°. Current."
     },
     {
       "id": "sony-brc-x400",
@@ -356,6 +372,7 @@
       "opticalZoom": 1,
       "isFree": false,
       "isCustom": false,
+      "outOfScope": true,
       "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic (LDC off). Motorized PTZ (+-110° pan, +-25° tilt). No optical zoom; digital zoom up to 4x with digital pan/tilt overlay. ePTZ camera. Current."
     },
     {
