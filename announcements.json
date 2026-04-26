@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "announcement": {
-    "id": "2026-04-test",
-    "message": "Test announcement. If you see this, the announcement system is working.",
+    "id": "2026-04-beta-update",
+    "message": "Thank you for beta testing PocketOP. This update brings a redesigned camera view showing your full iPhone sensor, two-handed support, mount-based lens filtering, lens comparison with dual brackets, scout list previews, and a major database expansion with 114 cine lenses. Your feedback shapes the app and is much appreciated.",
     "type": "info",
-    "expires": "2026-12-31"
+    "expires": "2026-09-01"
   }
 }
