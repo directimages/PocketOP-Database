@@ -1,0 +1,23 @@
+name: Notify Website on Database Change
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'lenses.json'
+      - 'ptz_cameras.json'
+      - 'devices.json'
+
+jobs:
+  notify-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch rebuild to PocketOP-Website
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.PAT_DISPATCH_WEBSITE }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/directimages/PocketOP-Website/dispatches \
+            -d '{"event_type":"database-updated","client_payload":{"triggered_by":"PocketOP-Database"}}'
