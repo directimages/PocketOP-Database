@@ -24,6 +24,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+- **1.5.0** (2026-04-29) — Added 33 entries across 4 new brands: Fomako (12: K820/K820N/K30NS/K20/K30/KN20/KN30/KN20A/KN30A/FMK12UH/FMK20UH/K600N), Bolin (11: B2-210/B2-220/B6-420/R9-418F/R9-418N/R9-230H/RANGE/D2-210H/D2-220H/N2-210X/N2-220X), AVer (3: PTZ310UV2/PTZ330UV2/PTZ330UNV2), Minrray (7: UV430E0/E2/E3/UV510E0/E2/UV950E0/E2)
 - **1.4.6** (2026-04-09) — Added Sony BRC-AM7(W): 1-inch Exmor RS CMOS, 20x, 8.8–176mm, hFOVWide 75.0° (Sony help guide). Lens module appears shared with Panasonic AW-HE145/UE160/UE150. Panasonic AW-UE4 marked outOfScope (111° HFOV exceeds iPhone ultrawide ~108°)
 - **1.4.5** (2026-04-08) — Marshall CV730 FOV correction: marshall-cv730-bk hFOVWide 65.0→63.0 + hFOVTele 2.04→3.7, marshall-cv730-bhn hFOVTele 2.04→3.7 — manufacturer-confirmed by Greg Foster, Applications Engineer, Marshall Electronics
 - **1.4.4** (2026-04-06) — datavideo-ptc-150: maxFocalLengthMM corrected 94.6→129.0 (data entry error; correct 30x range is 4.3–129mm per Datavideo)
