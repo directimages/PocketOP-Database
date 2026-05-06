@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8125,57 +8125,6 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Samyang XEEN cine prime, full frame. PL/EF/E/MFT/F mount. Source: xeenglobal.com."
-    },
-    {
-      "id": "test-prime-s35",
-      "manufacturer": "Test",
-      "model": "Test Prime 32mm S35",
-      "series": "Test",
-      "generation": "Cinema",
-      "focalLengthMin": 32.0,
-      "focalLengthMax": 32.0,
-      "zoomRatio": 1.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "superThirtyFive",
-      "mount": "PL",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "Test entry — superThirtyFive prime bracket."
-    },
-    {
-      "id": "test-prime-ff",
-      "manufacturer": "Test",
-      "model": "Test Prime 50mm FF",
-      "series": "Test",
-      "generation": "Cinema",
-      "focalLengthMin": 50.0,
-      "focalLengthMax": 50.0,
-      "zoomRatio": 1.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "fullFrame",
-      "mount": "PL",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "Test entry — fullFrame prime bracket."
-    },
-    {
-      "id": "test-prime-lf",
-      "manufacturer": "Test",
-      "model": "Test Prime 65mm LF",
-      "series": "Test",
-      "generation": "Cinema",
-      "focalLengthMin": 65.0,
-      "focalLengthMax": 65.0,
-      "zoomRatio": 1.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "largeFormat",
-      "mount": "PL",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "Test entry — largeFormat prime bracket."
     },
     {
       "id": "dzofilm-vespid-prime-2-18mm-t1-9",
