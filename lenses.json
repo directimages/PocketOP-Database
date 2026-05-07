@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8584,6 +8584,40 @@
       "isFree": false,
       "isCustom": false,
       "notes": "DZOFilm Arles Prime, full frame/VV (46.5mm image circle). T2.4. PL primary, EF available as kit. Source: dzofilm.com, ducloslenses.com, newsshooter.com."
+    },
+    {
+      "id": "canon-cn30x40-ias-j-r1-p1",
+      "manufacturer": "Canon",
+      "model": "CN30x40 IAS J/R1-P1",
+      "series": "CN",
+      "generation": "4K UHD",
+      "focalLengthMin": 40.0,
+      "focalLengthMax": 1200.0,
+      "zoomRatio": 30.0,
+      "extenderFactor": 1.5,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL/RF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Cine-servo super-telephoto, PL and RF mount. World's longest focal length cine-servo lens. Built-in 1.5x IAS extender (not applied to focalLengthMax); with extender: 60–1800mm. T5.0–T10.8. Announced NAB 2026, shipping September 2026. Source: usa.canon.com, canon-europe.com."
+    },
+    {
+      "id": "laowa-ultima-25-600mm-t4-s35",
+      "manufacturer": "Laowa",
+      "model": "Ultima 25-600mm T4 S35",
+      "series": "Ultima",
+      "generation": "Cinema",
+      "focalLengthMin": 25.0,
+      "focalLengthMax": 600.0,
+      "zoomRatio": 24.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Parfocal cinema broadcast super-telephoto zoom, PL mount. Super 35 native. Constant T4. No built-in extender. Announced NAB 2026. Source: newsshooter.com."
     }
   ]
 }
