@@ -23,6 +23,7 @@ SHARED_FIELDS = [
 ]
 
 BROADCAST_FIELDS = [
+    "formFactor",
     "hasMacro",
     "hasServoZoom",
     "hasServoFocus",

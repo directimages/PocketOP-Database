@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "updatedAt": "2026-05-08",
   "lenses": [
     {
@@ -17,7 +17,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj40ex14b",
@@ -34,7 +35,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -51,7 +53,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua80x9",
@@ -68,7 +71,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj12ex4-3b",
@@ -85,7 +89,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -102,7 +107,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj20ex5b",
@@ -119,7 +125,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -136,7 +143,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -153,7 +161,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -170,7 +179,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj14ex4-3b",
@@ -187,7 +197,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -204,7 +215,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -221,7 +233,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj22ex7-6b",
@@ -238,7 +251,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj40ex10b",
@@ -255,7 +269,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj25ex7-6b",
@@ -272,7 +287,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj27x6-5b",
@@ -289,7 +305,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj86x9-3b",
@@ -306,7 +323,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj90x9b",
@@ -323,7 +341,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj122x8-2b",
@@ -340,7 +359,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj86x9-3b",
@@ -357,7 +377,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj40x10b",
@@ -374,7 +395,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj20x8-5b",
@@ -391,7 +413,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj17ex7-7b",
@@ -408,7 +431,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -425,7 +449,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -442,7 +467,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -459,7 +485,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -476,7 +503,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua22x8",
@@ -493,7 +521,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -510,7 +539,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -527,7 +557,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -544,7 +575,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -561,7 +593,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -578,7 +611,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -595,7 +629,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -612,7 +647,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua125x8",
@@ -629,7 +665,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha13x4-5",
@@ -646,7 +683,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -663,7 +701,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -680,7 +719,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -697,7 +737,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -714,7 +755,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -731,7 +773,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -748,7 +791,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -765,7 +809,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-za12x4-5",
@@ -782,7 +827,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-za17x7-6",
@@ -799,7 +845,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj21ex7-5b",
@@ -816,7 +863,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -833,7 +881,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj18ex28b",
@@ -850,7 +899,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -867,7 +917,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj22ex7-6b",
@@ -884,7 +935,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj10ex4-5b",
@@ -901,7 +953,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj22x7-3b",
@@ -918,7 +971,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj23x7b",
@@ -935,7 +989,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj27x6-5b",
@@ -952,7 +1007,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj60x9b",
@@ -969,7 +1025,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj72x9-3b",
@@ -986,7 +1043,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1003,7 +1061,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj76x9b",
@@ -1020,7 +1079,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj80x8-8b",
@@ -1037,7 +1097,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj86x13-5b",
@@ -1054,7 +1115,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj95x8-6b",
@@ -1071,7 +1133,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1088,7 +1151,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-j35ex15b",
@@ -1105,7 +1169,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-j35ex11b",
@@ -1122,7 +1187,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -1139,7 +1205,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -1156,7 +1223,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj18ex28b",
@@ -1173,7 +1241,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -1190,7 +1259,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -1207,7 +1277,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj66x9b",
@@ -1224,7 +1295,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1241,7 +1313,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1258,7 +1331,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj18ex7-6b",
@@ -1275,7 +1349,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -1292,7 +1367,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj8x5-5b-kll-sc",
@@ -1309,7 +1385,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj11x4-7b-kll-sc",
@@ -1326,7 +1403,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-hj21x7-5b-kll-sc",
@@ -1343,7 +1421,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj13x6b",
@@ -1360,7 +1439,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1377,7 +1457,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1394,7 +1475,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1411,7 +1493,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj25x6-8b",
@@ -1428,7 +1511,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1445,7 +1529,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-xj95x12-4b",
@@ -1462,7 +1547,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua22x4-8",
@@ -1479,7 +1565,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -1496,7 +1583,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-la16x8",
@@ -1513,7 +1601,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-la30x7-8",
@@ -1530,7 +1619,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -1547,7 +1637,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -1564,7 +1655,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -1581,7 +1673,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -1598,7 +1691,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -1615,7 +1709,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -1632,7 +1727,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-za22x7-6",
@@ -1649,7 +1745,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1666,7 +1763,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -1683,7 +1781,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -1700,7 +1799,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -1717,7 +1817,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -1734,7 +1835,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -1751,7 +1853,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -1768,7 +1871,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -1785,7 +1889,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -1802,7 +1907,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -1819,7 +1925,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "fujinon-xa22x7",
@@ -1836,7 +1943,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "angenieux-t12x5-3b",
@@ -1853,7 +1961,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -1870,7 +1979,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -1887,7 +1997,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -1904,7 +2015,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -1921,7 +2033,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "zeiss-digizoom-17-112",
@@ -1938,7 +2051,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "nikon-s9x5-5b",
@@ -1955,7 +2069,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "nikon-s15x8-5b",
@@ -1972,7 +2087,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "nikon-s13x9",
@@ -1989,7 +2105,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "nikon-s19x8",
@@ -2006,7 +2123,8 @@
       "hasMacro": null,
       "hasServoZoom": null,
       "hasServoFocus": null,
-      "servoConnector": null
+      "servoConnector": null,
+      "formFactor": null
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
