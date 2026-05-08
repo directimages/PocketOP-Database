@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8635,6 +8635,74 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Parfocal cinema broadcast super-telephoto zoom, PL mount. Super 35 native. Constant T4. No built-in extender. Announced NAB 2026. Source: newsshooter.com."
+    },
+    {
+      "id": "sigma-af-cine-28-45mm-t2-ff-l",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-45mm T2 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 45.0,
+      "zoomRatio": 1.61,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "L",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, L-mount. Autofocus. Available December 2025. Source: sigma-global.com/en/cine-lenses/af-cine/28_45_2/."
+    },
+    {
+      "id": "sigma-af-cine-28-45mm-t2-ff-e",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-45mm T2 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 45.0,
+      "zoomRatio": 1.61,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available December 2025. Source: sigma-global.com/en/cine-lenses/af-cine/28_45_2/."
+    },
+    {
+      "id": "sigma-af-cine-28-105mm-t3-ff-l",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-105mm T3 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 105.0,
+      "zoomRatio": 3.75,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "L",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, L-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/."
+    },
+    {
+      "id": "sigma-af-cine-28-105mm-t3-ff-e",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-105mm T3 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 105.0,
+      "zoomRatio": 3.75,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/."
     }
   ]
 }
