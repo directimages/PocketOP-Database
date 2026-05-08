@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "updatedAt": "2026-05-08",
   "lenses": [
     {
@@ -301,42 +301,42 @@
     {
       "id": "fujinon-ha13x4-5",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1980,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.59
     },
     {
       "id": "fujinon-ha14x4-5",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 2140,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.3
     },
     {
       "id": "fujinon-ha16x6-3",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1980,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.6
     },
     {
       "id": "fujinon-ha18x7-6",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1650,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6
     },
     {
       "id": "fujinon-ha23x7-6",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1880,
+      "lengthMm": 223.6,
+      "frontDiameterMm": 100,
+      "closeFocusM": 1.07
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -701,10 +701,10 @@
     {
       "id": "fujinon-ua22x4-8",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
+      "weightG": 2170,
+      "lengthMm": 251.0,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 0.4
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -717,50 +717,50 @@
     {
       "id": "fujinon-la16x8",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1600,
+      "lengthMm": 163.8,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.8
     },
     {
       "id": "fujinon-la30x7-8",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1700,
+      "lengthMm": 190.0,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.8
     },
     {
       "id": "fujinon-ha18x5-5",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1970,
+      "lengthMm": 240.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.4
     },
     {
       "id": "fujinon-ha19x7-4",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 2150,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.55
     },
     {
       "id": "fujinon-ha22x7-3",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 3000,
+      "lengthMm": 287.3,
+      "frontDiameterMm": 110,
+      "closeFocusM": 0.85
     },
     {
       "id": "fujinon-ha22x7-8",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1780,
+      "lengthMm": 218.6,
+      "frontDiameterMm": 100,
+      "closeFocusM": 1.07
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -797,18 +797,18 @@
     {
       "id": "fujinon-xa17x7-6brm",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1530,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6
     },
     {
       "id": "fujinon-xa17x7-6berm",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 1580,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -821,58 +821,58 @@
     {
       "id": "fujinon-xa66x9-3",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
+      "weightG": 21500,
+      "lengthMm": 634.0,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.7
     },
     {
       "id": "fujinon-xa72x9-3",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
+      "weightG": 21000,
+      "lengthMm": 656.0,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.7
     },
     {
       "id": "fujinon-xa87x9-3",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
+      "weightG": 21500,
       "lengthMm": null,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.8
     },
     {
       "id": "fujinon-xa88x8-8",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
+      "weightG": 24500,
+      "lengthMm": 575.0,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.9
     },
     {
       "id": "fujinon-xa99x8-4",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
+      "weightG": 24000,
+      "lengthMm": 610.0,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.9
     },
     {
       "id": "fujinon-xa101x8-9",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
+      "weightG": 22900,
       "lengthMm": null,
       "frontDiameterMm": null,
-      "closeFocusM": null
+      "closeFocusM": 2.9
     },
     {
       "id": "fujinon-xa22x7",
       "manufacturerUrl": "https://www.fujifilm.com/us/en/business/broadcast-cinema/lenses",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null
+      "weightG": 6600,
+      "lengthMm": 340.0,
+      "frontDiameterMm": 127,
+      "closeFocusM": 0.8
     },
     {
       "id": "angenieux-t12x5-3b",
