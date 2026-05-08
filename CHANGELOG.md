@@ -2,6 +2,11 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## lens-details.json
+
+- **1.1.0** (2026-05-08) — Fujinon broadcast lens fill: manufacturerUrl set for all 48 Fujinon broadcast entries (UA/HA/XA/ZA/LA series). Physical specs (weightG, lengthMm, frontDiameterMm, closeFocusM) filled for 26 entries confirmed in FUJIFILM FUJINON Broadcast & Cine Catalog 2024. 22 entries receive manufacturerUrl only (older HA/XA/ZA/LA series not in 2024 catalog). All cine entries (ZK/XK/Premista/HZK/HK/MK) remain null — out of scope for this pass. Source: FUJIFILM_FUJINON_Broadcast_Cine_Catalog_2024.pdf.
+- **1.0.0** (2026-05-08) — Initial skeleton: 549 entries, all fields null.
+
 ## lenses.json
 
 - **1.16.0** (2026-05-08) — L-mount sprint: added 37 new L-mount entries across 5 manufacturers. Leitz HEKTOR (6: 18/25/35/50/73/100mm T2.1, fullFrame, L); Leitz HUGO (14: 18/21/24/28/35/40/50/66/75/90/135mm + 50mm T1.0 + 75mm T2.1 + 90mm T2.1, fullFrame, L); Laowa Ranger FF (3: 16-30/28-75/75-180mm T2.9, fullFrame, L); Laowa Ranger S35 (3: 11-18/17-50/50-130mm T2.9, superThirtyFive, L); Sirui Night Walker (5: 16/24/35/55/75mm T1.2, superThirtyFive, L); Irix Cine (6: 15mm T2.6/21/30/45/65mm T1.5/150mm T3.0 Tele, fullFrame, L). Sigma FF High Speed Prime notes corrected: removed LPL+L claims (sigma-global.com confirms PL/EF/E only). New manufacturer: Irix. Sources: leitz-cine.com, laowacine.com, store.sirui.com, irixlens.com.
