@@ -4,6 +4,9 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
 
+- **1.4.0** (2026-05-09) — Fujinon broadcast sidecar fill: formFactor, imageCircleMm, hasMacro, hasServoZoom, hasServoFocus, servoConnector, filterType, filterThreadMm filled for all 50 Fujinon broadcast entries (HA/UA/XA/ZA/LA series, incl. 3 new entries added: fujinon-ha27x6-5, fujinon-xa20sx8-5bmd, fujinon-xa20sx8-5bemd). imageCircleMm = 11.0 confirmed for all 50 (universal 2/3" standard). introductionYear and opticalElements remain null (not published in spec sheets). 15 box lens filterType values set to null — gaps documented in TIM/Private/sidecar-research-gaps.md. Sources: Fujifilm spec sheet PDFs (asset.fujifilm.com), Fujinon Pocket Guide 2024, 23premierseriesberd_berm.pdf, UA 4K Premier Series PDF, ManualsLib UA22x8 manual, CVP HA22x7.8 spec, Top-Teks ZA12x4.5 listing.
+- **1.3.0** (2026-05-08) — Added formFactor field to broadcast schema for all existing Fujinon broadcast entries (value null, pending fill session).
+- **1.2.0** (2026-05-08) — Physical specs extended: weightG, lengthMm, frontDiameterMm, closeFocusM filled for remaining Fujinon broadcast entries from supplemental sources.
 - **1.1.0** (2026-05-08) — Fujinon broadcast lens fill: manufacturerUrl set for all 48 Fujinon broadcast entries (UA/HA/XA/ZA/LA series). Physical specs (weightG, lengthMm, frontDiameterMm, closeFocusM) filled for 26 entries confirmed in FUJIFILM FUJINON Broadcast & Cine Catalog 2024. 22 entries receive manufacturerUrl only (older HA/XA/ZA/LA series not in 2024 catalog). All cine entries (ZK/XK/Premista/HZK/HK/MK) remain null — out of scope for this pass. Source: FUJIFILM_FUJINON_Broadcast_Cine_Catalog_2024.pdf.
 - **1.0.0** (2026-05-08) — Initial skeleton: 549 entries, all fields null.
 
