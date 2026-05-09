@@ -1,5 +1,5 @@
 {
-  "version": "1.17.4",
+  "version": "1.17.5",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -3632,11 +3632,11 @@
       "zoomRatio": 1.5,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
-      "mount": "PL",
+      "mount": "EF",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Full Frame wide cine zoom, PL/EF/E mount. Actual zoom ratio is 1.46x; zoomRatio=1 per convention (barely a zoom). Source: sigma-global.com/en/cine-lenses."
+      "notes": "Full Frame wide cine zoom, Canon EF mount. Not available in PL. Actual zoom ratio is 1.46x; zoomRatio=1 per convention (barely a zoom). Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/."
     },
     {
       "id": "tokina-vista-16-28mm-t3-0",
