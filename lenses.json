@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
+  "version": "1.17.1",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -5749,7 +5749,7 @@
     {
       "id": "arri-signature-prime-200mm-t1-8",
       "manufacturer": "ARRI",
-      "model": "Signature Prime 200mm T1.8",
+      "model": "Signature Prime 200mm T2.5",
       "series": "Signature Prime",
       "generation": "Cinema",
       "focalLengthMin": 200.0,
@@ -5761,12 +5761,12 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Signature Prime LPL mount, full frame. T-stop may vary from T1.8 at this focal length; verify via arri.com."
+      "notes": "Signature Prime LPL mount, full frame (~46mm image circle). Designed for ALEXA LF/Mini LF. T-stop T2.5 per arri.com (not T1.8 as ID implies). Source: arri.com."
     },
     {
       "id": "arri-signature-prime-280mm-t1-8",
       "manufacturer": "ARRI",
-      "model": "Signature Prime 280mm T1.8",
+      "model": "Signature Prime 280mm T2.8",
       "series": "Signature Prime",
       "generation": "Cinema",
       "focalLengthMin": 280.0,
@@ -5778,7 +5778,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Signature Prime LPL mount, full frame. T-stop may vary from T1.8 at this focal length; verify via arri.com."
+      "notes": "Signature Prime LPL mount, full frame (~46mm image circle). Designed for ALEXA LF/Mini LF. T-stop T2.8 per arri.com (not T1.8 as ID implies). Source: arri.com."
     },
     {
       "id": "arri-ultra-prime-14mm-t1-9",
