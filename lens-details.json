@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "updatedAt": "2026-05-09",
   "lenses": [
     {
@@ -1958,11 +1958,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -1976,11 +1976,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -1994,11 +1994,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": true,
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -2012,11 +2012,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -2027,14 +2027,14 @@
       "closeFocusM": null,
       "introductionYear": null,
       "imageCircleMm": null,
-      "opticalElements": null,
+      "opticalElements": 26,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "handheld"
     },
     {
       "id": "zeiss-digizoom-17-112",
@@ -2045,14 +2045,14 @@
       "closeFocusM": null,
       "introductionYear": null,
       "imageCircleMm": null,
-      "opticalElements": null,
+      "opticalElements": 28,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "handheld"
     },
     {
       "id": "nikon-s9x5-5b",
@@ -2066,11 +2066,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "nikon-s15x8-5b",
@@ -2084,11 +2084,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": true,
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "nikon-s13x9",
@@ -2102,11 +2102,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": true,
+      "hasServoZoom": true,
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "12pin_hirose",
+      "formFactor": "handheld"
     },
     {
       "id": "nikon-s19x8",
@@ -2120,11 +2120,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": "unconfirmed",
       "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "servoConnector": "unconfirmed",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
