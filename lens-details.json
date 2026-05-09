@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "updatedAt": "2026-05-09",
   "lenses": [
     {
@@ -12,13 +12,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-hj40ex14b",
@@ -30,13 +30,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": "unconfirmed",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -84,13 +84,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -102,13 +102,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj20ex5b",
@@ -120,13 +120,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -138,13 +138,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -158,11 +158,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -176,11 +176,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-hj14ex4-3b",
@@ -192,13 +192,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -210,13 +210,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -228,13 +228,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj22ex7-6b",
@@ -246,13 +246,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj40ex10b",
@@ -264,13 +264,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": "unconfirmed",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-uj25ex7-6b",
@@ -285,10 +285,10 @@
       "filterType": null,
       "filterThreadMm": null,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj27x6-5b",
@@ -302,11 +302,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj86x9-3b",
@@ -320,11 +320,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj90x9b",
@@ -338,11 +338,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj122x8-2b",
@@ -356,11 +356,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj86x9-3b",
@@ -374,11 +374,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-hj40x10b",
@@ -390,13 +390,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj20x8-5b",
@@ -408,13 +408,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj17ex7-7b",
@@ -426,13 +426,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -858,13 +858,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -876,13 +876,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj18ex28b",
@@ -894,13 +894,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -912,13 +912,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj22ex7-6b",
@@ -930,13 +930,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj10ex4-5b",
@@ -948,13 +948,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-xj22x7-3b",
@@ -968,11 +968,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj23x7b",
@@ -987,10 +987,10 @@
       "filterType": null,
       "filterThreadMm": null,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj27x6-5b",
@@ -1004,11 +1004,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj60x9b",
@@ -1022,11 +1022,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj72x9-3b",
@@ -1040,11 +1040,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1058,11 +1058,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj76x9b",
@@ -1076,11 +1076,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj80x8-8b",
@@ -1094,11 +1094,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj86x13-5b",
@@ -1112,11 +1112,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj95x8-6b",
@@ -1130,11 +1130,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1148,11 +1148,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-j35ex15b",
@@ -1164,13 +1164,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-j35ex11b",
@@ -1182,13 +1182,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -1200,13 +1200,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -1218,13 +1218,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj18ex28b",
@@ -1236,13 +1236,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -1254,13 +1254,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -1272,13 +1272,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable"
     },
     {
       "id": "canon-uj66x9b",
@@ -1292,11 +1292,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1310,11 +1310,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1328,11 +1328,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-hj18ex7-6b",
@@ -1344,13 +1344,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -1362,13 +1362,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj8x5-5b-kll-sc",
@@ -1383,10 +1383,10 @@
       "filterType": null,
       "filterThreadMm": null,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj11x4-7b-kll-sc",
@@ -1401,10 +1401,10 @@
       "filterType": null,
       "filterThreadMm": null,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-hj21x7-5b-kll-sc",
@@ -1419,10 +1419,10 @@
       "filterType": null,
       "filterThreadMm": null,
       "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj13x6b",
@@ -1434,13 +1434,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1452,13 +1452,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": "unconfirmed",
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1470,13 +1470,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1488,13 +1488,13 @@
       "introductionYear": null,
       "imageCircleMm": null,
       "opticalElements": null,
-      "filterType": null,
+      "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "handheld"
     },
     {
       "id": "canon-xj25x6-8b",
@@ -1508,11 +1508,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1526,11 +1526,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "canon-xj95x12-4b",
@@ -1544,11 +1544,11 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": null,
-      "hasServoZoom": null,
-      "hasServoFocus": null,
-      "servoConnector": null,
-      "formFactor": null
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box"
     },
     {
       "id": "fujinon-ua22x4-8",
