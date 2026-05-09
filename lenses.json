@@ -1,5 +1,5 @@
 {
-  "version": "1.17.1",
+  "version": "1.17.2",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -5805,23 +5805,6 @@
       "generation": "Legacy",
       "focalLengthMin": 16.0,
       "focalLengthMax": 16.0,
-      "zoomRatio": 1.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "superThirtyFive",
-      "mount": "PL",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "ARRI/Zeiss Ultra Prime, Super 35, PL mount. Discontinued; still widely available in rental. Source: arri.com archives."
-    },
-    {
-      "id": "arri-ultra-prime-18mm-t1-9",
-      "manufacturer": "ARRI",
-      "model": "Ultra Prime 18mm T1.9",
-      "series": "Ultra Prime",
-      "generation": "Legacy",
-      "focalLengthMin": 18.0,
-      "focalLengthMax": 18.0,
       "zoomRatio": 1.0,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
