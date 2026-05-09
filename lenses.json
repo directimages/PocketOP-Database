@@ -1,5 +1,5 @@
 {
-  "version": "1.17.2",
+  "version": "1.17.3",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8401,7 +8401,7 @@
     {
       "id": "leitz-hugo-135mm-t1-5-l",
       "manufacturer": "Leitz",
-      "model": "HUGO 135mm T1.5",
+      "model": "HUGO 135mm T1.9",
       "series": "HUGO",
       "generation": "Cinema",
       "focalLengthMin": 135.0,

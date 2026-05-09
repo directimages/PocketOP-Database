@@ -14,6 +14,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.17.3** (2026-05-09) — Corrected model name for leitz-hugo-135mm-t1-5-l (T1.5→T1.9). ID unchanged. Source: leitz-cine.com product page + Duclos Lenses.
 - **1.17.2** (2026-05-09) — Removed ghost entry arri-ultra-prime-18mm-t1-9: ARRI Ultra Prime series has no 18mm focal length (series runs 14/16/20/24/28/32/40/50/65/85/100/135/180mm). Entry had no manufacturer source. Confirmed absent across arri.com technical data, CinemaTechnic, and Zeiss product pages.
 - **1.17.1** (2026-05-09) — Corrected model names for arri-signature-prime-200mm-t1-8 (T1.8→T2.5) and arri-signature-prime-280mm-t1-8 (T1.8→T2.8). IDs unchanged. Source: arri.com User Manual + product page.
 - **1.17.0** (2026-05-08) — Added 3 Fujinon broadcast entries: HA27x6.5BESM (HD studio/field box, 2/3", 27×, 6.5–180mm, 2× extender); XA20sx8.5BMD (HD eXceed remote control ENG, no extender); XA20sx8.5BEMD (HD eXceed remote control ENG, 2× extender). Sources: Fujifilm spec sheet HA27x65BESM.pdf, fujifilm.com remote-control-lenses.
