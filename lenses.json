@@ -1,5 +1,5 @@
 {
-  "version": "1.17.5",
+  "version": "1.17.6",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -3637,6 +3637,23 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Full Frame wide cine zoom, Canon EF mount. Not available in PL. Actual zoom ratio is 1.46x; zoomRatio=1 per convention (barely a zoom). Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/."
+    },
+    {
+      "id": "sigma-cine-24-35mm-t2-2-ff-e",
+      "manufacturer": "Sigma",
+      "model": "Cine 24-35mm T2.2 FF",
+      "series": "Cine High Speed Zoom",
+      "generation": "4K UHD",
+      "focalLengthMin": 24.0,
+      "focalLengthMax": 35.0,
+      "zoomRatio": 1.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame wide cine zoom, Sony E mount. Not available in PL. Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/."
     },
     {
       "id": "tokina-vista-16-28mm-t3-0",
@@ -9350,5 +9367,6 @@
       "isCustom": false,
       "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/."
     }
-  ]
+  ],
+  "updatedAt": "2026-05-09"
 }
