@@ -14,6 +14,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.17.4** (2026-05-09) — Corrected T-stop model names for 2 Vespid Retro entries: dzofilm-vespid-retro-35mm-t2-1 (T2.1→T2.8) and dzofilm-vespid-retro-75mm-t2-1 (T2.1→T2.8). IDs unchanged. Source: dzofilm.com Vespid Retro spec table.
 - **1.17.3** (2026-05-09) — Corrected model name for leitz-hugo-135mm-t1-5-l (T1.5→T1.9). ID unchanged. Source: leitz-cine.com product page + Duclos Lenses.
 - **1.17.2** (2026-05-09) — Removed ghost entry arri-ultra-prime-18mm-t1-9: ARRI Ultra Prime series has no 18mm focal length (series runs 14/16/20/24/28/32/40/50/65/85/100/135/180mm). Entry had no manufacturer source. Confirmed absent across arri.com technical data, CinemaTechnic, and Zeiss product pages.
 - **1.17.1** (2026-05-09) — Corrected model names for arri-signature-prime-200mm-t1-8 (T1.8→T2.5) and arri-signature-prime-280mm-t1-8 (T1.8→T2.8). IDs unchanged. Source: arri.com User Manual + product page.

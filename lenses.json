@@ -1,5 +1,5 @@
 {
-  "version": "1.17.3",
+  "version": "1.17.4",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -8911,7 +8911,7 @@
     {
       "id": "dzofilm-vespid-retro-35mm-t2-1",
       "manufacturer": "DZOFilm",
-      "model": "Vespid Retro 35mm T2.1",
+      "model": "Vespid Retro 35mm T2.8",
       "series": "Vespid Retro",
       "generation": "Cinema",
       "focalLengthMin": 35.0,
@@ -8945,7 +8945,7 @@
     {
       "id": "dzofilm-vespid-retro-75mm-t2-1",
       "manufacturer": "DZOFilm",
-      "model": "Vespid Retro 75mm T2.1",
+      "model": "Vespid Retro 75mm T2.8",
       "series": "Vespid Retro",
       "generation": "Cinema",
       "focalLengthMin": 75.0,
