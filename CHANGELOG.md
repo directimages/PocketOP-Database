@@ -80,6 +80,11 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.1** (2026-03-26) — Version bump for download testing
 - **1.0.0** (2026-03-26) — Initial upload
 
+## ptz-details.json
+
+- **1.1.0** (2026-05-10) — Canon CR series fill: filled all fields for canon-cr-n700, canon-cr-n500, canon-cr-n300, canon-cr-n100. Source: canon-europe.com specification pages (primary).
+- **1.0.0** (2026-05-08) — Initial skeleton: 120 entries, all fields null.
+
 ## devices.json
 
 - **1.6.0** (2026-04-03) — Added displayMM field to all 50 camera entries across all 19 iPhone/iPad device entries; non-Pro wide=26mm, Pro wide=26mm pre-14-Pro / 24mm from 14-Pro onward
