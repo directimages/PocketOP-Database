@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
+  "version": "1.22.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -14,7 +14,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "hasMacro": null,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -100,7 +100,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "hasMacro": null,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -121,7 +121,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
-      "hasMacro": null,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1492,7 +1492,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": false,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
