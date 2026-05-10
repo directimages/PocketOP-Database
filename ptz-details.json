@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
@@ -1520,16 +1520,17 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2000,
+      "widthMm": 175,
+      "heightMm": 185,
+      "depthMm": 185,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera",
-        "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN"
+        "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN",
+        "https://www.amazon.com/Lumens-VC-A51PW-Flexible-Support-Ethernet/dp/B09P8XBQCZ"
       ]
     },
     {
@@ -1680,16 +1681,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 0.05,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera",
-        "https://www.amazon.com/Lumens-VC-A71P-60fps-Camera-Black/dp/B08R81795D"
+        "https://www.manua.ls/lumens/vc-a71p/manual"
       ]
     },
     {
@@ -1719,15 +1720,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera"
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera",
+        "https://www.manua.ls/lumens/vc-a71p/manual"
       ]
     },
     {
@@ -1747,6 +1749,7 @@
       ],
       "videoOutputs": [
         "12G-SDI",
+        "3G-SDI",
         "HDMI",
         "USB",
         "IP"
@@ -1760,15 +1763,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN"
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+        "https://www.manua.ls/lumens/vc-a71p/manual"
       ]
     },
     {
@@ -1858,23 +1862,25 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": 255,
+      "presetCount": 128,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "minLux": 3.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 187,
+      "depthMm": 171,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://marshall-usa.com/cameras/CV612HT-4K/"
+        "https://marshall-usa.com/cameras/CV612HT-4K/",
+        "https://www.manua.ls/marshall-electronics/cv612ht-4k/manual",
+        "https://www.digibroadcast.com/video-c61/studio-cameras-camera-heads-c76/marshall-cv612ht-4k-uhd-hdbaset-hdmi-ptz-camera-black-p33493"
       ]
     },
     {
@@ -2224,7 +2230,7 @@
       "maxTiltSpeedDegS": null,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.5,
       "weightG": null,
       "widthMm": null,
       "heightMm": null,
@@ -2233,7 +2239,8 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://marshall-usa.com/cameras/CV605-U3-U3W/"
+        "https://marshall-usa.com/cameras/CV605-U3-U3W/",
+        "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf"
       ]
     },
     {
