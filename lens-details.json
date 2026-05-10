@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -2313,7 +2313,10 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -2331,7 +2334,10 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -2349,7 +2355,11 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.adorama.com/clearance/l/Used/Video/Video-Lenses/Angenieux~Professional-Lenses?emailPrice=T",
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -2367,7 +2377,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -2385,7 +2398,11 @@
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/674636-REG/Zeiss_1262_604_DigiZoom_6_24mm_T1_9.html",
+        "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
+      ]
     },
     {
       "id": "zeiss-digizoom-17-112",
@@ -2403,7 +2420,11 @@
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/674640-REG/Zeiss_1531_502_DigiZoom_17_112mm_T1_9.html",
+        "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
+      ]
     },
     {
       "id": "nikon-s9x5-5b",
@@ -2421,7 +2442,10 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
     },
     {
       "id": "nikon-s15x8-5b",
@@ -2439,7 +2463,10 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
+      ]
     },
     {
       "id": "nikon-s13x9",
@@ -2457,7 +2484,10 @@
       "hasServoZoom": true,
       "hasServoFocus": null,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
     },
     {
       "id": "nikon-s19x8",
@@ -2475,7 +2505,10 @@
       "hasServoZoom": "unconfirmed",
       "hasServoFocus": null,
       "servoConnector": "unconfirmed",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
