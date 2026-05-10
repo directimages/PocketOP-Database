@@ -82,6 +82,8 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+- **1.10.0** (2026-05-10) — Null-audit pass 1 Lumens+Marshall: 9 entries. lumens-vc-a53/61p/61pn/tr1/r30: weightG+dims added (data sheets). marshall-cv630-ip/ndi/bi: maxPanSpeedDegS=100, maxTiltSpeedDegS=100 (CV630-IP cut sheet). marshall-cv605-u3: weightG=1290, widthMm=145, heightMm=154 (manua.ls). depthMm for cv605-u3 confirmed legitimately null (not published in any Tier 1/2 source).
+
 - **1.9.0** (2026-05-10) — Fomako/Bolin/AVer/Minrray/PTZOptics fill: 39 entries. Fomako (12): k820/k820n/k30ns/k20/k30/kn20/kn30/kn20a/kn30a/fmk12uh/fmk20uh/k600n. Bolin (11): b2-210/b2-220/b6-420/r9-418f/r9-418n/r9-230h/range/d2-210h/d2-220h/n2-210x/n2-220x. AVer (3): ptz310uv2/ptz330uv2/ptz330unv2. Minrray (7): uv430e0/e2/e3/uv510e0/e2/uv950e0/e2. PTZOptics SE G3 (3): pt12x/pt20x/pt30x-se-g3. PTZOptics SDI G2 (3): pt12x/pt20x/pt30x-sdi-g2. Sources added to all entries. hasIR=false for all 39 (no IR receiver). whiteBalanceModes/minLux/mountThreads/hasWallMount=null for all 39 (not published).
 
 - **1.8.0** (2026-05-10) — Lumens/Marshall fill v2: 6 entries updated. lumens-vc-a51p: weightG=2000, dims 175×185×185mm, Amazon source added. lumens-vc-a71p: weightG=3000, dims 232×189×188mm, sources replaced with manua.ls. lumens-vc-a71pn: weightG=3000, dims 232×189×188mm, manua.ls source added. lumens-vc-a71p-hn: weightG=3000, dims 232×189×188mm, videoOutputs corrected (added 3G-SDI), manua.ls source added. marshall-cv612ht-4k: presetCount 255→128, maxPanSpeed/TiltSpeed=300, minLux=3.0, weightG=2000, dims 174×187×171mm, manua.ls+digibroadcast sources. marshall-cv605-u3: minLux=0.5, spec sheet source added.

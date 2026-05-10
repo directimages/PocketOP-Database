@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
@@ -1560,15 +1560,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 180,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A53"
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A53",
+        "https://univesointegration.com/wp-content/uploads/2024/05/vc53.pdf"
       ]
     },
     {
@@ -1599,16 +1600,17 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 0.1,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/37/VC-A61P",
-        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf"
+        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
+        "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
       ]
     },
     {
@@ -1640,16 +1642,17 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
-        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf"
+        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
+        "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
       ]
     },
     {
@@ -1799,15 +1802,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1400,
+      "widthMm": 245,
+      "heightMm": 165,
+      "depthMm": 145,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-TR1"
+        "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+        "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
       ]
     },
     {
@@ -1836,15 +1840,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-R30"
+        "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+        "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
       ]
     },
     {
@@ -1984,8 +1989,8 @@
       "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
@@ -1998,7 +2003,8 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV630-IP/",
-        "https://marshall-usa.com/pdf/CV630-IP_Manual.pdf"
+        "https://marshall-usa.com/pdf/CV630-IP_Manual.pdf",
+        "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
       ]
     },
     {
@@ -2024,8 +2030,8 @@
       "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
@@ -2038,7 +2044,8 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV630-NDI-NDIW/",
-        "https://marshall-usa.com/pdf/CV630-NDI-manual.pdf"
+        "https://marshall-usa.com/pdf/CV630-NDI-manual.pdf",
+        "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
       ]
     },
     {
@@ -2063,8 +2070,8 @@
       "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
@@ -2076,7 +2083,8 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://marshall-usa.com/cameras/CV630-BI-WI/"
+        "https://marshall-usa.com/cameras/CV630-BI-WI/",
+        "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
       ]
     },
     {
@@ -2231,16 +2239,17 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 0.5,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
+      "weightG": 1290,
+      "widthMm": 145,
+      "heightMm": 154,
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV605-U3-U3W/",
-        "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf"
+        "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf",
+        "https://www.manua.ls/marshall-electronics/cv605-u3w/manual"
       ]
     },
     {
