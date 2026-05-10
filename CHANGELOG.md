@@ -19,6 +19,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
 
+- **1.17.7** (2026-05-10) — Corrected hawk-telephoto-zoom-150-450mm-t2-8 sensorFormat largeFormat→superThirtyFive. imageCircleMm=31.0mm (confirmed in lens-details.json v1.11.0) is Super 35 coverage; largeFormat threshold is ~54mm diagonal. Notes updated to remove incorrect "54.12mm image circle" claim.
 - **1.17.6** (2026-05-09) — Added sigma-cine-24-35mm-t2-2-ff-e (Sony E mount variant of Sigma Cine 24-35mm T2.2 FF). Separate entry per POS-D09. Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/.
 - **1.17.5** (2026-05-09) — Corrected sigma-cine-24-35mm-t2-2-ff mount PL→EF. This lens was never available in PL mount; available mounts are Canon EF and Sony E only. Notes updated to reflect EF-only status. Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/. Note: Sony E mount variant (sigma-cine-24-35mm-t2-2-ff-e) not yet created; flagged for future session per POS-D09.
 - **1.17.4** (2026-05-09) — Corrected T-stop model names for 2 Vespid Retro entries: dzofilm-vespid-retro-35mm-t2-1 (T2.1→T2.8) and dzofilm-vespid-retro-75mm-t2-1 (T2.1→T2.8). IDs unchanged. Source: dzofilm.com Vespid Retro spec table.

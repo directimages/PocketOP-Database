@@ -1,5 +1,5 @@
 {
-  "version": "1.17.6",
+  "version": "1.17.7",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -4770,12 +4770,12 @@
       "focalLengthMax": 450.0,
       "zoomRatio": 3.0,
       "extenderFactor": 1.0,
-      "sensorFormat": "largeFormat",
+      "sensorFormat": "superThirtyFive",
       "mount": "PL",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Large Format telephoto cine zoom (54.12mm image circle), PL mount. Rental-only, not commercially sold. Vantage Film (Munich). Source: vantagefilm.com."
+      "notes": "Super 35 telephoto cine zoom (~31mm image circle), PL mount. Rental-only, not commercially sold. Vantage Film (Munich). Source: vantagefilm.com."
     },
     {
       "id": "irix-cine-15mm-t2-6-l",
@@ -9368,5 +9368,5 @@
       "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/."
     }
   ],
-  "updatedAt": "2026-05-09"
+  "updatedAt": "2026-05-10"
 }
