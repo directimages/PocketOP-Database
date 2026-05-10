@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0",
+  "version": "1.19.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -62,7 +62,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua80x9",
@@ -80,7 +83,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "canon-cj12ex4-3b",
@@ -519,7 +525,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -537,7 +546,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -555,7 +567,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -573,7 +588,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua22x8",
@@ -591,7 +609,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -609,7 +630,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -627,7 +651,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -645,7 +672,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -663,7 +693,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -681,7 +714,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -699,7 +735,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -717,7 +756,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua125x8",
@@ -735,7 +777,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha13x4-5",
@@ -753,7 +798,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -771,7 +819,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -789,7 +840,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -807,7 +861,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -825,7 +882,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -843,7 +903,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -861,7 +924,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -879,7 +945,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-za12x4-5",
@@ -897,7 +966,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-za17x7-6",
@@ -915,7 +987,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "canon-hj21ex7-5b",
@@ -1776,7 +1851,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -1794,7 +1872,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-la16x8",
@@ -1812,7 +1893,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-la30x7-8",
@@ -1830,7 +1914,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -1848,7 +1935,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -1866,7 +1956,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -1884,7 +1977,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -1902,7 +1998,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -1920,7 +2019,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -1938,7 +2040,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-za22x7-6",
@@ -1956,7 +2061,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1974,7 +2082,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -1992,7 +2103,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -2010,7 +2124,10 @@
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin_hirose",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -2028,7 +2145,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -2046,7 +2166,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -2064,7 +2187,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -2082,7 +2208,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -2100,7 +2229,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -2118,7 +2250,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -2136,7 +2271,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa22x7",
@@ -2154,7 +2292,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "angenieux-t12x5-3b",
@@ -15406,7 +15547,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa20sx8-5bmd",
@@ -15424,7 +15568,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     },
     {
       "id": "fujinon-xa20sx8-5bemd",
@@ -15442,7 +15589,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
     }
   ]
 }
