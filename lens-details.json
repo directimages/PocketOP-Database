@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -40,7 +40,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1811292-REG/canon_1012b006_hj40ex14b_iase_v_h_2_3.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -211,7 +215,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
+      ]
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -229,7 +237,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/353072-REG/Canon_HJ11EX4_7B_WRSE_HJ11ex4_7B_WRSE_eHDxs_11x_2_3.html"
+      ]
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -242,12 +253,15 @@
       "imageCircleMm": null,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": null,
+      "filterThreadMm": 105,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj22ex7-6b",
@@ -265,7 +279,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj40ex10b",
@@ -278,12 +295,16 @@
       "imageCircleMm": null,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": "unconfirmed",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1696500-REG/canon_hj40ex10b_iase_v_h_hdtv_portable_hdxs_lenses.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
     },
     {
       "id": "canon-uj25ex7-6b",
@@ -409,7 +430,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
     },
     {
       "id": "canon-kj20x8-5b",
@@ -877,7 +902,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -895,7 +923,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj18ex28b",
@@ -913,7 +944,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -931,7 +965,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-kj22ex7-6b",
@@ -1371,11 +1408,14 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -1393,7 +1433,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
     },
     {
       "id": "canon-hj8x5-5b-kll-sc",
