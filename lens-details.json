@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -1454,7 +1454,11 @@
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
     },
     {
       "id": "canon-hj11x4-7b-kll-sc",
@@ -1472,7 +1476,11 @@
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
     },
     {
       "id": "canon-hj21x7-5b-kll-sc",
@@ -1490,7 +1498,11 @@
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
     },
     {
       "id": "canon-kj13x6b",
