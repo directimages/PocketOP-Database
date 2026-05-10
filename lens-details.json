@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -18,7 +18,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj14ex4-3b/main/specification",
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53"
+      ]
     },
     {
       "id": "canon-hj40ex14b",
@@ -90,7 +94,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
+      ]
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -108,7 +115,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj18ex7-6b/main/specification"
+      ]
     },
     {
       "id": "canon-cj20ex5b",
@@ -144,7 +154,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj24ex7-5b/main/specification"
+      ]
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -1206,7 +1219,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj15ex4-3b/main/specification"
+      ]
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -1224,7 +1240,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj15ex8-5b/main/specification"
+      ]
     },
     {
       "id": "canon-cj18ex28b",
@@ -1242,7 +1261,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj18ex28b/main/specification"
+      ]
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -1260,7 +1282,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj20ex7-8b/main/specification"
+      ]
     },
     {
       "id": "canon-cj45ex13-6b",
