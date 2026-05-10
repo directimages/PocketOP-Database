@@ -82,6 +82,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+- **1.2.0** (2026-05-10) — Sony fill: filled all fields for 9 Sony entries (brc-x1000, brc-h800, brc-am7, brc-x400, srg-x400, srg-x120, srg-300h, srg-360she, brc-h900). Source: pro.sony specification pages (primary). Remaining nulls: brc-am7 weight/dimensions not published; brc-x400/srg-x400/srg-x120 dimensions not published; srg-300h/brc-h900 weight/dimensions not published; maxPanSpeedDegS/maxTiltSpeedDegS null for srg-300h, srg-360she, brc-h900 (not published).
 - **1.1.0** (2026-05-10) — Canon CR series fill: filled all fields for canon-cr-n700, canon-cr-n500, canon-cr-n300, canon-cr-n100. Source: canon-europe.com specification pages (primary).
 - **1.0.0** (2026-05-08) — Initial skeleton: 120 entries, all fields null.
 
