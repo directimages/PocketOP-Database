@@ -3,6 +3,20 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.25.0 — 2026-05-10
+- null-audit broadcast weightG/lengthMm/closeFocusM: 42 entries updated
+- Canon CJ (8): all three fields — tier 1 asia.canon
+- Canon HJ (1, hj24ex7-5b): all three fields — tier 1
+- Canon KJ (5): all three fields — tier 1-2
+- Canon UJ (7): all three fields — tier 1; closeFocusM 3.0m (studio lenses)
+- Canon XJ (14): weightG + lengthMm; xj72x9-3b closeFocusM only (2.8m) — tier 1-3
+- Fujinon (2): ha27x6-5 weightG+lengthMm, xa101x8-9 lengthMm — tier 1 2012 catalog
+- Angénieux (2): t19x7-3b + t26x7-8b all three fields — tier 3
+- Zeiss (2): all three fields — tier 1
+- Nikon (1): s15x8-5b weightG + lengthMm — tier 3
+- Skipped (flagged): canon-uj25ex7-6b (model ID mismatch), canon-xj100x9-3b lengthMm (conflicting sources), canon-kj20x8-5b weight+length (tier-3 unreliable), angenieux-t15x8-3b (weight suspicious)
+- Not found: cj12/cj20ex5b/cj45x9/cj45x13, HJ except hj24, kj16/kj21, xj100, fujinon ha42/xa87-length/xa20sx8-5bmd/bemd, angenieux-t12, nikon-s9/s13/s19
+
 ### v1.24.0 — 2026-05-10
 - correction filterType: set "front_thread" on 8 broadcast entries (Angenieux T-series, Nikon S-series)
 - correction hasMacro: 13 entries updated (true/false/unconfirmed); canon-uj25ex7-6b and canon-xj23x7b set false with fieldNotes (MCJ-S02 accessory)
