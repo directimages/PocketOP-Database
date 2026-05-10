@@ -3,6 +3,17 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.26.0 — 2026-05-10
+- null-audit broadcast weightG/lengthMm/closeFocusM pass 3: 24 entries, 64 fields updated
+- Canon CJ (2): cj20ex5b all 3 fields; cj45ex13-6b all 3 fields — tier 1 canon.nl/canon-europe.com
+- Canon HJ (11): hj11/15/17/18/21/22/40x10/40x14 all 3 fields; hj8x/11x/21x-kll-sc all 3 fields — Canon pocket guide 2009 + spec sheet screenshots
+- Canon KJ (3): kj16/kj20/kj21 all 3 fields — Canon pocket guide 2009
+- Canon J (2): j35ex15b + j35ex11b all 3 fields — Canon pocket guide 2009
+- Canon XJ (2): xj22x7-3b + xj27x6-5b closeFocusM only (weight+length already filled) — Canon pocket guide 2009
+- Fujinon (4): ha42x9-7 weightG only; xa87x9-3 lengthMm only; xa20sx8-5bmd + xa20sx8-5bemd all 3 fields — Fujinon brochure PDFs + eXceed catalog
+- Skipped (already non-null): canon-hj24ex7-5b, canon-kj10ex4-5b, canon-kj13x6b, xj22x7-3b weight+length, xj27x6-5b weight+length, ha42x9-7 length+closeFocus, xa87x9-3 weight+closeFocus
+- Legitimate nulls confirmed: Angénieux T-serie (t12/15/19/26), Nikon S-serie (s9/s13/s15/s19)
+
 ### v1.25.0 — 2026-05-10
 - null-audit broadcast weightG/lengthMm/closeFocusM: 42 entries updated
 - Canon CJ (8): all three fields — tier 1 asia.canon
