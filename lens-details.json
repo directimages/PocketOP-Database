@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
+  "version": "1.21.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -127,7 +127,8 @@
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj18ex7-6b/main/specification"
+        "https://asia.canon/en/business/cj18ex7-6b/main/specification",
+        "https://www.bhphotovideo.com/c/product/1472953-REG/canon_cj18ex7_6b_iase_2_3_uhd_standard_full_servo.html"
       ]
     },
     {
@@ -142,11 +143,15 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "hasMacro": null,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.newsshooter.com/2020/09/24/canon-cj20ex5b/",
+        "https://www.canon-europe.com/press-centre/press-releases/2020/09/canon-strengthens-4k-broadcast-lens-line-up-bctv-zoom-lens-cj20ex5b/"
+      ]
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -181,11 +186,15 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1823939-REG/canon_cj27ex7_3b_iase_t_2_3.html",
+        "https://theasc.com/articles/canon-introduces-cj27ex7-3b"
+      ]
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -203,7 +212,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
+      ]
     },
     {
       "id": "canon-hj14ex4-3b",
@@ -1501,11 +1513,14 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "portable"
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
+      ]
     },
     {
       "id": "canon-uj66x9b",
