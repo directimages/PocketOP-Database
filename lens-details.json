@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -412,7 +412,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://alliedbroadcastgroup.com/product/canon-xj86x9-3b-ie-ii-9-3-800mm-digisuper-hd-telephoto-field-lens-w-semi-servo-controls-sled-additional/"
+      ]
     },
     {
       "id": "canon-hj40x10b",
@@ -1022,7 +1026,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html"
+      ]
     },
     {
       "id": "canon-xj23x7b",
@@ -1040,7 +1048,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html"
+      ]
     },
     {
       "id": "canon-xj27x6-5b",
@@ -1058,7 +1070,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html"
+      ]
     },
     {
       "id": "canon-xj60x9b",
@@ -1076,7 +1092,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887586-REG/Canon_xj60x9b_ie_d_lo_XJ60x9BIE_D_LO_DIGISUPER.html"
+      ]
     },
     {
       "id": "canon-xj72x9-3b",
@@ -1094,7 +1114,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1112,7 +1135,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj76x9b",
@@ -1130,7 +1156,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj80x8-8b",
@@ -1148,7 +1177,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj86x13-5b",
@@ -1166,7 +1198,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj95x8-6b",
@@ -1184,7 +1219,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1202,7 +1240,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-j35ex15b",
@@ -1592,7 +1633,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html"
+      ]
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1610,7 +1654,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "canon-xj95x12-4b",
@@ -1628,7 +1675,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
     },
     {
       "id": "fujinon-ua22x4-8",
