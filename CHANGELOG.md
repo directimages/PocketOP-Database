@@ -81,6 +81,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.12.0 — 2026-05-10
+- null-audit pass 3: filled weightG/dims for datavideo-ptc-280, bolin-r9-418n, bolin-r9-230h, minrray-uv510e0, minrray-uv510e2 (5 entries)
+- datavideo-ptc-280: weightG 2800 g — distinct from PTC-285 (2600 g); chassis is not identical
+- bolin-r9-418n: heightMm 249 is body-only (without feet mats)
+- minrray-uv510e0/e2: heightMm 168 rounded from published 167.5 mm
+
 ### v1.11.0 — 2026-05-10
 - null-audit pass 2: filled weight/dims/presetCount/speed/range for BirdDog P100/P200/P400/P4K, Datavideo PTC-140/150/150T/280/285/285T/300/305/305T, JVC KY-PZ510/PZ540N, Bolin R9-418F, Minrray UV430E0/E2/E3/UV950E0/E2 (21 entries updated)
 - birddog-maki-ultra: skipped — ID not present in database

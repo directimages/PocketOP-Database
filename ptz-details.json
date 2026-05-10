@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
@@ -2673,7 +2673,7 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
+      "weightG": 2800,
       "widthMm": 173,
       "heightMm": 189,
       "depthMm": 219,
@@ -2682,7 +2682,8 @@
       "hasWallMount": null,
       "sources": [
         "https://www.datavideo.com/product/PTC-280",
-        "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html"
+        "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html",
+        "https://www.manualslib.com/manual/2181902/Datavideo-Ptc-280.html"
       ]
     },
     {
@@ -4022,16 +4023,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3800,
+      "widthMm": 201,
+      "heightMm": 249,
+      "depthMm": 253,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera",
-        "https://www.bhphotovideo.com/c/product/1830660-REG/bolin_technology_r9_418n4k_ndi_6_ptz.html"
+        "https://www.bhphotovideo.com/c/product/1830660-REG/bolin_technology_r9_418n4k_ndi_6_ptz.html",
+        "https://netchange.nl/wp-content/uploads/2024/05/R9-418N-Indoor-PTZ-Camera-04252024-1-1.pdf"
       ]
     },
     {
@@ -4063,16 +4065,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3800,
+      "widthMm": 201,
+      "heightMm": 249,
+      "depthMm": 253,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz",
-        "https://www.bhphotovideo.com/c/product/1830656-REG/bolin_technology_r9_230h_indoor_fhd_ptz.html"
+        "https://www.bhphotovideo.com/c/product/1830656-REG/bolin_technology_r9_230h_indoor_fhd_ptz.html",
+        "https://av.company/avcpdf/Bolin/Bolin-R9-230H-Indoor-Datasheet.pdf"
       ]
     },
     {
@@ -4548,10 +4551,10 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1400,
+      "widthMm": 150,
+      "heightMm": 168,
+      "depthMm": 150,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -4587,15 +4590,16 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1400,
+      "widthMm": 150,
+      "heightMm": 168,
+      "depthMm": 150,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html"
+        "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+        "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
       ]
     },
     {
