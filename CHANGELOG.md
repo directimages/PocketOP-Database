@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.23.0 — 2026-05-10
+- correction: imageCircleMm null -> 11.0 on all broadcast entries where null (71 entries)
+- correction: formFactor "handheld" -> "portable" on all broadcast entries (58 entries)
+- correction: servoConnector "12pin_hirose" -> "12pin" on all broadcast entries (37 entries)
+
 
 - **1.22.0** (2026-05-10) — hasMacro correction pass (4 changes). cj18ex7-6b: null→false (POS-D11: no macro claim in any source). cj20ex7-8b: false→true (macro confirmed in research). cj14ex4-3b: null→true (Canon pocket guide: macro spec). cj12ex4-3b: null→true (Canon pocket guide: macro spec). Note: hj40ex10b filterThreadMm, hj17ex7-6b filterThreadMm, hj18ex7-6b hasMacro were already correct from earlier HJ pass — no changes needed.
 - **1.21.0** (2026-05-10) — Canon CJ pending sources resolved (5 entries). cj18ex7-6b: added B&H source (asia.canon already present). cj20ex5b: newsshooter.com + canon-europe.com press release; hasMacro null→false (no macro claim in any source, POS-D11). cj27ex7-3b: B&H + theasc.com; hasMacro true→false (no macro claim). cj45ex13-6b: B&H; hasMacro true→false (no macro claim, 127mm front confirmed). cj45ex9-7b: sg.canon spec; hasMacro=true confirmed (Singapore spec: "2.8m (10mm with macro)"). canon-cj-http-pending.md removed.
