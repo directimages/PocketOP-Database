@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
+  "version": "1.18.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -477,7 +477,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-kj17ex7-7b",
@@ -495,7 +498,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -1011,7 +1017,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii"
+      ]
     },
     {
       "id": "canon-kj10ex4-5b",
@@ -1029,7 +1039,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-xj22x7-3b",
@@ -1291,7 +1304,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-j35ex11b",
@@ -1309,7 +1325,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -1607,7 +1626,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1625,7 +1647,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1643,7 +1668,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1661,7 +1689,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "handheld"
+      "formFactor": "handheld",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
     },
     {
       "id": "canon-xj25x6-8b",
