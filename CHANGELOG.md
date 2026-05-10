@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.24.0 — 2026-05-10
+- correction filterType: set "front_thread" on 8 broadcast entries (Angenieux T-series, Nikon S-series)
+- correction hasMacro: 13 entries updated (true/false/unconfirmed); canon-uj25ex7-6b and canon-xj23x7b set false with fieldNotes (MCJ-S02 accessory)
+- correction hasServoFocus: 14 entries updated (Fujinon HA-series true→false; Angenieux/Nikon null→false)
+
 ### v1.23.0 — 2026-05-10
 - correction: imageCircleMm null -> 11.0 on all broadcast entries where null (71 entries)
 - correction: formFactor "handheld" -> "portable" on all broadcast entries (58 entries)
