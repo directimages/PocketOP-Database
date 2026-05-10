@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
@@ -4553,7 +4553,7 @@
       "minLux": null,
       "weightG": 1400,
       "widthMm": 150,
-      "heightMm": 168,
+      "heightMm": 167.5,
       "depthMm": 150,
       "mountThreads": null,
       "hasCeilingMount": true,
@@ -4592,7 +4592,7 @@
       "minLux": null,
       "weightG": 1400,
       "widthMm": 150,
-      "heightMm": 168,
+      "heightMm": 167.5,
       "depthMm": 150,
       "mountThreads": null,
       "hasCeilingMount": true,

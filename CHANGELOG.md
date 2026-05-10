@@ -81,6 +81,9 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.13.0 — 2026-05-10
+- correction: minrray-uv510e0/e2 heightMm 168 -> 167.5 (published value; rounding to integer was incorrect)
+
 ### v1.12.0 — 2026-05-10
 - null-audit pass 3: filled weightG/dims for datavideo-ptc-280, bolin-r9-418n, bolin-r9-230h, minrray-uv510e0, minrray-uv510e2 (5 entries)
 - datavideo-ptc-280: weightG 2800 g — distinct from PTC-285 (2600 g); chassis is not identical
