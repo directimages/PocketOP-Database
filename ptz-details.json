@@ -1,12 +1,26 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
       "id": "canon-cr-n700",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
-      "controlProtocols": ["Canon XC", "RTSP/RTP", "NDI|HX2", "RTMP/RTMPS", "Standard Serial", "Standard IP", "SRT", "FreeD"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -14,7 +28,14 @@
       "maxPanSpeedDegS": 100,
       "maxTiltSpeedDegS": 100,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Set A", "Set B", "Daylight", "Tungsten", "Color Temp"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
       "minLux": null,
       "weightG": 4400,
       "widthMm": 200,
@@ -22,13 +43,29 @@
       "depthMm": 208,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
+      ]
     },
     {
       "id": "canon-cr-n500",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
-      "controlProtocols": ["Canon XC", "RTSP/RTP", "NDI|HX", "RTMP/RTMPS", "Standard Serial", "Standard IP", "SRT", "FreeD"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -36,7 +73,14 @@
       "maxPanSpeedDegS": 100,
       "maxTiltSpeedDegS": 100,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Set A", "Set B", "Daylight", "Tungsten", "Color Temp"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
       "minLux": null,
       "weightG": 4100,
       "widthMm": 200,
@@ -44,13 +88,30 @@
       "depthMm": 208,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
+      ]
     },
     {
       "id": "canon-cr-n300",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
-      "controlProtocols": ["Canon XC", "RTSP/RTP", "NDI|HX2", "RTMP/RTMPS", "Standard Serial", "Standard IP", "SRT", "FreeD"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -58,7 +119,14 @@
       "maxPanSpeedDegS": 300,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Set A", "Set B", "Daylight", "Tungsten", "Color Temp"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
       "minLux": null,
       "weightG": 2200,
       "widthMm": 154,
@@ -66,13 +134,28 @@
       "depthMm": 164,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
+      ]
     },
     {
       "id": "canon-cr-n100",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
-      "controlProtocols": ["Canon XC", "RTSP/RTP", "NDI|HX2", "RTMP/RTMPS", "Standard Serial", "Standard IP", "SRT"],
-      "videoOutputs": ["HDMI", "IP", "USB-C"],
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB-C"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -80,7 +163,14 @@
       "maxPanSpeedDegS": 300,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Set A", "Set B", "Daylight", "Tungsten", "Color Temp"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
       "minLux": 1.5,
       "weightG": 2200,
       "widthMm": 154,
@@ -88,13 +178,25 @@
       "depthMm": 164,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
+      ]
     },
     {
       "id": "sony-brc-x1000",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422", "FreeD"],
-      "videoOutputs": ["3G-SDI", "3G-SDI (x4 dual link)", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "3G-SDI (x4 dual link)",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -102,7 +204,14 @@
       "maxPanSpeedDegS": 60,
       "maxTiltSpeedDegS": 60,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": 1.7,
       "weightG": 4300,
       "widthMm": 198,
@@ -110,13 +219,25 @@
       "depthMm": 238,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
+        "https://www.fullcompass.com/prod/525830-sony-brc-x1000-1-4k-hd-ptz-camera-with-12x-optical-zoom"
+      ]
     },
     {
       "id": "sony-brc-h800",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422"],
-      "videoOutputs": ["3G-SDI", "3G-SDI (x2)", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -124,7 +245,14 @@
       "maxPanSpeedDegS": 60,
       "maxTiltSpeedDegS": 60,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": 1.7,
       "weightG": 4300,
       "widthMm": 198,
@@ -132,13 +260,25 @@
       "depthMm": 238,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
+      ]
     },
     {
       "id": "sony-brc-am7",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
-      "controlProtocols": ["VISCA IP", "S700PTP", "RTSP", "SRT", "NDI|HX"],
-      "videoOutputs": ["HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "S700PTP",
+        "RTSP",
+        "SRT",
+        "NDI|HX"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -146,7 +286,13 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": null,
       "widthMm": null,
@@ -154,13 +300,28 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
+        "https://helpguide.sony.net/rc/brc-am7/v1/en/contents/specifications.html"
+      ]
     },
     {
       "id": "sony-brc-x400",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422", "NDI|HX", "RTSP", "RTMP", "SRT"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "NDI|HX",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -168,7 +329,14 @@
       "maxPanSpeedDegS": 101,
       "maxTiltSpeedDegS": 101,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": 1800,
       "widthMm": null,
@@ -176,13 +344,28 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
+        "https://www.manualslib.com/manual/1664613/Sony-Brc-X400.html"
+      ]
     },
     {
       "id": "sony-srg-x400",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422", "NDI|HX", "RTSP", "RTMP", "SRT"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "NDI|HX",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -190,7 +373,14 @@
       "maxPanSpeedDegS": 101,
       "maxTiltSpeedDegS": 101,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": 1800,
       "widthMm": null,
@@ -198,13 +388,23 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
+      ]
     },
     {
       "id": "sony-srg-x120",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422", "RTSP"],
-      "videoOutputs": ["HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -212,7 +412,14 @@
       "maxPanSpeedDegS": 101,
       "maxTiltSpeedDegS": 101,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": 1800,
       "widthMm": null,
@@ -220,13 +427,26 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
+      ]
     },
     {
       "id": "panasonic-aw-ue150",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "HDMI", "Fiber", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -234,7 +454,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": null,
       "weightG": 4200,
       "widthMm": 213,
@@ -242,13 +467,28 @@
       "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue80",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD", "NDI High Bandwidth", "NDI|HX2", "SRT", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI High Bandwidth",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -256,7 +496,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": 3.0,
       "weightG": 2000,
       "widthMm": 170,
@@ -264,13 +509,27 @@
       "depthMm": 171,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue50",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "NDI|HX2", "SRT", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -278,7 +537,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": 3.0,
       "weightG": 1800,
       "widthMm": 160,
@@ -286,13 +550,26 @@
       "depthMm": 166,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue40",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "NDI|HX2", "SRT", "RTMP"],
-      "videoOutputs": ["HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -300,7 +577,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": 3.0,
       "weightG": 1800,
       "widthMm": 160,
@@ -308,13 +590,22 @@
       "depthMm": 166,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
     },
     {
       "id": "sony-srg-300h",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422"],
-      "videoOutputs": ["HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": false,
       "presetCount": 256,
       "panRangeDeg": 340,
@@ -322,7 +613,14 @@
       "maxPanSpeedDegS": null,
       "maxTiltSpeedDegS": null,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": 1.4,
       "weightG": null,
       "widthMm": null,
@@ -330,13 +628,23 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
+      ]
     },
     {
       "id": "sony-srg-360she",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
-      "controlProtocols": ["VISCA IP", "VISCA RS-422"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 256,
       "panRangeDeg": 340,
@@ -344,7 +652,14 @@
       "maxPanSpeedDegS": null,
       "maxTiltSpeedDegS": null,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": 2100,
       "widthMm": 159,
@@ -352,13 +667,23 @@
       "depthMm": 201,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
+        "https://www.manua.ls/sony/srg-360she/manual"
+      ]
     },
     {
       "id": "sony-brc-h900",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422"],
-      "videoOutputs": ["HD-SDI", "SD analog"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "HD-SDI",
+        "SD analog"
+      ],
       "hasPoE": false,
       "presetCount": 16,
       "panRangeDeg": 340,
@@ -366,7 +691,14 @@
       "maxPanSpeedDegS": null,
       "maxTiltSpeedDegS": null,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto1", "Auto2", "One Push", "Indoor", "Outdoor", "Manual"],
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
       "minLux": 4.0,
       "weightG": null,
       "widthMm": null,
@@ -374,13 +706,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
+      ]
     },
     {
       "id": "panasonic-aw-ue160",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD", "NDI|HX2", "SRT", "RTMP", "SMPTE ST 2110"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "3G-SDI (x2)", "HDMI", "Fiber", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI|HX2",
+        "SRT",
+        "RTMP",
+        "SMPTE ST 2110"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -388,7 +738,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": null,
       "weightG": null,
       "widthMm": null,
@@ -396,13 +751,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue150a",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD", "NDI|HX2", "NDI High Bandwidth", "SRT", "RTMP"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "3G-SDI (x2)", "HDMI", "Fiber", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI|HX2",
+        "NDI High Bandwidth",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -410,7 +783,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": 2.0,
       "weightG": 4300,
       "widthMm": 213,
@@ -418,13 +796,29 @@
       "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue100",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD", "NDI High Bandwidth", "NDI|HX", "SRT", "RTMP"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI High Bandwidth",
+        "NDI|HX",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -432,7 +826,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": null,
       "weightG": null,
       "widthMm": null,
@@ -440,13 +839,25 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue30",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "SRT", "RTMP"],
-      "videoOutputs": ["HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -454,7 +865,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": 3.0,
       "weightG": 1800,
       "widthMm": 160,
@@ -462,13 +878,27 @@
       "depthMm": 166,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue20",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "RS-232", "SRT", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "RS-232",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 340,
@@ -476,7 +906,13 @@
       "maxPanSpeedDegS": 100,
       "maxTiltSpeedDegS": 100,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "3200K", "5600K"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K"
+      ],
       "minLux": 0.4,
       "weightG": 1900,
       "widthMm": 165,
@@ -484,13 +920,23 @@
       "depthMm": 176,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-ue4",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "NDI|HX"],
-      "videoOutputs": ["HDMI", "IP", "USB"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "NDI|HX"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": null,
@@ -506,13 +952,27 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": null,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html"
+      ]
     },
     {
       "id": "panasonic-aw-he145",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
-      "controlProtocols": ["Panasonic AW IP", "RS-422", "FreeD", "SRT"],
-      "videoOutputs": ["12G-SDI", "3G-SDI", "HDMI", "Fiber", "IP"],
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -520,7 +980,12 @@
       "maxPanSpeedDegS": 180,
       "maxTiltSpeedDegS": 180,
       "hasIR": true,
-      "whiteBalanceModes": ["ATW", "AWB-A", "AWB-B", "VAR"],
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
       "minLux": null,
       "weightG": 4100,
       "widthMm": 213,
@@ -528,7 +993,11 @@
       "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
+        "https://eu.connect.panasonic.com/dk/en/download-specifications/6541"
+      ]
     },
     {
       "id": "panasonic-aw-he130",
@@ -709,8 +1178,18 @@
     {
       "id": "jvc-ky-pz100",
       "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz100bu/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-422", "RTMP", "RTSP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-422",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 100,
       "panRangeDeg": 350,
@@ -718,7 +1197,13 @@
       "maxPanSpeedDegS": 480,
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
-      "whiteBalanceModes": ["FAW", "AWB-A", "3200K", "5600K", "Manual"],
+      "whiteBalanceModes": [
+        "FAW",
+        "AWB-A",
+        "3200K",
+        "5600K",
+        "Manual"
+      ],
       "minLux": 0.02,
       "weightG": null,
       "widthMm": null,
@@ -726,13 +1211,29 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz100be/"
+      ]
     },
     {
       "id": "jvc-ky-pz200",
       "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-485", "Pelco-D", "SRT", "RTSP", "RTMP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -748,13 +1249,30 @@
       "depthMm": 169,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/"
+      ]
     },
     {
       "id": "jvc-ky-pz200n",
       "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-485", "Pelco-D", "NDI|HX", "SRT", "RTSP", "RTMP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -770,13 +1288,30 @@
       "depthMm": 169,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/"
+      ]
     },
     {
       "id": "jvc-ky-pz400n",
       "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-485", "Pelco-D", "NDI|HX", "SRT", "RTSP", "RTMP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -792,13 +1327,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
+        "https://proflixsales.com/ky-pz400nbu.html"
+      ]
     },
     {
       "id": "jvc-ky-pz510",
       "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-485", "Pelco-D", "SRT", "RTSP", "RTMP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": null,
@@ -814,13 +1367,33 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ]
     },
     {
       "id": "jvc-ky-pz540n",
       "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
-      "controlProtocols": ["JVC IP", "RS-232C", "RS-422", "RS-485", "VISCA", "Pelco-D", "NDI|HX3", "SRT", "RTSP", "RTMP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB-C", "IP"],
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-422",
+        "RS-485",
+        "VISCA",
+        "Pelco-D",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": null,
@@ -836,7 +1409,11 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
+        "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html"
+      ]
     },
     {
       "id": "lumens-vc-a50p",
@@ -1303,8 +1880,18 @@
     {
       "id": "birddog-p100",
       "manufacturerUrl": "https://birddog.tv/p100-overview/p100-techspecs/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "RTSP"],
-      "videoOutputs": ["3G-SDI", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1320,13 +1907,33 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p100-overview/p100-techspecs/",
+        "https://www.lensrentals.com/rent/birddog-eyes-p100-ndi-ptz-camera"
+      ]
     },
     {
       "id": "birddog-p110",
       "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX2", "NDI|HX3", "SRT", "FreeD", "RTSP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "FreeD",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1342,13 +1949,32 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p110p120-overview/"
+      ]
     },
     {
       "id": "birddog-p120",
       "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX2", "NDI|HX3", "SRT", "FreeD", "RTSP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "FreeD",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1364,13 +1990,29 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p110p120-overview/"
+      ]
     },
     {
       "id": "birddog-p200",
       "manufacturerUrl": "https://birddog.tv/p200-overview/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX2", "SRT", "RTSP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1386,13 +2028,29 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p200-overview/"
+      ]
     },
     {
       "id": "birddog-p240",
       "manufacturerUrl": "https://birddog.tv/p240-overview/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX2", "SRT", "RTSP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1408,13 +2066,28 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p240-overview/"
+      ]
     },
     {
       "id": "birddog-p400",
       "manufacturerUrl": "https://birddog.tv/p400-overview/p400-techspecs/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX", "RTSP"],
-      "videoOutputs": ["6G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1430,13 +2103,29 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": true
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/p400-overview/p400-techspecs/"
+      ]
     },
     {
       "id": "birddog-p4k",
       "manufacturerUrl": "https://birddog.tv/p4k-overview/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA IP", "Pelco-D", "NDI Full", "NDI|HX", "RTSP"],
-      "videoOutputs": ["6G-SDI", "6G-SDI (x2)", "HDMI", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "6G-SDI (x2)",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 128,
       "panRangeDeg": 350,
@@ -1452,13 +2141,30 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": true
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/p4k-overview/"
+      ]
     },
     {
       "id": "datavideo-ptc-140",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-140",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1474,13 +2180,30 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-140"
+      ]
     },
     {
       "id": "datavideo-ptc-150",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-150",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1496,13 +2219,30 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-150"
+      ]
     },
     {
       "id": "datavideo-ptc-150t",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-150T",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1518,13 +2258,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-150T"
+      ]
     },
     {
       "id": "datavideo-ptc-280",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-280",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1540,13 +2298,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-280"
+      ]
     },
     {
       "id": "datavideo-ptc-285",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-285",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1562,13 +2338,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-285"
+      ]
     },
     {
       "id": "datavideo-ptc-285t",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-285T",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMPS"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1584,13 +2378,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-285T"
+      ]
     },
     {
       "id": "datavideo-ptc-300",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-300",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1606,13 +2418,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-300"
+      ]
     },
     {
       "id": "datavideo-ptc-305",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-305",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1628,13 +2458,31 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-305"
+      ]
     },
     {
       "id": "datavideo-ptc-305t",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-305T",
-      "controlProtocols": ["DVIP", "VISCA IP", "VISCA RS-232", "VISCA RS-422", "Pelco-D", "ONVIF", "NDI|HX", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "IP"],
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": null,
       "panRangeDeg": 340,
@@ -1650,13 +2498,32 @@
       "depthMm": null,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-305T"
+      ]
     },
     {
       "id": "ptzoptics-pt12x-4k-g3",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA RS-485", "VISCA IP", "Pelco-D", "Pelco-P", "NDI|HX3", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -1672,13 +2539,33 @@
       "depthMm": 142,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA RS-485", "VISCA IP", "Pelco-D", "Pelco-P", "NDI|HX3", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -1694,13 +2581,33 @@
       "depthMm": 181,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
     },
     {
       "id": "ptzoptics-pt30x-4k-g3",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA RS-485", "VISCA IP", "Pelco-D", "Pelco-P", "NDI|HX3", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -1716,13 +2623,34 @@
       "depthMm": 181,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
     },
     {
       "id": "ptzoptics-pt12x-link-4k",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA RS-485", "VISCA IP", "Pelco-D", "Pelco-P", "NDI|HX3", "Dante AV-H", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -1738,13 +2666,34 @@
       "depthMm": 142,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
-      "controlProtocols": ["VISCA RS-232", "VISCA RS-422", "VISCA RS-485", "VISCA IP", "Pelco-D", "Pelco-P", "NDI|HX3", "Dante AV-H", "SRT", "RTSP", "RTMP"],
-      "videoOutputs": ["3G-SDI", "HDMI", "USB", "IP"],
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
       "hasPoE": true,
       "presetCount": 255,
       "panRangeDeg": 340,
@@ -1760,7 +2709,11 @@
       "depthMm": 181,
       "mountThreads": null,
       "hasCeilingMount": true,
-      "hasWallMount": null
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
     },
     {
       "id": "ptzoptics-pt30x-link-4k",
