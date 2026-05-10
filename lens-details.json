@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
+  "version": "1.16.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -1022,7 +1022,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1030,7 +1030,10 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-xj23x7b",
@@ -1066,7 +1069,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1074,7 +1077,10 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-xj60x9b",
@@ -1110,14 +1116,17 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1629,14 +1638,17 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-xj86x9-3b-af",
