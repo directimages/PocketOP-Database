@@ -81,6 +81,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.11.0 — 2026-05-10
+- null-audit pass 2: filled weight/dims/presetCount/speed/range for BirdDog P100/P200/P400/P4K, Datavideo PTC-140/150/150T/280/285/285T/300/305/305T, JVC KY-PZ510/PZ540N, Bolin R9-418F, Minrray UV430E0/E2/E3/UV950E0/E2 (21 entries updated)
+- birddog-maki-ultra: skipped — ID not present in database
+- datavideo-ptc-280: weightG remains null — not confirmed via Tier 1/2 source
+- minrray-uv950e2: weightG set to 1540 g (gtrdirect.ca, recent listing); conflicting value 2000 g (manualslib, older edition) discarded in favour of more recent source
+
 
 - **1.10.0** (2026-05-10) — Null-audit pass 1 Lumens+Marshall: 9 entries. lumens-vc-a53/61p/61pn/tr1/r30: weightG+dims added (data sheets). marshall-cv630-ip/ndi/bi: maxPanSpeedDegS=100, maxTiltSpeedDegS=100 (CV630-IP cut sheet). marshall-cv605-u3: weightG=1290, widthMm=145, heightMm=154 (manua.ls). depthMm for cv605-u3 confirmed legitimately null (not published in any Tier 1/2 source).
 

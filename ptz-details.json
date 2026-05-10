@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.0",
   "updatedAt": "2026-05-10",
   "cameras": [
     {
@@ -1354,8 +1354,8 @@
       ],
       "hasPoE": true,
       "presetCount": 255,
-      "panRangeDeg": null,
-      "tiltRangeDeg": null,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
       "maxPanSpeedDegS": null,
       "maxTiltSpeedDegS": null,
       "hasIR": true,
@@ -1396,8 +1396,8 @@
       ],
       "hasPoE": true,
       "presetCount": 255,
-      "panRangeDeg": null,
-      "tiltRangeDeg": null,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
       "maxPanSpeedDegS": 80,
       "maxTiltSpeedDegS": 49,
       "hasIR": true,
@@ -1412,7 +1412,8 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
-        "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html"
+        "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html",
+        "https://www.fullcompass.com/prod/jvc-ky-pz540"
       ]
     },
     {
@@ -2276,10 +2277,10 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1000,
+      "widthMm": 145,
+      "heightMm": 154,
+      "depthMm": 145,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -2397,15 +2398,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2000,
+      "widthMm": 195,
+      "heightMm": 214,
+      "depthMm": 164,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://birddog.tv/p200-overview/"
+        "https://birddog.tv/p200-overview/",
+        "https://birddog.tv/p200-overview/p200-techspecs/"
       ]
     },
     {
@@ -2472,10 +2474,10 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 1.6,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2700,
+      "widthMm": 195,
+      "heightMm": 217,
+      "depthMm": 164,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": true,
@@ -2510,15 +2512,16 @@
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 1.7,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3400,
+      "widthMm": 196,
+      "heightMm": 247,
+      "depthMm": 165,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": true,
       "sources": [
-        "https://birddog.tv/p4k-overview/"
+        "https://birddog.tv/p4k-overview/",
+        "https://birddog.tv/p4k-overview/p4k-techspecs/"
       ]
     },
     {
@@ -2541,23 +2544,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-140"
+        "https://www.datavideo.com/product/PTC-140",
+        "https://www.soundpro.com/item/50247"
       ]
     },
     {
@@ -2580,23 +2584,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 50,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 120,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2700,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-150"
+        "https://www.datavideo.com/product/PTC-150",
+        "https://datavideo.com/global/product/ptc-150"
       ]
     },
     {
@@ -2619,23 +2624,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 50,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 120,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2700,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-150T"
+        "https://www.datavideo.com/product/PTC-150T",
+        "https://datavideo.com/global/product/ptc-150"
       ]
     },
     {
@@ -2659,23 +2665,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
       "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-280"
+        "https://www.datavideo.com/product/PTC-280",
+        "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html"
       ]
     },
     {
@@ -2699,23 +2706,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2300,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-285"
+        "https://www.datavideo.com/product/PTC-285",
+        "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
       ]
     },
     {
@@ -2739,23 +2747,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2300,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-285T"
+        "https://www.datavideo.com/product/PTC-285T",
+        "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
       ]
     },
     {
@@ -2779,23 +2788,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-300"
+        "https://www.datavideo.com/product/PTC-300",
+        "https://datavideo.com/in/product/PTC-305/export"
       ]
     },
     {
@@ -2819,23 +2829,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-305"
+        "https://www.datavideo.com/product/PTC-305",
+        "https://datavideo.com/in/product/PTC-305/export"
       ]
     },
     {
@@ -2859,23 +2870,24 @@
         "IP"
       ],
       "hasPoE": true,
-      "presetCount": null,
+      "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
       "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.datavideo.com/product/PTC-305T"
+        "https://www.datavideo.com/product/PTC-305T",
+        "https://datavideo.com/global/product/PTC-305/export"
       ]
     },
     {
@@ -3967,16 +3979,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 3800,
+      "widthMm": 201,
+      "heightMm": 256,
+      "depthMm": 253,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera",
-        "https://www.bhphotovideo.com/c/product/1830658-REG/bolin_technology_r9_418findoor_1_sensor_4k.html"
+        "https://www.bhphotovideo.com/c/product/1830658-REG/bolin_technology_r9_418findoor_1_sensor_4k.html",
+        "https://dotworkz.com/wp-content/uploads/2025/10/Bolin-R9-418F.pdf"
       ]
     },
     {
@@ -4413,16 +4426,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
-        "https://en.minrrayav.com/Products/262.html"
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
       ]
     },
     {
@@ -4453,16 +4467,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
-        "https://en.minrrayav.com/Products/262.html"
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
       ]
     },
     {
@@ -4493,16 +4508,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
-        "https://en.minrrayav.com/Products/262.html"
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-hdmi-output/"
       ]
     },
     {
@@ -4609,16 +4625,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1540,
+      "widthMm": 172,
+      "heightMm": 168,
+      "depthMm": 258,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html",
-        "https://en.minrrayav.com/Products/339.html"
+        "https://en.minrrayav.com/Products/339.html",
+        "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
       ]
     },
     {
@@ -4649,16 +4666,17 @@
       "hasIR": false,
       "whiteBalanceModes": null,
       "minLux": null,
-      "weightG": null,
-      "widthMm": null,
-      "heightMm": null,
-      "depthMm": null,
+      "weightG": 1540,
+      "widthMm": 172,
+      "heightMm": 168,
+      "depthMm": 258,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
-        "https://en.minrrayav.com/Products/339.html"
+        "https://en.minrrayav.com/Products/339.html",
+        "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
       ]
     }
   ]
