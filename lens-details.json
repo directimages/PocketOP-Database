@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0",
   "updatedAt": "2026-05-10",
   "lenses": [
     {
@@ -322,7 +322,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ]
     },
     {
       "id": "canon-uj27x6-5b",
@@ -340,7 +343,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html"
+      ]
     },
     {
       "id": "canon-uj86x9-3b",
@@ -358,7 +365,11 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1314025-REG/canon_uj86x9_3b_p01_dss_uhd_digisuper_86_broadcast.html"
+      ]
     },
     {
       "id": "canon-uj90x9b",
@@ -376,7 +387,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ]
     },
     {
       "id": "canon-uj122x8-2b",
@@ -390,11 +404,18 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1777903-REG/canon_uj122x8_2b_ie_d_uhd_digisuper.html"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-xj86x9-3b",
@@ -1408,7 +1429,10 @@
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ]
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1422,11 +1446,18 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://3dbroadcastsales.com/products/canon-uhd-digisuper-111-uj111x8-3b-box-lens"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1440,11 +1471,17 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
-      "formFactor": "box"
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      }
     },
     {
       "id": "canon-hj18ex7-6b",
