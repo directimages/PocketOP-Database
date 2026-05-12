@@ -1,5 +1,5 @@
 {
-      "version": "1.31.0",
+      "version": "1.32.0",
       "updatedAt": "2026-05-12",
       "lenses": [
             {
@@ -3638,10 +3638,16 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 111,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 200,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterType": "bpm-media.de spec sheet; bhphotovideo.com",
+                        "filterThreadMm": "bpm-media.de spec sheet; bhphotovideo.com",
+                        "focusRingRotationDeg": "fujifilm.com UK ZK pagina; bpm-media.de"
+                  }
             },
             {
                   "id": "fujinon-zk19-90mm-t2-9",
@@ -3657,10 +3663,14 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 111,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 200,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "focusRingRotationDeg": "fujifilm.com; fullcompass.com"
+                  }
             },
             {
                   "id": "fujinon-zk85-300mm",
@@ -3676,10 +3686,14 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 111,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 200,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "focusRingRotationDeg": "fullcompass.com; bhphotovideo.com; hotrodcameras.com"
+                  }
             },
             {
                   "id": "fujinon-zk25-300mm",
@@ -3692,13 +3706,19 @@
                   "introductionYear": 2014,
                   "imageCircleMm": 31.5,
                   "opticalElements": null,
-                  "filterType": "unconfirmed",
-                  "filterThreadMm": null,
+                  "filterType": "front_thread",
+                  "filterThreadMm": 111,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 280,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterType": "bhphotovideo.com; hotrodcameras.com",
+                        "filterThreadMm": "bhphotovideo.com; hotrodcameras.com",
+                        "focusRingRotationDeg": "bhphotovideo.com; hotrodcameras.com; newsshooter.com"
+                  }
             },
             {
                   "id": "fujinon-xk20-120mm",
@@ -3711,13 +3731,18 @@
                   "introductionYear": 2016,
                   "imageCircleMm": 31.5,
                   "opticalElements": null,
-                  "filterType": null,
-                  "filterThreadMm": null,
+                  "filterType": "front_thread",
+                  "filterThreadMm": 111,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 200,
-                  "gearPitch": 0.8
+                  "gearPitch": 0.8,
+                  "sources": {
+                        "hasFocusBreathing": "fujifilm.com XK pagina; bhphotovideo.com reviewer",
+                        "filterType": "tanotis.com; hotrodcameras.com",
+                        "filterThreadMm": "tanotis.com; hotrodcameras.com"
+                  }
             },
             {
                   "id": "fujinon-premista19-45mm-t2-9",
@@ -3730,13 +3755,19 @@
                   "introductionYear": 2021,
                   "imageCircleMm": 46.3,
                   "opticalElements": null,
-                  "filterType": null,
+                  "filterType": "matte_box",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 280,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterType": "bhphotovideo.com: does not have filter threads. Designed for 114mm Mattebox solutions",
+                        "filterThreadMm": "bhphotovideo.com: no filter threads; matte box only",
+                        "focusRingRotationDeg": "fdtimes.com; cvp.com"
+                  }
             },
             {
                   "id": "fujinon-premista28-100mm-t2-9",
@@ -3752,10 +3783,15 @@
                   "filterType": "unconfirmed",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 280,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterThreadMm": "bhphotovideo.com; abelcine.com",
+                        "focusRingRotationDeg": "bhphotovideo.com"
+                  }
             },
             {
                   "id": "fujinon-premista80-250mm-t2-9",
@@ -3771,10 +3807,15 @@
                   "filterType": "unconfirmed",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
-                  "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "focusRingRotationDeg": 280,
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterThreadMm": "bhphotovideo.com; abelcine.com",
+                        "focusRingRotationDeg": "bhphotovideo.com; abelcine.com"
+                  }
             },
             {
                   "id": "fujinon-hzk14-100mm-t2-9",
@@ -3790,10 +3831,13 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 127,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "gearPitch": "unconfirmed",
+                  "sources": {
+                        "hasFocusBreathing": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)"
+                  }
             },
             {
                   "id": "fujinon-hzk24-300mm-t2-9",
@@ -3809,10 +3853,17 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 127,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "significant",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": null,
-                  "gearPitch": "unconfirmed"
+                  "gearPitch": "unconfirmed",
+                  "fieldNotes": {
+                        "hasFocusBreathing": "With BCT (Breathing Compensation Technology) enabled: minimal. BCT can be toggled on/off via the lens control system."
+                  },
+                  "sources": {
+                        "hasFocusBreathing": "newsshooter.com review: \"exhibits a lot of lens breathing\" without BCT",
+                        "fieldNotes": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)"
+                  }
             },
             {
                   "id": "fujinon-hzk25-1000mm-f2-8",
@@ -3828,7 +3879,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 241,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": null,
                   "gearPitch": null,
@@ -3838,7 +3889,8 @@
                         "closeFocusM": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk25-1000",
                         "filterThreadMm": "https://www.ducloslenses.com/products/25-1000-duvo",
                         "imageCircleMm": "https://www.newsshooter.com/2023/03/22/fujinon-duvo-hzk25-1000mm-f2-8-f5-0-pl-mount-cinema-box-lens-now-shipping/",
-                        "introductionYear": "https://ymcinema.com/2023/03/23/fujifilm-ships-its-flagship-fujinon-duvo-25-1000-cinema-box-lens-price-250000/"
+                        "introductionYear": "https://ymcinema.com/2023/03/23/fujifilm-ships-its-flagship-fujinon-duvo-25-1000-cinema-box-lens-price-250000/",
+                        "hasFocusBreathing": "fujifilm.com HZK25-1000 pagina -- BCT"
                   }
             },
             {
@@ -5700,7 +5752,7 @@
                   "filterType": "rear",
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 280,
                   "gearPitch": null,
@@ -5736,7 +5788,7 @@
                   "filterType": "rear",
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 280,
                   "gearPitch": null,
@@ -5772,7 +5824,7 @@
                   "filterType": "rear",
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 280,
                   "gearPitch": null,
@@ -5808,7 +5860,7 @@
                   "filterType": "rear",
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 280,
                   "gearPitch": null,
@@ -7882,7 +7934,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 82,
                   "isParfocal": true,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": false,
                   "focusRingRotationDeg": 200,
                   "gearPitch": 0.8,
@@ -7898,7 +7950,7 @@
                         "filterType": "fujifilm.com: 82mm front filter thread (tier-1)",
                         "filterThreadMm": "fujifilm.com MK18-55mm: 82mm (tier-1)",
                         "isParfocal": "fujifilm.com and multiple reviews confirm parfocal design (tier-1 explicit claim)",
-                        "hasFocusBreathing": "Not explicitly stated in fujifilm.com MK specs",
+                        "hasFocusBreathing": "cined.com lab test; newsshooter.com; videomaker.com; provideocoalition.com; fujinon.com",
                         "hasFrontRotation": "fujifilm.com: internal zoom/focus design; no front element rotation (tier-1)",
                         "focusRingRotationDeg": "fujifilm.com MK18-55mm: 200 degrees (tier-1)",
                         "gearPitch": "fujifilm.com MK18-55mm: 0.8mm pitch (tier-1)"
@@ -7918,7 +7970,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 82,
                   "isParfocal": true,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": false,
                   "focusRingRotationDeg": 200,
                   "gearPitch": 0.8,
@@ -7934,7 +7986,7 @@
                         "filterType": "fujifilm.com: 82mm front filter thread (tier-1)",
                         "filterThreadMm": "fujifilm.com MK50-135mm: 82mm (tier-1)",
                         "isParfocal": "fujifilm.com and multiple reviews confirm parfocal design (tier-1 explicit claim)",
-                        "hasFocusBreathing": "Not explicitly stated in fujifilm.com MK specs",
+                        "hasFocusBreathing": "videomaker.com; newsshooter.com; cined.com; fujinon.com",
                         "hasFrontRotation": "fujifilm.com: internal zoom/focus design; no front element rotation (tier-1)",
                         "focusRingRotationDeg": "fujifilm.com MK50-135mm: 200 degrees (tier-1)",
                         "gearPitch": "fujifilm.com MK50-135mm: 0.8mm pitch (tier-1)"

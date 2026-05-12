@@ -3,6 +3,20 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.32.0 — 2026-05-12
+
+- Fujinon cine null-audit pass 1 (Kay research):
+- hasFocusBreathing null→"unconfirmed": zk14-35, zk19-90, zk85-300, zk25-300, premista19-45, premista28-100, premista80-250, hk3-1x14-5, hk4-7x18, hk7-5x24, hk5-3x75 — geen breathing test gevonden
+- hasFocusBreathing null→"minimal": xk20-120 (fujifilm.com XK; bhphotovideo.com), hzk14-100 (fujifilm.com; topteks.com BCT), hzk25-1000 (fujifilm.com BCT), mk18-55 (cined.com; newsshooter.com; videomaker.com; provideocoalition.com; fujinon.com), mk50-135 (videomaker.com; newsshooter.com; cined.com; fujinon.com)
+- hasFocusBreathing null→"significant": hzk24-300 — newsshooter.com: "exhibits a lot of lens breathing" without BCT
+- fieldNotes.hasFocusBreathing added: hzk24-300 — BCT reduces to minimal when enabled; toggleable
+- filterType null→"matte_box": premista19-45 — bhphotovideo.com: no filter threads, 114mm matte box
+- filterType "unconfirmed"→"front_thread" + filterThreadMm null→111: zk25-300 — bhphotovideo.com; hotrodcameras.com
+- filterType null→"front_thread" + filterThreadMm null→111: xk20-120 — tanotis.com; hotrodcameras.com
+- focusRingRotationDeg null→200: zk14-35 (fujifilm.com UK; bpm-media.de), zk19-90 (fujifilm.com; fullcompass.com), zk85-300 (fullcompass.com; bhphotovideo.com; hotrodcameras.com)
+- focusRingRotationDeg null→280: zk25-300 (bhphotovideo.com; hotrodcameras.com; newsshooter.com), premista19-45 (fdtimes.com; cvp.com), premista28-100 (bhphotovideo.com), premista80-250 (bhphotovideo.com; abelcine.com)
+- sources added to all updated entries
+
 ### v1.31.0 — 2026-05-12
 
 - Angénieux cine null-audit pass 1 (Kay research):
