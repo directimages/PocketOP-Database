@@ -1,5 +1,5 @@
 {
-      "version": "1.30.0",
+      "version": "1.31.0",
       "updatedAt": "2026-05-12",
       "lenses": [
             {
@@ -3886,7 +3886,7 @@
                   "filterType": null,
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": false,
                   "focusRingRotationDeg": 310,
                   "gearPitch": 0.8,
@@ -3896,6 +3896,7 @@
                         "frontDiameterMm": "https://www.ducloslenses.com/products/ultra2156",
                         "closeFocusM": "https://www.ducloslenses.com/products/ultra2156",
                         "imageCircleMm": "https://www.ducloslenses.com/products/ultra2156",
+                        "hasFocusBreathing": "angenieux.com; bhphotovideo.com; cined.com — no ramping, minimal breathing",
                         "hasFrontRotation": "https://www.bandpro.com/angenieux-optimo-ultra-compact",
                         "focusRingRotationDeg": "https://www.bandpro.com/angenieux-optimo-ultra-compact",
                         "gearPitch": "ARRI FF Gear 0.8 Module compatibility confirmed via search results",
@@ -3916,7 +3917,7 @@
                   "filterType": null,
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": false,
                   "focusRingRotationDeg": 310,
                   "gearPitch": 0.8,
@@ -3926,6 +3927,7 @@
                         "frontDiameterMm": "https://www.ducloslenses.com/products/ultra37102",
                         "closeFocusM": "https://www.ducloslenses.com/products/ultra37102",
                         "imageCircleMm": "https://www.ducloslenses.com/products/ultra37102",
+                        "hasFocusBreathing": "angenieux.com; bhphotovideo.com; fdtimes.com",
                         "hasFrontRotation": "https://www.bandpro.com/angenieux-optimo-ultra-compact",
                         "focusRingRotationDeg": "https://www.bandpro.com/angenieux-optimo-ultra-compact",
                         "gearPitch": "ARRI FF Gear 0.8 Module compatibility confirmed via search results",
@@ -3946,7 +3948,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 110,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 300,
                   "gearPitch": 0.8,
@@ -3957,6 +3959,7 @@
                         "closeFocusM": "https://www.ducloslenses.com/products/angenieux-type-ez-1",
                         "imageCircleMm": "https://www.ducloslenses.com/products/angenieux-type-ez-1",
                         "filterThreadMm": "https://www.ducloslenses.com/products/angenieux-type-ez-1",
+                        "hasFocusBreathing": "angenieux.com EZ brochure — no statement on breathing found",
                         "focusRingRotationDeg": "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/",
                         "gearPitch": "multiple sources: EZ series industry-standard 0.8M gears",
                         "introductionYear": "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/"
@@ -3976,7 +3979,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 110,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 300,
                   "gearPitch": 0.8,
@@ -3987,6 +3990,7 @@
                         "closeFocusM": "https://www.ducloslenses.com/products/angenieux-type-ez-2-15-40mm-t2-0",
                         "imageCircleMm": "https://www.ducloslenses.com/products/angenieux-type-ez-2-15-40mm-t2-0",
                         "filterThreadMm": "https://www.ducloslenses.com/products/angenieux-type-ez-2-15-40mm-t2-0",
+                        "hasFocusBreathing": "angenieux.com EZ brochure — no statement found",
                         "focusRingRotationDeg": "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/",
                         "gearPitch": "multiple sources: EZ series industry-standard 0.8M gears",
                         "introductionYear": "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/"
@@ -4006,7 +4010,7 @@
                   "filterType": "front_thread",
                   "filterThreadMm": 110,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "unconfirmed",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 300,
                   "gearPitch": 0.8,
@@ -4017,6 +4021,7 @@
                         "closeFocusM": "https://www.ducloslenses.com/products/ez3",
                         "imageCircleMm": "https://www.ducloslenses.com/products/ez3",
                         "filterThreadMm": "https://www.ducloslenses.com/products/ez3",
+                        "hasFocusBreathing": "cbm-cine.com EZ-3 spec sheet — no statement found",
                         "focusRingRotationDeg": "multiple sources: EZ series 300° confirmed across EZ-1/EZ-2/EZ-3",
                         "gearPitch": "multiple sources: EZ series industry-standard 0.8M gears",
                         "introductionYear": "https://www.newsshooter.com/2023/08/31/angenieux-ez-3-45-163mm-t2-3-3-s35-68-250mm-t3-5-4-ff/"
@@ -4047,6 +4052,7 @@
                         "closeFocusM": "multiple sources: B&H listing, search results",
                         "imageCircleMm": "multiple sources: B&H listing S35+ 31.4mm diagonal",
                         "filterType": "search: no filter thread; 114mm front accepts standard matte box clamps",
+                        "filterThreadMm": "newprovideo.com — Filter Thread: No; angenieux.com",
                         "hasFocusBreathing": "search result citing B&H/Newsshooter: 'no signs of breathing during focus pulls'",
                         "hasFrontRotation": "search: 'internal focus design, lens length stays constant'",
                         "focusRingRotationDeg": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
@@ -4079,6 +4085,7 @@
                         "closeFocusM": "multiple sources: 2' close focus from B&H listing and search results",
                         "imageCircleMm": "search: S35+ 31.4mm diagonal",
                         "filterType": "search: no filter thread; 114mm front accepts standard matte box clamps",
+                        "filterThreadMm": "newprovideo.com; angenieux.com — no filter thread",
                         "hasFocusBreathing": "search: 'displaying no signs of breathing during focus pulls'",
                         "hasFrontRotation": "search: 'internal focus design, lens length stays constant as focus changes'",
                         "focusRingRotationDeg": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
@@ -4100,14 +4107,15 @@
                   "filterType": "matte_box",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
-                  "hasFocusBreathing": "needs_review",
+                  "hasFocusBreathing": "minimal",
                   "hasFrontRotation": false,
                   "focusRingRotationDeg": 320,
                   "gearPitch": 0.8,
                   "sources": {
                         "weightG": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
                         "imageCircleMm": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
-                        "hasFocusBreathing": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
+                        "hasFocusBreathing": "angenieux.com; fdtimes.com; britishcinematographer.co.uk",
+                        "filterThreadMm": "angenieux.com; bhphotovideo.com — 114mm front for matte boxes, no filter thread",
                         "focusRingRotationDeg": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
                         "gearPitch": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
                         "hasFrontRotation": "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
@@ -4143,6 +4151,7 @@
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
                         "filterType": "Angénieux documentation: internal M40.5mm filter slot supplied with lens",
+                        "filterThreadMm": "angenieux.com — front fitting is for optional protective glass, not a filter thread",
                         "hasFrontRotation": "Angénieux documentation: internal focus mechanism confirmed",
                         "gearPitch": "Standard M0.8 cinema pitch — rental house documentation"
                   }
@@ -4172,6 +4181,7 @@
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
                         "filterType": "114mm front barrel confirmed, no filter thread found — matte_box classification consistent with Optimo Style 16-40/30-76",
+                        "filterThreadMm": "cinevisuals.com; bhphotovideo.com; ottonemenz.com — 114mm front, geen thread",
                         "focusRingRotationDeg": "Preston FIZ motor database",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
@@ -4201,6 +4211,7 @@
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
                         "filterType": "114mm front barrel confirmed, no filter thread found — matte_box classification consistent with Optimo Style 16-40/30-76",
+                        "filterThreadMm": "cinevisuals.com; bhphotovideo.com — 114mm front, geen thread",
                         "focusRingRotationDeg": "Preston FIZ motor database",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
@@ -4230,6 +4241,7 @@
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
                         "filterType": "114mm front barrel confirmed, no filter thread found — matte_box classification consistent with Optimo Style 16-40/30-76",
+                        "filterThreadMm": "cinevisuals.com — 114mm front, geen thread",
                         "focusRingRotationDeg": "Preston FIZ motor database",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
@@ -4258,6 +4270,7 @@
                         "lengthMm": "Duclos Lenses spec database",
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
+                        "filterThreadMm": "cinerent.net; cinetecnico.com — 136mm front, geen thread",
                         "focusRingRotationDeg": "Preston FIZ motor database",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
@@ -4286,6 +4299,7 @@
                         "lengthMm": "Duclos Lenses spec database",
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
+                        "filterThreadMm": "bhphotovideo.com; ottonemenz.com — 136mm front, geen thread",
                         "hasFrontRotation": "Angénieux documentation: internal focus confirmed",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
@@ -4314,6 +4328,7 @@
                         "lengthMm": "Duclos Lenses spec database",
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
+                        "filterThreadMm": "bhphotovideo.com; vmi.tv — 162mm front, geen thread",
                         "hasFrontRotation": "Angénieux documentation: internal focus confirmed",
                         "focusRingRotationDeg": "Preston FIZ motor database",
                         "gearPitch": "Standard M0.8 cinema pitch"
@@ -4343,6 +4358,7 @@
                         "lengthMm": "Duclos Lenses spec database",
                         "frontDiameterMm": "Duclos Lenses spec database",
                         "closeFocusM": "Duclos Lenses spec database",
+                        "filterThreadMm": "bhphotovideo.com; angenieux.com 28-340 PDF — 162mm front, geen thread",
                         "gearPitch": "Standard M0.8 cinema pitch"
                   }
             },
@@ -5828,7 +5844,7 @@
                   "filterType": null,
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "none",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 320,
                   "gearPitch": 0.8,
@@ -5844,7 +5860,7 @@
                         "filterType": "ManualsLib OEM manual: internal filter slot only; no front filter thread; filter type uncertain — null",
                         "filterThreadMm": "filterType null; internal slot only, no thread size applicable",
                         "isParfocal": "Parfocal not explicitly claimed for Optimo DP 16-42mm; POS-D11 applied",
-                        "hasFocusBreathing": "Not explicitly stated in accessible documentation",
+                        "hasFocusBreathing": "hhf-old.handheldfilms.com; bhphotovideo.com; fjsinternational.com — Zero Breathing and Ramping",
                         "hasFrontRotation": "Not stated in accessible documentation",
                         "focusRingRotationDeg": "ManualsLib Optimo DP 16-42 OEM manual: 320 degrees. ManualsLib Angénieux Optimo DP OEM manual (tier-1) + VMI rental hire page / ovide.com (tier-2)",
                         "gearPitch": "ManualsLib OEM manual: legacy pitch-32 system (25.4/32 = 0.794mm module ≈ 0.8mm) (tier-1)"
@@ -5864,7 +5880,7 @@
                   "filterType": null,
                   "filterThreadMm": null,
                   "isParfocal": false,
-                  "hasFocusBreathing": null,
+                  "hasFocusBreathing": "none",
                   "hasFrontRotation": null,
                   "focusRingRotationDeg": 320,
                   "gearPitch": 0.8,
@@ -5880,7 +5896,7 @@
                         "filterType": "ManualsLib OEM manual: internal filter slot only; no front filter thread; filter type uncertain — null",
                         "filterThreadMm": "filterType null; internal slot only, no thread size applicable",
                         "isParfocal": "Parfocal not explicitly claimed for Optimo DP 30-80mm; POS-D11 applied",
-                        "hasFocusBreathing": "Not explicitly stated in accessible documentation",
+                        "hasFocusBreathing": "hhf-old.handheldfilms.com; fjsinternational.com — Zero Breathing and Ramping",
                         "hasFrontRotation": "Not stated in accessible documentation",
                         "focusRingRotationDeg": "Consistent with Optimo DP 16-42mm OEM manual: 320 degrees. ManualsLib Angénieux Optimo DP OEM manual (tier-1) + VMI rental hire page / ovide.com (tier-2)",
                         "gearPitch": "ManualsLib OEM manual: legacy pitch-32 system (25.4/32 = 0.794mm module ≈ 0.8mm) (tier-1)"

@@ -3,6 +3,16 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.31.0 — 2026-05-12
+
+- Angénieux cine null-audit pass 1 (Kay research):
+- hasFocusBreathing null→"minimal": optimo-ultra-compact-21-56, optimo-ultra-compact-37-102 — angenieux.com; bhphotovideo.com; cined.com/fdtimes.com
+- hasFocusBreathing null→"unconfirmed": type-ez-1, type-ez-2 (EZ brochure, no statement), type-ez-3 (cbm-cine.com, no statement)
+- hasFocusBreathing null→"none": optimo-dp-16-42mm-t2-8, optimo-dp-30-80mm-t2-8 — hhf-old.handheldfilms.com; fjsinternational.com "Zero Breathing and Ramping"
+- hasFocusBreathing needs_review→"minimal": optimo-style-48-130 — angenieux.com; fdtimes.com; britishcinematographer.co.uk
+- filterThreadMm sources added (null confirmed): optimo-style-16-40, optimo-style-30-76, optimo-style-48-130, optimo-style-25-250
+- filterThreadMm sources added (null confirmed): optimo-15-40, optimo-28-76, optimo-45-120, optimo-17-80, optimo-19-5-94, optimo-24-290, optimo-28-340
+
 ### v1.30.0 — 2026-05-12
 
 - ARRI cine null-audit pass 1 (Kay research):
