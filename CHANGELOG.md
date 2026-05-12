@@ -210,6 +210,16 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.15.0 — 2026-05-12
+- schema migration: hasPoE (boolean) replaced with poeClass (string enum) across all 120 entries
+- enum values: "none" (no PoE), "PoE" (802.3af), "PoE+" (802.3at), "PoE++" (802.3bt)
+- distribution: PoE++ ×18, PoE+ ×70, PoE ×28, none ×4
+- datavideo-ptc-140 + datavideo-ptc-150: poeClass "none" + fieldNotes.poeClass "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+- research: Kay (poeClass-research.md, 2026-05-12)
+
+### v1.14.0 — 2026-05-12
+- 9 stub entries filled: canon-cr-n400, canon-cr-n350, canon-cr-x300, sony-brc-am7, sony-brc-h900, jvc-ky-pz200, jvc-ky-pz200n, birddog-p110, birddog-p120
+
 ### v1.13.0 — 2026-05-10
 - correction: minrray-uv510e0/e2 heightMm 168 -> 167.5 (published value; rounding to integer was incorrect)
 
