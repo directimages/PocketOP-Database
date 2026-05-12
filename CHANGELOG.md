@@ -3,6 +3,15 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.32.3 — 2026-05-12
+
+- webSources field added to all 551 lens entries (migration pass):
+- Group 4 (121 lenses): webSources copied from existing sources array
+- Group 2 (10 lenses): URLs extracted from sources object text values
+- Group 1 (404 lenses): webSources set to [manufacturerUrl] (fallback)
+- Group 1 (16 lenses): webSources set to [] — no URL available (Cooke CXX/Varotal, ZEISS CP.2, Laowa Ultima)
+- 535 lenses have ≥1 URL in webSources; 16 have []
+
 ### v1.32.2 — 2026-05-12
 
 - Canon cine null-audit pass 1 (Kay research, session 06/18):
