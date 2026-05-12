@@ -3,6 +3,9 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.28.0 — 2026-05-12
+- migrate hasFocusBreathing from boolean to string enum: false→"none" (82), true→"needs_review" (69); null/unconfirmed/absent unchanged
+
 ### v1.27.0 — 2026-05-12
 
 - add lensType field (POS-D18): "broadcast" (twoThirdsInch) or "cine" (all other sensorFormats); 121 broadcast, 430 cine; joined from lenses.json on id
