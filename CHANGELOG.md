@@ -3,6 +3,10 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.32.1 — 2026-05-12
+
+- filterType "unconfirmed"→"matte_box": premista28-100 (bhphotovideo.com; abelcine.com), premista80-250 (bhphotovideo.com; abelcine.com; ottonemenz.com) — correction to v1.32.0
+
 ### v1.32.0 — 2026-05-12
 
 - Fujinon cine null-audit pass 1 (Kay research):

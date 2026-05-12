@@ -1,5 +1,5 @@
 {
-      "version": "1.32.0",
+      "version": "1.32.1",
       "updatedAt": "2026-05-12",
       "lenses": [
             {
@@ -3780,7 +3780,7 @@
                   "introductionYear": 2019,
                   "imageCircleMm": 46.3,
                   "opticalElements": null,
-                  "filterType": "unconfirmed",
+                  "filterType": "matte_box",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
                   "hasFocusBreathing": "unconfirmed",
@@ -3789,6 +3789,7 @@
                   "gearPitch": "unconfirmed",
                   "sources": {
                         "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterType": "bhphotovideo.com; abelcine.com -- 114mm front diameter, no filter threads, designed for 114mm matte box",
                         "filterThreadMm": "bhphotovideo.com; abelcine.com",
                         "focusRingRotationDeg": "bhphotovideo.com"
                   }
@@ -3804,7 +3805,7 @@
                   "introductionYear": 2019,
                   "imageCircleMm": 46.3,
                   "opticalElements": null,
-                  "filterType": "unconfirmed",
+                  "filterType": "matte_box",
                   "filterThreadMm": null,
                   "isParfocal": "unconfirmed",
                   "hasFocusBreathing": "unconfirmed",
@@ -3813,6 +3814,7 @@
                   "gearPitch": "unconfirmed",
                   "sources": {
                         "hasFocusBreathing": "Geen breathing test gevonden",
+                        "filterType": "bhphotovideo.com; abelcine.com; ottonemenz.com -- 114mm front diameter, matte box only",
                         "filterThreadMm": "bhphotovideo.com; abelcine.com",
                         "focusRingRotationDeg": "bhphotovideo.com; abelcine.com"
                   }
