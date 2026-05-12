@@ -3,6 +3,10 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.27.0 — 2026-05-12
+
+- add lensType field (POS-D18): "broadcast" (twoThirdsInch) or "cine" (all other sensorFormats); 121 broadcast, 430 cine; joined from lenses.json on id
+
 ### v1.26.0 — 2026-05-10
 - null-audit broadcast weightG/lengthMm/closeFocusM pass 3: 24 entries, 64 fields updated
 - Canon CJ (2): cj20ex5b all 3 fields; cj45ex13-6b all 3 fields — tier 1 canon.nl/canon-europe.com
