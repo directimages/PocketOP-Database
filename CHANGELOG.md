@@ -3,6 +3,28 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.32.2 — 2026-05-12
+
+- Canon cine null-audit pass 1 (Kay research, session 06/18):
+- hasFocusBreathing null→"minimal": cn7x17-kas-s-p1 (Canon tier-1), cn8x15-ias-s-p1, cn10x25-ias-s-p1, cn5x11-ias-t-p1, cne18-80mm-t4-4, cne70-200mm-t4-4, cne15-5-47mm-t2-8, cne30-105mm-t2-8, cne15-5-47mm-t2-8-ef, cne30-105mm-t2-8-ef, cne20-50mm-t2-4-ff, cne45-135mm-t2-4-ff, cne14-35mm-t1-7, cne31-5-95mm-t1-7, cn30x40-ias-pl, cn30x40-ias-rf, cne14mm-t3-1, cne24mm-t1-5, cne35mm-t1-5, cne50mm-t1-3, cne85mm-t1-3, cne135mm-t2-2, cne14mm-t3-1-pl, cne24mm-t1-5-pl, cne35mm-t1-5-pl, cne50mm-t1-3-pl, cne85mm-t1-3-pl, cne135mm-t2-2-pl
+- hasFocusBreathing null→"none": cn7x17-kas-t-p1 (Canon: hardware optical focus breathing correction in servo)
+- hasFocusBreathing null→"significant": cn20x50-ias-h-p1 (CineD independent review: "quite distinctive at 850mm+")
+- hasFocusBreathing null→"significant" (EF photo lenses — editorial classification): ef-16-35-f2-8l-ii, ef-16-35-f4l-is, ef-17-40-f4l, ef-24-70-f2-8l-ii, ef-24-70-f4l-is, ef-24-105-f4l-is-ii, ef-70-200-f2-8l-is-iii, ef-70-200-f2-8l-is-ii, ef-70-200-f4l-is-ii, ef-70-200-f4l, ef-100-400-f4-5-5-6l-is-ii, ef-200-400-f4l-is-ext1-4, ef-70-300-f4-5-6l-is, ef-28-300-f3-5-5-6l-is, ef-100-macro, ef-200-f2l-is, ef-300-f2-8l-is-ii, ef-300-f4l-is, ef-400-f2-8l-is-iii, ef-400-do-is-ii, ef-400-f5-6l, ef-500-f4l-is-ii, ef-600-f4l-is-iii, ef-800-f5-6l-is, ef-135-f2l
+- hasFocusBreathing null→"moderate" (EF photo lenses — editorial classification): ef-24mm-f1-4l-ii, ef-35mm-f1-4l-ii, ef-50mm-f1-2l, ef-85mm-f1-2l-ii, ef-85mm-f1-4l-is
+- hasFocusBreathing "none"→"minimal" (correction): cne14-35mm-t1-7-ef, cne31-5-95mm-t1-7-ef — same optical design as PL variants; "none" was incorrect
+- fieldNotes.hasFocusBreathing added: cn20x50-ias-h-p1 — CineD review context
+- isParfocal "unconfirmed"→true: cn7x17-kas-s-p1, cn7x17-kas-t-p1, cn8x15-ias-s-p1, cn10x25-ias-s-p1, cn20x50-ias-h-p1, cn5x11-ias-t-p1, cne15-5-47mm-t2-8, cne30-105mm-t2-8, cne45-135mm-t2-4-ff, cne14-35mm-t1-7
+- isParfocal null→"unconfirmed": cn30x40-ias-pl, cn30x40-ias-rf (Tim: zoek Canon CN30x40 specs)
+- gearPitch "unconfirmed"→"0.8": cn7x17-kas-s-p1, cn7x17-kas-t-p1, cn8x15-ias-s-p1, cn10x25-ias-s-p1, cn20x50-ias-h-p1, cne14mm-t3-1, cne24mm-t1-5, cne35mm-t1-5, cne50mm-t1-3, cne85mm-t1-3, cne135mm-t2-2
+- filterType null→"front_thread": cn7x17-kas-s-p1, cn10x25-ias-s-p1, cn20x50-ias-h-p1, cn5x11-ias-t-p1
+- filterType null→"matte_box": cne14-35mm-t1-7, cne31-5-95mm-t1-7, cne14-35mm-t1-7-ef, cne31-5-95mm-t1-7-ef
+- filterThreadMm null→112: cn7x17-kas-s-p1 (AbelCine)
+- filterThreadMm null→"unconfirmed": cn10x25-ias-s-p1, cn5x11-ias-t-p1
+- focusRingRotationDeg 180→200 (correction): cn7x17-kas-t-p1 — cbm-cine + Canon UK spec page
+- imageCircleMm null→27.5: cne14-35mm-t1-7, cne31-5-95mm-t1-7, cne14-35mm-t1-7-ef, cne31-5-95mm-t1-7-ef
+- imageCircleMm null→43.2: all 30 EF photo lens entries (EF mount standard)
+- sources added to all updated entries
+
 ### v1.32.1 — 2026-05-12
 
 - filterType "unconfirmed"→"matte_box": premista28-100 (bhphotovideo.com; abelcine.com), premista80-250 (bhphotovideo.com; abelcine.com; ottonemenz.com) — correction to v1.32.0
