@@ -3,6 +3,14 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.30.0 — 2026-05-12
+
+- ARRI cine null-audit pass 1 (Kay research):
+- gearPitch null→0.8: all 16 Signature Primes (12/15/18/21/25/29/35/40/47/58/75/95/125/150/200/280mm T1.8) — Panny Hire mechanical spec; ARRI follow-focus gear catalog
+- focusRingRotationDeg null→280: all 16 Master Primes (12/14/16/18/21/25/27/32/35/40/50/65/75/100/135/150mm T1.3) — Cinetecnico rental page
+- focusRingRotationDeg null→320: Signature Zoom 24-75 T2.8, Signature Zoom 45-135 T2.8 — FJS International rental page
+- filterThreadMm: all 55 ARRI cine entries already null — no writes needed
+
 ### v1.29.0 — 2026-05-12
 
 - DZOFilm cine null-audit pass 1 (Kay research):
