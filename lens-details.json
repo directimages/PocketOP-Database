@@ -1,6 +1,6 @@
 {
-  "version": "1.28.0",
-  "updatedAt": "2026-05-10",
+  "version": "1.29.0",
+  "updatedAt": "2026-05-12",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -5347,7 +5347,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": false,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -5365,7 +5365,7 @@
         "filterType": "dzofilm.com: M77 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
         "isParfocal": "dzofilm.com makes no parfocal claim for Catta Ace; POS-D11: DZOFilm explicitly claims parfocal for Pictor/Tango/X-Tract — silence is informative",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/catta-zoom; petapixel.com; cined.com: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -5382,7 +5382,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": false,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -5400,7 +5400,7 @@
         "filterType": "dzofilm.com: M77 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
         "isParfocal": "dzofilm.com makes no parfocal claim for Catta Ace; POS-D11: DZOFilm explicitly claims parfocal for Pictor/Tango/X-Tract — silence is informative",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/catta-zoom; ducloslenses.com: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -5417,7 +5417,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": false,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -5435,7 +5435,7 @@
         "filterType": "dzofilm.com: M77 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
         "isParfocal": "dzofilm.com makes no parfocal claim for Catta Ace; POS-D11: DZOFilm explicitly claims parfocal for Pictor/Tango/X-Tract — silence is informative",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/catta-zoom: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -7161,6 +7161,7 @@
         "introductionYear": "Not found on dzofilm.com product page",
         "hasFrontRotation": "Not stated on dzofilm.com product page",
         "filterType": "dzofilm.com: no filter thread on standard 0°/90° probe models (primary)",
+        "filterThreadMm": "dzofilm.com/en/products/x-tract-probe-zoom; wexphotovideo.com; ducloslenses.com: probe lens, no filter thread; front diameter 29.6mm confirmed null (primary)",
         "isParfocal": "dzofilm.com: 'par-focal design: focus locked during zooming' (primary)",
         "hasFocusBreathing": "dzofilm.com: '0.5% breathing at 24mm vs 39.2% in comparable primes' — effectively negligible; highlighted as key advantage (primary)"
       }
@@ -14311,7 +14312,7 @@
       "lensType": "cine",
       "manufacturerUrl": "https://dzofilm.com/products/vespid-prime",
       "weightG": 880,
-      "lengthMm": null,
+      "lengthMm": 87,
       "frontDiameterMm": 80,
       "closeFocusM": 0.28,
       "introductionYear": 2020,
@@ -14336,7 +14337,7 @@
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
-        "lengthMm": "Not published by DZOFilm in spec table",
+        "lengthMm": "dzofilm.com/products/vespid-prime spec table (primary)",
         "closeFocusM": "dzofilm.com product specification table (primary)"
       }
     },
@@ -14347,7 +14348,7 @@
       "weightG": 1021,
       "lengthMm": 100,
       "frontDiameterMm": 80,
-      "closeFocusM": null,
+      "closeFocusM": 0.30,
       "introductionYear": 2020,
       "imageCircleMm": 46.5,
       "opticalElements": 12,
@@ -14371,7 +14372,7 @@
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
         "lengthMm": "dzofilm.com product specification table (primary)",
-        "closeFocusM": "Not published by DZOFilm in spec table"
+        "closeFocusM": "dzofilm.com/products/vespid-prime; bhphotovideo.com: 0.30m (primary)"
       }
     },
     {
@@ -14379,7 +14380,7 @@
       "lensType": "cine",
       "manufacturerUrl": "https://dzofilm.com/products/vespid-prime",
       "weightG": 962,
-      "lengthMm": null,
+      "lengthMm": 87,
       "frontDiameterMm": 80,
       "closeFocusM": 0.3,
       "introductionYear": 2020,
@@ -14404,7 +14405,7 @@
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
-        "lengthMm": "Not published by DZOFilm in spec table",
+        "lengthMm": "dzofilm.com/products/vespid-prime spec table (primary)",
         "closeFocusM": "dzofilm.com product specification table (primary)"
       }
     },
@@ -14415,7 +14416,7 @@
       "weightG": 905,
       "lengthMm": 87,
       "frontDiameterMm": 80,
-      "closeFocusM": null,
+      "closeFocusM": 0.30,
       "introductionYear": 2020,
       "imageCircleMm": 46.5,
       "opticalElements": 10,
@@ -14439,7 +14440,7 @@
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
         "lengthMm": "dzofilm.com product specification table (primary)",
-        "closeFocusM": "Not published by DZOFilm in spec table"
+        "closeFocusM": "bhphotovideo.com; hotrodcameras.com: 0.30m (primary)"
       }
     },
     {
@@ -14447,7 +14448,7 @@
       "lensType": "cine",
       "manufacturerUrl": "https://dzofilm.com/products/vespid-prime",
       "weightG": 857,
-      "lengthMm": null,
+      "lengthMm": 87,
       "frontDiameterMm": 80,
       "closeFocusM": 0.46,
       "introductionYear": 2020,
@@ -14472,7 +14473,7 @@
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
-        "lengthMm": "Not published by DZOFilm in spec table",
+        "lengthMm": "dzofilm.com/products/vespid-prime spec table (primary)",
         "closeFocusM": "dzofilm.com product specification table (primary)"
       }
     },
@@ -14481,7 +14482,7 @@
       "lensType": "cine",
       "manufacturerUrl": "https://dzofilm.com/products/vespid-prime",
       "weightG": 887,
-      "lengthMm": null,
+      "lengthMm": 87,
       "frontDiameterMm": 80,
       "closeFocusM": 0.6,
       "introductionYear": 2020,
@@ -14506,7 +14507,7 @@
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
-        "lengthMm": "Not published by DZOFilm in spec table",
+        "lengthMm": "dzofilm.com/products/vespid-prime spec table (primary)",
         "closeFocusM": "dzofilm.com product specification table (primary)"
       }
     },
@@ -14549,7 +14550,7 @@
       "lensType": "cine",
       "manufacturerUrl": "https://dzofilm.com/products/vespid-prime",
       "weightG": 981,
-      "lengthMm": null,
+      "lengthMm": 100,
       "frontDiameterMm": 80,
       "closeFocusM": 0.79,
       "introductionYear": 2020,
@@ -14574,7 +14575,7 @@
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
         "introductionYear": "CineD 2020: initial 6-lens Vespid Prime kit announced (tier-3, POS-D12)",
         "filterThreadMm": "dzofilm.com: M77 confirmed (primary)",
-        "lengthMm": "Not published by DZOFilm in spec table",
+        "lengthMm": "dzofilm.com/products/vespid-prime spec table (primary)",
         "closeFocusM": "dzofilm.com product specification table (primary)"
       }
     },
@@ -14589,8 +14590,8 @@
       "introductionYear": 2020,
       "imageCircleMm": 46.5,
       "opticalElements": 11,
-      "filterType": "none",
-      "filterThreadMm": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -14601,7 +14602,8 @@
         "frontDiameterMm": "dzofilm.com product specification table (primary)",
         "imageCircleMm": "dzofilm.com: 46.5mm Full Frame image circle (primary)",
         "opticalElements": "dzofilm.com product specification table (primary)",
-        "filterType": "dzofilm.com spec table: '/' — no filter thread (primary)",
+        "filterType": "dzofilm.com/products/vespid-prime spec table: M77 front filter thread confirmed (primary)",
+        "filterThreadMm": "dzofilm.com/products/vespid-prime spec table: M77 confirmed (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "hasFocusBreathing": "dzofilm.com/PDF: 'minimal breathing' — breathing present but reduced; hasFocusBreathing=true",
         "hasFrontRotation": "dzofilm.com: internal focus, front element non-rotating (primary)",
@@ -14625,7 +14627,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 105,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -14642,7 +14644,7 @@
         "hasFrontRotation": "Not stated on dzofilm.com product page",
         "filterType": "dzofilm.com: M105 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M105 confirmed (primary)",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/gnosis-macro: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -14659,7 +14661,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 105,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -14676,7 +14678,7 @@
         "hasFrontRotation": "Not stated on dzofilm.com product page",
         "filterType": "dzofilm.com: M105 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M105 confirmed (primary)",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/gnosis-macro; dzofilm.com/en/blog/wikis/35: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -14693,7 +14695,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 105,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -14710,7 +14712,7 @@
         "hasFrontRotation": "Not stated on dzofilm.com product page",
         "filterType": "dzofilm.com: M105 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M105 confirmed (primary)",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/gnosis-macro; dzofilm.com/en/blog/wikis/35: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -14727,7 +14729,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 105,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -14744,7 +14746,7 @@
         "hasFrontRotation": "Not stated on dzofilm.com product page",
         "filterType": "dzofilm.com: M105 front filter thread (primary)",
         "filterThreadMm": "dzofilm.com: M105 confirmed (primary)",
-        "hasFocusBreathing": "Not stated on dzofilm.com product page"
+        "hasFocusBreathing": "dzofilm.com/products/gnosis-macro; dzofilm.com/en/blog/wikis/35: minimal focus breathing confirmed (primary)"
       }
     },
     {
@@ -15217,7 +15219,7 @@
       "filterType": "none",
       "filterThreadMm": null,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15230,7 +15232,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: '/' — no filter thread (primary)"
@@ -15250,7 +15252,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15263,7 +15265,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: M77 front filter thread (primary)",
@@ -15284,7 +15286,7 @@
       "filterType": "none",
       "filterThreadMm": null,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15297,7 +15299,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: '/' — no filter thread (primary)"
@@ -15317,7 +15319,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15330,7 +15332,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: M77 front filter thread (primary)",
@@ -15351,7 +15353,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15364,7 +15366,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: M77 front filter thread (primary)",
@@ -15385,7 +15387,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15398,7 +15400,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: M77 front filter thread (primary)",
@@ -15419,7 +15421,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 77,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15432,7 +15434,7 @@
         "opticalElements": "dzofilm.com product specification table (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Retro specifically",
+        "hasFocusBreathing": "dzofilm.com/products/vespid-retro; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Retro specifically",
         "introductionYear": "Not found on dzofilm.com product page or press releases",
         "filterType": "dzofilm.com spec table: M77 front filter thread (primary)",
@@ -15453,7 +15455,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 86,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15468,7 +15470,7 @@
         "filterThreadMm": "dzofilm.com: M86 confirmed (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Cyber specifically",
+        "hasFocusBreathing": "ducloslenses.com/products/vespid-cyber-prime-3-lens-kit; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Cyber specifically",
         "introductionYear": "Not found on dzofilm.com product page"
       }
@@ -15487,7 +15489,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 86,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15502,7 +15504,7 @@
         "filterThreadMm": "dzofilm.com: M86 confirmed (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Cyber specifically",
+        "hasFocusBreathing": "ducloslenses.com/products/vespid-cyber-prime-3-lens-kit; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Cyber specifically",
         "introductionYear": "Not found on dzofilm.com product page"
       }
@@ -15521,7 +15523,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 86,
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
@@ -15536,7 +15538,7 @@
         "filterThreadMm": "dzofilm.com: M86 confirmed (primary)",
         "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
         "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
-        "hasFocusBreathing": "Not published by DZOFilm for Vespid Cyber specifically",
+        "hasFocusBreathing": "ducloslenses.com/products/vespid-cyber-prime-3-lens-kit; bhphotovideo.com: minimal focus breathing confirmed (primary)",
         "hasFrontRotation": "Not published by DZOFilm for Vespid Cyber specifically",
         "introductionYear": "Not found on dzofilm.com product page"
       }

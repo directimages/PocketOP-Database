@@ -3,6 +3,16 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.29.0 — 2026-05-12
+
+- DZOFilm cine null-audit pass 1 (Kay research):
+- hasFocusBreathing null→"minimal": Catta Ace 18-35/35-80/70-135, Gnosis 24/32/65/90, Vespid Retro 16/25/35/50/75/100/125, Vespid Cyber 35/50/75 (17 entries)
+- isParfocal: Tango 18-90/65-280, X-Tract already true — no change needed
+- lengthMm null→87: Vespid 21/35/50/75mm; null→100: Vespid 125mm
+- closeFocusM null→0.30: Vespid 25mm, Vespid 40mm
+- filterThreadMm (x-tract): source added confirming null (probe lens, no thread)
+- filterType "none"→"front_thread" + filterThreadMm null→77: Vespid 90mm Macro (prior read of '/' corrected; dzofilm.com confirms M77)
+
 ### v1.28.0 — 2026-05-12
 - migrate hasFocusBreathing from boolean to string enum: false→"none" (82), true→"needs_review" (69); null/unconfirmed/absent unchanged
 
