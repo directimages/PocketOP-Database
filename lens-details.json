@@ -1,5 +1,5 @@
 {
-      "version": "1.32.3",
+      "version": "1.32.4",
       "updatedAt": "2026-05-12",
       "lenses": [
             {
@@ -5447,7 +5447,9 @@
                         "introductionYear": "FDTimes: CXX = Cooke 120th anniversary (Roman numerals), 2006 (tier-3, POS-D12)",
                         "manufacturerUrl": "No current product page on cookeoptics.com; lens discontinued"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.cameranordic.com"
+                  ]
             },
             {
                   "id": "cooke-varotal-18-100mm-t3-0",
@@ -5483,7 +5485,9 @@
                         "introductionYear": "visualproducts.com: released 1987 (tier-3, POS-D12)",
                         "manufacturerUrl": "No current product page on cookeoptics.com; lens discontinued"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.alangordon.com"
+                  ]
             },
             {
                   "id": "cooke-varotal-25-250mm-t3-7",
@@ -5519,7 +5523,9 @@
                         "introductionYear": "tcsfilm.com / visualproducts.com: released 1992 (tier-3, POS-D12)",
                         "manufacturerUrl": "No current product page on cookeoptics.com; lens discontinued"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.cinelenswiki.com"
+                  ]
             },
             {
                   "id": "leitz-zoom-25-75mm-t2-8",
@@ -6999,7 +7005,10 @@
                         "gearPitch": "Zeiss does not publish gear pitch",
                         "filterType": "Not found in secondary sources"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.photocinerent.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-supreme-zoom-radiance-15-30mm-t2-9",
@@ -13267,7 +13276,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2012 — nofilmschool.com + dpreview.com: 'Zeiss adds 15mm T2.9 and 135mm T2.1' (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-18mm-t3-6",
@@ -13301,7 +13313,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-21mm-t2-9",
@@ -13335,7 +13350,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-25mm-t2-9",
@@ -13369,7 +13387,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch — T2.9 original variant (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-28mm-t2-1",
@@ -13403,7 +13424,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-35mm-t2-1",
@@ -13437,7 +13461,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-50mm-t2-1",
@@ -13471,7 +13498,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-85mm-t2-1",
@@ -13505,7 +13535,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-100mm-t2-1",
@@ -13539,7 +13572,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-135mm-t2-1",
@@ -13573,7 +13609,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2012 — nofilmschool.com + dpreview.com: 'Zeiss adds 15mm T2.9 and 135mm T2.1' (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "zeiss-cp2-50mm-macro-t2-1",
@@ -13607,7 +13646,10 @@
                         "closeFocusM": "zsyst.com (authorized Zeiss dealer, tier-2)",
                         "introductionYear": "NAB 2010 initial CP.2 launch (tier-2)"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.zsyst.com",
+                        "https://www.lensrentals.com"
+                  ]
             },
             {
                   "id": "cooke-s7i-18mm-t2-0",
@@ -18013,7 +18055,9 @@
                         "isParfocal": "Announced as parfocal but no production spec sheet yet",
                         "hasFocusBreathing": "Announced as low breathing but no production spec sheet yet"
                   },
-                  "webSources": []
+                  "webSources": [
+                        "https://www.newsshooter.com/2026/04/15/laowa-unveils-the-worlds-first-parfocal-super-macro-zoom-lenses-the-ultima-25-180mm-t3-8-ff-ultima-25-600mm-t4-s35-broadcast-zooms/"
+                  ]
             },
             {
                   "id": "sigma-af-cine-28-45mm-t2-ff-l",

@@ -3,6 +3,16 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.32.4 — 2026-05-12
+
+- webSources populated for remaining 16 entries that previously had []:
+- cooke-cxx-15-40mm-t2-0: cameranordic.com
+- cooke-varotal-18-100mm-t3-0: alangordon.com
+- cooke-varotal-25-250mm-t3-7: cinelenswiki.com
+- zeiss-lwz-2-15-5-45mm-t2-6: photocinerent.com + lensrentals.com
+- zeiss-cp2-* (11 entries): zsyst.com + lensrentals.com
+- laowa-ultima-25-600mm-t4-s35: newsshooter.com (2026-04-15 launch article)
+
 ### v1.32.3 — 2026-05-12
 
 - webSources field added to all 551 lens entries (migration pass):
