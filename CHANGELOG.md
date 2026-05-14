@@ -253,6 +253,29 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.15.1 — 2026-05-14
+- null-audit pass (Kay research, session 2026-05-14, per POS-D23): 34 field writes across 16 entries
+- Canon CR-N700: minLux=2.5, mountThreads="1/4\"-20", hasCeilingMount=true, hasWallMount=true
+- Canon CR-N500: minLux=1.5, mountThreads="1/4\"-20", hasCeilingMount=true, hasWallMount=true
+- Canon CR-N300: minLux=1.5, mountThreads="1/4\"-20", hasCeilingMount=true, hasWallMount=true
+- Canon CR-N100: mountThreads="1/4\"-20", hasCeilingMount=true, hasWallMount=true
+- Sony BRC-X1000: mountThreads="1/4\"-20", hasWallMount=true
+- Sony BRC-H800: mountThreads="1/4\"-20", hasWallMount=true
+- Sony BRC-X400: widthMm=158.4, heightMm=177.5, depthMm=200.2
+- Panasonic AW-UE150: minLux=2.0, mountThreads="1/4\"-20"
+- Panasonic AW-UE4: presetCount=100, panRangeDeg=0, tiltRangeDeg=0, hasIR=false, minLux=1.0, weightG=500, widthMm=123, heightMm=131, depthMm=136
+- Panasonic AW-HE130: mountThreads="1/4\"-20"
+- JVC KY-PZ100: weightG=1900, widthMm=148, heightMm=199.5
+- JVC KY-PZ200: whiteBalanceModes filled (5 modes)
+- JVC KY-PZ510: minLux=0.5
+- BirdDog P110: weightG=1000, widthMm=145, heightMm=152, depthMm=171
+- BirdDog P240: weightG=2395, widthMm=163, heightMm=199, depthMm=231
+- Lumens VC-A50P: whiteBalanceModes filled (5 modes), mountThreads="1/4\"-20"
+- Lumens VC-A61P: whiteBalanceModes filled (5 modes)
+- Marshall CV620-BK4: maxPanSpeedDegS=300, maxTiltSpeedDegS=300, whiteBalanceModes filled (5 modes), mountThreads="1/4\"-20"
+- Marshall CV730-BK: whiteBalanceModes filled (5 modes)
+- Bolin Range: presetCount=128, panRangeDeg=340, tiltRangeDeg=120, minLux=0.5, widthMm=201, heightMm=256
+
 ### v1.15.0 — 2026-05-12
 - schema migration: hasPoE (boolean) replaced with poeClass (string enum) across all 120 entries
 - enum values: "none" (no PoE), "PoE" (802.3af), "PoE+" (802.3at), "PoE++" (802.3bt)
