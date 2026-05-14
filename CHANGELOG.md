@@ -3,6 +3,23 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lens-details.json
+### v1.33.0 — 2026-05-14
+
+- Full cine null-audit pass (Kay research, all brands, session 06/19):
+- Canon: cn7x17-kas-t-p1 filterThreadMm 127→112; cn20x50 filterType front_thread→matte_box; cne20-50mm/cne45-135mm filterType→front_thread filterThreadMm=112 imageCircleMm=46.4; EF photo lenses gearPitch/focusRingRotationDeg→null imageCircleMm=43.2
+- Fujinon: Premista series filterType→matte_box filterThreadMm→'none'; HK series hasFocusBreathing→'unconfirmed'
+- Angénieux: All Optimo/Optimo Style/Classical filterType→matte_box filterThreadMm→'none'; Optimo Style hasFocusBreathing→'minimal'; Optimo DP hasFocusBreathing→'none'
+- ARRI: All filterThreadMm null→'none'; Sig Primes gearPitch→'0.8'; Master Primes focusRingRotationDeg→280; Sig Zooms 24-75/45-135 focusRingRotationDeg→320
+- DZOFilm: Catta Ace/Gnosis/Vespid Retro/Cyber hasFocusBreathing→'minimal'; Tango/X-Tract isParfocal→true; X-Tract filterType→'none' filterThreadMm→'none'; Vespid Retro 16mm filterThreadMm→'none'; Vespid Retro 25-125mm filterThreadMm→77
+- ZEISS: CP.3 filterType→front_thread filterThreadMm=86; Supreme Prime filterType→'none' filterThreadMm→'none' imageCircleMm=46.3; Supreme Zoom Radiance isParfocal→true; CP.2 filterType→matte_box hasFocusBreathing→'unconfirmed'; CP.2 18mm imageCircleMm=30.0; CZ.2 per-lens filterType/filterThreadMm; LWZ.3 filterType→'none'
+- Cooke: All series filterType→matte_box filterThreadMm→'none'; Varotal FF corrected from front_thread/112.5 hasFocusBreathing→'minimal' isParfocal→true
+- Leitz: Zoom filterType→matte_box; Thalia 65 filterType→front_thread filterThreadMm=92 focusRingRotationDeg=270 imageCircleMm=60; Summilux-C filterType→front_thread filterThreadMm=95 imageCircleMm=36; Hektor 18mm filterType→'none' filterThreadMm→'none'; Hugo filterType→front_thread filterThreadMm=92 imageCircleMm=43.3
+- Sigma: Cine Zooms isParfocal null→true; FF Prime 14mm/20mm filterType→'none'; FF Prime 105mm filterType→front_thread filterThreadMm=105; AF Cine filterThreadMm 82→86 isParfocal→true
+- Tokina/Other: Vista isParfocal→true; Hawk SW/Vantage LW specs filled; Viltrox Luna filterType→'none'; RED Pro filterType→'none'; Masterbuilt CFZ filterType→matte_box isParfocal→true; Xeen CF/original filterType→matte_box; Sirui Jupiter hasFocusBreathing→'minimal'; Sirui Nightwalker 16mm/75mm imageCircleMm=28.2; Laowa Ultima imageCircleMm/gearPitch/focusRingRotationDeg isParfocal
+- POS-D20 applied: all prime isParfocal set to null (no exceptions)
+- POS-D24 applied: 36 corrections — filterThreadMm→'none' where filterType is matte_box or none
+- isParfocal→null applied globally to all prime entries
+
 ### v1.32.4 — 2026-05-12
 
 - webSources populated for remaining 16 entries that previously had []:
