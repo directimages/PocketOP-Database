@@ -2,6 +2,32 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## lenses.json
+### v1.18.0 — 2026-05-14
+
+- Gap scan import pass (Kay research, session 06/20): 42 new cine lens entries
+- Cooke S8/i FF Primes PL largeFormat (8): 18/25/32/40/50/75/100/135mm T1.6–T2.0
+- NiSi Athena Primes E fullFrame (8): 14/18/25/35/40/50/85/135mm T1.9–T2.4
+- Meike FF Cine Primes E fullFrame (7): 16/24/35/50/85/105/135mm T2.1–T2.5
+- Tokina Cinema Vista Primes E largeFormat (7): 18/21/25/35/50/85/105mm T1.5
+- Thypoch Simera-C Primes E fullFrame (5): 21/28/35/50/75mm T1.5
+- 7Artisans Spectrum FF Cine Primes E fullFrame (4): 14/35/50/85mm T2.0–T2.9
+- Fujinon MK18-55mm T2.9 E-mount (copy from EF, id: fujinon-mk18-55mm-t2-9-e)
+- Fujinon MK50-135mm T2.9 E-mount (copy from EF, id: fujinon-mk50-135mm-t2-9-e)
+- DZOFilm Tango 18-90mm T2.9 E-mount (copy from EF, id: dzofilm-tango-18-90mm-t2-9-e)
+
+## lens-details.json
+### v1.33.1 — 2026-05-14
+
+- Sidecar entries added for all 42 new lenses from gap scan import pass v1.18.0
+- Cooke S8/i: matte_box/none/0.8/minimal/270°/46.3mm
+- NiSi Athena: 14mm→none/none; others→front_thread/77mm; 0.8/minimal/300°/46.0mm
+- Meike FF Cine: front_thread/per-lens filterThread/0.8/minimal/330°/45.0mm
+- Tokina Cinema Vista: front_thread/112mm/0.8/none/300°/46.7mm
+- Thypoch Simera-C: front_thread/67mm/0.8/minimal/210°/43.3mm
+- 7Artisans Spectrum: front_thread/82mm/0.8/minimal/270°/43.3mm
+- Fujinon MK18-55/MK50-135/DZO Tango E-mount: all fields copied from EF source entries
+
 ## lens-details.json
 ### v1.33.0 — 2026-05-14
 
