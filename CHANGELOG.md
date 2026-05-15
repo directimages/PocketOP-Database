@@ -2,6 +2,11 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## announcements.json
+### v1.0.3 — 2026-05-15
+- Pre-launch announcement: id "2026-05-pre-launch", type info, expires 2026-09-01
+- Message: approaching App Store release, thanks beta testers, references pocketop.app lens database
+
 ## lenses.json
 ### v1.18.0 — 2026-05-14
 

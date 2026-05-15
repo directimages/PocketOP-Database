@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "announcement": {
-    "id": "2026-04-beta-update",
-    "message": "Thank you for beta testing PocketOP. This update brings a redesigned camera view showing your full iPhone sensor, two-handed support, mount-based lens filtering, lens comparison with dual brackets, scout list previews, and a major database expansion with 114 cine lenses. Your feedback shapes the app and is much appreciated.",
+    "id": "2026-05-pre-launch",
+    "message": "We're approaching the App Store release of PocketOP. Thank you for being part of the beta. Your participation has been invaluable. We hope the app has already helped you find the right lens for the job. Check out the lens database on pocketop.app for detailed specs on every lens and PTZ camera in the app. If you have any feedback before launch, please use the support link in the menu.",
     "type": "info",
     "expires": "2026-09-01"
   }
