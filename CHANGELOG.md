@@ -10,6 +10,12 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.36.0 — 2026-05-18
+
+- hasFocusBreathing migration: 69 entries set to "minimal" (Kay-verified source analysis)
+- Brands: Angénieux ×1, ARRI ×17, DZOFilm ×29, Laowa ×7, Leitz ×10, plus ARRI Signature Zoom ×4 and Alura ×1
+- sources.hasFocusBreathing updated for angenieux-optimo-ultra-12x (Tier 1 product sheet)
+
 ### v1.35.0 — 2026-05-17
 
 - POS-D26/D27 schema cleanup: migrate legacy "unconfirmed" string values
