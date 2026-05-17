@@ -1,6 +1,6 @@
 {
-  "version": "1.33.1",
-  "updatedAt": "2026-05-14",
+  "version": "1.34.0",
+  "updatedAt": "2026-05-17",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -41,7 +41,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": "unconfirmed",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -3245,14 +3245,15 @@
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 180,
       "gearPitch": "0.8",
       "sources": {
         "filterType": "Canon CN5x11 front diameter 114mm; front thread confirmed (tier-1)",
         "filterThreadMm": "CN5x11 filter thread size not confirmed via spec sheet — Tim: bevestig via spec sheet",
         "isParfocal": "Canon CN5x11 IAS T: parfocal consistent with Cine Servo series (tier-1)",
         "hasFocusBreathing": "Canon: \"controlled breathing\"; e-Xs V has Focus Breathing Compensation (tier-1)",
-        "gearPitch": "CN5x11-IAS-T cine gear presence unconfirmed for servo variant — Tim: verificeer"
+        "gearPitch": "CN5x11-IAS-T cine gear presence unconfirmed for servo variant — Tim: verificeer",
+        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found."
       },
       "webSources": [
         "https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product"
@@ -4424,12 +4425,13 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bpm-media.de spec sheet; bhphotovideo.com",
         "filterThreadMm": "bpm-media.de spec sheet; bhphotovideo.com",
-        "focusRingRotationDeg": "fujifilm.com UK ZK pagina; bpm-media.de"
+        "focusRingRotationDeg": "fujifilm.com UK ZK pagina; bpm-media.de",
+        "gearPitch": "B&H Photo + Z-Systems product page (Tier 2): \"standard 0.8 film pitch gears\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
@@ -4452,10 +4454,11 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
-        "focusRingRotationDeg": "fujifilm.com; fullcompass.com"
+        "focusRingRotationDeg": "fujifilm.com; fullcompass.com",
+        "gearPitch": "B&H Photo (Tier 2): \"standard 0.8 film pitch\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
@@ -4478,10 +4481,11 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
-        "focusRingRotationDeg": "fullcompass.com; bhphotovideo.com; hotrodcameras.com"
+        "focusRingRotationDeg": "fullcompass.com; bhphotovideo.com; hotrodcameras.com",
+        "gearPitch": "New Circuit product page (Tier 3): \"standard 0.8mm cine gearing\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
@@ -4504,12 +4508,13 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; hotrodcameras.com",
         "filterThreadMm": "bhphotovideo.com; hotrodcameras.com",
-        "focusRingRotationDeg": "bhphotovideo.com; hotrodcameras.com; newsshooter.com"
+        "focusRingRotationDeg": "bhphotovideo.com; hotrodcameras.com; newsshooter.com",
+        "gearPitch": "Z-Systems + FUJINON.com product pages (Tier 2/1): \"0.8mm gear pitch\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
@@ -4559,12 +4564,13 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com: does not have filter threads. Designed for 114mm Mattebox solutions",
         "filterThreadMm": "bhphotovideo.com: no filter threads; matte box only",
-        "focusRingRotationDeg": "fdtimes.com; cvp.com"
+        "focusRingRotationDeg": "fdtimes.com; cvp.com",
+        "gearPitch": "FUJINON.com product page (Tier 1): \"gear pitch of 0.8M\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
@@ -4587,12 +4593,13 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; abelcine.com -- 114mm front diameter, no filter threads, designed for 114mm matte box",
         "filterThreadMm": "bhphotovideo.com; abelcine.com",
-        "focusRingRotationDeg": "bhphotovideo.com"
+        "focusRingRotationDeg": "bhphotovideo.com",
+        "gearPitch": "Fujifilm Japan official press release (Tier 1): \"gear pitch for the operation rings is 0.8M (module)\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
@@ -4615,12 +4622,13 @@
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; abelcine.com; ottonemenz.com -- 114mm front diameter, matte box only",
         "filterThreadMm": "bhphotovideo.com; abelcine.com",
-        "focusRingRotationDeg": "bhphotovideo.com; abelcine.com"
+        "focusRingRotationDeg": "bhphotovideo.com; abelcine.com",
+        "gearPitch": "B&H Photo (Tier 2): \"Standard 0.8 MOD Gears\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
@@ -4643,9 +4651,10 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
-        "hasFocusBreathing": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)"
+        "hasFocusBreathing": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)",
+        "gearPitch": "Fujifilm North America press release (Tier 1): \"lens focus ring has a gear pitch of 0.8M\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk14-100"
@@ -4668,13 +4677,14 @@
       "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "fieldNotes": {
         "hasFocusBreathing": "With BCT (Breathing Compensation Technology) enabled: minimal. BCT can be toggled on/off via the lens control system."
       },
       "sources": {
         "hasFocusBreathing": "newsshooter.com review: \"exhibits a lot of lens breathing\" without BCT",
-        "fieldNotes": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)"
+        "fieldNotes": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)",
+        "gearPitch": "CineD + FUJINON.com (Tier 2/1): \"0.8MOD FIZ gears\""
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk24-300"
@@ -5054,7 +5064,7 @@
       "isParfocal": "unconfirmed",
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 339,
       "gearPitch": 0.8,
       "sources": {
         "introductionYear": "IBC 2013 press release (multiple trade sources)",
@@ -5066,7 +5076,8 @@
         "filterType": "Angénieux documentation: internal M40.5mm filter slot supplied with lens",
         "filterThreadMm": "angenieux.com — front fitting is for optional protective glass, not a filter thread",
         "hasFrontRotation": "Angénieux documentation: internal focus mechanism confirmed",
-        "gearPitch": "Standard M0.8 cinema pitch — rental house documentation"
+        "gearPitch": "Standard M0.8 cinema pitch — rental house documentation",
+        "focusRingRotationDeg": "Angénieux Optimo Style 25-250 official user manual (Tier 1): \"Angular rotation of focus ring: 339°/305°\" -- feet scale / metric scale. Using feet scale value."
       },
       "webSources": [
         "unconfirmed"
@@ -5219,7 +5230,7 @@
       "isParfocal": "unconfirmed",
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": false,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 320,
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "Angénieux S35 Optimo product specifications",
@@ -5229,7 +5240,8 @@
         "closeFocusM": "Duclos Lenses spec database",
         "filterThreadMm": "bhphotovideo.com; ottonemenz.com — 136mm front, geen thread",
         "hasFrontRotation": "Angénieux documentation: internal focus confirmed",
-        "gearPitch": "Standard M0.8 cinema pitch"
+        "gearPitch": "Standard M0.8 cinema pitch",
+        "focusRingRotationDeg": "Filmtools product page (Tier 3): \"focus ring with scale rotation of 320 degrees.\" Multiple rental house and dealer sources consistent."
       },
       "webSources": [
         "unconfirmed"
@@ -5284,7 +5296,7 @@
       "isParfocal": "unconfirmed",
       "hasFocusBreathing": "unconfirmed",
       "hasFrontRotation": "unconfirmed",
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 327,
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "Angénieux S35 Optimo product specifications",
@@ -5293,7 +5305,8 @@
         "frontDiameterMm": "Duclos Lenses spec database",
         "closeFocusM": "Duclos Lenses spec database",
         "filterThreadMm": "bhphotovideo.com; angenieux.com 28-340 PDF — 162mm front, geen thread",
-        "gearPitch": "Standard M0.8 cinema pitch"
+        "gearPitch": "Standard M0.8 cinema pitch",
+        "focusRingRotationDeg": "MP&E Cameras + Greenwood Cinema (Tier 3): \"327° focus rotation.\" Multiple sources consistent."
       },
       "webSources": [
         "unconfirmed"
@@ -5543,7 +5556,7 @@
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specification table (primary)",
@@ -5557,7 +5570,8 @@
         "isParfocal": "leitz-cine.com: 'The parfocal design of the lenses allows for zoom pulls in-shot that maintain focus beautifully'",
         "hasFocusBreathing": "leitz-cine.com: 'almost no breathing, distortion or chromatic aberrations'",
         "hasFrontRotation": "leitz-cine.com: internal focus design",
-        "gearPitch": "Camtec / Band Pro (tier 4); consistent across multiple dealer and rental house sources"
+        "gearPitch": "Camtec / Band Pro (tier 4); consistent across multiple dealer and rental house sources",
+        "focusRingRotationDeg": "Leitz Zoom official data sheet PDF via AFC Cinema (Tier 1): \"Focus Rotation 270°\" for both Leitz Zoom lenses."
       },
       "webSources": [
         "https://www.leitz-cine.com/product/leitz-zoom/"
@@ -5579,7 +5593,7 @@
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 270,
       "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specification table (primary)",
@@ -5593,7 +5607,8 @@
         "isParfocal": "leitz-cine.com: 'The parfocal design of the lenses allows for zoom pulls in-shot that maintain focus beautifully'",
         "hasFocusBreathing": "leitz-cine.com: 'almost no breathing, distortion or chromatic aberrations'",
         "hasFrontRotation": "leitz-cine.com: internal focus design",
-        "gearPitch": "Camtec / Band Pro (tier 4); consistent across multiple dealer and rental house sources"
+        "gearPitch": "Camtec / Band Pro (tier 4); consistent across multiple dealer and rental house sources",
+        "focusRingRotationDeg": "Leitz Zoom official data sheet PDF via AFC Cinema (Tier 1): \"Focus Rotation 270°\" for both Leitz Zoom lenses."
       },
       "webSources": [
         "https://www.leitz-cine.com/product/leitz-zoom/"
@@ -6166,7 +6181,7 @@
       "frontDiameterMm": 156,
       "closeFocusM": 1.8,
       "introductionYear": 2021,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 45.0,
       "opticalElements": null,
       "filterType": "rear_filter",
       "filterThreadMm": null,
@@ -6184,7 +6199,8 @@
         "filterType": "arri.com FAQ: magnetic rear filter holder confirmed; no front thread",
         "hasFocusBreathing": "arri.com Signature Lenses FAQ: 'Signature Zooms do show some [breathing] at longer focal lengths'",
         "isParfocal": "POS-D11: no ARRI source claims parfocal for Signature Zooms; silence over a selling point is informative",
-        "gearPitch": "LensRentals: 'Focus: 0.8 MOD / 32 Pitch'"
+        "gearPitch": "LensRentals: 'Focus: 0.8 MOD / 32 Pitch'",
+        "imageCircleMm": "AbelCine product page (abelcine.com, Tier 3) -- 45mm; illumination >46mm per Film and Digital Times"
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
@@ -6207,7 +6223,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "unconfirmed",
+      "gearPitch": "0.8",
       "sources": {
         "introductionYear": "FD Times 2014-04-05: 'ARRI Ultra Wide Zoom 9.5-18mm'; began shipping April-May 2014, announced IBC 2013",
         "imageCircleMm": "arri.com UWZ product page + FD Times 2014: 34.5mm image circle",
@@ -6217,7 +6233,8 @@
         "closeFocusM": "arri.com UWZ technical data: 0.55m from film plane",
         "filterType": "arri.com UWZ product page: exchangeable matte box interfaces (134mm and 156mm); no front thread",
         "hasFocusBreathing": "arri.com UWZ product page: 'virtually no image breathing when focusing'",
-        "isParfocal": "POS-D11: arri.com 'fixed entrance pupil' language describes focus breathing behaviour, not parfocal; no parfocal claim made by ARRI"
+        "isParfocal": "POS-D11: arri.com 'fixed entrance pupil' language describes focus breathing behaviour, not parfocal; no parfocal claim made by ARRI",
+        "gearPitch": "unconfirmed -- inferred from ARRI cine lens standard (0.8M); ARRI CLM-5 accessories doc confirms m0.8/32p gear compatible with all ARRI/Zeiss cine lenses. No explicit UWZ spec sheet statement."
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom"
@@ -6714,7 +6731,7 @@
       "frontDiameterMm": 165,
       "closeFocusM": 0.7,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -6729,7 +6746,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); visualproducts.com (secondary)",
         "closeFocusM": "photocinerent.com (rental house); visualproducts.com (secondary)",
         "introductionYear": "cinematechnic.com: Master Prime series launched NAB 2005; Master Zoom introduced contemporaneously",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread; 165mm is barrel diameter — matte box use only",
         "isParfocal": "POS-D11: ARRI/Zeiss claims 'zero lens breathing' (focus breathing) and 'field of view stable while focusing' but does not claim parfocal; absence of parfocal claim is sufficient per POS-D11",
         "hasFocusBreathing": "visualproducts.com: 'Advanced cam-style mechanics ensure the field of view remains perfectly stable while focusing'; 'zero lens breathing'",
@@ -8265,7 +8282,7 @@
       "isParfocal": false,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 175,
       "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "red.com/lenses (tier-1; product page removed post-Nikon acquisition)",
@@ -8281,7 +8298,7 @@
         "isParfocal": "Parfocal not claimed in accessible sources; POS-D11 applied",
         "hasFocusBreathing": "Not stated in accessible documentation",
         "hasFrontRotation": "Not stated in accessible documentation",
-        "focusRingRotationDeg": "Not found in accessible sources",
+        "focusRingRotationDeg": "Les Productions Midcan / Frank Gear rental listings (Tier 3): \"175 degrees of focus rotation.\"",
         "gearPitch": "Multiple rental listings confirm 0.8 MOD (focus, iris, zoom). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition"
       },
       "webSources": [
@@ -11053,7 +11070,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2010,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11068,7 +11085,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "bhphotovideo.com (retailer)",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11088,7 +11105,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2007,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11103,7 +11120,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "bhphotovideo.com (retailer)",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11123,7 +11140,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11138,7 +11155,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11158,7 +11175,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11173,7 +11190,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11193,7 +11210,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11208,7 +11225,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11228,7 +11245,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11243,7 +11260,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11263,7 +11280,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11278,7 +11295,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11298,7 +11315,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11313,7 +11330,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11333,7 +11350,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.35,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11348,7 +11365,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11368,7 +11385,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.4,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11383,7 +11400,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11403,7 +11420,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.5,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11418,7 +11435,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11438,7 +11455,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.65,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11453,7 +11470,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11473,7 +11490,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.8,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11488,7 +11505,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11508,7 +11525,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 1.0,
       "introductionYear": 2005,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11523,7 +11540,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "cinematechnic.com: '11 focal lengths introduced at NAB 2005'",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11543,7 +11560,7 @@
       "frontDiameterMm": 114,
       "closeFocusM": 0.95,
       "introductionYear": 2011,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11558,7 +11575,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "bhphotovideo.com (retailer)",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -11578,7 +11595,7 @@
       "frontDiameterMm": 134,
       "closeFocusM": 1.5,
       "introductionYear": 2007,
-      "imageCircleMm": "unconfirmed",
+      "imageCircleMm": 31.14,
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
@@ -11593,7 +11610,7 @@
         "frontDiameterMm": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "closeFocusM": "photocinerent.com (rental house); arri.com Master Prime technical data page (secondary)",
         "introductionYear": "bhphotovideo.com (retailer)",
-        "imageCircleMm": "Secondary sources indicate ~33-34mm; no exact ARRI-published value found — marked unconfirmed",
+        "imageCircleMm": "ARRI Master Prime Lenses brochure PDF (arri.com, Tier 1) -- ANSI Super 35 ID = 31.14mm",
         "filterType": "arri.com matte box rings page: no filter thread on Master Primes; 114mm is barrel diameter — matte box use only",
         "hasFocusBreathing": "zeiss.com: 'Eliminated breathing in the Master Prime lenses' via patented Dual Floating Elements technology",
         "hasFrontRotation": "arri.com: internal floating element design; front element does not rotate",
@@ -15146,8 +15163,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15160,10 +15177,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15180,8 +15198,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15194,10 +15212,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15214,8 +15233,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15228,10 +15247,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15248,8 +15268,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15262,10 +15282,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15282,8 +15303,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15296,10 +15317,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15316,8 +15338,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15330,10 +15352,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15350,8 +15373,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15364,10 +15387,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15384,8 +15408,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15398,10 +15422,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15418,8 +15443,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15432,10 +15457,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -15452,8 +15478,8 @@
       "introductionYear": 2013,
       "imageCircleMm": 36.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
-      "filterThreadMm": "unconfirmed",
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
@@ -15466,10 +15492,11 @@
         "closeFocusM": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; 35mm value is 0.366m (published as 14.4 in); 100mm is 0.45m",
         "introductionYear": "CineTechnic (tier 3): 'announced NAB 2013, shipping December 2013'",
         "imageCircleMm": "B&H Photo / CineTechnic: 36mm image circle; leitz-cine.com product page does not publish explicit image circle value",
-        "filterType": "leitz-cine.com: no front filter thread on Summicron-C; 95mm is barrel diameter — matte box only",
+        "filterType": "Leitz Summicron-C product pages, B&H Photo (Tier 2) -- non-rotating front for clip-on matte boxes; no screw-in filter thread found",
         "hasFocusBreathing": "CineTechnic / rental community: helical focus mechanism documented to exhibit noticeable focus breathing",
         "hasFrontRotation": "leitz-cine.com: internal focus design; front element non-rotating",
-        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths"
+        "focusRingRotationDeg": "Secondary sources (CineTechnic, B&H): 300° rotation consistent across all Summicron-C focal lengths",
+        "filterThreadMm": "confirmed none -- clip-on only (B&H, Tier 2)"
       },
       "webSources": [
         "https://www.leitz-cine.com/product/summicron-c/"
@@ -17967,7 +17994,7 @@
       "isParfocal": "unconfirmed",
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 180,
       "gearPitch": "0.8",
       "sources": {
         "manufacturerUrl": "usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl IAS H PL (discontinued; IAS J specs not yet published) (tier-1)",
@@ -17983,7 +18010,7 @@
         "isParfocal": "Canon does not explicitly claim parfocal for CN30x40; parfocal likely but unconfirmed — Tim: zoek Canon CN30x40 specs",
         "hasFocusBreathing": "Canon CINE-SERVO 40-1200mm: minimal focus breathing consistent with Cine Servo series design (tier-1)",
         "hasFrontRotation": "Not stated on Canon product page",
-        "focusRingRotationDeg": "Servo lens; no manual focus ring rotation spec published",
+        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found.",
         "gearPitch": "Servo lens; no gear pitch applicable"
       },
       "webSources": [
@@ -18006,7 +18033,7 @@
       "isParfocal": "unconfirmed",
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": "unconfirmed",
+      "focusRingRotationDeg": 180,
       "gearPitch": "0.8",
       "sources": {
         "manufacturerUrl": "usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf IAS H RF (discontinued; IAS J specs not yet published) (tier-1)",
@@ -18022,7 +18049,7 @@
         "isParfocal": "Canon does not explicitly claim parfocal for CN30x40; parfocal likely but unconfirmed — Tim: zoek Canon CN30x40 specs",
         "hasFocusBreathing": "Canon CINE-SERVO 40-1200mm: minimal focus breathing consistent with Cine Servo series design (tier-1)",
         "hasFrontRotation": "Not stated on Canon product page",
-        "focusRingRotationDeg": "Servo lens; no manual focus ring rotation spec published",
+        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found.",
         "gearPitch": "Servo lens; no gear pitch applicable"
       },
       "webSources": [
@@ -19315,6 +19342,600 @@
       },
       "webSources": [
         "https://dzofilm.com/products/tango-zoom"
+      ]
+    },
+    {
+      "id": "cooke-sp3-18mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 688,
+      "lengthMm": 109,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2024,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
+        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-18mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 688,
+      "lengthMm": 109,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2024,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
+        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-18mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 688,
+      "lengthMm": 109,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2024,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
+        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-25mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 575,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-25mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 575,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-25mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 575,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-32mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.35,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 350mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-32mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.35,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 350mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-32mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.35,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 350mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-50mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 500,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 500mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-50mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 500,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 500mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-50mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 500,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 500mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-75mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-75mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-75mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-100mm-t2-4-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 690,
+      "lengthMm": 124,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M77x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-100mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 690,
+      "lengthMm": 124,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M77x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-100mm-t2-4-l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 690,
+      "lengthMm": 124,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": "0.8",
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M77x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
       ]
     }
   ]

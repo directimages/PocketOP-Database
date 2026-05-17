@@ -2,6 +2,26 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## lenses.json
+### v1.19.0 — 2026-05-17
+
+- Cooke SP3 primes import: 18 new entries (6 focal lengths × 3 mounts: E, RF, L)
+- Focal lengths: 18mm/25mm/32mm/50mm/75mm/100mm T2.4, Full Frame, SP3 series
+- 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
+
+## lens-details.json
+### v1.34.0 — 2026-05-17
+
+- Part 1 (48 POS-D26 corrections): numeric fields previously stored as "unconfirmed" string now resolved
+- imageCircleMm: 17 ARRI Master Primes + Master Zoom 16.5-110 → 31.14 (ARRI brochure PDF, Tier 1)
+- imageCircleMm: ARRI Signature Zoom 65-300 → 45.0 (AbelCine Tier 3)
+- filterType + filterThreadMm: 10 Leitz Summicron-C lenses → matte_box / none (B&H Tier 2)
+- filterThreadMm: canon-hj40ex14b → 127 (B&H Tier 3)
+- gearPitch: 9 Fujinon ZK/Premista/HZK lenses → "0.8" (Tier 1/2 per entry); arri-uwz-9-5-18 → "0.8" (unconfirmed, inferred)
+- focusRingRotationDeg: 3 Canon IAS Cine Servo lenses → 180 (unconfirmed, inferred from family); Angénieux Optimo Style 25-250 → 339; Optimo 19.5-94 → 320; Optimo 28-340 → 327; Leitz Zoom 25-75 + 55-125 → 270; RED Pro 17-50 → 175
+- Part 2 (18 new SP3 sidecars): Cooke SP3 sidecar entries added for all 18 new lenses.json entries
+- 18mm lengthMm=109 marked unconfirmed (Gemini source); all other SP3 values from Cooke spec sheet PDF (Tier 1)
+
 ## announcements.json
 ### v1.0.3 — 2026-05-15
 - Pre-launch announcement: id "2026-05-pre-launch", type info, expires 2026-09-01
