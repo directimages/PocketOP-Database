@@ -10,6 +10,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.35.0 — 2026-05-17
+
+- POS-D26/D27 schema cleanup: migrate legacy "unconfirmed" string values
+- Item 1 (enum/string fields → "unknown"): filterType ×1, hasFocusBreathing ×32, opticalElements ×8
+- Item 2 (boolean fields → null): isParfocal ×30, hasMacro ×14, hasFrontRotation ×5
+- Item 5 (gearPitch type fix): 168 string "0.8" values migrated to number 0.8
+- Item 6 (filterType enum correction): 7 entries "rear" → "internal" (rear net holders / internal filter systems)
+
 ### v1.34.1 — 2026-05-17
 
 - POS-D26 schema correction: 7 sources entries with "unconfirmed" in description string split into separate description + `_confidence: "unconfirmed"` keys

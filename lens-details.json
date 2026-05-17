@@ -1,5 +1,5 @@
 {
-  "version": "1.34.1",
+  "version": "1.35.0",
   "updatedAt": "2026-05-17",
   "lenses": [
     {
@@ -980,7 +980,7 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "unconfirmed",
+      "filterType": "unknown",
       "filterThreadMm": null,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -1699,7 +1699,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1724,7 +1724,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1749,7 +1749,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -2121,7 +2121,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -2482,7 +2482,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 95,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -2507,7 +2507,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 107,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -2632,7 +2632,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -2834,7 +2834,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -2859,7 +2859,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -2913,7 +2913,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -2994,7 +2994,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
@@ -3069,7 +3069,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": null,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": "unconfirmed",
       "hasServoFocus": false,
       "servoConnector": "unconfirmed",
@@ -3098,7 +3098,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "filterType": "AbelCine product page: \"112mm threads for screw-in filters\" (tier-2)",
         "filterThreadMm": "AbelCine product page: 112mm confirmed (tier-2)",
@@ -3127,7 +3127,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "isParfocal": "Consistent with CN7x17 KAS-S; parfocal confirmed for series (tier-2)",
         "hasFocusBreathing": "Canon: hardware \"optical focus breathing correction\" active in servo mode (tier-1)",
@@ -3155,7 +3155,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "isParfocal": "dvinfo: \"All nine cinema zooms are parfocal\" (tier-5)",
         "hasFocusBreathing": "Canon CN8x15 IAS series: minimal focus breathing via inner focus design (tier-1)",
@@ -3184,7 +3184,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "filterType": "dvinfo: \"Diameters listed for filter threads only\" (tier-5)",
         "filterThreadMm": "Filter thread size not confirmed in Canon CN10x25 spec sheet — Tim: zoek spec sheet",
@@ -3213,7 +3213,7 @@
       "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "fieldNotes": {
         "hasFocusBreathing": "Significant focus breathing at long focal lengths (850mm+) per CineD independent review; optical design prioritizes compact form over breathing minimization"
       },
@@ -3246,7 +3246,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "filterType": "Canon CN5x11 front diameter 114mm; front thread confirmed (tier-1)",
         "filterThreadMm": "CN5x11 filter thread size not confirmed via spec sheet — Tim: bevestig via spec sheet",
@@ -3302,7 +3302,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 130,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon CNE Compact Servo 70-200mm: minimal focus breathing via servo compensation (tier-1)",
         "gearPitch": "dvinfo: \"Compact Servos have Z+I rings at proprietary 0.5 pitch\"; focus ring pitch not separately confirmed — unconfirmed pending Tim verification"
@@ -4270,7 +4270,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4296,7 +4296,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4322,7 +4322,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4348,7 +4348,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4374,7 +4374,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4400,7 +4400,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
         "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
@@ -4422,11 +4422,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 111,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bpm-media.de spec sheet; bhphotovideo.com",
@@ -4451,11 +4451,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 111,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "focusRingRotationDeg": "fujifilm.com; fullcompass.com",
@@ -4478,11 +4478,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 111,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "focusRingRotationDeg": "fullcompass.com; bhphotovideo.com; hotrodcameras.com",
@@ -4505,11 +4505,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 111,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; hotrodcameras.com",
@@ -4534,7 +4534,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 111,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
@@ -4561,11 +4561,11 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com: does not have filter threads. Designed for 114mm Mattebox solutions",
@@ -4590,11 +4590,11 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; abelcine.com -- 114mm front diameter, no filter threads, designed for 114mm matte box",
@@ -4619,11 +4619,11 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "Geen breathing test gevonden",
         "filterType": "bhphotovideo.com; abelcine.com; ottonemenz.com -- 114mm front diameter, matte box only",
@@ -4648,11 +4648,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "hasFocusBreathing": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)",
         "gearPitch": "Fujifilm North America press release (Tier 1): \"lens focus ring has a gear pitch of 0.8M\""
@@ -4674,11 +4674,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "fieldNotes": {
         "hasFocusBreathing": "With BCT (Breathing Compensation Technology) enabled: minimal. BCT can be toggled on/off via the lens control system."
       },
@@ -4704,7 +4704,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 241,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
@@ -4738,7 +4738,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 162,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 321,
@@ -4775,7 +4775,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 310,
@@ -4811,7 +4811,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": null,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 310,
@@ -4847,8 +4847,8 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 110,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -4882,8 +4882,8 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 110,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -4917,8 +4917,8 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 110,
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -4952,7 +4952,7 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 320,
@@ -4990,7 +4990,7 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 320,
@@ -5027,7 +5027,7 @@
       "opticalElements": null,
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 320,
@@ -5059,10 +5059,10 @@
       "closeFocusM": 1.22,
       "introductionYear": 2013,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 339,
@@ -5094,12 +5094,12 @@
       "closeFocusM": 0.61,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
-      "hasFrontRotation": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": null,
       "focusRingRotationDeg": 320,
       "gearPitch": 0.8,
       "sources": {
@@ -5127,12 +5127,12 @@
       "closeFocusM": 0.61,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
-      "hasFrontRotation": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": null,
       "focusRingRotationDeg": 320,
       "gearPitch": 0.8,
       "sources": {
@@ -5160,12 +5160,12 @@
       "closeFocusM": 0.61,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
-      "hasFrontRotation": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": null,
       "focusRingRotationDeg": 320,
       "gearPitch": 0.8,
       "sources": {
@@ -5193,12 +5193,12 @@
       "closeFocusM": 0.61,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
-      "hasFrontRotation": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": null,
       "focusRingRotationDeg": 327,
       "gearPitch": 0.8,
       "sources": {
@@ -5225,11 +5225,11 @@
       "closeFocusM": 0.62,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 320,
       "gearPitch": 0.8,
@@ -5258,11 +5258,11 @@
       "closeFocusM": 1.22,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 327,
       "gearPitch": 0.8,
@@ -5291,12 +5291,12 @@
       "closeFocusM": 1.23,
       "introductionYear": null,
       "imageCircleMm": 31.4,
-      "opticalElements": "unconfirmed",
+      "opticalElements": "unknown",
       "filterType": "matte_box",
       "filterThreadMm": "none",
-      "isParfocal": "unconfirmed",
-      "hasFocusBreathing": "unconfirmed",
-      "hasFrontRotation": "unconfirmed",
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": null,
       "focusRingRotationDeg": 327,
       "gearPitch": 0.8,
       "sources": {
@@ -5482,7 +5482,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "opticalElements": "Not published by Cooke in any spec sheet or product page",
         "hasFrontRotation": "Not stated on cookeoptics.com product page",
@@ -5520,7 +5520,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "opticalElements": "Not published by Cooke in any spec sheet or product page",
         "hasFrontRotation": "Not stated on cookeoptics.com product page",
@@ -5632,7 +5632,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com cinema zoom lenses page (tier-1)",
         "introductionYear": "zeiss.com CZ.2 spec sheet (tier-1)",
@@ -5667,7 +5667,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com cinema zoom lenses page (tier-1)",
         "introductionYear": "zeiss.com CZ.2 spec sheet (tier-1)",
@@ -5702,7 +5702,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com cinema zoom lenses page (tier-1)",
         "introductionYear": "zeiss.com CZ.2 spec sheet (tier-1)",
@@ -5737,7 +5737,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 294,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com LWZ.3 product page (tier-1)",
         "introductionYear": "zeiss.com LWZ.3 spec sheet (tier-1)",
@@ -5930,7 +5930,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "tokinacinema.com / tokinalens.com product page (tier-1)",
         "weightG": "tokinacinema.com / Duclos Lenses: ~1.75 kg / 3.85 lbs = 1750g (tier-1/2)",
@@ -6224,7 +6224,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "introductionYear": "FD Times 2014-04-05: 'ARRI Ultra Wide Zoom 9.5-18mm'; began shipping April-May 2014, announced IBC 2013",
         "imageCircleMm": "arri.com UWZ product page + FD Times 2014: 34.5mm image circle",
@@ -6770,10 +6770,10 @@
       "introductionYear": null,
       "imageCircleMm": 43.2,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": null,
       "isParfocal": false,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
       "gearPitch": null,
@@ -6809,10 +6809,10 @@
       "introductionYear": null,
       "imageCircleMm": 43.2,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": null,
       "isParfocal": false,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
       "gearPitch": null,
@@ -6848,10 +6848,10 @@
       "introductionYear": null,
       "imageCircleMm": 43.2,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": null,
       "isParfocal": false,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
       "gearPitch": null,
@@ -6887,10 +6887,10 @@
       "introductionYear": null,
       "imageCircleMm": 43.2,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": null,
       "isParfocal": false,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 280,
       "gearPitch": null,
@@ -7010,7 +7010,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 337,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com LWZ.2 product page removed — discontinued, no archive accessible",
         "introductionYear": "photographybay.com article 2010-04-12: product announcement (tier-4)",
@@ -7046,7 +7046,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Zoom Radiance product page (tier-1)",
         "introductionYear": "IBC 2023 announcement; B&H listing date 2023 (tier-4); not published on zeiss.com",
@@ -7082,7 +7082,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Zoom Radiance product page (tier-1)",
         "introductionYear": "IBC 2023 announcement; B&H listing date 2023 (tier-4); not published on zeiss.com",
@@ -7118,7 +7118,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Zoom Radiance product page (tier-1)",
         "introductionYear": "IBC 2023 announcement; B&H listing date 2023 (tier-4); not published on zeiss.com",
@@ -7154,7 +7154,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; individual product page inaccessible)",
         "weightG": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
@@ -7187,13 +7187,13 @@
       "introductionYear": null,
       "imageCircleMm": 31.1,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": 48,
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; individual product page PDF is image-only, not text-extractable)",
         "weightG": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
@@ -7226,13 +7226,13 @@
       "introductionYear": null,
       "imageCircleMm": 31.0,
       "opticalElements": null,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": 48,
       "isParfocal": false,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; product page inaccessible)",
         "weightG": "tahercinetek.com / motionpicturerentals.com: 36 lbs = 16,329g → 16,300g; combined system weight (150-450mm + 0.7× optical reducer) (tier-2)",
@@ -7271,7 +7271,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "laowacine.com OOOM product page (tier-1)",
         "weightG": "Duclos Lenses: 2700g (tier-2); manufacturer page says '~2.5kg' (approximate, tier-1) — Duclos concrete value used per Martijn instruction",
@@ -8090,7 +8090,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "store.sirui.com Night Walker 16mm T1.2 S35 product page (tier-1)",
         "weightG": "CineD announcement article: 'about 587g'; confirmed Amazon/store listings (tier-3)",
@@ -8129,7 +8129,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "store.sirui.com Night Walker 24mm T1.2 S35 product page (tier-1)",
         "weightG": "cf.sirui.com series spec: 'about 500g' (tier-1; individual focal length weight not differentiated)",
@@ -8168,7 +8168,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "store.sirui.com Night Walker 35mm T1.2 S35 product page (tier-1)",
         "weightG": "cf.sirui.com series spec: 'about 500g' (tier-1; individual focal length weight not differentiated)",
@@ -8207,7 +8207,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "store.sirui.com Night Walker 55mm T1.2 S35 product page (tier-1)",
         "weightG": "cf.sirui.com series spec: 'about 500g' (tier-1; individual focal length weight not differentiated)",
@@ -8246,7 +8246,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "store.sirui.com Night Walker 75mm T1.2 S35 product page (tier-1)",
         "weightG": "CineD: 'less than 600g' / 'about 587g' (tier-3)",
@@ -8395,13 +8395,13 @@
       "introductionYear": null,
       "imageCircleMm": 31.0,
       "opticalElements": 18,
-      "filterType": "rear",
+      "filterType": "internal",
       "filterThreadMm": 48,
       "isParfocal": false,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; product page inaccessible; spec data from PDF via search results)",
         "weightG": "vantagefilm.com PDF (via search): 15.9 kg / 35 lbs (tier-1)",
@@ -9220,7 +9220,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9257,7 +9257,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9294,7 +9294,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9331,7 +9331,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9368,7 +9368,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9405,7 +9405,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9442,7 +9442,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9479,7 +9479,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9516,7 +9516,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9553,7 +9553,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
@@ -9590,7 +9590,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9626,7 +9626,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9662,7 +9662,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9698,7 +9698,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9734,7 +9734,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9770,7 +9770,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9806,7 +9806,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9842,7 +9842,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9878,7 +9878,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9914,7 +9914,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9950,7 +9950,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -9986,7 +9986,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -10022,7 +10022,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -10058,7 +10058,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime spec table (tier-1)",
@@ -12661,7 +12661,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 0.9kg (tier-1)",
@@ -12700,7 +12700,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 0.9kg (tier-1)",
@@ -12739,7 +12739,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 1.1kg (tier-1)",
@@ -12778,7 +12778,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 0.9kg (tier-1)",
@@ -12817,7 +12817,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 1.0kg (tier-1)",
@@ -12856,7 +12856,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen-cf.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen-cf.php specifications: PL mount 1.4kg (tier-1)",
@@ -13277,7 +13277,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13314,7 +13314,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13351,7 +13351,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13388,7 +13388,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13425,7 +13425,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13462,7 +13462,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13499,7 +13499,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13536,7 +13536,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13573,7 +13573,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13610,7 +13610,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -13647,7 +13647,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unconfirmed",
+      "hasFocusBreathing": "unknown",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -14797,7 +14797,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -14831,7 +14831,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -14865,7 +14865,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -14899,7 +14899,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -14933,7 +14933,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -14967,7 +14967,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15001,7 +15001,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15035,7 +15035,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15069,7 +15069,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15103,7 +15103,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15137,7 +15137,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 1724g across all focal lengths — confirmed intentional Leitz design choice",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources; uniform 142mm housing across all focal lengths — confirmed intentional Leitz design choice",
@@ -15171,7 +15171,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15206,7 +15206,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15241,7 +15241,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15276,7 +15276,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15311,7 +15311,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15346,7 +15346,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15381,7 +15381,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15416,7 +15416,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15451,7 +15451,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15486,7 +15486,7 @@
       "hasFocusBreathing": "needs_review",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
         "lengthMm": "B&H Photo / CineTechnic / rental house listings (tier 3-4); consistent across multiple sources",
@@ -15521,7 +15521,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -15554,7 +15554,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -15587,7 +15587,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -15620,7 +15620,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -15653,7 +15653,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -15686,7 +15686,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
       "focusRingRotationDeg": 120,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
         "lengthMm": "leitz-cine.com product specs (primary); Duclos Lenses (confirmation)",
@@ -16727,7 +16727,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1170g (tier-1)",
@@ -16766,7 +16766,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1175g (tier-1)",
@@ -16805,7 +16805,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1180g (tier-1)",
@@ -16844,7 +16844,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1360g (tier-1)",
@@ -16883,7 +16883,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1160g (tier-1)",
@@ -16922,7 +16922,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1245g (tier-1)",
@@ -16961,7 +16961,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 200,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "xeenglobal.com/en/xeen.php product page (tier-1)",
         "weightG": "xeenglobal.com/en/xeen.php specifications: PL mount 1382g (tier-1)",
@@ -17993,11 +17993,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl IAS H PL (discontinued; IAS J specs not yet published) (tier-1)",
         "weightG": "usa.canon.com CINE-SERVO 40-1200mm PL: 14.6 lbs = 6.6kg (tier-1, IAS H)",
@@ -18033,11 +18033,11 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 127,
-      "isParfocal": "unconfirmed",
+      "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf IAS H RF (discontinued; IAS J specs not yet published) (tier-1)",
         "weightG": "usa.canon.com CINE-SERVO 40-1200mm RF: 14.8 lbs = 6.7kg (tier-1, IAS H)",
@@ -18077,7 +18077,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "introductionYear": "Newsshooter NAB 2026 announcement (tier-2) — production lens not yet available",
         "weightG": "No specs published — specs_pending in incomplete_data.md",
@@ -18298,7 +18298,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
@@ -18323,7 +18323,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
-      "hasMacro": "unconfirmed",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
@@ -18352,7 +18352,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18375,7 +18375,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18398,7 +18398,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18421,7 +18421,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18444,7 +18444,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18467,7 +18467,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18490,7 +18490,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18513,7 +18513,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
@@ -18536,7 +18536,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18559,7 +18559,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18582,7 +18582,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18605,7 +18605,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18628,7 +18628,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18651,7 +18651,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18674,7 +18674,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18697,7 +18697,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
@@ -18720,7 +18720,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18743,7 +18743,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18766,7 +18766,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18789,7 +18789,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18812,7 +18812,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18835,7 +18835,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18858,7 +18858,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 330,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
@@ -18881,7 +18881,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -18904,7 +18904,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -18927,7 +18927,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -18950,7 +18950,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -18973,7 +18973,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -18996,7 +18996,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -19019,7 +19019,7 @@
       "hasFocusBreathing": "none",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://tokinacinemausa.com"
@@ -19042,7 +19042,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 210,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
@@ -19065,7 +19065,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 210,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
@@ -19088,7 +19088,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 210,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
@@ -19111,7 +19111,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 210,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
@@ -19134,7 +19134,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 210,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
@@ -19157,7 +19157,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://7artisans.store/collections/cine-lenses"
@@ -19180,7 +19180,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://7artisans.store/collections/cine-lenses"
@@ -19203,7 +19203,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://7artisans.store/collections/cine-lenses"
@@ -19226,7 +19226,7 @@
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 270,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {},
       "webSources": [
         "https://7artisans.store/collections/cine-lenses"
@@ -19365,7 +19365,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
         "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
@@ -19399,7 +19399,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
         "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
@@ -19433,7 +19433,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
         "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
@@ -19467,7 +19467,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19500,7 +19500,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19533,7 +19533,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19566,7 +19566,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19599,7 +19599,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19632,7 +19632,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19665,7 +19665,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19698,7 +19698,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19731,7 +19731,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19764,7 +19764,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19797,7 +19797,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19830,7 +19830,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19863,7 +19863,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19896,7 +19896,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
@@ -19929,7 +19929,7 @@
       "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": null,
-      "gearPitch": "0.8",
+      "gearPitch": 0.8,
       "sources": {
         "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
         "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
