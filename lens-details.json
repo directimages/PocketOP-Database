@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
+  "version": "1.34.1",
   "updatedAt": "2026-05-17",
   "lenses": [
     {
@@ -3253,7 +3253,8 @@
         "isParfocal": "Canon CN5x11 IAS T: parfocal consistent with Cine Servo series (tier-1)",
         "hasFocusBreathing": "Canon: \"controlled breathing\"; e-Xs V has Focus Breathing Compensation (tier-1)",
         "gearPitch": "CN5x11-IAS-T cine gear presence unconfirmed for servo variant — Tim: verificeer",
-        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found."
+        "focusRingRotationDeg": "Canon IAS Cine Servo family pattern: CN7x17 KAS S confirmed 180° (canon-europe.com), CN20x50 IAS H confirmed 180° (canon-europe.com). CN5x11 is same IAS family. No explicit spec sheet statement found for CN5x11.",
+        "focusRingRotationDeg_confidence": "unconfirmed"
       },
       "webSources": [
         "https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product"
@@ -6234,7 +6235,8 @@
         "filterType": "arri.com UWZ product page: exchangeable matte box interfaces (134mm and 156mm); no front thread",
         "hasFocusBreathing": "arri.com UWZ product page: 'virtually no image breathing when focusing'",
         "isParfocal": "POS-D11: arri.com 'fixed entrance pupil' language describes focus breathing behaviour, not parfocal; no parfocal claim made by ARRI",
-        "gearPitch": "unconfirmed -- inferred from ARRI cine lens standard (0.8M); ARRI CLM-5 accessories doc confirms m0.8/32p gear compatible with all ARRI/Zeiss cine lenses. No explicit UWZ spec sheet statement."
+        "gearPitch": "ARRI CLM-5 accessories doc confirms m0.8/32p gear compatible with all ARRI/Zeiss and Fujifilm focus, iris, and zoom gears. No explicit UWZ data sheet statement found.",
+        "gearPitch_confidence": "unconfirmed"
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom"
@@ -18010,8 +18012,9 @@
         "isParfocal": "Canon does not explicitly claim parfocal for CN30x40; parfocal likely but unconfirmed — Tim: zoek Canon CN30x40 specs",
         "hasFocusBreathing": "Canon CINE-SERVO 40-1200mm: minimal focus breathing consistent with Cine Servo series design (tier-1)",
         "hasFrontRotation": "Not stated on Canon product page",
-        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found.",
-        "gearPitch": "Servo lens; no gear pitch applicable"
+        "focusRingRotationDeg": "Canon IAS Cine Servo family pattern: CN7x17 KAS S confirmed 180° (canon-europe.com), CN20x50 IAS H confirmed 180° (canon-europe.com). CN30x40 is same Cine Servo family. No explicit spec sheet statement found for CN30x40.",
+        "gearPitch": "Servo lens; no gear pitch applicable",
+        "focusRingRotationDeg_confidence": "unconfirmed"
       },
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl"
@@ -18049,8 +18052,9 @@
         "isParfocal": "Canon does not explicitly claim parfocal for CN30x40; parfocal likely but unconfirmed — Tim: zoek Canon CN30x40 specs",
         "hasFocusBreathing": "Canon CINE-SERVO 40-1200mm: minimal focus breathing consistent with Cine Servo series design (tier-1)",
         "hasFrontRotation": "Not stated on Canon product page",
-        "focusRingRotationDeg": "unconfirmed -- inferred from Canon IAS Cine Servo family: CN7x17 KAS S and CN20x50 IAS H both confirmed 180° (canon-europe.com). No explicit spec for this model found.",
-        "gearPitch": "Servo lens; no gear pitch applicable"
+        "focusRingRotationDeg": "Canon IAS Cine Servo family pattern: CN7x17 KAS S confirmed 180° (canon-europe.com), CN20x50 IAS H confirmed 180° (canon-europe.com). CN30x40 is same Cine Servo family. No explicit spec sheet statement found for CN30x40.",
+        "gearPitch": "Servo lens; no gear pitch applicable",
+        "focusRingRotationDeg_confidence": "unconfirmed"
       },
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf"
@@ -19364,14 +19368,15 @@
       "gearPitch": "0.8",
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
-        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
         "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
         "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
         "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
         "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
         "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
         "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
-        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm_confidence": "unconfirmed"
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
@@ -19397,14 +19402,15 @@
       "gearPitch": "0.8",
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
-        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
         "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
         "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
         "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
         "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
         "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
         "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
-        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm_confidence": "unconfirmed"
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
@@ -19430,14 +19436,15 @@
       "gearPitch": "0.8",
       "sources": {
         "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
-        "lengthMm": "unconfirmed -- value from Gemini (AI inference); 18mm launched Sep 2024, not in original Cooke SP3 PDF. Verify if Cooke has published a spec sheet for the 18mm separately.",
+        "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
         "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
         "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
         "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
         "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
         "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
         "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
-        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm_confidence": "unconfirmed"
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"

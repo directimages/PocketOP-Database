@@ -10,6 +10,17 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.34.1 — 2026-05-17
+
+- POS-D26 schema correction: 7 sources entries with "unconfirmed" in description string split into separate description + `_confidence: "unconfirmed"` keys
+- arri-uwz-9-5-18: sources.gearPitch rewritten; sources.gearPitch_confidence added
+- canon-cn5x11-ias-t-p1: sources.focusRingRotationDeg rewritten; sources.focusRingRotationDeg_confidence added
+- canon-cn30x40-ias-pl: sources.focusRingRotationDeg rewritten; sources.focusRingRotationDeg_confidence added
+- canon-cn30x40-ias-rf: sources.focusRingRotationDeg rewritten; sources.focusRingRotationDeg_confidence added
+- cooke-sp3-18mm-t2-4-e: sources.lengthMm rewritten; sources.lengthMm_confidence added
+- cooke-sp3-18mm-t2-4-rf: sources.lengthMm rewritten; sources.lengthMm_confidence added
+- cooke-sp3-18mm-t2-4-l: sources.lengthMm rewritten; sources.lengthMm_confidence added
+
 ### v1.34.0 — 2026-05-17
 
 - Part 1 (48 POS-D26 corrections): numeric fields previously stored as "unconfirmed" string now resolved
