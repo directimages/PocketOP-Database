@@ -10,6 +10,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.37.0 — 2026-05-18
+
+- Broadcast gap fill: 79 entries — filterType, filterThreadMm, closeFocusM, hasMacro, lengthMm, weightG (Kay-verified)
+- Brands covered: Canon (CJ/HJ/UJ/XJ/KJ/J/KLL-SC ×57), Fujinon (UA/HA/XA ×16), Angénieux (T-series ×4), Zeiss (DigiZoom ×2), Nikon (TV-Nikkor ×4)
+- Cine zoom gap fill: 63 entries — isParfocal, hasFocusBreathing, focusRingRotationDeg, gearPitch, filterType, filterThreadMm, lengthMm, weightG, closeFocusM, imageCircleMm (Kay-verified)
+- Brands covered: Canon (CN/EF ×20), Fujinon (ZK/Premista/HZK/HK ×14), Angénieux (Optimo/EZ ×17), ARRI (Signature/Alura/UWZ/Master ×10), Hawk/Vantage ×2, Viltrox ×1, Masterbuilt ×1, Laowa ×1
+- Angénieux URL fix: manufacturerUrl + webSources corrected for 8 Optimo entries (style-25-250, 15-40, 28-76, 45-120, 17-80, 19-5-94, 24-290, 28-340)
+
 ### v1.36.0 — 2026-05-18
 
 - hasFocusBreathing migration: 69 entries set to "minimal" (Kay-verified source analysis)
