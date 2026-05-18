@@ -1,6 +1,6 @@
 {
-  "version": "1.15.1",
-  "updatedAt": "2026-05-14",
+  "version": "1.16.0",
+  "updatedAt": "2026-05-18",
   "cameras": [
     {
       "id": "canon-cr-n700",
@@ -1414,7 +1414,13 @@
       "maxPanSpeedDegS": 100,
       "maxTiltSpeedDegS": 70,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Indoor", "Outdoor", "One Push", "Manual"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
       "minLux": 0.5,
       "weightG": 1700,
       "widthMm": 142,
@@ -1614,7 +1620,13 @@
       "maxPanSpeedDegS": 120,
       "maxTiltSpeedDegS": 120,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Manual", "One Push", "3000K", "5800K"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "3000K",
+        "5800K"
+      ],
       "minLux": 1.0,
       "weightG": 2000,
       "widthMm": 174,
@@ -1772,7 +1784,13 @@
       "maxPanSpeedDegS": 300,
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Manual", "One Push", "Indoor", "Outdoor"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "Indoor",
+        "Outdoor"
+      ],
       "minLux": 0.1,
       "weightG": 2000,
       "widthMm": 174,
@@ -2087,7 +2105,13 @@
       "maxPanSpeedDegS": 300,
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Indoor", "Outdoor", "One Push", "Manual"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
       "minLux": null,
       "weightG": 1800,
       "widthMm": 186,
@@ -2288,7 +2312,13 @@
       "maxPanSpeedDegS": 100,
       "maxTiltSpeedDegS": 100,
       "hasIR": true,
-      "whiteBalanceModes": ["Auto", "Manual", "One Push", "Indoor", "Outdoor"],
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "Indoor",
+        "Outdoor"
+      ],
       "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
@@ -4876,6 +4906,122 @@
         "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
         "https://en.minrrayav.com/Products/339.html",
         "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
+      ]
+    },
+    {
+      "id": "birddog-x1",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1350,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/",
+        "https://videoguys.com/products/birddog-x1-20x-hd-ptz-camera-black"
+      ]
+    },
+    {
+      "id": "birddog-x1-30x",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1350,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/"
+      ]
+    },
+    {
+      "id": "birddog-x1-ultra",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1430,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/",
+        "https://videoguys.com/products/birddog-3x-x1-ultra-ptz-cameras-and-kbd-keyboard-bundle-black"
       ]
     }
   ]
