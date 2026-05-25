@@ -10,6 +10,10 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.38.0 — 2026-05-25
+
+- fujinon-hzk14-100mm-t2-9: filterType + filterThreadMm corrected null (prior value 'front_thread' / 127mm was physically impossible — 127mm thread exceeds 114mm front diameter; FUJIFILM DUVO page publishes no filter system info)
+
 ### v1.37.0 — 2026-05-18
 
 - Broadcast gap fill: 79 entries — filterType, filterThreadMm, closeFocusM, hasMacro, lengthMm, weightG (Kay-verified)
