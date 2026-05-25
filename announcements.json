@@ -1,9 +1,4 @@
 {
-  "version": "1.0.3",
-  "announcement": {
-    "id": "2026-05-pre-launch",
-    "message": "We're approaching the App Store release of PocketOP. Thank you for being part of the beta. Your participation has been invaluable. We hope the app has already helped you find the right lens for the job. Check out the lens database on pocketop.app for detailed specs on every lens and PTZ camera in the app. If you have any feedback before launch, please use the support link in the menu.",
-    "type": "info",
-    "expires": "2026-09-01"
-  }
+  "version": "1.0.4",
+  "announcement": null
 }

@@ -65,6 +65,10 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm lengthMm=109 marked unconfirmed (Gemini source); all other SP3 values from Cooke spec sheet PDF (Tier 1)
 
 ## announcements.json
+### v1.0.4 — 2026-05-25
+
+- Cleared beta announcement for App Store release: announcement set to null
+
 ### v1.0.3 — 2026-05-15
 - Pre-launch announcement: id "2026-05-pre-launch", type info, expires 2026-09-01
 - Message: approaching App Store release, thanks beta testers, references pocketop.app lens database
