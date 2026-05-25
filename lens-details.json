@@ -1,6 +1,6 @@
 {
-  "version": "1.38.0",
-  "updatedAt": "2026-05-18",
+  "version": "1.39.0",
+  "updatedAt": "2026-05-25",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -4730,8 +4730,8 @@
       "introductionYear": 2024,
       "imageCircleMm": 28.5,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": null,
       "isParfocal": true,
       "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
@@ -4741,6 +4741,8 @@
         "hasFocusBreathing": "With BCT (Breathing Compensation Technology) enabled: minimal. BCT can be toggled on/off via the lens control system."
       },
       "sources": {
+        "filterType": "null — fujifilm.com DUVO page publishes no filter system info; prior value 'front_thread' / 127mm was physically impossible (127mm thread exceeds 114mm front diameter); same correction as HZK14-100 (2026-05-25)",
+        "filterThreadMm": "null — see filterType; 127mm was a data error from broadcast EFP filter template applied to DUVO cine series",
         "hasFocusBreathing": "newsshooter.com review: \"exhibits a lot of lens breathing\" without BCT",
         "fieldNotes": "fujifilm.com press release; topteks.com -- Breathing Compensation Technology (BCT)",
         "gearPitch": "CineD + FUJINON.com (Tier 2/1): \"0.8MOD FIZ gears\"",
@@ -9318,8 +9320,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9329,7 +9331,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9338,7 +9340,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9355,8 +9358,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9366,7 +9369,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9375,7 +9378,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9392,8 +9396,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9403,7 +9407,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9412,7 +9416,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9429,8 +9434,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9440,7 +9445,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9449,7 +9454,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9466,8 +9472,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9477,7 +9483,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9486,7 +9492,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9503,8 +9510,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9514,7 +9521,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9523,7 +9530,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9540,8 +9548,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9551,7 +9559,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9560,7 +9568,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9577,8 +9586,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9588,7 +9597,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9597,7 +9606,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9614,8 +9624,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9625,7 +9635,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9634,7 +9644,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
@@ -9651,8 +9662,8 @@
       "introductionYear": 2017,
       "imageCircleMm": 43.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -9662,7 +9673,7 @@
         "manufacturerUrl": "zeiss.com CP.3 product page (tier-1)",
         "introductionYear": "NAB 2017 announcement — multiple industry sources (tier-2/4)",
         "frontDiameterMm": "zeiss.com CP.3 product page: 'front diameter of 95mm' (tier-1)",
-        "filterType": "Duclos Lenses product listing: 'Filter Thread: N/A' (tier-2); Zeiss does not publish filter info",
+        "filterType": "B&H Photo (Tier 2): CP.3 lenses have no front filter thread; designed for matte box use. 95mm is front barrel diameter, not a thread.",
         "imageCircleMm": "Zeiss publishes 'full frame coverage' but not image circle diameter in mm",
         "opticalElements": "Not published by Zeiss for CP.3",
         "isParfocal": "Prime lens — field not applicable",
@@ -9671,7 +9682,8 @@
         "gearPitch": "Zeiss does not publish gear pitch",
         "weightG": "zeiss.com CP.3 spec table (tier-1)",
         "lengthMm": "zeiss.com CP.3 spec table (tier-1)",
-        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)"
+        "closeFocusM": "zeiss.com CP.3 spec table (tier-1)",
+        "filterThreadMm": "none — confirmed absent per POS-D24 (B&H Tier 2)"
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"

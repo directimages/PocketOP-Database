@@ -10,6 +10,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.39.0 — 2026-05-25
+
+- zeiss-cp3 (×10): filterType front_thread → matte_box, filterThreadMm 86 → "none" (B&H Tier 2: no front filter thread; matte box design; 95mm is barrel diameter not thread; confirmed absent per POS-D24)
+- fujinon-hzk24-300mm-t2-9: filterType + filterThreadMm → null (same correction as HZK14-100 v1.38.0; 127mm thread on 114mm barrel physically impossible; FUJIFILM DUVO page publishes no filter info)
+
 ### v1.38.0 — 2026-05-25
 
 - fujinon-hzk14-100mm-t2-9: filterType + filterThreadMm corrected null (prior value 'front_thread' / 127mm was physically impossible — 127mm thread exceeds 114mm front diameter; FUJIFILM DUVO page publishes no filter system info)
