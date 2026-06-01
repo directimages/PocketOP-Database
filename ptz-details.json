@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "updatedAt": "2026-05-18",
+  "version": "1.17.0",
+  "updatedAt": "2026-06-01",
   "cameras": [
     {
       "id": "canon-cr-n700",
@@ -1514,6 +1514,45 @@
     },
     {
       "id": "jvc-ky-pz510",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz510n",
       "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
       "controlProtocols": [
         "JVC IP",

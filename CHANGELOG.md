@@ -319,6 +319,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.7.0 — 2026-06-01
+
+- Added JVC KY-PZ510N (NDI|HX2 variant of KY-PZ510). Optics identical: 1/2.8-inch CMOS, 12x, hFOVWide 80.0°, hFOVTele 7.8° (calc). Secondary source: omegabroadcast.com distributor spec. Separate entry per NDI precedent (KY-PZ200 / KY-PZ200N).
+
 - **1.7.0** (2026-06-01) — Added jvc-ky-pz510n: NDI|HX2 variant of KY-PZ510; optics identical, sensor values follow KY-PZ510 (1/2.8-inch, sensorWidthMM 5.71, sensorWidthMM 3.84). Note on sensor label discrepancy between JVC main page (1/2.5-inch) and distributor spec (1/2.8-inch) documented in notes.
 - **1.6.0** (2026-05-18) — Added 3 BirdDog X1 series entries: birddog-x1 (20x, 55.8°/3.2°), birddog-x1-30x (30x, 58.1°/2.14°), birddog-x1-ultra (12x, 70.28°/6.57°). All HFOV published by BirdDog (Tier 1).
 - **1.5.0** (2026-04-29) — Added 33 entries across 4 new brands: Fomako (12: K820/K820N/K30NS/K20/K30/KN20/KN30/KN20A/KN30A/FMK12UH/FMK20UH/K600N), Bolin (11: B2-210/B2-220/B6-420/R9-418F/R9-418N/R9-230H/RANGE/D2-210H/D2-220H/N2-210X/N2-220X), AVer (3: PTZ310UV2/PTZ330UV2/PTZ330UNV2), Minrray (7: UV430E0/E2/E3/UV510E0/E2/UV950E0/E2)
@@ -337,9 +341,10 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
 ### v1.17.0 — 2026-06-01
 
-- Added jvc-ky-pz510n sidecar: copied from jvc-ky-pz510; id changed to jvc-ky-pz510n. Inserted directly after jvc-ky-pz510.
+- Added KY-PZ510N sidecar. controlProtocols updated for NDI|HX2 (SRT, RTSP, RTMP, RTMPS added). manufacturerUrl: pro.jvc.com KY-PZ510N page. All optical sidecar fields identical to KY-PZ510.
 
 ### v1.16.0 — 2026-05-18
 

@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "ptzCameras": [
     {
       "id": "canon-cr-n700",
@@ -593,6 +593,22 @@
       "isFree": false,
       "isCustom": false,
       "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current."
+    },
+    {
+      "id": "jvc-ky-pz510n",
+      "brand": "jvc",
+      "model": "KY-PZ510N",
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.71,
+      "sensorHeightMM": 3.84,
+      "minFocalLengthMM": 3.4,
+      "maxFocalLengthMM": 41.6,
+      "hFOVWide": 80.0,
+      "hFOVTele": 7.8,
+      "opticalZoom": 12,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current. NDI|HX2 variant of KY-PZ510. Optics identical. Note: JVC main page lists 1/2.5-inch while distributor (omegabroadcast.com) spec shows 1/2.8-inch; sensor values follow existing KY-PZ510 entry for consistency."
     },
     {
       "id": "jvc-ky-pz540n",
