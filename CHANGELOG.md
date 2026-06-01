@@ -319,6 +319,20 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.8.0 — 2026-06-01
+
+- AVer import: 11 new entries (PTZ310UNV2, PTZ231, PTC310UV2, TR211, TR315, TR315N, TR335, TR335N, TR535, TR535N, TR615)
+- PTZ310UNV2: NDI-native variant of PTZ310UV2, optics identical (72.1°/6.3°, 12x, 3.9–46.8mm)
+- PTZ231: Full HD 30x variant (62.3°/2.5°, 4.5–135mm)
+- PTC310UV2: Dual-lens auto-tracking system; main PTZ lens only (70°/6°, 12x, 3.9–46.8mm); panoramic tracking module out of scope
+- TR211/TR315/TR315N: 12x 1/2.8" CMOS (70°/6°, 3.9–46.8mm); TR315N is NDI variant
+- TR335: 30x 1/2.8" CMOS (62.3°/2.5°); note in entry: published focal range (3.9–46.8mm) is inconsistent with stated 30x zoom; likely AVer data error; HFOV verified
+- TR335N: NDI HX3 variant of TR335 (62.3°/2.5°, 4.5–135mm/30x — consistent)
+- TR535: 30x dual-camera auto-tracking; main PTZ lens only (62.3°/2.5°, 4.5–135mm); secondary 105° wide-angle module out of scope
+- TR535N: NDI HX3 variant of TR535 (62.3°/2.5°, 4.5–135mm, PoE++)
+- TR615: 1-inch Sony Exmor RS, 19x, dual 12G-SDI, PoE++ (69.5°/3.5°, 9.79–186.39mm)
+- PTZ211: NOT imported — conflicting HFOV values across sources (62.3° from datasheet PDF vs 72.8° from product page); held pending clarification from AVer
+
 ### v1.7.0 — 2026-06-01
 
 - Added JVC KY-PZ510N (NDI|HX2 variant of KY-PZ510). Optics identical: 1/2.8-inch CMOS, 12x, hFOVWide 80.0°, hFOVTele 7.8° (calc). Secondary source: omegabroadcast.com distributor spec. Separate entry per NDI precedent (KY-PZ200 / KY-PZ200N).
@@ -341,6 +355,19 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.18.0 — 2026-06-01
+
+- AVer sidecar import: 11 new entries matching ptz_cameras.json v1.8.0 additions
+- PTZ310UNV2: controlProtocols add NDI|HX2 + NDI|HX3; PoE+; 180×192×145mm; sources: averusa.com datasheet PDF
+- PTZ231: controlProtocols include NDI|HX3; PoE+; 180×192×145mm; sources: averusa.com datasheet PDF
+- PTC310UV2: controlProtocols VISCA/Pelco/CGI only (NDI optional license upgrade, not built-in); presetCount=255; PoE+; sources: AVer brochure PDF via presentation.aver.com + charmex.net distributor PDF
+- TR211/TR315/TR315N: controlProtocols VISCA/Pelco-D/CGI/NDI|HX3; PoE+; 180×192×145mm
+- TR335: controlProtocols VISCA/Pelco-D/CGI/NDI|HX3; PoE+; 180×192×145mm; sources: averusa.com product page + datasheet PDF
+- TR335N: controlProtocols add Pelco-P + ONVIF; PoE+; 180×192×145mm; sources: averusa.com datasheet PDF
+- TR535: controlProtocols include NDI High Bandwidth + NDI|HX2 + ONVIF; PoE++; 202.5×250.7×218.5mm; sources: AVer brochure PDF (cors-web.aver.com)
+- TR535N: controlProtocols include NDI|HX3 + ONVIF; PoE++; 202.5×218.5×250.7mm; sources: averusa.com datasheet PDF
+- TR615: controlProtocols include NDI|HX3 + ONVIF + HLS; PoE++; 12G-SDI output; 202.5×304.5×231.5mm; sources: averusa.com datasheet PDF
 
 ### v1.17.0 — 2026-06-01
 

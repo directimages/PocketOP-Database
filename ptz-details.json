@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
+  "version": "1.18.0",
   "updatedAt": "2026-06-01",
   "cameras": [
     {
@@ -4663,6 +4663,451 @@
       "sources": [
         "https://presentation.aver.com/model/ptz330unv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz330unv2-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-ptc310uv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310uv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "CGI",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/DownloadFile.ashx?n=2810&t=ModelBrochure",
+        "https://charmex.net/downloads/ptc310-_3544_4.pdf"
+      ]
+    },
+    {
+      "id": "aver-ptz231",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz231",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz231",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz231-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-ptz310unv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz310unv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz310unv2",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310unv2-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr211",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr211",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "CGI",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr211",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr211-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr315",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr315",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "CGI",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr315",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr315n",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr315n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "CGI",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr315n",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315n-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr335",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr335",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "CGI",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/products/ptz-camera/tr335",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr335n",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr335n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "CGI",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr335n",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335n-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr535",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr535",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "CGI",
+        "ONVIF",
+        "NDI High Bandwidth",
+        "NDI|HX2",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 3600,
+      "widthMm": 202.5,
+      "heightMm": 250.7,
+      "depthMm": 218.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://cors-web.aver.com/Contents/Model/tr535/resources/en/AVer-TR535-Brochure.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr535n",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr535n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "CGI",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 3600,
+      "widthMm": 202.5,
+      "heightMm": 218.5,
+      "depthMm": 250.7,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr535n",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr535n-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "aver-tr615",
+      "manufacturerUrl": "https://presentation.aver.com/model/tr615",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "CGI",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT",
+        "HLS"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 4300,
+      "widthMm": 202.5,
+      "heightMm": 304.5,
+      "depthMm": 231.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/tr615",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr615-datasheet.pdf"
       ]
     },
     {
