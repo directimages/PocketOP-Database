@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.23.0 — 2026-06-01
+
+- Zeiss Nano Prime import: 6 new entries (18/24/35/50/75/100mm T1.5), E-mount, fullFrame, 46.5mm image circle
+- Zeiss Supreme Prime Radiance import: 2 new entries (18mm T1.5, 135mm T1.5), PL mount, fullFrame
+
 ### v1.19.0 — 2026-05-17
 
 - Cooke SP3 primes import: 18 new entries (6 focal lengths × 3 mounts: E, RF, L)
@@ -10,6 +15,12 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.40.0 — 2026-06-01
+
+- Zeiss Nano Prime sidecars: 6 new entries (18/24/35/50/75/100mm T1.5); imageCircleMm=46.5, filterType=front, filterThreadMm=86, frontDiameterMm=95; source: zeiss.com brochure PDF (tier-1)
+- Zeiss Supreme Prime Radiance sidecars: 2 new entries (18mm T1.5, 135mm T1.5); imageCircleMm=46.3, filterType=null; 135mm weight/length flagged as inferred from chassis family
+- Angénieux UC 21-56, UC 37-102, EZ-3: no null fills applied — all specified dimension fields already populated from prior import
+
 ### v1.39.0 — 2026-05-25
 
 - zeiss-cp3 (×10): filterType front_thread → matte_box, filterThreadMm 86 → "none" (B&H Tier 2: no front filter thread; matte box design; 95mm is barrel diameter not thread; confirmed absent per POS-D24)
@@ -308,6 +319,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+- **1.7.0** (2026-06-01) — Added jvc-ky-pz510n: NDI|HX2 variant of KY-PZ510; optics identical, sensor values follow KY-PZ510 (1/2.8-inch, sensorWidthMM 5.71, sensorWidthMM 3.84). Note on sensor label discrepancy between JVC main page (1/2.5-inch) and distributor spec (1/2.8-inch) documented in notes.
 - **1.6.0** (2026-05-18) — Added 3 BirdDog X1 series entries: birddog-x1 (20x, 55.8°/3.2°), birddog-x1-30x (30x, 58.1°/2.14°), birddog-x1-ultra (12x, 70.28°/6.57°). All HFOV published by BirdDog (Tier 1).
 - **1.5.0** (2026-04-29) — Added 33 entries across 4 new brands: Fomako (12: K820/K820N/K30NS/K20/K30/KN20/KN30/KN20A/KN30A/FMK12UH/FMK20UH/K600N), Bolin (11: B2-210/B2-220/B6-420/R9-418F/R9-418N/R9-230H/RANGE/D2-210H/D2-220H/N2-210X/N2-220X), AVer (3: PTZ310UV2/PTZ330UV2/PTZ330UNV2), Minrray (7: UV430E0/E2/E3/UV510E0/E2/UV950E0/E2)
 - **1.4.6** (2026-04-09) — Added Sony BRC-AM7(W): 1-inch Exmor RS CMOS, 20x, 8.8–176mm, hFOVWide 75.0° (Sony help guide). Lens module appears shared with Panasonic AW-HE145/UE160/UE150. Panasonic AW-UE4 marked outOfScope (111° HFOV exceeds iPhone ultrawide ~108°)
@@ -325,6 +337,10 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+### v1.17.0 — 2026-06-01
+
+- Added jvc-ky-pz510n sidecar: copied from jvc-ky-pz510; id changed to jvc-ky-pz510n. Inserted directly after jvc-ky-pz510.
+
 ### v1.16.0 — 2026-05-18
 
 - Added 3 BirdDog X1 detail entries: birddog-x1, birddog-x1-30x, birddog-x1-ultra. Sources: birddog.tv/x1-techspecs/ (Tier 1), birddog.tv/cameras-show/ (Tier 1), videoguys.com (Tier 2).
