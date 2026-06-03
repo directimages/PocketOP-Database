@@ -3,6 +3,16 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.23.2 — 2026-06-03
+
+- notes prose cleanup: removed "large format" wording from 9 entries now classified fullFrame (8× Cooke S8/i FF, 1× MasterBuilt CFZ 27-60mm T2.9)
+- masterbuilt-cfz-27-60mm-t2-9: notes spec corrected from "Large Format (54.12mm — Alexa Open Gate/IMAX 65)" to "Full-frame / VistaVision (46.5mm image circle)"; source citation updated to masterbuiltlenses.com (46.5mm verified, HIGH); the prior 54.12mm/Alexa 65 claim is physically impossible at a 46.5mm image circle
+
+### v1.23.1 — 2026-06-03
+
+- sensorFormat reclassification: 16 entries corrected from largeFormat to fullFrame (8× Cooke S8/i FF, 7× Tokina Cinema Vista, 1× MasterBuilt CFZ 27-60mm T2.9)
+- Reason: image circles 46.3mm (Cooke), 46.7mm (Tokina), 46.5mm (MasterBuilt) cover full frame / VistaVision only, not 65mm large format (largeFormat requires 54mm+). Verified against cookeoptics.com, tokinacinema.com, masterbuiltlenses.com. Leitz THALIA 65 (60mm) and Viltrox LUNA 42-420mm (60mm) correctly remain largeFormat
+
 ### v1.23.0 — 2026-06-01
 
 - Zeiss Nano Prime import: 6 new entries (18/24/35/50/75/100mm T1.5), E-mount, fullFrame, 46.5mm image circle

@@ -1,5 +1,5 @@
 {
-  "version": "1.23.1",
+  "version": "1.23.2",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -4911,7 +4911,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Large Format cine zoom (54.12mm image circle — covers ARRI Alexa Open Gate and IMAX 65), PL mount. Current. ~$42,900. Designed to match MasterBuilt Classic Prime character. 114mm front diameter, best-in-class close focus at 11 inches. Boutique manufacturer, not affiliated with Panavision. Source: MasterBuilt authorized dealers."
+      "notes": "Full-frame / VistaVision cine zoom (46.5mm image circle), PL mount. Current. ~$42,900. Designed to match MasterBuilt Classic Prime character. 114mm front diameter, best-in-class close focus at 11 inches. Boutique manufacturer, not affiliated with Panavision. Source: masterbuiltlenses.com."
     },
     {
       "id": "canon-cne15-5-47mm-t2-8-ef",
@@ -9518,7 +9518,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-25mm-t1-6",
@@ -9535,7 +9535,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
@@ -9552,7 +9552,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
@@ -9569,7 +9569,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
@@ -9586,7 +9586,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
@@ -9603,7 +9603,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
@@ -9620,7 +9620,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
@@ -9637,7 +9637,7 @@
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Cooke S8/i Full Frame prime, large format, PL mount. Source: cookeoptics.com."
+      "notes": "Cooke S8/i Full Frame prime, PL mount. Source: cookeoptics.com."
     },
     {
       "id": "cooke-sp3-18mm-t2-4-e",
