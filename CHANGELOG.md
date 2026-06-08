@@ -3,6 +3,14 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.24.0 — 2026-06-08
+
+- Tokina Vista-P Prime T1.5 import: 12 new entries (18/21/25/29/35/40/50/65/85/105/135/180mm), PL mount, fullFrame, 46.7mm image circle (VistaVision coverage), series "Vista-P"
+- Vista-P is a distinct product line from the existing Cinema Vista primes — a modified optical design with increased spherical aberration and reduced contrast for a vintage Petzval-type look. Cinema Vista entries left untouched
+- 180mm was absent from the website spec table but confirmed present in the manufacturer All-Focal-Length PDF chart; imported with full specs
+- EF, MFT, E, LPL mounts deferred (one entry per mount, POS-D09) pending Kay decision; MFT is out of scope per POS-D15
+- Source: tokinacinemausa.com product page + spec chart PDF
+
 ### v1.23.2 — 2026-06-03
 
 - notes prose cleanup: removed "large format" wording from 9 entries now classified fullFrame (8× Cooke S8/i FF, 1× MasterBuilt CFZ 27-60mm T2.9)
@@ -25,6 +33,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.41.0 — 2026-06-08
+
+- Tokina Vista-P Prime T1.5 sidecars: 12 new entries (18–180mm); imageCircleMm=46.7, filterType=front_thread, filterThreadMm=112, frontDiameterMm=114, focusRingRotationDeg=300, hasFocusBreathing=none, gearPitch=0.8, opticalElements + lengthMm + weightG + closeFocusM per focal
+- weightG and lengthMm use the PL-mount column from the manufacturer All-Focal-Length spec chart PDF (PL is the imported mount). NOTE: the weights in Kay's brief matched the MFT-mount column (~0.13 kg heavier); PL-column values used here for mount accuracy — see Tim completion summary
+- frontDiameterMm=114 for all focal lengths (manufacturer "front lead diameter"); the 124mm figure for 135/180mm is the max barrel diameter, not the front diameter
+- introductionYear=null (not published); gearPitch=0.8 by reasoning (shared Vista housing, standard 0.8 mod cine gears)
+- Source: tokinacinemausa.com product page + spec chart PDF (tier-1/2)
+
 ### v1.40.0 — 2026-06-01
 
 - Zeiss Nano Prime sidecars: 6 new entries (18/24/35/50/75/100mm T1.5); imageCircleMm=46.5, filterType=front, filterThreadMm=86, frontDiameterMm=95; source: zeiss.com brochure PDF (tier-1)
