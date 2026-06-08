@@ -3,6 +3,13 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.25.0 — 2026-06-08
+
+- Tokina Vista-P Prime T1.5 mount variants: 36 new entries (12 focal lengths × EF/E/LPL), full-frame, 46.7mm image circle, series "Vista-P". Follow-up to v1.24.0 PL import
+- id suffix convention: -ef / -e / -lpl (PL entries keep the base id, no suffix). Model string identical across mounts; only mount differs
+- MFT not imported — out of scope (POS-D15)
+- Source: tokinacinemausa.com spec chart PDF (per-mount columns)
+
 ### v1.24.0 — 2026-06-08
 
 - Tokina Vista-P Prime T1.5 import: 12 new entries (18/21/25/29/35/40/50/65/85/105/135/180mm), PL mount, fullFrame, 46.7mm image circle (VistaVision coverage), series "Vista-P"
@@ -33,6 +40,12 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.42.0 — 2026-06-08
+
+- Tokina Vista-P Prime T1.5 mount-variant sidecars: 36 new entries (12 focal lengths × EF/E/LPL). All fields identical to the PL entries except weightG and lengthMm, which use the matching mount column from the manufacturer spec chart PDF
+- Mount weight/length spread (vs PL): EF ≈ +0.08 kg same length; LPL ≈ +0.15 kg / +8 mm; E ≈ +0.17 kg / +26 mm
+- Source: tokinacinemausa.com spec chart PDF (tier-2, per-mount columns)
+
 ### v1.41.0 — 2026-06-08
 
 - Tokina Vista-P Prime T1.5 sidecars: 12 new entries (18–180mm); imageCircleMm=46.7, filterType=front_thread, filterThreadMm=112, frontDiameterMm=114, focusRingRotationDeg=300, hasFocusBreathing=none, gearPitch=0.8, opticalElements + lengthMm + weightG + closeFocusM per focal
