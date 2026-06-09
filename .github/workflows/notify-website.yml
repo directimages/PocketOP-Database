@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Dispatch rebuild to PocketOP-Website
         run: |
-          curl -X POST \
+          curl --fail-with-body -sS -X POST \
             -H "Authorization: Bearer ${{ secrets.PAT_DISPATCH_WEBSITE }}" \
             -H "Accept: application/vnd.github+json" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
@@ -24,7 +24,7 @@ jobs:
 
       - name: Dispatch rebuild to directimages.nl
         run: |
-          curl -X POST \
+          curl --fail-with-body -sS -X POST \
             -H "Authorization: Bearer ${{ secrets.PAT_DISPATCH_WEBSITE }}" \
             -H "Accept: application/vnd.github+json" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
