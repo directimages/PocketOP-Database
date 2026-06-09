@@ -1,6 +1,6 @@
 {
-  "version": "1.42.0",
-  "updatedAt": "2026-06-08",
+  "version": "1.43.0",
+  "updatedAt": "2026-06-09",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -22050,6 +22050,58 @@
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
       ]
+    },
+    {
+      "id": "fujinon-la30x7-8brm-xb2",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 1700,
+      "lengthMm": 190.0,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.8,
+      "introductionYear": 2025,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asset.fujifilm.com/www/au/files/2025-09/2dcc3885de26654c4322767dc7598f11/la30_a4_en_250815.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": null
+    },
+    {
+      "id": "fujinon-ua94x8-7besm",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens",
+      "weightG": 24300,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://asset.fujifilm.com/www/au/files/2026-03/c2da036a1593b43e6b381dff2d899eb3/fujinon_general_brochure_en_202603.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
+      ],
+      "fieldNotes": null
     }
   ]
 }

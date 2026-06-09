@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
+  "version": "1.27.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -12005,6 +12005,42 @@
       "isCustom": false,
       "notes": "Super 35 wide-range cine zoom, PL/EF/E mount. Source: dzofilm.com. DZO EF-style bayonet mount -- not standard Canon EF.",
       "addedDate": null
+    },
+    {
+      "id": "fujinon-la30x7-8brm-xb2",
+      "manufacturer": "Fujinon",
+      "model": "LA30x7.8BRM-XB2",
+      "series": "LA",
+      "generation": "4K UHD",
+      "focalLengthMin": 7.8,
+      "focalLengthMax": 234.0,
+      "zoomRatio": 30.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "4K portable broadcast zoom. New drive unit with 16-bit encoders for virtual and remote production. XB2 variant adds expansion connector for virtual/remote production.",
+      "addedDate": "2026-06-09"
+    },
+    {
+      "id": "fujinon-ua94x8-7besm",
+      "manufacturer": "Fujinon",
+      "model": "UA94x8.7BESM",
+      "series": "UA",
+      "generation": "4K UHD",
+      "focalLengthMin": 8.7,
+      "focalLengthMax": 818.0,
+      "zoomRatio": 94.0,
+      "extenderFactor": 2.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "4K UHD studio/field box lens. 94x zoom. Under Development per 2026 Product Guide.",
+      "addedDate": "2026-06-09"
     }
   ],
   "updatedAt": "2026-06-09"

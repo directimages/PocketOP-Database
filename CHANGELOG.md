@@ -3,6 +3,13 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.27.0 — 2026-06-09
+
+- Fujinon broadcast import: 2 new entries
+  - `fujinon-la30x7-8brm-xb2` (LA30x7.8BRM-XB2): LA series, 7.8–234mm, 30×, extender 1.0, B4, twoThirdsInch, 4K UHD. XB2 variant of LA30x7.8BRM with expansion connector for virtual/remote production
+  - `fujinon-ua94x8-7besm` (UA94x8.7BESM): UA series, 8.7–818mm, 94×, extender 2.0, B4, twoThirdsInch, 4K UHD. Box lens, under development per 2026 Product Guide
+- Both stamped `addedDate: 2026-06-09`. Specs sourced by Kay from official Fujifilm documents
+
 ### v1.26.0 — 2026-06-09
 
 - Schema: added `addedDate` field (ISO `YYYY-MM-DD` or `null`) to every entry. Marks when a lens was first committed to main after the App Store launch
@@ -50,6 +57,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.43.0 — 2026-06-09
+
+- Sidecars for the 2 new Fujinon broadcast lenses (v1.27.0 in lenses.json):
+  - `fujinon-la30x7-8brm-xb2`: weightG 1700, lengthMm 190.0, frontDiameterMm 100, closeFocusM 0.8, intro 2025, filter front_thread 95mm, hasMacro true, servo zoom true / focus false, 20pin, portable
+  - `fujinon-ua94x8-7besm`: weightG 24300, lengthMm 610, frontDiameterMm null (box lens), closeFocusM 3.05, filter `hood_thread` 127mm, hasMacro null, servo zoom+focus true, 20pin, box
+- New `filterType` enum value `"hood_thread"` introduced (UA94 hood-mounted filter); first use in the database
+- Specs sourced by Kay from official Fujifilm documents (la30 spec sheet PDF; 2026 general brochure PDF)
+
 ### v1.42.0 — 2026-06-08
 
 - Tokina Vista-P Prime T1.5 mount-variant sidecars: 36 new entries (12 focal lengths × EF/E/LPL). All fields identical to the PL entries except weightG and lengthMm, which use the matching mount column from the manufacturer spec chart PDF
