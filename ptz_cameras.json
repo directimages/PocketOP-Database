@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "ptzCameras": [
     {
       "id": "canon-cr-n700",
@@ -15,7 +15,8 @@
       "opticalZoom": 15,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K UHD PTZ, 1-inch CMOS. HFOV 73.0°–5.7°, focal 8.3–124.5mm from Canon published spec sheet. (Addendum A Section A.3)"
+      "notes": "4K UHD PTZ, 1-inch CMOS. HFOV 73.0°–5.7°, focal 8.3–124.5mm from Canon published spec sheet. (Addendum A Section A.3)",
+      "addedDate": null
     },
     {
       "id": "canon-cr-n500",
@@ -31,7 +32,8 @@
       "opticalZoom": 15,
       "isFree": false,
       "isCustom": false,
-      "notes": "CR-N500 shares the same 1-inch sensor and 15x lens as the CR-N700. HFOV 73.0°–5.7°, focal 8.3–124.5mm. (Addendum A Section A.3)"
+      "notes": "CR-N500 shares the same 1-inch sensor and 15x lens as the CR-N700. HFOV 73.0°–5.7°, focal 8.3–124.5mm. (Addendum A Section A.3)",
+      "addedDate": null
     },
     {
       "id": "canon-cr-n300",
@@ -47,7 +49,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch CMOS, 20x. Focal range 3.67-73.4mm from Canon shop page. CR-N300 and CR-N100 share identical sensor and lens. (Addendum A Section A.3)"
+      "notes": "1/2.3-inch CMOS, 20x. Focal range 3.67-73.4mm from Canon shop page. CR-N300 and CR-N100 share identical sensor and lens. (Addendum A Section A.3)",
+      "addedDate": null
     },
     {
       "id": "canon-cr-n100",
@@ -63,7 +66,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same 1/2.3-inch sensor and lens spec as CR-N300. (Addendum A Section A.3)"
+      "notes": "Same 1/2.3-inch sensor and lens spec as CR-N300. (Addendum A Section A.3)",
+      "addedDate": null
     },
     {
       "id": "sony-brc-x1000",
@@ -79,7 +83,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch Exmor R CMOS, 12x. HFOV 64.6° manufacturer-published (Sony pro spec sheet). Focal range 9.3-111.6mm. (Addendum A Section A.4)"
+      "notes": "1-inch Exmor R CMOS, 12x. HFOV 64.6° manufacturer-published (Sony pro spec sheet). Focal range 9.3-111.6mm. (Addendum A Section A.4)",
+      "addedDate": null
     },
     {
       "id": "sony-brc-h800",
@@ -95,7 +100,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T*. Clear Image Zoom extends to 24x (HD). HFOV from Sony specs / B&H. Focal lengths derived from HFOV and sensor width. 3G-SDI + HDMI output. Discontinued. (Duplicate entry removed v1.2.1 — second entry claimed shared optics with BRC-X1000 at 9.3–111.6mm with hFOVTele 6.8°; kept this entry's Sony/B&H-sourced values.)"
+      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T*. Clear Image Zoom extends to 24x (HD). HFOV from Sony specs / B&H. Focal lengths derived from HFOV and sensor width. 3G-SDI + HDMI output. Discontinued. (Duplicate entry removed v1.2.1 — second entry claimed shared optics with BRC-X1000 at 9.3–111.6mm with hFOVTele 6.8°; kept this entry's Sony/B&H-sourced values.)",
+      "addedDate": null
     },
     {
       "id": "sony-brc-am7",
@@ -111,7 +117,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch Exmor RS CMOS, 20x. Focal range 8.8–176.0mm back-calculated from 24–480mm (35mm equiv) using sensorWidthMM/36.0 scale factor. hFOVWide 75.0° published by Sony (official help guide, 'Approx. 75°'). hFOVTele 4.3° calculated from maxFocalLengthMM (calc). (W) variant is white — identical specs. Lens module (8.8–176mm, 1-inch sensor) appears shared with Panasonic AW-HE145/UE160/UE150 series — same hFOVWide within 0.1°. Current."
+      "notes": "1-inch Exmor RS CMOS, 20x. Focal range 8.8–176.0mm back-calculated from 24–480mm (35mm equiv) using sensorWidthMM/36.0 scale factor. hFOVWide 75.0° published by Sony (official help guide, 'Approx. 75°'). hFOVTele 4.3° calculated from maxFocalLengthMM (calc). (W) variant is white — identical specs. Lens module (8.8–176mm, 1-inch sensor) appears shared with Panasonic AW-HE145/UE160/UE150 series — same hFOVWide within 0.1°. Current.",
+      "addedDate": null
     },
     {
       "id": "sony-brc-x400",
@@ -127,7 +134,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 20x. BRC-X400 and SRG-X400 share identical sensor and lens specs. Focal range 4.4-88mm. (Addendum A Section A.4)"
+      "notes": "1/2.5-inch CMOS, 20x. BRC-X400 and SRG-X400 share identical sensor and lens specs. Focal range 4.4-88mm. (Addendum A Section A.4)",
+      "addedDate": null
     },
     {
       "id": "sony-srg-x400",
@@ -143,7 +151,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same sensor and lens as BRC-X400. (Addendum A Section A.4)"
+      "notes": "Same sensor and lens as BRC-X400. (Addendum A Section A.4)",
+      "addedDate": null
     },
     {
       "id": "sony-srg-x120",
@@ -159,7 +168,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. HFOV 70.0° verified against Sony SRG-X120 spec sheet. Focal range approx 4.4-52.8mm. (Addendum A Section A.4)"
+      "notes": "1/2.5-inch CMOS, 12x. HFOV 70.0° verified against Sony SRG-X120 spec sheet. Focal range approx 4.4-52.8mm. (Addendum A Section A.4)",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue150",
@@ -175,7 +185,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch, 20x. AW-UE150 and UE150A are equivalent for FOV purposes. Supports digital crop mode (UHD crop changes active sensor area — use sensorOverride if needed). (Addendum A Section A.5)"
+      "notes": "1-inch, 20x. AW-UE150 and UE150A are equivalent for FOV purposes. Supports digital crop mode (UHD crop changes active sensor area — use sensorOverride if needed). (Addendum A Section A.5)",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue80",
@@ -191,7 +202,8 @@
       "opticalZoom": 24,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. (Addendum A Section A.5)"
+      "notes": "1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. (Addendum A Section A.5)",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue50",
@@ -207,7 +219,8 @@
       "opticalZoom": 24,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. (Addendum A Section A.5)"
+      "notes": "1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. (Addendum A Section A.5)",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue40",
@@ -223,7 +236,8 @@
       "opticalZoom": 24,
       "isFree": true,
       "isCustom": false,
-      "notes": "Free tier PTZ. 1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. Sensor corrected from 1/2.8-inch. (Addendum A Section A.5)"
+      "notes": "Free tier PTZ. 1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. Sensor corrected from 1/2.8-inch. (Addendum A Section A.5)",
+      "addedDate": null
     },
     {
       "id": "sony-srg-300h",
@@ -239,7 +253,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Exmor CMOS, 30x. Shares 4.3–129mm OEM lens module with JVC KY-PZ100 and BirdDog P200. hFOVTele 2.3° calculated (†). Discontinued."
+      "notes": "1/2.8-inch Exmor CMOS, 30x. Shares 4.3–129mm OEM lens module with JVC KY-PZ100 and BirdDog P200. hFOVTele 2.3° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "sony-srg-360she",
@@ -255,7 +270,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same sensor and 30x lens module as SRG-300H. hFOVTele 2.3° calculated (†). Discontinued."
+      "notes": "Same sensor and 30x lens module as SRG-300H. hFOVTele 2.3° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "sony-brc-h900",
@@ -271,7 +287,8 @@
       "opticalZoom": 14,
       "isFree": false,
       "isCustom": false,
-      "notes": "3-CMOS (3× 1/2-inch Exmor), 14x. Both HFOV values calculated (†) using 6.4mm sensor width per standard 1/2-inch dimension. Discontinued."
+      "notes": "3-CMOS (3× 1/2-inch Exmor), 14x. Both HFOV values calculated (†) using 6.4mm sensor width per standard 1/2-inch dimension. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue160",
@@ -287,7 +304,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch MOS, 20x. Flagship with SMPTE ST 2110 support. Shares 8.8–176mm lens module with AW-UE150, AW-HE145. HFOV published by Panasonic. Current."
+      "notes": "1-inch MOS, 20x. Flagship with SMPTE ST 2110 support. Shares 8.8–176mm lens module with AW-UE150, AW-HE145. HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue150a",
@@ -303,7 +321,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "January 2025 revision of AW-UE150. Adds NDI High Bandwidth and improved OIS. Identical optics to AW-UE150. HFOV published by Panasonic. Current."
+      "notes": "January 2025 revision of AW-UE150. Adds NDI High Bandwidth and improved OIS. Identical optics to AW-UE150. HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue100",
@@ -319,7 +338,8 @@
       "opticalZoom": 24,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch MOS, 24x. Shares 4.12–98.9mm lens module with AW-UE80/UE50/UE40. HFOV inferred from identical lens/sensor (‡); published at 3.3° for UE50/UE40. Current."
+      "notes": "1/2.5-inch MOS, 24x. Shares 4.12–98.9mm lens module with AW-UE80/UE50/UE40. HFOV inferred from identical lens/sensor (‡); published at 3.3° for UE50/UE40. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue30",
@@ -335,7 +355,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch MOS, 20x. Same sensor as UE100/UE80/UE50/UE40 but shorter 20x zoom (4.12–82.4mm). HFOV published by Panasonic. Current."
+      "notes": "1/2.5-inch MOS, 20x. Same sensor as UE100/UE80/UE50/UE40 but shorter 20x zoom (4.12–82.4mm). HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue20",
@@ -351,7 +372,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch MOS, 12x. Entry-level UE series. Shares optics with AW-HE20. HFOV published by Panasonic. Current."
+      "notes": "1/2.8-inch MOS, 12x. Entry-level UE series. Shares optics with AW-HE20. HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-ue4",
@@ -368,7 +390,8 @@
       "isFree": false,
       "isCustom": false,
       "outOfScope": true,
-      "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic (LDC off). Motorized PTZ (+-110° pan, +-25° tilt). No optical zoom; digital zoom up to 4x with digital pan/tilt overlay. ePTZ camera. Current."
+      "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic (LDC off). Motorized PTZ (+-110° pan, +-25° tilt). No optical zoom; digital zoom up to 4x with digital pan/tilt overlay. ePTZ camera. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he145",
@@ -384,7 +407,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch MOS, 20x. Shares 8.8–176mm lens module with AW-UE160, AW-UE150. HFOV published by Panasonic. Current."
+      "notes": "1-inch MOS, 20x. Shares 8.8–176mm lens module with AW-UE160, AW-UE150. HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he130",
@@ -400,7 +424,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "3-CMOS (3× 1/2.86-inch 3MOS), 20x. Both HFOV values calculated (†) using 5.0mm sensor width. Discontinued."
+      "notes": "3-CMOS (3× 1/2.86-inch 3MOS), 20x. Both HFOV values calculated (†) using 5.0mm sensor width. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he42",
@@ -416,7 +441,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch MOS, 20x. Focal range ~4.8–96.7mm. hFOVTele 3.7° calculated (†). Discontinued."
+      "notes": "1/2.3-inch MOS, 20x. Focal range ~4.8–96.7mm. hFOVTele 3.7° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he40",
@@ -432,7 +458,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch MOS, 30x. Both HFOV values calculated (†). Discontinued."
+      "notes": "1/2.3-inch MOS, 30x. Both HFOV values calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he38",
@@ -448,7 +475,8 @@
       "opticalZoom": 22,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch MOS, 22x optical zoom. HFOV 61.6° (wide) / 2.9° (tele) from published specs. Focal range 4.3–94.6mm. Source: avalive.com quoting Panasonic official specs."
+      "notes": "1/2.3-inch MOS, 22x optical zoom. HFOV 61.6° (wide) / 2.9° (tele) from published specs. Focal range 4.3–94.6mm. Source: avalive.com quoting Panasonic official specs.",
+      "addedDate": null
     },
     {
       "id": "panasonic-aw-he20",
@@ -464,7 +492,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch MOS, 12x. Shares optics with AW-UE20. HFOV published by Panasonic. Current."
+      "notes": "1/2.8-inch MOS, 12x. Shares optics with AW-UE20. HFOV published by Panasonic. Current.",
+      "addedDate": null
     },
     {
       "id": "canon-cr-n400",
@@ -480,7 +509,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch CMOS, 20x. DIGIC DV7. HFOV varies by frame rate: 63.3° wide at 50/59.94 Hz, 65.6° at 29.97/25/23.98 Hz. Shares optics with CR-N350; N400 adds 12G-SDI, genlock, timecode, dual XLR. Announced November 2025."
+      "notes": "1/2.3-inch CMOS, 20x. DIGIC DV7. HFOV varies by frame rate: 63.3° wide at 50/59.94 Hz, 65.6° at 29.97/25/23.98 Hz. Shares optics with CR-N350; N400 adds 12G-SDI, genlock, timecode, dual XLR. Announced November 2025.",
+      "addedDate": null
     },
     {
       "id": "canon-cr-n350",
@@ -496,7 +526,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same 1/2.3-inch sensor and 20x lens as CR-N400. DIGIC DV7. HFOV 63.3° at 50/59.94 Hz, 65.6° at other frame rates. Announced November 2025."
+      "notes": "Same 1/2.3-inch sensor and 20x lens as CR-N400. DIGIC DV7. HFOV 63.3° at 50/59.94 Hz, 65.6° at other frame rates. Announced November 2025.",
+      "addedDate": null
     },
     {
       "id": "canon-cr-x300",
@@ -512,7 +543,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "IP65 outdoor-rated variant. Same 1/2.3-inch optics as CR-N300. HFOV published by Canon (4K mode). Current."
+      "notes": "IP65 outdoor-rated variant. Same 1/2.3-inch optics as CR-N300. HFOV published by Canon (4K mode). Current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz100",
@@ -528,7 +560,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. Shares 4.3–129mm OEM lens module with Sony SRG-300H and BirdDog P200. HFOV published by JVC. Legacy/current."
+      "notes": "1/2.8-inch CMOS, 30x. Shares 4.3–129mm OEM lens module with Sony SRG-300H and BirdDog P200. HFOV published by JVC. Legacy/current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz200",
@@ -544,7 +577,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. HFOV published by JVC. Optically identical to KY-PZ200N (NDI variant). Current."
+      "notes": "1/2.8-inch CMOS, 20x. HFOV published by JVC. Optically identical to KY-PZ200N (NDI variant). Current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz200n",
@@ -560,7 +594,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as KY-PZ200; adds NDI|HX. HFOV published by JVC. Current."
+      "notes": "Same optics as KY-PZ200; adds NDI|HX. HFOV published by JVC. Current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz400n",
@@ -576,7 +611,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. HFOV published by JVC. NDI|HX native. Current."
+      "notes": "1/2.5-inch CMOS, 12x. HFOV published by JVC. NDI|HX native. Current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz510",
@@ -592,7 +628,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current."
+      "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current.",
+      "addedDate": null
     },
     {
       "id": "jvc-ky-pz510n",
@@ -608,7 +645,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current. NDI|HX2 variant of KY-PZ510. Optics identical. Note: JVC main page lists 1/2.5-inch while distributor (omegabroadcast.com) spec shows 1/2.8-inch; sensor values follow existing KY-PZ510 entry for consistency."
+      "notes": "1/2.8-inch CMOS (4K), 12x. Broadest HFOV of any broadcast PTZ at 80.0° (published). Effective sensor width back-calculated as 5.71mm from published 80° at f=3.4mm. hFOVTele 7.8° calculated (†). Current. NDI|HX2 variant of KY-PZ510. Optics identical. Note: JVC main page lists 1/2.5-inch while distributor (omegabroadcast.com) spec shows 1/2.8-inch; sensor values follow existing KY-PZ510 entry for consistency.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "jvc-ky-pz540n",
@@ -624,7 +662,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x optical (40x VSM Variable Scan Mapping in HD). Both HFOV values calculated (†) using 7.18mm sensor width. NDI|HX native. Current."
+      "notes": "1/1.8-inch CMOS, 20x optical (40x VSM Variable Scan Mapping in HD). Both HFOV values calculated (†) using 7.18mm sensor width. NDI|HX native. Current.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a50p",
@@ -640,7 +679,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. Shares optics with VC-A51P and VC-A53. hFOVTele 2.7° calculated (†). Discontinued."
+      "notes": "1/2.8-inch CMOS, 20x. Shares optics with VC-A51P and VC-A53. hFOVTele 2.7° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a50s",
@@ -656,7 +696,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. Different lens from VC-A50P (4.7–94mm vs 5.33–110mm). hFOVTele 3.1° calculated (†). Discontinued."
+      "notes": "1/2.8-inch CMOS, 20x. Different lens from VC-A50P (4.7–94mm vs 5.33–110mm). hFOVTele 3.1° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a51p",
@@ -672,7 +713,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as VC-A50P. hFOVTele 2.7° calculated (†). Discontinued."
+      "notes": "Same optics as VC-A50P. hFOVTele 2.7° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a53",
@@ -688,7 +730,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as VC-A50P/VC-A51P. hFOVTele 2.7° calculated (†). Current."
+      "notes": "Same optics as VC-A50P/VC-A51P. hFOVTele 2.7° calculated (†). Current.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a61p",
@@ -704,7 +747,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 30x. hFOVTele 2.4° calculated (†). Optically identical to VC-A61PN (PN adds NDI). Discontinued."
+      "notes": "1/2.5-inch CMOS, 30x. hFOVTele 2.4° calculated (†). Optically identical to VC-A61PN (PN adds NDI). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a61pn",
@@ -720,7 +764,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as VC-A61P; adds NDI. hFOVTele 2.4° calculated (†). Discontinued."
+      "notes": "Same optics as VC-A61P; adds NDI. hFOVTele 2.4° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a71p",
@@ -736,7 +781,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Marshall CV730. HFOV wide and tele published by Lumens. Current."
+      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Marshall CV730. HFOV wide and tele published by Lumens. Current.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a71pn",
@@ -752,7 +798,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as VC-A71P; adds NDI. HFOV published. Current."
+      "notes": "Same optics as VC-A71P; adds NDI. HFOV published. Current.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-a71p-hn",
@@ -768,7 +815,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as VC-A71P; variant with additional connectivity. HFOV published. Current."
+      "notes": "Same optics as VC-A71P; variant with additional connectivity. HFOV published. Current.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-tr1",
@@ -784,7 +832,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "PTZ lens: 1/2.8-inch 2.13MP CMOS, 20x (actual 19.18x). Focal range 4.9–94mm from official Lumens VC-TR1 datasheet (mylumens.com, September 2021 version). hFOVWide 58.7° published. hFOVTele 3.4° (calc), confirmed by two independent methods using sensor dimensions and back-calculation from stated wide FOV."
+      "notes": "PTZ lens: 1/2.8-inch 2.13MP CMOS, 20x (actual 19.18x). Focal range 4.9–94mm from official Lumens VC-TR1 datasheet (mylumens.com, September 2021 version). hFOVWide 58.7° published. hFOVTele 3.4° (calc), confirmed by two independent methods using sensor dimensions and back-calculation from stated wide FOV.",
+      "addedDate": null
     },
     {
       "id": "lumens-vc-r30",
@@ -800,7 +849,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. hFOVTele 6.3° calculated (†). Current."
+      "notes": "1/2.8-inch CMOS, 12x. hFOVTele 6.3° calculated (†). Current.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv612ht-4k",
@@ -816,7 +866,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.3-inch CMOS (9MP), 12x. hFOVTele 7.5° calculated (†). Sensor size conflicts on Marshall's own page (1/2.3\" header vs 1/2.8\" body); 1/2.3\" used as most likely given 9MP. Discontinued."
+      "notes": "1/2.3-inch CMOS (9MP), 12x. hFOVTele 7.5° calculated (†). Sensor size conflicts on Marshall's own page (1/2.3\" header vs 1/2.8\" body); 1/2.3\" used as most likely given 9MP. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv620-bk4",
@@ -832,7 +883,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. Both HFOV values calculated (†) from 5.3–110mm focal range. BK4=black, WH4=white. Current."
+      "notes": "1/2.8-inch CMOS, 20x. Both HFOV values calculated (†) from 5.3–110mm focal range. BK4=black, WH4=white. Current.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv620-bi",
@@ -848,7 +900,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as CV620-BK4/WH4. IP variant. Both HFOV values calculated (†). Current."
+      "notes": "Same optics as CV620-BK4/WH4. IP variant. Both HFOV values calculated (†). Current.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv630-ip",
@@ -864,7 +917,8 @@
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 25x. Official 2025 cut sheet: 68° HFOV, 4.8–120.5mm. Note: some retailers list 30x/135mm specs that belong to the CV630-NDI. Current."
+      "notes": "1/2.5-inch CMOS, 25x. Official 2025 cut sheet: 68° HFOV, 4.8–120.5mm. Note: some retailers list 30x/135mm specs that belong to the CV630-NDI. Current.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv630-ndi",
@@ -880,7 +934,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 30x. Focal range 4.6–135mm, hFOVWide 70° from Marshall product page. hFOVTele 2.44° (calc) from sensor width 5.76mm and maxFocalLengthMM 135mm."
+      "notes": "1/2.5-inch CMOS, 30x. Focal range 4.6–135mm, hFOVWide 70° from Marshall product page. hFOVTele 2.44° (calc) from sensor width 5.76mm and maxFocalLengthMM 135mm.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv630-bi",
@@ -896,7 +951,8 @@
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 25x. Focal range 4.6–120.5mm, hFOVWide 68° from marshall-usa.com. hFOVTele 2.73° (calc) from sensor width 5.76mm and maxFocalLengthMM 120.5mm."
+      "notes": "1/2.5-inch CMOS, 25x. Focal range 4.6–120.5mm, hFOVWide 68° from marshall-usa.com. hFOVTele 2.73° (calc) from sensor width 5.76mm and maxFocalLengthMM 120.5mm.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv730-bk",
@@ -912,7 +968,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Discontinued."
+      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv730-bhn",
@@ -928,7 +985,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Current."
+      "notes": "1/1.8-inch CMOS, 30x. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Current.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv625-tb",
@@ -944,7 +1002,8 @@
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch Sony CMOS, 25x. Focal range 7.1–171.95mm, hFOVWide 60° from marshall-usa.com. hFOVTele 2.39° (calc) from sensor width 7.18mm and maxFocalLengthMM 171.95mm."
+      "notes": "1/1.8-inch Sony CMOS, 25x. Focal range 7.1–171.95mm, hFOVWide 60° from marshall-usa.com. hFOVTele 2.39° (calc) from sensor width 7.18mm and maxFocalLengthMM 171.95mm.",
+      "addedDate": null
     },
     {
       "id": "marshall-cv605-u3",
@@ -960,7 +1019,8 @@
       "opticalZoom": 5,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 5x optical zoom. Focal range 3–15mm. hFOVWide 85°, hFOVTele 16° both published directly by Marshall (3dbroadcastsales.com: '85° to 16°'). Source: marshall-usa.com and 3dbroadcastsales.com."
+      "notes": "1/2.8-inch CMOS, 5x optical zoom. Focal range 3–15mm. hFOVWide 85°, hFOVTele 16° both published directly by Marshall (3dbroadcastsales.com: '85° to 16°'). Source: marshall-usa.com and 3dbroadcastsales.com.",
+      "addedDate": null
     },
     {
       "id": "birddog-p100",
@@ -976,7 +1036,8 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.86-inch CMOS, 10x. HFOV published by BirdDog. P-series superseded by X-series but widely deployed. Discontinued."
+      "notes": "1/2.86-inch CMOS, 10x. HFOV published by BirdDog. P-series superseded by X-series but widely deployed. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p110",
@@ -992,7 +1053,8 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optics as P100. HFOV published by BirdDog. Discontinued."
+      "notes": "Same optics as P100. HFOV published by BirdDog. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p120",
@@ -1008,7 +1070,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.86-inch CMOS, 20x. Different lens module from P100/P110. HFOV published by BirdDog. Discontinued."
+      "notes": "1/2.86-inch CMOS, 20x. Different lens module from P100/P110. HFOV published by BirdDog. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p200",
@@ -1024,7 +1087,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. Shares 4.3–129mm OEM lens module with Sony SRG-300H and JVC KY-PZ100. HFOV published by BirdDog. Discontinued."
+      "notes": "1/2.8-inch CMOS, 30x. Shares 4.3–129mm OEM lens module with Sony SRG-300H and JVC KY-PZ100. HFOV published by BirdDog. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p240",
@@ -1040,7 +1104,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 20x optical (40x SRZ Super Resolution Zoom). HFOV inferred from identical sensor/lens as P400 (‡). Discontinued."
+      "notes": "1/2.5-inch CMOS, 20x optical (40x SRZ Super Resolution Zoom). HFOV inferred from identical sensor/lens as P400 (‡). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p400",
@@ -1056,7 +1121,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 20x optical (40x SRZ). Shares 4.4–88.4mm lens with Sony BRC-X400/SRG-X400. HFOV published by BirdDog. Discontinued."
+      "notes": "1/2.5-inch CMOS, 20x optical (40x SRZ). Shares 4.4–88.4mm lens with Sony BRC-X400/SRG-X400. HFOV published by BirdDog. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "birddog-p4k",
@@ -1072,7 +1138,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T* (24x SRZ). Shares same sensor and lens as Sony BRC-X1000/BRC-H800. HFOV published by BirdDog. Discontinued."
+      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T* (24x SRZ). Shares same sensor and lens as Sony BRC-X1000/BRC-H800. HFOV published by BirdDog. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-140",
@@ -1088,7 +1155,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. HFOV published by Datavideo. Current."
+      "notes": "1/2.8-inch CMOS, 20x. HFOV published by Datavideo. Current.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-150",
@@ -1104,7 +1172,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. Focal range 4.3–129mm, hFOVWide 63.7°, hFOVTele 2.3° published by Datavideo (ManualsLib official manual). maxFocalLengthMM corrected from 94.6 to 129.0 in v1.4.4 — prior value was a data entry error."
+      "notes": "1/2.8-inch CMOS, 30x. Focal range 4.3–129mm, hFOVWide 63.7°, hFOVTele 2.3° published by Datavideo (ManualsLib official manual). maxFocalLengthMM corrected from 94.6 to 129.0 in v1.4.4 — prior value was a data entry error.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-150t",
@@ -1120,7 +1189,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. HDBaseT version. Focal range 4.3–129mm per datavideo.com/us/product/PTC-150T. hFOVWide 63.7°, hFOVTele 2.3° as published by Datavideo."
+      "notes": "1/2.8-inch CMOS, 30x. HDBaseT version. Focal range 4.3–129mm per datavideo.com/us/product/PTC-150T. hFOVWide 63.7°, hFOVTele 2.3° as published by Datavideo.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-280",
@@ -1136,7 +1206,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch CMOS, 12x. Focal range 4.4–52.8mm, hFOVWide 71° from singaporeproaudio.com and ManualsLib PTC-280NDI manual. hFOVTele 6.24° (calc) from sensor width 5.76mm and maxFocalLengthMM 52.8mm."
+      "notes": "1/2.5-inch CMOS, 12x. Focal range 4.4–52.8mm, hFOVWide 71° from singaporeproaudio.com and ManualsLib PTC-280NDI manual. hFOVTele 6.24° (calc) from sensor width 5.76mm and maxFocalLengthMM 52.8mm.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-285",
@@ -1152,7 +1223,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285. hFOVWide 80° as published. hFOVTele 6.1° (calc) from sensor width 5.63mm and maxFocalLengthMM 52.8mm. Note: stated 80° wide includes barrel distortion and is inconsistent with the rectilinear formula — tele value is more accurate."
+      "notes": "1/2.8-inch CMOS, 12x. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285. hFOVWide 80° as published. hFOVTele 6.1° (calc) from sensor width 5.63mm and maxFocalLengthMM 52.8mm. Note: stated 80° wide includes barrel distortion and is inconsistent with the rectilinear formula — tele value is more accurate.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-285t",
@@ -1168,7 +1240,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. HDBaseT version. Identical optics to PTC-285. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285T. hFOVTele 6.1° (calc)."
+      "notes": "1/2.8-inch CMOS, 12x. HDBaseT version. Identical optics to PTC-285. Focal range 4.4–52.8mm from datavideo.com/us/product/PTC-285T. hFOVTele 6.1° (calc).",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-300",
@@ -1184,7 +1257,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x. Focal range 6.7–125mm, hFOVWide 60° from ManualsLib PTC-300 official manual. hFOVTele 3.29° (calc) from sensor width 7.18mm and maxFocalLengthMM 125mm."
+      "notes": "1/1.8-inch CMOS, 20x. Focal range 6.7–125mm, hFOVWide 60° from ManualsLib PTC-300 official manual. hFOVTele 3.29° (calc) from sensor width 7.18mm and maxFocalLengthMM 125mm.",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-305",
@@ -1200,7 +1274,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x. Auto-tracking version. Identical optics to PTC-300. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc)."
+      "notes": "1/1.8-inch CMOS, 20x. Auto-tracking version. Identical optics to PTC-300. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc).",
+      "addedDate": null
     },
     {
       "id": "datavideo-ptc-305t",
@@ -1216,7 +1291,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x. HDBaseT auto-tracking version. Identical optics to PTC-300/305. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc)."
+      "notes": "1/1.8-inch CMOS, 20x. HDBaseT auto-tracking version. Identical optics to PTC-300/305. Focal range 6.7–125mm, hFOVWide 60°. hFOVTele 3.29° (calc).",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt12x-4k-g3",
@@ -1232,7 +1308,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2025-02-03)."
+      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2025-02-03).",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
@@ -1248,7 +1325,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 20x. PT20X-4K-G3. Wide HFOV published; hFOVTele 3.3° calculated (†). Shares optics with Link 4K 20X. NDI|HX3. Current."
+      "notes": "1/1.8-inch CMOS, 20x. PT20X-4K-G3. Wide HFOV published; hFOVTele 3.3° calculated (†). Shares optics with Link 4K 20X. NDI|HX3. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt30x-4k-g3",
@@ -1264,7 +1342,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. PT30X-4K-G3. HFOV published by PTZOptics. Shares optics with Link 4K 30X. NDI|HX3. Current."
+      "notes": "1/1.8-inch CMOS, 30x. PT30X-4K-G3. HFOV published by PTZOptics. Shares optics with Link 4K 30X. NDI|HX3. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt12x-link-4k",
@@ -1280,7 +1359,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Dante AV-H version. Identical optics to Move 4K 12X. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2024-10-03)."
+      "notes": "1/2.5-inch Sony CMOS 8.51MP, 12x. Dante AV-H version. Identical optics to Move 4K 12X. Focal range 4.4–52.8mm, hFOVWide 72.5°, hFOVTele 6.9° all published in PTZOptics official data sheet v3.0 (2024-10-03).",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
@@ -1296,7 +1376,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Identical optics to Move 4K 20X. PT20X-LINK-4K. Adds Dante AV-H. hFOVTele 3.3° calculated (†). Current."
+      "notes": "Identical optics to Move 4K 20X. PT20X-LINK-4K. Adds Dante AV-H. hFOVTele 3.3° calculated (†). Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt30x-link-4k",
@@ -1312,7 +1393,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Identical optics to Move 4K 30X. PT30X-LINK-4K. Adds Dante AV-H. Current."
+      "notes": "Identical optics to Move 4K 30X. PT30X-LINK-4K. Adds Dante AV-H. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt12x-se-g3",
@@ -1328,7 +1410,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. PT12X-SE-G3. HFOV published. 1080p with free NDI upgrade. Current."
+      "notes": "1/2.8-inch CMOS, 12x. PT12X-SE-G3. HFOV published. 1080p with free NDI upgrade. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt20x-se-g3",
@@ -1344,7 +1427,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 20x. PT20X-SE-G3. HFOV published by PTZOptics. 1080p with free NDI upgrade. Current."
+      "notes": "1/2.8-inch CMOS, 20x. PT20X-SE-G3. HFOV published by PTZOptics. 1080p with free NDI upgrade. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt30x-se-g3",
@@ -1360,7 +1444,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. PT30X-SE-G3. HFOV published. 1080p with free NDI upgrade. Current."
+      "notes": "1/2.8-inch CMOS, 30x. PT30X-SE-G3. HFOV published. 1080p with free NDI upgrade. Current.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
@@ -1376,7 +1461,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.7-inch CMOS, 12x. PT12X-SDI-G2. Wide HFOV published; hFOVTele 7.3° calculated (†). Discontinued."
+      "notes": "1/2.7-inch CMOS, 12x. PT12X-SDI-G2. Wide HFOV published; hFOVTele 7.3° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
@@ -1392,7 +1478,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.7-inch CMOS, 20x. PT20X-SDI-G2. Wide HFOV published; hFOVTele 3.5° calculated (†). Discontinued."
+      "notes": "1/2.7-inch CMOS, 20x. PT20X-SDI-G2. Wide HFOV published; hFOVTele 3.5° calculated (†). Discontinued.",
+      "addedDate": null
     },
     {
       "id": "ptzoptics-pt30x-sdi-g2",
@@ -1408,7 +1495,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.7-inch CMOS, 30x. PT30X-SDI-G2. HFOV published by PTZOptics. Discontinued."
+      "notes": "1/2.7-inch CMOS, 30x. PT30X-SDI-G2. HFOV published by PTZOptics. Discontinued.",
+      "addedDate": null
     },
     {
       "id": "fomako-k820",
@@ -1424,7 +1512,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K 60fps, 1/1.8-inch CMOS, 20x. HFOV 60.0°/3.5° published by Fomako (labeled H and V on product page). Focal range 6.25–125mm. fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html. Current."
+      "notes": "4K 60fps, 1/1.8-inch CMOS, 20x. HFOV 60.0°/3.5° published by Fomako (labeled H and V on product page). Focal range 6.25–125mm. fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-k820n",
@@ -1440,7 +1529,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as K820; adds NDI|HX3. 4K 60fps, 1/1.8-inch CMOS, 20x. HFOV 60.0°/3.5° published by Fomako. fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html. Current."
+      "notes": "Same optical module as K820; adds NDI|HX3. 4K 60fps, 1/1.8-inch CMOS, 20x. HFOV 60.0°/3.5° published by Fomako. fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-k30ns",
@@ -1456,7 +1546,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K, 1/2.8-inch Sony UHD CMOS 8.42MP, 30x. HFOV and DFOV explicitly separated on product page (H: 58.1°/2.14°, D: 65.4°/2.48°); HFOV used. Focal range 5.2–148.4mm; published zoom 30x (focal ratio ≈28.5x). Industry-standard 5.14mm sensor width does not back-calculate to match published HFOV; manufacturer active area is wider — HFOV authoritative. fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html. Current."
+      "notes": "4K, 1/2.8-inch Sony UHD CMOS 8.42MP, 30x. HFOV and DFOV explicitly separated on product page (H: 58.1°/2.14°, D: 65.4°/2.48°); HFOV used. Focal range 5.2–148.4mm; published zoom 30x (focal ratio ≈28.5x). Industry-standard 5.14mm sensor width does not back-calculate to match published HFOV; manufacturer active area is wider — HFOV authoritative. fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-k20",
@@ -1472,7 +1563,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p 60fps, 1/2.8-inch CMOS 2.07MP, 20x. HFOV 60.7°/3.36° published by Fomako (labeled H). Focal range 4.42–88.5mm. fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html. Current."
+      "notes": "1080p 60fps, 1/2.8-inch CMOS 2.07MP, 20x. HFOV 60.7°/3.36° published by Fomako (labeled H). Focal range 4.42–88.5mm. fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-k30",
@@ -1488,7 +1580,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p 60fps, 1/2.8-inch CMOS, 30x. HFOV 60.7°/2.28° published by Fomako. Focal range 4.42–132.6mm. fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html. Current."
+      "notes": "1080p 60fps, 1/2.8-inch CMOS, 30x. HFOV 60.7°/2.28° published by Fomako. Focal range 4.42–132.6mm. fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-kn20",
@@ -1504,7 +1597,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as K20; adds NDI|HX3. 1080p, 1/2.8-inch CMOS, 20x. HFOV 60.7°/3.36° published by Fomako. fomako.net/product/fomako-kn20-ndi-camera-1080p-60fps-20x-optical-zoom.html. Current."
+      "notes": "Same optical module as K20; adds NDI|HX3. 1080p, 1/2.8-inch CMOS, 20x. HFOV 60.7°/3.36° published by Fomako. fomako.net/product/fomako-kn20-ndi-camera-1080p-60fps-20x-optical-zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-kn30",
@@ -1520,7 +1614,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as K30; adds NDI|HX3. 1080p, 1/2.8-inch CMOS, 30x. HFOV 60.7°/2.28° published by Fomako. fomako.net/product/fomako-kn30-ndi-camera-1080p-60fps-30x-optical-zoom.html. Current."
+      "notes": "Same optical module as K30; adds NDI|HX3. 1080p, 1/2.8-inch CMOS, 30x. HFOV 60.7°/2.28° published by Fomako. fomako.net/product/fomako-kn30-ndi-camera-1080p-60fps-30x-optical-zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-kn20a",
@@ -1536,7 +1631,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS (IMX415), 20x. NDI 6 & HX3 Pro series. Different lens module from KN20 (5.1–94.5mm vs 4.42–88.5mm). HFOV 60.0°/3.5° published by Fomako. fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html. Current."
+      "notes": "1/2.8-inch CMOS (IMX415), 20x. NDI 6 & HX3 Pro series. Different lens module from KN20 (5.1–94.5mm vs 4.42–88.5mm). HFOV 60.0°/3.5° published by Fomako. fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-kn30a",
@@ -1552,7 +1648,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. NDI 6 & HX3 Pro series. Same optical module as K30NS. HFOV 58.1°/2.14° published by Fomako (H values from H/D/V table). fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html. Current."
+      "notes": "1/2.8-inch CMOS, 30x. NDI 6 & HX3 Pro series. Same optical module as K30NS. HFOV 58.1°/2.14° published by Fomako (H values from H/D/V table). fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-fmk12uh",
@@ -1568,7 +1665,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch HD CMOS, 12x. HDMI+USB output. HFOV 72.5°/7.4° published by Fomako (View Angle). fomako.net/product/FOMAKO-HDMI-USB-FMK12UH.html. Current."
+      "notes": "1/2.8-inch HD CMOS, 12x. HDMI+USB output. HFOV 72.5°/7.4° published by Fomako (View Angle). fomako.net/product/FOMAKO-HDMI-USB-FMK12UH.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-fmk20uh",
@@ -1584,7 +1682,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch HD CMOS, 20x. HDMI+USB output. Distinct lens module from K20 (4.7–94mm vs 4.42–88.5mm). HFOV 58.7°/3.2° published by Fomako (View Angle). fomako.net/product/FOMAKO-HDMI-USB-FMK20UH.html. Current."
+      "notes": "1/2.8-inch HD CMOS, 20x. HDMI+USB output. Distinct lens module from K20 (4.7–94mm vs 4.42–88.5mm). HFOV 58.7°/3.2° published by Fomako (View Angle). fomako.net/product/FOMAKO-HDMI-USB-FMK20UH.html. Current.",
+      "addedDate": null
     },
     {
       "id": "fomako-k600n",
@@ -1600,7 +1699,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K 60fps, 1/2.8-inch CMOS, 20x. NDI|HX3. Same optical module as KN20A. HFOV 60.0°/3.5° published by Fomako. fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html. Current."
+      "notes": "4K 60fps, 1/2.8-inch CMOS, 20x. NDI|HX3. Same optical module as KN20A. HFOV 60.0°/3.5° published by Fomako. fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-b2-210",
@@ -1616,7 +1716,8 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Sony Progressive scan CMOS, 10x. HFOV 68.8°/8.8° labeled 'horizontal angle of view' by Bolin. Focal range 4.34–35.17mm. bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera. Current."
+      "notes": "1/2.8-inch Sony Progressive scan CMOS, 10x. HFOV 68.8°/8.8° labeled 'horizontal angle of view' by Bolin. Focal range 4.34–35.17mm. bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-b2-220",
@@ -1632,7 +1733,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Sony Progressive scan CMOS, 20x. HFOV 55.8°/3.2° labeled 'horizontal angle of view' by Bolin. Focal range 5.2–104mm. bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera. Current."
+      "notes": "1/2.8-inch Sony Progressive scan CMOS, 20x. HFOV 55.8°/3.2° labeled 'horizontal angle of view' by Bolin. Focal range 5.2–104mm. bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-b6-420",
@@ -1648,7 +1750,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K 60fps, 1/2.8-inch Sony CMOS 8.29MP, 20x. Ultra-wide conferencing optics. HFOV 78.59°/4.92° labeled 'horizontal angle of view' by Bolin. Focal range 3.55–71mm. bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera. Current."
+      "notes": "4K 60fps, 1/2.8-inch Sony CMOS 8.29MP, 20x. Ultra-wide conferencing optics. HFOV 78.59°/4.92° labeled 'horizontal angle of view' by Bolin. Focal range 3.55–71mm. bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-r9-418f",
@@ -1664,7 +1767,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch back-illuminated Exmor R CMOS, 12x optical (Bolin markets as 18x(4K)/24x(FHD) including electronic zoom). Same lens module as Sony BRC-X1000 and BirdDog P4K. HFOV 64.6°/6.1° published by Bolin. Focal range 9.3–111.6mm. bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera. Current."
+      "notes": "1-inch back-illuminated Exmor R CMOS, 12x optical (Bolin markets as 18x(4K)/24x(FHD) including electronic zoom). Same lens module as Sony BRC-X1000 and BirdDog P4K. HFOV 64.6°/6.1° published by Bolin. Focal range 9.3–111.6mm. bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-r9-418n",
@@ -1680,7 +1784,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as R9-418F; adds NDI High Bandwidth. 1-inch Exmor R CMOS, 12x optical. HFOV 64.6°/6.1° published by Bolin. bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera. Current."
+      "notes": "Same optical module as R9-418F; adds NDI High Bandwidth. 1-inch Exmor R CMOS, 12x optical. HFOV 64.6°/6.1° published by Bolin. bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-r9-230h",
@@ -1696,7 +1801,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch Sony STARVIS 2 CMOS, 30x. HFOV 58.1°/2.3° published by Bolin. Focal range 6.5–162.5mm (published zoom 30x; focal ratio ≈25x by length). bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz. Current."
+      "notes": "1/1.8-inch Sony STARVIS 2 CMOS, 30x. HFOV 58.1°/2.3° published by Bolin. Focal range 6.5–162.5mm (published zoom 30x; focal ratio ≈25x by length). bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-range",
@@ -1712,7 +1818,8 @@
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "All-weather indoor/outdoor PTZ. 1/1.8-inch Sony STARVIS 2 CMOS, 25x. HFOV 59.2°/2.5° published by Bolin. Focal range 7.1–171.95mm. Same lens module as Minrray UV430E2. bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz. Current."
+      "notes": "All-weather indoor/outdoor PTZ. 1/1.8-inch Sony STARVIS 2 CMOS, 25x. HFOV 59.2°/2.5° published by Bolin. Focal range 7.1–171.95mm. Same lens module as Minrray UV430E2. bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-d2-210h",
@@ -1728,7 +1835,8 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as B2-210; adds Dante AV-H. 1/2.8-inch Sony CMOS, 10x. HFOV 68.8°/8.8° published by Bolin. bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera. Current."
+      "notes": "Same optical module as B2-210; adds Dante AV-H. 1/2.8-inch Sony CMOS, 10x. HFOV 68.8°/8.8° published by Bolin. bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-d2-220h",
@@ -1744,7 +1852,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as B2-220; adds Dante AV-H. 1/2.8-inch Sony CMOS, 20x. HFOV 55.8°/3.2° published by Bolin. bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera. Current."
+      "notes": "Same optical module as B2-220; adds Dante AV-H. 1/2.8-inch Sony CMOS, 20x. HFOV 55.8°/3.2° published by Bolin. bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-n2-210x",
@@ -1760,7 +1869,8 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as B2-210; adds NDI|HX3. 1/2.8-inch Sony CMOS, 10x. HFOV 68.8°/8.8° published by Bolin. bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera. Current."
+      "notes": "Same optical module as B2-210; adds NDI|HX3. 1/2.8-inch Sony CMOS, 10x. HFOV 68.8°/8.8° published by Bolin. bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "bolin-n2-220x",
@@ -1776,7 +1886,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as B2-220; adds NDI|HX3. 1/2.8-inch Sony CMOS, 20x. HFOV 55.8°/3.2° published by Bolin. bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera. Current."
+      "notes": "Same optical module as B2-220; adds NDI|HX3. 1/2.8-inch Sony CMOS, 20x. HFOV 55.8°/3.2° published by Bolin. bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera. Current.",
+      "addedDate": null
     },
     {
       "id": "aver-ptz310uv2",
@@ -1792,7 +1903,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K 60fps, 1/2.8-inch 4K Exmor CMOS 8MP, 12x. AVer publishes HFOV/VFOV/DFOV separately: HFOV 72.1°/6.3°, DFOV 79.2°/7.5°. Focal range 3.9–46.8mm. averusa.com/products/ptz-camera/ptz310uv2. Current."
+      "notes": "4K 60fps, 1/2.8-inch 4K Exmor CMOS 8MP, 12x. AVer publishes HFOV/VFOV/DFOV separately: HFOV 72.1°/6.3°, DFOV 79.2°/7.5°. Focal range 3.9–46.8mm. averusa.com/products/ptz-camera/ptz310uv2. Current.",
+      "addedDate": null
     },
     {
       "id": "aver-ptz330uv2",
@@ -1808,7 +1920,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K 60fps, 1/2.8-inch 4K Exmor CMOS 8MP, 30x. AVer publishes HFOV/VFOV/DFOV separately: HFOV 62.3°/2.5°, DFOV 69.2°/2.8°. Focal range 4.5–135mm. averusa.com/products/ptz-camera/ptz330uv2. Current."
+      "notes": "4K 60fps, 1/2.8-inch 4K Exmor CMOS 8MP, 30x. AVer publishes HFOV/VFOV/DFOV separately: HFOV 62.3°/2.5°, DFOV 69.2°/2.8°. Focal range 4.5–135mm. averusa.com/products/ptz-camera/ptz330uv2. Current.",
+      "addedDate": null
     },
     {
       "id": "aver-ptz330unv2",
@@ -1824,7 +1937,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Same optical module as PTZ330UV2; adds NDI|HX3 native. 1/2.8-inch 4K Exmor CMOS 8MP, 30x. HFOV 62.3°/2.5° from AVer product page. Focal range 4.5–135mm. presentation.aver.com/model/ptz330unv2. Current."
+      "notes": "Same optical module as PTZ330UV2; adds NDI|HX3 native. 1/2.8-inch 4K Exmor CMOS 8MP, 30x. HFOV 62.3°/2.5° from AVer product page. Focal range 4.5–135mm. presentation.aver.com/model/ptz330unv2. Current.",
+      "addedDate": null
     },
     {
       "id": "aver-ptc310uv2",
@@ -1840,7 +1954,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch 4K Exmor CMOS, 12x. Dual-lens auto-tracking system: main PTZ lens specs only. Panoramic tracking module is a tracking sensor, not a recording lens; out of scope. HFOV 70°/6° from AVer datasheet. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). NDI|HX optional license upgrade. Current."
+      "notes": "1/2.8-inch 4K Exmor CMOS, 12x. Dual-lens auto-tracking system: main PTZ lens specs only. Panoramic tracking module is a tracking sensor, not a recording lens; out of scope. HFOV 70°/6° from AVer datasheet. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). NDI|HX optional license upgrade. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-ptz231",
@@ -1856,7 +1971,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Full HD Exmor CMOS, 30x. HFOV 62.3°/2.5° from AVer datasheet PDF (DFOV 69.2°/2.8° also published). Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch Full HD Exmor CMOS, 30x. HFOV 62.3°/2.5° from AVer datasheet PDF (DFOV 69.2°/2.8° also published). Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-ptz310unv2",
@@ -1872,7 +1988,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch 4K Exmor CMOS, 12x. NDI-native variant of PTZ310UV2; optics identical. HFOV 72.1°/6.3° from AVer datasheet PDF (DFOV 79.2°/7.5° also published). Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch 4K Exmor CMOS, 12x. NDI-native variant of PTZ310UV2; optics identical. HFOV 72.1°/6.3° from AVer datasheet PDF (DFOV 79.2°/7.5° also published). Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr211",
@@ -1888,7 +2005,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch CMOS, 12x. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr315",
@@ -1904,7 +2022,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch CMOS, 12x. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr315n",
@@ -1920,7 +2039,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 12x. NDI variant of TR315. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch CMOS, 12x. NDI variant of TR315. HFOV 70°/6° from AVer datasheet PDF. Focal range 3.9–46.8mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr335",
@@ -1936,7 +2056,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS, 30x. HFOV 62.3°/2.5° from averusa.com product page. Note: AVer publishes focal range 3.9–46.8mm with 30x optical zoom; these values are mutually inconsistent (3.9mm × 30 ≠ 46.8mm). Optically-equivalent TR335N publishes 4.5–135mm/30x which is consistent; the focal range on averusa.com for TR335 appears to be a data error. HFOV 62.3°/2.5° is consistent across sources and is the app-critical value. Current."
+      "notes": "1/2.8-inch CMOS, 30x. HFOV 62.3°/2.5° from averusa.com product page. Note: AVer publishes focal range 3.9–46.8mm with 30x optical zoom; these values are mutually inconsistent (3.9mm × 30 ≠ 46.8mm). Optically-equivalent TR335N publishes 4.5–135mm/30x which is consistent; the focal range on averusa.com for TR335 appears to be a data error. HFOV 62.3°/2.5° is consistent across sources and is the app-critical value. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr335n",
@@ -1952,7 +2073,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. NDI HX3 variant. HFOV 62.3°/2.5° from AVer datasheet (DFOV 69.2°/2.8° also published). Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. NDI HX3 variant. HFOV 62.3°/2.5° from AVer datasheet (DFOV 69.2°/2.8° also published). Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr535",
@@ -1968,7 +2090,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. Main PTZ lens. Dual-camera system: TR535 includes a secondary 105° HFOV wide-angle module used for auto-tracking (not an independent PTZ recording lens; out of scope). HFOV 62.3°/2.5° from AVer brochure. Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). Current."
+      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. Main PTZ lens. Dual-camera system: TR535 includes a secondary 105° HFOV wide-angle module used for auto-tracking (not an independent PTZ recording lens; out of scope). HFOV 62.3°/2.5° from AVer brochure. Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr535n",
@@ -1984,7 +2107,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. NDI HX3 variant of TR535. HFOV 62.3°/2.5° from AVer datasheet PDF. Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current."
+      "notes": "1/2.8-inch 4K Exmor CMOS, 30x. NDI HX3 variant of TR535. HFOV 62.3°/2.5° from AVer datasheet PDF. Focal range 4.5–135mm. Sensor dimensions: industry-standard for 1/2.8-inch (manufacturer does not publish mm). averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "aver-tr615",
@@ -2000,7 +2124,8 @@
       "opticalZoom": 19,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch 4K Sony Exmor RS CMOS, 19x optical zoom. HFOV 69.5°/3.5° from AVer datasheet PDF (DFOV 77.8°/4.5° also published). Focal range 9.79–186.39mm. Sensor dimensions: industry-standard for 1-inch (manufacturer does not publish mm). Dual 12G-SDI outputs. PoE++. averusa.com datasheet PDF. Current."
+      "notes": "1-inch 4K Sony Exmor RS CMOS, 19x optical zoom. HFOV 69.5°/3.5° from AVer datasheet PDF (DFOV 77.8°/4.5° also published). Focal range 9.79–186.39mm. Sensor dimensions: industry-standard for 1-inch (manufacturer does not publish mm). Dual 12G-SDI outputs. PoE++. averusa.com datasheet PDF. Current.",
+      "addedDate": "2026-06-01"
     },
     {
       "id": "minrray-uv430e0",
@@ -2016,7 +2141,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 12x. Part of UV430A family. FOV explicitly labeled H (horizontal) and V on manufacturer page — HFOV 80.4°/7.59° used. Focal range 3.85–43.06mm. minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current."
+      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 12x. Part of UV430A family. FOV explicitly labeled H (horizontal) and V on manufacturer page — HFOV 80.4°/7.59° used. Focal range 3.85–43.06mm. minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv430e2",
@@ -2032,7 +2158,8 @@
       "opticalZoom": 25,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 25x. Part of UV430A family. HFOV 59.2°/2.5° explicitly labeled H on manufacturer page. Focal range 7.1–171.95mm. Same lens module as Bolin RANGE (7.1–171.95mm, 59.2°/2.5°). minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current."
+      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 25x. Part of UV430A family. HFOV 59.2°/2.5° explicitly labeled H on manufacturer page. Focal range 7.1–171.95mm. Same lens module as Bolin RANGE (7.1–171.95mm, 59.2°/2.5°). minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv430e3",
@@ -2048,7 +2175,8 @@
       "opticalZoom": 31,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 31x. Part of UV430A family. HFOV 59.0°/1.98° explicitly labeled H on manufacturer page. Focal range 6.91–214.64mm. minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current."
+      "notes": "4K, 1/2.5-inch Sony CMOS 8.51MP, 31x. Part of UV430A family. HFOV 59.0°/1.98° explicitly labeled H on manufacturer page. Focal range 6.91–214.64mm. minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv510e0",
@@ -2064,7 +2192,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 12x. Part of UV510A family. HFOV 70.4°/6.6° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV510F0 has identical optical specs (different connectivity). Focal range 3.9–46.8mm. minrraycam.com/uv510a-series-full-hd-ptz-camera.html. Current."
+      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 12x. Part of UV510A family. HFOV 70.4°/6.6° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV510F0 has identical optical specs (different connectivity). Focal range 3.9–46.8mm. minrraycam.com/uv510a-series-full-hd-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv510e2",
@@ -2080,7 +2209,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 20x. Part of UV510A family. HFOV 54.7°/3.3° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV510F1 has identical optical specs (different connectivity). Focal range 5.5–110mm. minrraycam.com/uv510a-series-full-hd-ptz-camera.html. Current."
+      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 20x. Part of UV510A family. HFOV 54.7°/3.3° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV510F1 has identical optical specs (different connectivity). Focal range 5.5–110mm. minrraycam.com/uv510a-series-full-hd-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv950e0",
@@ -2096,7 +2226,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 12x. Part of UV950A family; identical optical module to UV510E0. HFOV 70.4°/6.6° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV950F0 has identical optical specs. Focal range 3.9–46.8mm. minrraycam.com/uv950a-series-full-hd-ptz-camera.html. Current."
+      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 12x. Part of UV950A family; identical optical module to UV510E0. HFOV 70.4°/6.6° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV950F0 has identical optical specs. Focal range 3.9–46.8mm. minrraycam.com/uv950a-series-full-hd-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "minrray-uv950e2",
@@ -2112,7 +2243,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 20x. Part of UV950A family; identical optical module to UV510E2. HFOV 54.7°/3.3° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV950F1 has identical optical specs. Focal range 5.5–110mm. minrraycam.com/uv950a-series-full-hd-ptz-camera.html. Current."
+      "notes": "1080p, 1/2.8-inch CMOS 2.07MP, 20x. Part of UV950A family; identical optical module to UV510E2. HFOV 54.7°/3.3° labeled 'Viewing Angle (Horizontal)' on manufacturer page. UV950F1 has identical optical specs. Focal range 5.5–110mm. minrraycam.com/uv950a-series-full-hd-ptz-camera.html. Current.",
+      "addedDate": null
     },
     {
       "id": "birddog-x1",
@@ -2128,7 +2260,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Sony CMOS, 20x, 1080p60. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current."
+      "notes": "1/2.8-inch Sony CMOS, 20x, 1080p60. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current.",
+      "addedDate": null
     },
     {
       "id": "birddog-x1-30x",
@@ -2144,7 +2277,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Sony CMOS, 30x, 1080p60. Same body as X1, longer lens module. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current."
+      "notes": "1/2.8-inch Sony CMOS, 30x, 1080p60. Same body as X1, longer lens module. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current.",
+      "addedDate": null
     },
     {
       "id": "birddog-x1-ultra",
@@ -2160,7 +2294,8 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch Sony CMOS, 12x, 4K30. Different lens module from X1/X1-30x. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current."
+      "notes": "1/2.8-inch Sony CMOS, 12x, 4K30. Different lens module from X1/X1-30x. HFOV published by BirdDog (birddog.tv/cameras-show, Tier 1). Current.",
+      "addedDate": null
     }
   ]
 }

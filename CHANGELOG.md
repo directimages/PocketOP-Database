@@ -3,6 +3,16 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.26.0 — 2026-06-09
+
+- Schema: added `addedDate` field (ISO `YYYY-MM-DD` or `null`) to every entry. Marks when a lens was first committed to main after the App Store launch
+- Baseline (pre-launch) entries carry `addedDate: null` — they must never surface as "recently added". 611 of 667 entries
+- Non-null dates assigned to the 56 entries added after launch, dated by their first commit to main:
+  - `2026-06-01` (8): Zeiss Nano Prime 18/24/35/50/75/100mm T1.5 + Zeiss Supreme Prime Radiance 18mm/135mm T1.5 (commit 7c3ecd8)
+  - `2026-06-08` (48): Tokina Vista-P Prime T1.5 — 12 PL (commit c1db1e4) + 36 EF/E/LPL mount variants (commit 7b75848)
+- Reclassification/prose commits (412d262, 92ac0a4) added no new lenses — those entries remain `addedDate: null`
+- Going forward: every new lens import sets `addedDate` to the import's commit date on insert
+
 ### v1.25.0 — 2026-06-08
 
 - Tokina Vista-P Prime T1.5 mount variants: 36 new entries (12 focal lengths × EF/E/LPL), full-frame, 46.7mm image circle, series "Vista-P". Follow-up to v1.24.0 PL import
@@ -357,6 +367,14 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.3** (2026-03-26) — Initial upload
 
 ## ptz_cameras.json
+
+### v1.9.0 — 2026-06-09
+
+- Schema: added `addedDate` field (ISO `YYYY-MM-DD` or `null`) to every entry. Same basis as lenses.json v1.26.0
+- Baseline (pre-launch) entries carry `addedDate: null` — 123 of 135 entries
+- Non-null dates assigned to the 12 entries added after launch, dated by their first commit to main:
+  - `2026-06-01` (12): JVC KY-PZ510N (commit d5ac4a2) + AVer PTZ310UNV2/PTZ231/PTC310UV2/TR211/TR315/TR315N/TR335/TR335N/TR535/TR535N/TR615 (commit 4c2aa8c)
+- Going forward: every new PTZ import sets `addedDate` to the import's commit date on insert
 
 ### v1.8.0 — 2026-06-01
 
