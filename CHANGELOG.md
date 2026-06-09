@@ -3,6 +3,15 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.28.0 — 2026-06-09
+
+- Fujinon broadcast import: 2 new entries
+  - `fujinon-ua16x4berd` (UA16x4BERD): UA series, 4.0–64.0mm, 16×, extender 2.0, B4, twoThirdsInch, 4K UHD. Ultra-wide portable zoom, BERD drive unit with 16-bit encoders
+  - `fujinon-ua30x7-3berd` (UA30x7.3BERD): UA series, 7.3–219.0mm, 30×, extender 2.0, B4, twoThirdsInch, 4K UHD. Portable zoom, BERD drive unit with 16-bit encoders for virtual studio tracking
+- Both stamped `addedDate: 2026-06-09`. Specs sourced by Kay from manufacturer documents (videobrokers tier-2 listings, pending verification against official Fujifilm source)
+- Both removed from the announcements-watchlist (were logged as Under Development)
+- Canon CN30x40 IAS J R1/P1 intentionally NOT imported — already in the DB as `canon-cn30x40-ias-pl` + `canon-cn30x40-ias-rf`; a separate spec conflict (S35/1.5× vs FF/1.0×) is being reconciled by Kay
+
 ### v1.27.0 — 2026-06-09
 
 - Fujinon broadcast import: 2 new entries
@@ -57,6 +66,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.44.0 — 2026-06-09
+
+- Sidecars for the 2 new Fujinon broadcast lenses (v1.28.0 in lenses.json):
+  - `fujinon-ua16x4berd`: weightG 2290, lengthMm 252.6, frontDiameterMm 95, closeFocusM 0.3, intro null, filter `hood_thread` 127mm, hasMacro null, servo zoom+focus true, servoConnector null, portable
+  - `fujinon-ua30x7-3berd`: weightG 2260, lengthMm 230.9, frontDiameterMm 95, closeFocusM 0.8, intro null, filter `hood_thread` 95mm, hasMacro null, servo zoom+focus true, servoConnector null, portable
+- `fujinon-ua30x7-3berd` carries a `fieldNotes.filterThreadNote`: two thread options (M95x1 + M107x1); M95x1 stored as primary pending the planned Update-2 array migration
+- Specs sourced by Kay from manufacturer documents (videobrokers tier-2 listings)
+
 ### v1.43.0 — 2026-06-09
 
 - Sidecars for the 2 new Fujinon broadcast lenses (v1.27.0 in lenses.json):

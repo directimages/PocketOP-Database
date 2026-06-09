@@ -1,5 +1,5 @@
 {
-  "version": "1.43.0",
+  "version": "1.44.0",
   "updatedAt": "2026-06-09",
   "lenses": [
     {
@@ -22102,6 +22102,60 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
       ],
       "fieldNotes": null
+    },
+    {
+      "id": "fujinon-ua16x4berd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 2290,
+      "lengthMm": 252.6,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": null,
+      "formFactor": "portable",
+      "sources": [
+        "https://videobrokers.com/fujinon-ua16x4berd-portable-4k-lens-zoom-972.html"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": null
+    },
+    {
+      "id": "fujinon-ua30x7-3berd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 2260,
+      "lengthMm": 230.9,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 95,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": null,
+      "formFactor": "portable",
+      "sources": [
+        "https://videobrokers.com/fujinon-ua30x73berd-portable-4k-zoom-lens-971.html"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": {
+        "filterThreadNote": "Two options available: M95x1 and M107x1. M95x1 stored as primary. Schema migration to array planned for Update-2."
+      }
     }
   ]
 }

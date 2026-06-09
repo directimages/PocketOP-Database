@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
+  "version": "1.28.0",
   "lenses": [
     {
       "id": "canon-cj14ex4-3b",
@@ -12040,6 +12040,42 @@
       "isFree": false,
       "isCustom": false,
       "notes": "4K UHD studio/field box lens. 94x zoom. Under Development per 2026 Product Guide.",
+      "addedDate": "2026-06-09"
+    },
+    {
+      "id": "fujinon-ua16x4berd",
+      "manufacturer": "Fujinon",
+      "model": "UA16x4BERD",
+      "series": "UA",
+      "generation": "4K UHD",
+      "focalLengthMin": 4.0,
+      "focalLengthMax": 64.0,
+      "zoomRatio": 16.0,
+      "extenderFactor": 2.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "4K UHD portable broadcast zoom. Ultra-wide 16x. BERD drive unit with 16-bit encoders.",
+      "addedDate": "2026-06-09"
+    },
+    {
+      "id": "fujinon-ua30x7-3berd",
+      "manufacturer": "Fujinon",
+      "model": "UA30x7.3BERD",
+      "series": "UA",
+      "generation": "4K UHD",
+      "focalLengthMin": 7.3,
+      "focalLengthMax": 219.0,
+      "zoomRatio": 30.0,
+      "extenderFactor": 2.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "4K UHD portable broadcast zoom. 30x zoom. BERD drive unit with 16-bit encoders for virtual studio tracking.",
       "addedDate": "2026-06-09"
     }
   ],
