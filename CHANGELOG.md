@@ -400,6 +400,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.10.0 — 2026-06-10
+
+- Added Hollyland Astra P1: new brand `hollyland`. 1/1.8-inch CMOS, 30× optical zoom, HFOV 59.2°–2.5° (published by Hollyland, H values), focal range 7.1–210.0mm. NDI|HX3, 3G-SDI, HDMI, SRT. `addedDate: 2026-06-10`. Source: hollyland.com/product/astra-p1 (Kay-verified)
+
 ### v1.9.0 — 2026-06-09
 
 - Schema: added `addedDate` field (ISO `YYYY-MM-DD` or `null`) to every entry. Same basis as lenses.json v1.26.0
@@ -444,6 +448,10 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.19.0 — 2026-06-10
+
+- Hollyland Astra P1 sidecar: presetCount=255, panRangeDeg=340, tiltRangeDeg=120, minLux=0.5, weightG=2300, dims 169×188×226mm. controlProtocols: NDI|HX3/VISCA/Pelco-D/RTSP/RTMP/SRT. videoOutputs: 3G-SDI/HDMI/IP. poeClass=null (not specified by source). hasIR/whiteBalanceModes/speed/mountThreads null (not provided). Source: hollyland.com/product/astra-p1
 
 ### v1.18.0 — 2026-06-01
 
