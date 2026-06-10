@@ -3,6 +3,10 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.28.1 — 2026-06-10
+
+- Dispatch test commit: version-only bump to trigger notify-website GitHub Action. No lens data changed.
+
 ### v1.28.0 — 2026-06-09
 
 - Fujinon broadcast import: 2 new entries
