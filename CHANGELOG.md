@@ -3,6 +3,17 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.29.0 — 2026-06-11
+
+- Tokina Vista-C Prime import: 48 new entries (12 focal lengths × PL/EF/E/LPL)
+- Focal lengths: 18/21/25/29/35/40/50/65/85/105/135mm T1.5 + 180mm T1.9
+- Full frame / VistaVision (46.7mm image circle), series "Vista-C", generation "Cinema"
+- New optical formula versus Vista and Vista-P: red/blue flare character, increased spherical aberration, reduced contrast, nearly zero focus breathing
+- 18mm: filterType null (no screw-in filter thread); all others: 112mm front thread
+- MFT not imported (POS-D15, out of scope)
+- All entries stamped addedDate: 2026-06-11
+- Source: tokinacinemausa.com (Tier 1)
+
 ### v1.28.1 — 2026-06-10
 
 - Dispatch test commit: version-only bump to trigger notify-website GitHub Action. No lens data changed.
@@ -70,6 +81,16 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.45.0 — 2026-06-11
+
+- Sidecars for 48 new Tokina Vista-C Prime entries (v1.29.0 in lenses.json)
+- Per-mount specs (weightG, lengthMm) from Tokina Cinema spec sheet per-mount columns (Tier 1)
+- 18mm: filterType null, filterThreadMm null (spec sheet: NA); all others: front_thread 112mm
+- frontDiameterMm 114 for all 48 entries (Diameter of Front Head from spec sheet)
+- introductionYear 2025, imageCircleMm 46.7, focusRingRotationDeg 300, gearPitch 0.8 (convention, unconfirmed)
+- hasFocusBreathing "minimal" per POS-D21 (product page: virtually no focus breathing)
+- Source: tokinacinemausa.com (Tier 1)
+
 ### v1.44.0 — 2026-06-09
 
 - Sidecars for the 2 new Fujinon broadcast lenses (v1.28.0 in lenses.json):
