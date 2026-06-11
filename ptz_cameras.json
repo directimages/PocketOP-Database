@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.0",
   "ptzCameras": [
     {
       "id": "canon-cr-n700",
@@ -1004,6 +1004,23 @@
       "isCustom": false,
       "notes": "1/1.8-inch Sony CMOS, 25x. Focal range 7.1–171.95mm, hFOVWide 60° from marshall-usa.com. hFOVTele 2.39° (calc) from sensor width 7.18mm and maxFocalLengthMM 171.95mm.",
       "addedDate": null
+    },
+    {
+      "id": "marshall-cv625-tbn",
+      "brand": "marshall",
+      "model": "CV625-TBN/TWN",
+      "sensorLabel": "1/1.8 inch",
+      "sensorWidthMM": 7.18,
+      "sensorHeightMM": 5.32,
+      "minFocalLengthMM": 7.1,
+      "maxFocalLengthMM": 171.95,
+      "hFOVWide": 60.0,
+      "hFOVTele": 2.39,
+      "opticalZoom": 25,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.8-inch Sony IMX678 CMOS, 25x optical zoom. NDI HX2/HX3 variant of CV625-TB/TW. hFOVWide 60° published by Marshall. hFOVTele 2.39° calculated from sensorWidthMM 7.18mm and maxFocalLengthMM 171.95mm.",
+      "addedDate": "2026-06-11"
     },
     {
       "id": "marshall-cv605-u3",

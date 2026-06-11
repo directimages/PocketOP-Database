@@ -3,6 +3,12 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.30.0 — 2026-06-11
+
+- Zeiss Panoptes 65 import: 8 new entries (35/40/45/55/70/90/110/135mm T2.2), LPL mount, largeFormat, 59.9mm image circle, series "Panoptes 65"
+- 95mm filter thread, introductionYear 2026. 25mm and 180mm deferred — close focus / weight specs pending (see incomplete_data.md entries #10 + #22)
+- Source: zeiss.com/panoptes65 (Tier 1)
+
 ### v1.29.0 — 2026-06-11
 
 - Tokina Vista-C Prime import: 48 new entries (12 focal lengths × PL/EF/E/LPL)
@@ -81,6 +87,13 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.46.0 — 2026-06-11
+
+- Sidecars for 8 new Zeiss Panoptes 65 entries (v1.30.0 in lenses.json)
+- All 8 entries: lensType cine, imageCircleMm 59.9, filterType front_thread, filterThreadMm 95, frontDiameterMm 95, introductionYear 2026, isParfocal null, hasFocusBreathing null, gearPitch null
+- Per-entry: closeFocusM, lengthMm (144 or 148), weightG from zeiss.com spec table (Tier 1)
+- Source: zeiss.com/panoptes65 (Tier 1)
+
 ### v1.45.0 — 2026-06-11
 
 - Sidecars for 48 new Tokina Vista-C Prime entries (v1.29.0 in lenses.json)
@@ -425,6 +438,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.11.0 — 2026-06-11
+
+- Added Marshall CV625-TBN/TWN (`marshall-cv625-tbn`): NDI HX2/HX3 variant of CV625-TB/TW. Identical sensor (1/1.8-inch Sony IMX678 CMOS, 25×, 7.18mm width). hFOVWide 60.0° published by Marshall; hFOVTele 2.39° calculated. `addedDate: 2026-06-11`. Source: marshall-usa.com/cameras/CV625-TBN-TWN/ (Tier 1)
+
 ### v1.10.0 — 2026-06-10
 
 - Added Hollyland Astra P1: new brand `hollyland`. 1/1.8-inch CMOS, 30× optical zoom, HFOV 59.2°–2.5° (published by Hollyland, H values), focal range 7.1–210.0mm. NDI|HX3, 3G-SDI, HDMI, SRT. `addedDate: 2026-06-10`. Source: hollyland.com/product/astra-p1 (Kay-verified)
@@ -473,6 +490,10 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.20.0 — 2026-06-11
+
+- Sidecar for Marshall CV625-TBN/TWN (`marshall-cv625-tbn`): controlProtocols adds NDI HX2 + NDI HX3 to CV625-TB base set; videoOutputs adds NDI. All other fields identical to marshall-cv625-tb (poeClass PoE+, presetCount 255, panRangeDeg 340, tiltRangeDeg 120, hasIR true, hasCeilingMount true; weight/dims null). Source: marshall-usa.com/cameras/CV625-TBN-TWN/ (Tier 1)
 
 ### v1.19.0 — 2026-06-10
 

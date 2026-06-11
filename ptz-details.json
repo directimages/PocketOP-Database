@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "updatedAt": "2026-06-10",
+  "version": "1.20.0",
+  "updatedAt": "2026-06-11",
   "cameras": [
     {
       "id": "canon-cr-n700",
@@ -2454,6 +2454,48 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV625-TB-TW/"
+      ]
+    },
+    {
+      "id": "marshall-cv625-tbn",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV625-TBN-TWN/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "NDI HX2",
+        "NDI HX3"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP",
+        "NDI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV625-TBN-TWN/"
       ]
     },
     {

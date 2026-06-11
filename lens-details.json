@@ -1,5 +1,5 @@
 {
-  "version": "1.45.0",
+  "version": "1.46.0",
   "updatedAt": "2026-06-11",
   "lenses": [
     {
@@ -23595,6 +23595,158 @@
         "hasFocusBreathing": "Product page states virtually no breathing -- classified minimal per POS-D21",
         "gearPitch": "Standard PL cine convention; no explicit confirmation",
         "gearPitch_confidence": "unconfirmed"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-35mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1920,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.28,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-40mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 2090,
+      "lengthMm": 148,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.35,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-45mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1880,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.35,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-55mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1970,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.43,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-70mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1620,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.49,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-90mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 2120,
+      "lengthMm": 148,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.62,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-110mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1800,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.86,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
+      }
+    },
+    {
+      "id": "zeiss-panoptes-65-135mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 2180,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 1.10,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": null,
+      "hasFocusBreathing": null,
+      "gearPitch": null,
+      "sources": {
+        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
       }
     }
   ]
