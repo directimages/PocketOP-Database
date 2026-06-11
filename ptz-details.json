@@ -1,6 +1,6 @@
 {
-  "version": "1.20.0",
-  "updatedAt": "2026-06-11",
+  "version": "1.20.1",
+  "updatedAt": "2026-06-12",
   "cameras": [
     {
       "id": "canon-cr-n700",
@@ -5566,7 +5566,8 @@
         "HDMI",
         "IP"
       ],
-      "poeClass": null,
+      "hasPoE": true,
+      "poeClass": "PoE+",
       "presetCount": 255,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
@@ -5583,7 +5584,8 @@
       "hasCeilingMount": null,
       "hasWallMount": null,
       "sources": [
-        "https://hollyland.com/product/astra-p1"
+        "https://hollyland.com/product/astra-p1",
+        "https://download.hollyland.com/User_manual/Astra%20P1/%5BEnglish%5D%20Astra%20P1%20-%20Quick%20Guide.pdf"
       ]
     }
   ]

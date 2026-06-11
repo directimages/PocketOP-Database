@@ -491,6 +491,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+### v1.20.1 — 2026-06-12
+
+- Hollyland Astra P1 (`hollyland-astra-p1`): added `hasPoE: true`, set `poeClass: "PoE+"`, added official Quick Guide PDF to sources. Source: Hollyland Astra P1 Quick Guide V1.0 p.8 — "Input Voltage: DC 12V/PoE+"
+
 ### v1.20.0 — 2026-06-11
 
 - Sidecar for Marshall CV625-TBN/TWN (`marshall-cv625-tbn`): controlProtocols adds NDI HX2 + NDI HX3 to CV625-TB base set; videoOutputs adds NDI. All other fields identical to marshall-cv625-tb (poeClass PoE+, presetCount 255, panRangeDeg 340, tiltRangeDeg 120, hasIR true, hasCeilingMount true; weight/dims null). Source: marshall-usa.com/cameras/CV625-TBN-TWN/ (Tier 1)
