@@ -1,0 +1,42 @@
+{
+  "cameras": [
+    {
+      "id": "hollyland-astra-p1",
+      "manufacturerUrl": "https://hollyland.com/product/astra-p1",
+      "controlProtocols": [
+        "NDI|HX3",
+        "VISCA",
+        "Pelco-D",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "hasPoE": true,
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": null,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2300,
+      "widthMm": 169,
+      "heightMm": 188,
+      "depthMm": 226,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://hollyland.com/product/astra-p1",
+        "https://download.hollyland.com/User_manual/Astra%20P1/%5BEnglish%5D%20Astra%20P1%20-%20Quick%20Guide.pdf"
+      ]
+    }
+  ]
+}

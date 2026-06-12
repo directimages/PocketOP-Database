@@ -1,0 +1,43 @@
+{
+  "lenses": [
+    {
+      "id": "viltrox-luna-42-420mm-t5-6",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "weightG": 16000,
+      "lengthMm": 396,
+      "frontDiameterMm": null,
+      "closeFocusM": 1.8,
+      "introductionYear": 2024,
+      "imageCircleMm": 60.0,
+      "opticalElements": 11,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "viltrox.com/collections/cine-lenses (tier-1; individual product page URL not accessible during research)",
+        "weightG": "CineD first-look citing manufacturer: ~16 kg = 16,000g. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "lengthMm": "Viltrox cine lens specifications -- viltroxstore.com (Tier 1)",
+        "frontDiameterMm": "Not published in any accessible source",
+        "closeFocusM": "CineD first-look: 1.8m / 6 ft. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "introductionYear": "Announced / launched 2024. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "imageCircleMm": "CineD first-look: 60mm image circle (covers ALEXA 65, GFX100, URSA Cine 17K). newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "opticalElements": "CineD first-look: 11 elements in 9 groups (incl. 4 ED + 3 high-refractive-index). newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "filterType": "CineD first-look: rear filter slot confirmed; no front filter thread. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "filterThreadMm": "Rear slot system; no thread size specified",
+        "isParfocal": "Parfocal not explicitly confirmed in accessible sources for 42-420mm T5.6",
+        "hasFocusBreathing": "Not stated in accessible documentation",
+        "hasFrontRotation": "Not stated in accessible documentation",
+        "focusRingRotationDeg": "Not published in accessible sources",
+        "gearPitch": "Viltrox: 0.8 MOD (focus, iris, zoom). newsshooter.com / CineD first-look citing manufacturer specs (tier-3)"
+      },
+      "webSources": [
+        "https://www.viltrox.com/collections/cine-lenses"
+      ]
+    }
+  ]
+}

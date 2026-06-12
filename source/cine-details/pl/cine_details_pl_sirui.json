@@ -1,0 +1,43 @@
+{
+  "lenses": [
+    {
+      "id": "sirui-jupiter-28-85mm-t3-2",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html",
+      "weightG": 2520,
+      "lengthMm": 215.0,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.7,
+      "introductionYear": 2022,
+      "imageCircleMm": 44.0,
+      "opticalElements": 22,
+      "filterType": "front_thread",
+      "filterThreadMm": 110,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 259,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "cf.sirui.com/Jupiter28-85mmT3.2PL.html product page (tier-1)",
+        "weightG": "siruishop.de / cf.sirui.com: PL mount 2520g (EF = 2536g) (tier-1)",
+        "lengthMm": "siruishop.de / cf.sirui.com: PL mount 215mm (EF = 223mm) (tier-1)",
+        "frontDiameterMm": "siruishop.de / cf.sirui.com: max diameter 114mm (tier-1)",
+        "closeFocusM": "siruishop.de / cf.sirui.com: 0.7m (tier-1)",
+        "introductionYear": "Announced April 2022; Indiegogo campaign launched May 2022 (newsshooter.com) (tier-5)",
+        "imageCircleMm": "cf.sirui.com: 44mm image circle (tier-1); newsshooter reports 'up to 43mm' — using official value",
+        "opticalElements": "Multiple sources: 22 elements in 18 groups (tier-3)",
+        "filterType": "cf.sirui.com: 110mm front thread (tier-1)",
+        "filterThreadMm": "cf.sirui.com: 110×0.75mm front filter thread (tier-1)",
+        "isParfocal": "sirui.com: 'parfocal design ensures unchanged focus while zooming' (tier-1 explicit claim)",
+        "hasFocusBreathing": "siruishop.de: 'No visible focus shift occurs' (tier-1 explicit claim)",
+        "hasFrontRotation": "Not stated on Sirui product page",
+        "focusRingRotationDeg": "siruishop.de / newsshooter.com: 259 degrees (tier-1/5)",
+        "gearPitch": "siruishop.de: 'identical gears with 0.8mm spacing' (tier-1)"
+      },
+      "webSources": [
+        "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html"
+      ]
+    }
+  ]
+}

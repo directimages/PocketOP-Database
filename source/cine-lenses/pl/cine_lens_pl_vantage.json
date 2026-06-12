@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "vantage-lightweight-zoom-17-35mm-t2-8",
+      "manufacturer": "Vantage",
+      "model": "Lightweight Zoom 17-35mm T2.8",
+      "series": "Vantage Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 17.0,
+      "focalLengthMax": 35.0,
+      "zoomRatio": 2.1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Super 35 wide cine zoom, PL mount. Rental-only, not commercially sold. Vantage Film (Munich). Source: vantagefilm.com.",
+      "addedDate": null
+    }
+  ]
+}

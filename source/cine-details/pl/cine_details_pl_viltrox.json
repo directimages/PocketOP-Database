@@ -1,0 +1,43 @@
+{
+  "lenses": [
+    {
+      "id": "viltrox-luna-30-300mm-t4-0",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "weightG": 15000,
+      "lengthMm": 511.0,
+      "frontDiameterMm": 165,
+      "closeFocusM": 1.26,
+      "introductionYear": 2024,
+      "imageCircleMm": 46.5,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 240,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "viltrox.com/collections/cine-lenses (tier-1; individual product page URL not accessible during research)",
+        "weightG": "newsshooter.com / CineD citing manufacturer: ~15 kg = 15,000g. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "lengthMm": "CineD first-look citing manufacturer: 511mm. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "frontDiameterMm": "newsshooter.com hands-on: 165mm front diameter. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "closeFocusM": "newsshooter.com hands-on: 4 ft 2 in = 1.26m. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "introductionYear": "Announced / launched 2024. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "imageCircleMm": "CineD first-look: 46.5mm image circle (covers ARRI LF, RED VV, full frame). newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "opticalElements": "Not disclosed by Viltrox in accessible documentation",
+        "filterType": "newsshooter.com: rear filter slot confirmed; no front filter thread. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "filterThreadMm": "Rear slot system; no thread size specified",
+        "isParfocal": "Viltrox explicitly confirms parfocal design. newsshooter.com / CineD first-look citing manufacturer specs (tier-3)",
+        "hasFocusBreathing": "Not explicitly stated in accessible documentation",
+        "hasFrontRotation": "Not stated in accessible documentation",
+        "focusRingRotationDeg": "Not published in accessible sources",
+        "gearPitch": "Viltrox: 0.8 MOD (focus, iris, zoom). newsshooter.com / CineD first-look citing manufacturer specs (tier-3)"
+      },
+      "webSources": [
+        "https://www.viltrox.com/collections/cine-lenses"
+      ]
+    }
+  ]
+}

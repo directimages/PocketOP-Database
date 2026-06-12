@@ -1,0 +1,121 @@
+{
+  "lenses": [
+    {
+      "id": "hawk-super-wide-zoom-10-24mm-t2-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "weightG": 4100,
+      "lengthMm": 255,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.45,
+      "introductionYear": null,
+      "imageCircleMm": 31.1,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; individual product page inaccessible)",
+        "weightG": "Vantage Film Hawk Lens catalog -- vantagefilm.com (Tier 1)",
+        "lengthMm": "Vantage Film Hawk Lens catalog -- vantagefilm.com (Tier 1)",
+        "frontDiameterMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "closeFocusM": "Vantage Film Hawk Lens catalog -- vantagefilm.com (Tier 1)",
+        "introductionYear": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "imageCircleMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "opticalElements": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "filterType": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "filterThreadMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "isParfocal": "Parfocal not claimed in any accessible source; POS-D11 applied",
+        "hasFocusBreathing": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "hasFrontRotation": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "focusRingRotationDeg": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "gearPitch": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers"
+      },
+      "webSources": [
+        "https://www.vantagefilm.com/en/lenses"
+      ]
+    },
+    {
+      "id": "hawk-telephoto-zoom-100-300mm-t2-2",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "weightG": 16300,
+      "lengthMm": 600.0,
+      "frontDiameterMm": 156,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 31.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": 48,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; product page inaccessible)",
+        "weightG": "tahercinetek.com / motionpicturerentals.com: 36 lbs = 16,329g → 16,300g; combined system weight (150-450mm + 0.7× optical reducer) (tier-2)",
+        "lengthMm": "motionpicturerentals.com: ~600mm approximate system length (tier-2)",
+        "frontDiameterMm": "tahercinetek.com: 156mm front diameter (tier-2)",
+        "closeFocusM": "tahercinetek.com: 10 ft = 3.05m (tier-2)",
+        "introductionYear": "Not found across 6 tiers",
+        "imageCircleMm": "tahercinetek.com: 35mm ANSI format (18.6×24.9mm) diagonal ≈ 31mm (tier-2)",
+        "opticalElements": "Not published in any accessible source",
+        "filterType": "tahercinetek.com: internal 48mm filter holders (×2); rear/internal system, no front thread (tier-2)",
+        "filterThreadMm": "Internal 48mm slot; no external thread size applicable",
+        "isParfocal": "Parfocal not claimed in accessible sources; POS-D11 applied",
+        "hasFocusBreathing": "Not stated in any accessible source",
+        "hasFrontRotation": "Not stated in any accessible source",
+        "focusRingRotationDeg": "Not found across 6 tiers",
+        "gearPitch": "Not confirmed for Hawk 100-300mm across 6 tiers"
+      },
+      "webSources": [
+        "https://www.vantagefilm.com/en/lenses"
+      ]
+    },
+    {
+      "id": "hawk-telephoto-zoom-150-450mm-t2-8",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "weightG": 15900,
+      "lengthMm": 660.0,
+      "frontDiameterMm": 156,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 31.0,
+      "opticalElements": 18,
+      "filterType": "internal",
+      "filterThreadMm": 48,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; product page inaccessible; spec data from PDF via search results)",
+        "weightG": "vantagefilm.com PDF (via search): 15.9 kg / 35 lbs (tier-1)",
+        "lengthMm": "vantagefilm.com PDF (via search): ~660mm (tier-1)",
+        "frontDiameterMm": "vantagefilm.com PDF / ottonemenz.com: 156mm front diameter (tier-1/2)",
+        "closeFocusM": "vantagefilm.com PDF / ottonemenz.com: 10 ft = 3.05m (tier-1/2)",
+        "introductionYear": "Not found across 6 tiers",
+        "imageCircleMm": "vantagefilm.com PDF: 35mm ANSI format (18.6×24.9mm) diagonal ≈ 31mm (tier-1); note: DB sensorFormat=largeFormat may be incorrect",
+        "opticalElements": "vantagefilm.com PDF / search results: 18 elements in 12 groups (tier-1)",
+        "filterType": "vantagefilm.com PDF: internal 48mm filter holders (×2); rear/internal system (tier-1)",
+        "filterThreadMm": "Internal 48mm slot; no external thread size applicable",
+        "isParfocal": "Parfocal not claimed in accessible sources; POS-D11 applied",
+        "hasFocusBreathing": "Not stated in any accessible source",
+        "hasFrontRotation": "Not stated in any accessible source",
+        "focusRingRotationDeg": "Not found across 6 tiers",
+        "gearPitch": "Not confirmed for Hawk 150-450mm across 6 tiers"
+      },
+      "webSources": [
+        "https://www.vantagefilm.com/en/lenses"
+      ]
+    }
+  ]
+}

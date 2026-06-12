@@ -1,0 +1,325 @@
+{
+  "cameras": [
+    {
+      "id": "canon-cr-n100",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 130,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 1.5,
+      "weightG": 2200,
+      "widthMm": 154,
+      "heightMm": 178,
+      "depthMm": 164,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
+      ]
+    },
+    {
+      "id": "canon-cr-n300",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 130,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 1.5,
+      "weightG": 2200,
+      "widthMm": 154,
+      "heightMm": 178,
+      "depthMm": 164,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
+      ]
+    },
+    {
+      "id": "canon-cr-n350",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n350",
+      "controlProtocols": [
+        "Canon XC",
+        "NDI|HX2",
+        "RTSP/RTP",
+        "RTMP/RTMPS",
+        "SRT",
+        "FreeD",
+        "Standard Serial",
+        "Standard IP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp",
+        "Manual"
+      ],
+      "minLux": 1.3,
+      "weightG": 3000,
+      "widthMm": 176,
+      "heightMm": 220,
+      "depthMm": 194,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.usa.canon.com/shop/p/cr-n350"
+      ]
+    },
+    {
+      "id": "canon-cr-n400",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n400",
+      "controlProtocols": [
+        "Canon XC",
+        "NDI|HX2",
+        "RTSP/RTP",
+        "RTMP/RTMPS",
+        "SRT",
+        "FreeD",
+        "Standard Serial",
+        "Standard IP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp",
+        "Manual"
+      ],
+      "minLux": 1.5,
+      "weightG": 3100,
+      "widthMm": 176,
+      "heightMm": 220,
+      "depthMm": 194,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.usa.canon.com/shop/p/cr-n400"
+      ]
+    },
+    {
+      "id": "canon-cr-n500",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 1.5,
+      "weightG": 4100,
+      "widthMm": 200,
+      "heightMm": 269,
+      "depthMm": 208,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
+      ]
+    },
+    {
+      "id": "canon-cr-n700",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
+      "controlProtocols": [
+        "Canon XC",
+        "RTSP/RTP",
+        "NDI|HX2",
+        "RTMP/RTMPS",
+        "Standard Serial",
+        "Standard IP",
+        "SRT",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 2.5,
+      "weightG": 4400,
+      "widthMm": 200,
+      "heightMm": 269,
+      "depthMm": 208,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
+      ]
+    },
+    {
+      "id": "canon-cr-x300",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-x300",
+      "controlProtocols": [
+        "Canon XC",
+        "Canon NU",
+        "NDI|HX2",
+        "RTSP/RTP",
+        "RTMP/RTMPS",
+        "SRT",
+        "FreeD",
+        "Standard Serial",
+        "Standard IP"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": 255,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp",
+        "Manual"
+      ],
+      "minLux": 3.0,
+      "weightG": 7000,
+      "widthMm": 217,
+      "heightMm": 311,
+      "depthMm": 217,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.usa.canon.com/shop/p/cr-x300"
+      ]
+    }
+  ]
+}

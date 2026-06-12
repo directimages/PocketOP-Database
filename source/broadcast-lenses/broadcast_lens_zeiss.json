@@ -1,0 +1,40 @@
+{
+  "lenses": [
+    {
+      "id": "zeiss-digizoom-17-112",
+      "manufacturer": "Zeiss",
+      "model": "DigiZoom 17-112mm T1.9",
+      "series": "DigiZoom",
+      "generation": "HD",
+      "focalLengthMin": 17.0,
+      "focalLengthMax": 112.0,
+      "zoomRatio": 6.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. 6.5x effective zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~31.5° wide, ~4.9° tele [CALC].",
+      "isCustom": false,
+      "addedDate": null
+    },
+    {
+      "id": "zeiss-digizoom-6-24",
+      "manufacturer": "Zeiss",
+      "model": "DigiZoom 6-24mm T1.9",
+      "series": "DigiZoom",
+      "generation": "HD",
+      "focalLengthMin": 6.0,
+      "focalLengthMax": 24.0,
+      "zoomRatio": 4.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "notes": "Zeiss DigiZoom cine-style B4-mount zoom. Manual cine-pitch gears, no servo, no extender, T1.9 constant aperture. Color-matched to DigiPrime family. Discontinued. HFOV ~77.3° wide, ~22.6° tele [CALC].",
+      "isCustom": false,
+      "addedDate": null
+    }
+  ]
+}

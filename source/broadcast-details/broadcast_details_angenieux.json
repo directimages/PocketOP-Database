@@ -1,0 +1,110 @@
+{
+  "lenses": [
+    {
+      "id": "angenieux-t12x5-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5200,
+      "lengthMm": 345,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ],
+      "webSources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
+    },
+    {
+      "id": "angenieux-t15x8-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5500,
+      "lengthMm": 372,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ],
+      "webSources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+      ]
+    },
+    {
+      "id": "angenieux-t19x7-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1840,
+      "lengthMm": 216,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.adorama.com/clearance/l/Used/Video/Video-Lenses/Angenieux~Professional-Lenses?emailPrice=T",
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://newprovideo.com/equipment/product/lenses/angenieux-t19x7-3-besmd-hd-2-3inch-hd-eng-zoom-lens"
+      ],
+      "webSources": [
+        "https://www.adorama.com/clearance/l/Used/Video/Video-Lenses/Angenieux~Professional-Lenses?emailPrice=T",
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://newprovideo.com/equipment/product/lenses/angenieux-t19x7-3-besmd-hd-2-3inch-hd-eng-zoom-lens"
+      ]
+    },
+    {
+      "id": "angenieux-t26x7-8b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1980,
+      "lengthMm": 245,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
+      ],
+      "webSources": [
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
+      ]
+    }
+  ]
+}

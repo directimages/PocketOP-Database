@@ -1,0 +1,43 @@
+{
+  "lenses": [
+    {
+      "id": "masterbuilt-cfz-27-60mm-t2-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://masterbuiltlenses.com",
+      "weightG": 1910,
+      "lengthMm": 168,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.28,
+      "introductionYear": null,
+      "imageCircleMm": 46.5,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "none",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "masterbuiltlenses.com (tier-1; spec sheet requires direct contact; numerical dims not on website)",
+        "weightG": "cinevisuals.com / fjsinternational.com spec tables: 4.20 lbs = 1,905g → 1,910g. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)",
+        "lengthMm": "Masterbuilt Classic Zoom Series -- masterbuiltlenses.com (Tier 2)",
+        "frontDiameterMm": "cinevisuals.com spec table: 114mm front diameter. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)",
+        "closeFocusM": "cinevisuals.com / bokehrentals.com: 11 in = 279mm = 0.28m. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)",
+        "introductionYear": "Not found in searchable press archives across 6 tiers",
+        "imageCircleMm": "Described as FF/LF/VV coverage; no exact mm published in any accessible source",
+        "opticalElements": "Not published in any accessible source",
+        "filterType": "No filter provision information found in any accessible source",
+        "filterThreadMm": "filterType null; no filter provision confirmed",
+        "isParfocal": "Masterbuilt marketing PDF: 'parfocal' explicitly stated. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)",
+        "hasFocusBreathing": "Masterbuilt marketing PDF: 'no breathing, no distortion' explicitly stated. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)",
+        "hasFrontRotation": "Not stated in accessible documentation",
+        "focusRingRotationDeg": "Not published in any accessible source",
+        "gearPitch": "cinevisuals.com / masterbuilt marketing PDF: 0.8 MOD geared rings. cinevisuals.com / fjsinternational.com spec tables (tier-2) + masterbuiltlenses.com marketing PDF (tier-2)"
+      },
+      "webSources": [
+        "https://masterbuiltlenses.com"
+      ]
+    }
+  ]
+}

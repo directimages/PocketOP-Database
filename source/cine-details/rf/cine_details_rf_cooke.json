@@ -1,0 +1,203 @@
+{
+  "lenses": [
+    {
+      "id": "cooke-sp3-100mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 690,
+      "lengthMm": 124,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M77x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-18mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 688,
+      "lengthMm": 109,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2024,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "CineD review (cined.com, Tier 2): Cooke SP3 18mm T2.4 announcement -- 688g; British Cinematographer confirmation",
+        "lengthMm": "Gemini (AI inference) — 18mm launched September 2024, not in original Cooke SP3 PDF (covers 25–100mm only). No Cooke spec sheet for the 18mm found at time of research.",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "CineD review (cined.com, Tier 2) + ASC -- M77x0.75 confirmed",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 18mm T2.4 launched September 2024 -- added to SP3 series after initial 2023 launch",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm_confidence": "unconfirmed"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-25mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 575,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.25,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 250mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-32mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.35,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 350mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-50mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 500,
+      "lengthMm": 94,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 500mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    },
+    {
+      "id": "cooke-sp3-75mm-t2-4-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "weightG": 520,
+      "lengthMm": 98,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2023,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 58,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "lengthMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)",
+        "closeFocusM": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 800mm MOD",
+        "imageCircleMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- 43.3mm full frame coverage",
+        "filterType": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- front filter thread",
+        "filterThreadMm": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1) -- M58x0.75",
+        "hasFocusBreathing": "cookeoptics.com/lens/sp3/ (Tier 1): \"subtle combination of focus fall-off and breathing\" -- Cooke describes breathing as a designed characteristic",
+        "introductionYear": "CineD (Tier 2): Cooke SP3 series launched September 2023",
+        "gearPitch": "Cooke SP3 spec sheet PDF (cookeoptics.com/wp-content/uploads/2023/08/COOKE_SP3_Specification_083023.pdf, Tier 1)"
+      },
+      "webSources": [
+        "https://cookeoptics.com/lens/sp3/"
+      ]
+    }
+  ]
+}

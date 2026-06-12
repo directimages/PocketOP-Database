@@ -1,0 +1,1646 @@
+{
+  "lenses": [
+    {
+      "id": "canon-cj12ex4-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2100,
+      "lengthMm": 247.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
+      ]
+    },
+    {
+      "id": "canon-cj14ex4-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2110,
+      "lengthMm": 247.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj14ex4-3b/main/specification",
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj14ex4-3b/main/specification",
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53"
+      ]
+    },
+    {
+      "id": "canon-cj15ex4-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2190,
+      "lengthMm": 249.6,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": null,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj15ex4-3b/main/specification"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj15ex4-3b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj15ex8-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2030,
+      "lengthMm": 239.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj15ex8-5b/main/specification"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj15ex8-5b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj18ex28b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2760,
+      "lengthMm": 268.3,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj18ex28b/main/specification"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj18ex28b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj18ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1650,
+      "lengthMm": 206.2,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.56,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj18ex7-6b/main/specification",
+        "https://www.bhphotovideo.com/c/product/1472953-REG/canon_cj18ex7_6b_iase_2_3_uhd_standard_full_servo.html"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj18ex7-6b/main/specification",
+        "https://www.bhphotovideo.com/c/product/1472953-REG/canon_cj18ex7_6b_iase_2_3_uhd_standard_full_servo.html"
+      ]
+    },
+    {
+      "id": "canon-cj20ex5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2240,
+      "lengthMm": 251.7,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.newsshooter.com/2020/09/24/canon-cj20ex5b/",
+        "https://www.canon-europe.com/press-centre/press-releases/2020/09/canon-strengthens-4k-broadcast-lens-line-up-bctv-zoom-lens-cj20ex5b/"
+      ],
+      "webSources": [
+        "https://www.newsshooter.com/2020/09/24/canon-cj20ex5b/",
+        "https://www.canon-europe.com/press-centre/press-releases/2020/09/canon-strengthens-4k-broadcast-lens-line-up-bctv-zoom-lens-cj20ex5b/"
+      ]
+    },
+    {
+      "id": "canon-cj20ex7-8b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2180,
+      "lengthMm": 230.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj20ex7-8b/main/specification"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj20ex7-8b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj24ex7-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1820,
+      "lengthMm": 221.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asia.canon/en/business/cj24ex7-5b/main/specification"
+      ],
+      "webSources": [
+        "https://asia.canon/en/business/cj24ex7-5b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj27ex7-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2100,
+      "lengthMm": 229.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1823939-REG/canon_cj27ex7_3b_iase_t_2_3.html",
+        "https://theasc.com/articles/canon-introduces-cj27ex7-3b",
+        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/1823939-REG/canon_cj27ex7_3b_iase_t_2_3.html",
+        "https://theasc.com/articles/canon-introduces-cj27ex7-3b",
+        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification"
+      ]
+    },
+    {
+      "id": "canon-cj45ex13-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5640,
+      "lengthMm": 355.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": "none",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
+      ]
+    },
+    {
+      "id": "canon-cj45ex9-7b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5600,
+      "lengthMm": 337,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
+      ],
+      "webSources": [
+        "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
+      ]
+    },
+    {
+      "id": "canon-hj11ex4-7b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1940,
+      "lengthMm": 241.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/353072-REG/Canon_HJ11EX4_7B_WRSE_HJ11ex4_7B_WRSE_eHDxs_11x_2_3.html"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/353072-REG/Canon_HJ11EX4_7B_WRSE_HJ11ex4_7B_WRSE_eHDxs_11x_2_3.html"
+      ]
+    },
+    {
+      "id": "canon-hj11x4-7b-kll-sc",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1600,
+      "lengthMm": 260.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 1.17,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ],
+      "webSources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
+    },
+    {
+      "id": "canon-hj14ex4-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1990,
+      "lengthMm": 247.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
+      ]
+    },
+    {
+      "id": "canon-hj15ex8-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1990,
+      "lengthMm": 239.1,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj17ex6-2b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1970,
+      "lengthMm": 240.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj17ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1600,
+      "lengthMm": 206.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.56,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj18ex28b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2500,
+      "lengthMm": 268.3,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj18ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1600,
+      "lengthMm": 206.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.56,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj21ex7-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2630,
+      "lengthMm": 260.1,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.85,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj21x7-5b-kll-sc",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2400,
+      "lengthMm": 260.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 1.17,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ],
+      "webSources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
+    },
+    {
+      "id": "canon-hj22ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1830,
+      "lengthMm": 221.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.85,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+      ]
+    },
+    {
+      "id": "canon-hj24ex7-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1780,
+      "lengthMm": 221.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 1.07,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://asia.canon/en/business/hj24ex7-5b/main/specification"
+      ],
+      "webSources": [
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://asia.canon/en/business/hj24ex7-5b/main/specification"
+      ]
+    },
+    {
+      "id": "canon-hj40ex10b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5400,
+      "lengthMm": 335.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1696500-REG/canon_hj40ex10b_iase_v_h_hdtv_portable_hdxs_lenses.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/1696500-REG/canon_hj40ex10b_iase_v_h_hdtv_portable_hdxs_lenses.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
+    },
+    {
+      "id": "canon-hj40ex14b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5450,
+      "lengthMm": 355.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1811292-REG/canon_1012b006_hj40ex14b_iase_v_h_2_3.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/1811292-REG/canon_1012b006_hj40ex14b_iase_v_h_2_3.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
+    },
+    {
+      "id": "canon-hj40x10b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 5400,
+      "lengthMm": 335.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ],
+      "webSources": [
+        "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+      ]
+    },
+    {
+      "id": "canon-hj8x5-5b-kll-sc",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2000,
+      "lengthMm": 245.2,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.58,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": false,
+      "hasServoFocus": false,
+      "servoConnector": "none",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ],
+      "webSources": [
+        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+      ]
+    },
+    {
+      "id": "canon-j35ex11b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 4500,
+      "lengthMm": 316.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
+    },
+    {
+      "id": "canon-j35ex15b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 4510,
+      "lengthMm": 330.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
+    },
+    {
+      "id": "canon-kj10ex4-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1830,
+      "lengthMm": 237.7,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj10ex4-5b-irse-s-iase-s/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj10ex4-5b-irse-s-iase-s/main/specification"
+      ]
+    },
+    {
+      "id": "canon-kj13x6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1590,
+      "lengthMm": 211.7,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://www.bhphotovideo.com/c/product/887504-REG/Canon_kj13x6b_krsd_KJ13x6_KRS_HDgc_13x.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://www.bhphotovideo.com/c/product/887504-REG/Canon_kj13x6b_krsd_KJ13x6_KRS_HDgc_13x.html"
+      ]
+    },
+    {
+      "id": "canon-kj16ex7-7b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1470,
+      "lengthMm": 197.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
+    },
+    {
+      "id": "canon-kj17ex7-7b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1480,
+      "lengthMm": 197.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj17ex7-7b-irse-iase-s/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj17ex7-7b-irse-iase-s/main/specification"
+      ]
+    },
+    {
+      "id": "canon-kj20x8-2b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1420,
+      "lengthMm": 208.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj20x8-2b-irsd/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://asia.canon/en/business/kj20x8-2b-irsd/main/specification"
+      ]
+    },
+    {
+      "id": "canon-kj20x8-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1270,
+      "lengthMm": 170.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
+    },
+    {
+      "id": "canon-kj21ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1790,
+      "lengthMm": 218.6,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+      ]
+    },
+    {
+      "id": "canon-kj22ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1820,
+      "lengthMm": 218.6,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii",
+        "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii",
+        "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification"
+      ]
+    },
+    {
+      "id": "canon-uj111x8-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 26600,
+      "lengthMm": 637.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://3dbroadcastsales.com/products/canon-uhd-digisuper-111-uj111x8-3b-box-lens",
+        "https://asia.canon/en/business/uhd-digisuper-111-4k-premium/main/specification"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://3dbroadcastsales.com/products/canon-uhd-digisuper-111-uj111x8-3b-box-lens",
+        "https://asia.canon/en/business/uhd-digisuper-111-4k-premium/main/specification"
+      ]
+    },
+    {
+      "id": "canon-uj122x8-2b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 26600,
+      "lengthMm": 637.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1777903-REG/canon_uj122x8_2b_ie_d_uhd_digisuper.html",
+        "https://asia.canon/en/business/uhd-digisuper-122-4k-premium/main/specification"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1777903-REG/canon_uj122x8_2b_ie_d_uhd_digisuper.html",
+        "https://asia.canon/en/business/uhd-digisuper-122-4k-premium/main/specification"
+      ]
+    },
+    {
+      "id": "canon-uj122x8-2b-af",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 26600,
+      "lengthMm": 637.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ]
+    },
+    {
+      "id": "canon-uj25ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1810,
+      "lengthMm": 225.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ],
+      "fieldNotes": "Macro available via optional MCJ-S02 accessory",
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
+      ]
+    },
+    {
+      "id": "canon-uj27x6-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 21500,
+      "lengthMm": 550,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
+        "https://asia.canon/en/business/uhd-digisuper-27/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
+        "https://asia.canon/en/business/uhd-digisuper-27/main/specification"
+      ]
+    },
+    {
+      "id": "canon-uj66x9b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23200,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://asia.canon/en/pro-imaging/uhd-digisuper-66/main/product"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://asia.canon/en/pro-imaging/uhd-digisuper-66/main/product"
+      ]
+    },
+    {
+      "id": "canon-uj86x9-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 27000,
+      "lengthMm": 637.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1314025-REG/canon_uj86x9_3b_p01_dss_uhd_digisuper_86_broadcast.html",
+        "https://asia.canon/en/business/uhd-digisuper-86-4k-premium/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://www.bhphotovideo.com/c/product/1314025-REG/canon_uj86x9_3b_p01_dss_uhd_digisuper_86_broadcast.html",
+        "https://asia.canon/en/business/uhd-digisuper-86-4k-premium/main/specification"
+      ]
+    },
+    {
+      "id": "canon-uj90x9b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23200,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://asia.canon/en/business/uhd-digisuper-90/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
+        "https://asia.canon/en/business/uhd-digisuper-90/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj100x9-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23500,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
+    },
+    {
+      "id": "canon-xj22x7-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 6100,
+      "lengthMm": 336,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html",
+        "http://hk.canon/en/business/digisuper-22-xs/main/specification"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html",
+        "http://hk.canon/en/business/digisuper-22-xs/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj23x7b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 19500,
+      "lengthMm": 525,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ],
+      "fieldNotes": "Macro available via optional MCJ-S02 accessory",
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj25x6-8b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 21500,
+      "lengthMm": 557.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
+        "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
+        "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj27x6-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 21900,
+      "lengthMm": 550,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
+        "http://hk.canon/en/business/digisuper-27/main/specification"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
+        "http://hk.canon/en/business/digisuper-27/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj60x9b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 19900,
+      "lengthMm": 547.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887586-REG/Canon_xj60x9b_ie_d_lo_XJ60x9BIE_D_LO_DIGISUPER.html",
+        "https://asia.canon/en/business/digisuper-60-xs/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.bhphotovideo.com/c/product/887586-REG/Canon_xj60x9b_ie_d_lo_XJ60x9BIE_D_LO_DIGISUPER.html",
+        "https://asia.canon/en/business/digisuper-60-xs/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj72x9-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 21500,
+      "lengthMm": 569,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+      },
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+      ]
+    },
+    {
+      "id": "canon-xj75x9-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 22000,
+      "lengthMm": 591.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj76x9b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23000,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "http://hk.canon/en/business/digisuper-76/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "http://hk.canon/en/business/digisuper-76/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj80x8-8b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23200,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "http://hk.canon/en/business/digisuper-80/main/specification"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "http://hk.canon/en/business/digisuper-80/main/specification"
+      ]
+    },
+    {
+      "id": "canon-xj86x13-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 24300,
+      "lengthMm": 618.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj86x9-3b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23500,
+      "lengthMm": 591.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://alliedbroadcastgroup.com/product/canon-xj86x9-3b-ie-ii-9-3-800mm-digisuper-hd-telephoto-field-lens-w-semi-servo-controls-sled-additional/",
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://alliedbroadcastgroup.com/product/canon-xj86x9-3b-ie-ii-9-3-800mm-digisuper-hd-telephoto-field-lens-w-semi-servo-controls-sled-additional/",
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj86x9-3b-af",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 26800,
+      "lengthMm": 661.5,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj95x12-4b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23200,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.5,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
+      ]
+    },
+    {
+      "id": "canon-xj95x8-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 23200,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
+      ],
+      "webSources": [
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
+      ]
+    }
+  ]
+}

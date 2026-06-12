@@ -1,0 +1,127 @@
+{
+  "lenses": [
+    {
+      "id": "sigma-af-cine-28-105mm-t3-ff-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/",
+      "weightG": 1300,
+      "lengthMm": 159.9,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.4,
+      "introductionYear": 2025,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 86,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 200,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "sigma-global.com/en/cine-lenses/af-cine/28_105_3/ product page (tier-1)",
+        "weightG": "sigma-global.com AF Cine 28-105mm T3 specifications: Sony E-mount 1.3kg (tier-1)",
+        "lengthMm": "sigma-global.com AF Cine 28-105mm T3 specifications: Sony E-mount 159.9mm (tier-1)",
+        "frontDiameterMm": "sigma-global.com AF Cine 28-105mm T3 specifications: 95mm (tier-1)",
+        "closeFocusM": "sigma-global.com AF Cine 28-105mm T3 specifications: 0.40m (tier-1)",
+        "introductionYear": "sigma-global.com AF Cine 28-105mm T3 product page: 2025 (tier-1)",
+        "imageCircleMm": "Sigma does not publish image circle for AF Cine series",
+        "opticalElements": "Sigma does not publish optical element count for cine lenses",
+        "filterType": "sigma-global.com AF Cine 28-105mm T3 specifications: M82x0.75mm filter size (tier-1)",
+        "filterThreadMm": "sigma-global.com AF Cine 28-105mm T3 specifications: 82mm filter thread (tier-1)",
+        "isParfocal": "sigma-global.com product page; parfocal not claimed (POS-D11 applied)",
+        "hasFocusBreathing": "Sigma does not publish focus breathing data for cine lenses",
+        "hasFrontRotation": "Not stated on sigma-global.com product page",
+        "focusRingRotationDeg": "sigma-global.com AF Cine 28-105mm T3 specifications: 200 degrees (tier-1)",
+        "gearPitch": "sigma-global.com AF Cine 28-105mm T3 specifications: 0.8mm gear pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/"
+      ],
+      "fieldNotes": {
+        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+      }
+    },
+    {
+      "id": "sigma-af-cine-28-45mm-t2-ff-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/",
+      "weightG": 1200,
+      "lengthMm": 153.3,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.3,
+      "introductionYear": 2025,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 86,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 200,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "sigma-global.com/en/cine-lenses/af-cine/28_45_2/ product page (tier-1)",
+        "weightG": "sigma-global.com AF Cine 28-45mm T2 specifications: Sony E-mount 1.2kg (tier-1)",
+        "lengthMm": "sigma-global.com AF Cine 28-45mm T2 specifications: Sony E-mount 153.3mm (tier-1)",
+        "frontDiameterMm": "sigma-global.com AF Cine 28-45mm T2 specifications: 95mm (tier-1)",
+        "closeFocusM": "sigma-global.com AF Cine 28-45mm T2 specifications: 0.30m (tier-1)",
+        "introductionYear": "sigma-global.com AF Cine 28-45mm T2 product page: 2025 (tier-1)",
+        "imageCircleMm": "Sigma does not publish image circle for AF Cine series",
+        "opticalElements": "Sigma does not publish optical element count for cine lenses",
+        "filterType": "sigma-global.com AF Cine 28-45mm T2 specifications: M82x0.75mm filter size (tier-1)",
+        "filterThreadMm": "sigma-global.com AF Cine 28-45mm T2 specifications: 82mm filter thread (tier-1)",
+        "isParfocal": "sigma-global.com product page; parfocal not claimed (POS-D11 applied)",
+        "hasFocusBreathing": "Sigma does not publish focus breathing data for cine lenses",
+        "hasFrontRotation": "Not stated on sigma-global.com product page",
+        "focusRingRotationDeg": "sigma-global.com AF Cine 28-45mm T2 specifications: 200 degrees (tier-1)",
+        "gearPitch": "sigma-global.com AF Cine 28-45mm T2 specifications: 0.8mm gear pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/"
+      ],
+      "fieldNotes": {
+        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+      }
+    },
+    {
+      "id": "sigma-cine-24-35mm-t2-2-ff-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/",
+      "weightG": 1600,
+      "lengthMm": 148.7,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.28,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 180,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/ product page (tier-1)",
+        "weightG": "sigma-global.com 24-35mm T2.2 FF specifications: Sony E mount 1.6kg (tier-1)",
+        "lengthMm": "sigma-global.com 24-35mm T2.2 FF specifications: Sony E mount 148.7mm (tier-1)",
+        "frontDiameterMm": "sigma-global.com 24-35mm T2.2 FF specifications: 95mm (tier-1)",
+        "closeFocusM": "sigma-global.com 24-35mm T2.2 FF specifications: 0.28m (tier-1)",
+        "introductionYear": "Not stated on manufacturer page; no tier-4 source found",
+        "imageCircleMm": "sigma-global.com 24-35mm T2.2 FF specifications: FF 43.3mm (tier-1)",
+        "opticalElements": "Sigma does not publish optical element count for cine lenses",
+        "filterType": "sigma-global.com 24-35mm T2.2 FF specifications: M82x0.75mm filter size (tier-1)",
+        "filterThreadMm": "sigma-global.com 24-35mm T2.2 FF specifications: 82mm filter thread (tier-1)",
+        "isParfocal": "sigma-global.com product page; parfocal not claimed (POS-D11 applied)",
+        "hasFocusBreathing": "Sigma does not publish focus breathing data for cine lenses",
+        "hasFrontRotation": "Not stated on sigma-global.com product page",
+        "focusRingRotationDeg": "sigma-global.com 24-35mm T2.2 FF specifications: 180 degrees (tier-1)",
+        "gearPitch": "sigma-global.com 24-35mm T2.2 FF specifications: 0.8mm gear pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/"
+      ]
+    }
+  ]
+}

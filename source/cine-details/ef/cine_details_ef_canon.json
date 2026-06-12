@@ -1,0 +1,1190 @@
+{
+  "lenses": [
+    {
+      "id": "canon-cne135mm-t2-2",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl447.html",
+      "weightG": 1400,
+      "lengthMm": 115.6,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 1.0,
+      "introductionYear": 2013,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl447.html"
+      ]
+    },
+    {
+      "id": "canon-cne14-35mm-t1-7-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s",
+      "weightG": 3400,
+      "lengthMm": 241.3,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2023,
+      "imageCircleMm": 27.5,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s Canon USA product page EF (S) variant (tier-1)",
+        "weightG": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s: 7.7 lbs = 3.4kg (tier-1)",
+        "lengthMm": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s: S (EF) length 9.5 in = 241.3mm (tier-1); SP (PL) = 233.3mm",
+        "frontDiameterMm": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s: 114mm (tier-1)",
+        "closeFocusM": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s: 2 ft = 0.6m (tier-1)",
+        "introductionYear": "Wikipedia Canon Cinema EOS: CN-E Flex Zoom introduced 2023 (tier-5)",
+        "imageCircleMm": "global.canon: ø27.5mm Super 35mm coverage (tier-1)",
+        "opticalElements": "Canon does not publish optical element count for CN-E lenses",
+        "filterType": "Canon/Newsshooter: primary approach is matte box; no filter thread (tier-1/2)",
+        "filterThreadMm": "filterType null; no filter provision confirmed",
+        "isParfocal": "usa.canon.com: 'excellent parfocal performance' (tier-1 explicit claim)",
+        "hasFocusBreathing": "Canon: \"virtually zero focus breathing\" — corrected to \"minimal\" consistent with PL variant; same optical design (tier-1)",
+        "hasFrontRotation": "Not stated on Canon product page",
+        "focusRingRotationDeg": "global.canon/en/c-museum product pages: approx. 300 degrees (tier-1)",
+        "gearPitch": "usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s: 0.8mm pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s"
+      ]
+    },
+    {
+      "id": "canon-cne14mm-t3-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl446.html",
+      "weightG": 1200,
+      "lengthMm": 94.0,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 0.2,
+      "introductionYear": 2013,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl446.html"
+      ]
+    },
+    {
+      "id": "canon-cne15-5-47mm-t2-8-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl445.html",
+      "weightG": 2200,
+      "lengthMm": 222.0,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.5,
+      "introductionYear": 2012,
+      "imageCircleMm": 27.5,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "global.canon/en/c-museum/product/cesl445.html Canon Cinema EOS product page (tier-1)",
+        "weightG": "global.canon/en/c-museum/product/cesl445.html: 2.2kg (tier-1)",
+        "lengthMm": "global.canon/en/c-museum/product/cesl445.html: S (EF) mount length 222mm (tier-1); SP (PL) = 214mm",
+        "frontDiameterMm": "global.canon/en/c-museum/product/cesl445.html: 114mm (tier-1)",
+        "closeFocusM": "global.canon/en/c-museum/product/cesl445.html: 0.5m from image sensor (tier-1)",
+        "introductionYear": "global.canon/en/c-museum/product/cesl445.html: Marketed December 2012 (tier-1)",
+        "imageCircleMm": "global.canon/en/c-museum/product/cesl445.html: ø27.5mm Super 35mm (tier-1)",
+        "opticalElements": "Canon does not publish optical element count for CN-E lenses",
+        "filterType": "Consistent with PL variant; Canon does not publish filter thread size for this series (tier-1 incomplete)",
+        "filterThreadMm": "Filter thread size not published by Canon for CN-E15.5-47mm series across 6 tiers",
+        "isParfocal": "Canon does not claim parfocal for CN-E15.5-47mm; POS-D11 applied (tier-1)",
+        "hasFocusBreathing": "Canon CN-E 15.5-47mm: minimal focus breathing, cine-optimized design (tier-1)",
+        "hasFrontRotation": "Not stated on Canon product page",
+        "focusRingRotationDeg": "global.canon/en/c-museum product pages: approx. 300 degrees (tier-1)",
+        "gearPitch": "global.canon/en/c-museum product pages: 0.8 metric module (tier-1)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl445.html"
+      ]
+    },
+    {
+      "id": "canon-cne18-80mm-t4-4",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/compact-servo-18-80mm-t4-4-ef",
+      "weightG": 1200,
+      "lengthMm": 182.2,
+      "frontDiameterMm": 84,
+      "closeFocusM": 0.5,
+      "introductionYear": 2016,
+      "imageCircleMm": 29.6,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 130,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CNE Compact Servo 18-80mm: minimal focus breathing via servo compensation (tier-1)"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/compact-servo-18-80mm-t4-4-ef"
+      ]
+    },
+    {
+      "id": "canon-cne24mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl441.html",
+      "weightG": 1200,
+      "lengthMm": 101.5,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 0.3,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl441.html"
+      ]
+    },
+    {
+      "id": "canon-cne30-105mm-t2-8-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl444.html",
+      "weightG": 2200,
+      "lengthMm": 218.0,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2012,
+      "imageCircleMm": 27.5,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "global.canon/en/c-museum/product/cesl444.html Canon Cinema EOS product page (tier-1)",
+        "weightG": "global.canon/en/c-museum/product/cesl444.html: 2.2kg (tier-1)",
+        "lengthMm": "global.canon/en/c-museum/product/cesl444.html: S (EF) mount length 218mm (tier-1); SP (PL) = 210mm",
+        "frontDiameterMm": "global.canon/en/c-museum/product/cesl444.html: 114mm (tier-1)",
+        "closeFocusM": "global.canon/en/c-museum/product/cesl444.html: 0.6m from image sensor (tier-1)",
+        "introductionYear": "global.canon/en/c-museum/product/cesl444.html: Marketed December 2012 (tier-1)",
+        "imageCircleMm": "global.canon/en/c-museum/product/cesl444.html: ø27.5mm Super 35mm (tier-1)",
+        "opticalElements": "Canon does not publish optical element count for CN-E lenses",
+        "filterType": "Consistent with PL variant; Canon does not publish filter thread size for this series (tier-1 incomplete)",
+        "filterThreadMm": "Filter thread size not published by Canon for CN-E30-105mm series across 6 tiers",
+        "isParfocal": "Canon does not claim parfocal for CN-E30-105mm; POS-D11 applied (tier-1)",
+        "hasFocusBreathing": "Canon CN-E 30-105mm: minimal focus breathing, cine-optimized design (tier-1)",
+        "hasFrontRotation": "Not stated on Canon product page",
+        "focusRingRotationDeg": "global.canon/en/c-museum product pages: approx. 300 degrees (tier-1)",
+        "gearPitch": "global.canon/en/c-museum product pages: 0.8 metric module (tier-1)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl444.html"
+      ]
+    },
+    {
+      "id": "canon-cne31-5-95mm-t1-7-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s",
+      "weightG": 3500,
+      "lengthMm": 246.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 1.0,
+      "introductionYear": 2023,
+      "imageCircleMm": 27.5,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s Canon USA product page EF (S) variant (tier-1)",
+        "weightG": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s: 7.8 lbs = 3.5kg (tier-1)",
+        "lengthMm": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s: S (EF) length 9.7 in = 246.4mm (tier-1); SP (PL) = 238.4mm",
+        "frontDiameterMm": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s: 114mm (tier-1)",
+        "closeFocusM": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s: 3 ft 4 in = 1.0m (tier-1)",
+        "introductionYear": "Wikipedia Canon Cinema EOS: CN-E Flex Zoom introduced 2023 (tier-5)",
+        "imageCircleMm": "global.canon: ø27.5mm Super 35mm coverage (tier-1)",
+        "opticalElements": "Canon does not publish optical element count for CN-E lenses",
+        "filterType": "Canon/Newsshooter: primary approach is matte box; no filter thread (tier-1/2)",
+        "filterThreadMm": "filterType null; no filter provision confirmed",
+        "isParfocal": "usa.canon.com: 'excellent parfocal performance' (tier-1 explicit claim)",
+        "hasFocusBreathing": "Canon: \"virtually zero focus breathing\" — corrected to \"minimal\" consistent with PL variant; same optical design (tier-1)",
+        "hasFrontRotation": "Not stated on Canon product page",
+        "focusRingRotationDeg": "global.canon/en/c-museum product pages: approx. 300 degrees (tier-1)",
+        "gearPitch": "usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s: 0.8mm pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s"
+      ]
+    },
+    {
+      "id": "canon-cne35mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl448.html",
+      "weightG": 1100,
+      "lengthMm": 101.5,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 0.3,
+      "introductionYear": 2013,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl448.html"
+      ]
+    },
+    {
+      "id": "canon-cne50mm-t1-3",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl442.html",
+      "weightG": 1100,
+      "lengthMm": 101.5,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 0.45,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl442.html"
+      ]
+    },
+    {
+      "id": "canon-cne70-200mm-t4-4",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/compact-servo-70-200mm-t4-4-ef",
+      "weightG": 1250,
+      "lengthMm": 182.3,
+      "frontDiameterMm": 84,
+      "closeFocusM": 1.2,
+      "introductionYear": 2017,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 130,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CNE Compact Servo 70-200mm: minimal focus breathing via servo compensation (tier-1)",
+        "gearPitch": "dvinfo: \"Compact Servos have Z+I rings at proprietary 0.5 pitch\"; focus ring pitch not separately confirmed — unconfirmed pending Tim verification",
+        "imageCircleMm": "Canon Europe Specifications -- canon-europe.com/pro/cinema-lenses/compact-servo-70-200mm-t4.4-l-is-ef/"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/compact-servo-70-200mm-t4-4-ef"
+      ]
+    },
+    {
+      "id": "canon-cne85mm-t1-3",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl443.html",
+      "weightG": 1300,
+      "lengthMm": 101.5,
+      "frontDiameterMm": 114.0,
+      "closeFocusM": 0.95,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon + AbelCine: \"designed to minimize focus breathing\" (tier-1/2)",
+        "gearPitch": "AbelCine: \"0.8 pitch follow focus gearing\" (tier-2)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/cesl443.html"
+      ]
+    },
+    {
+      "id": "canon-ef-100-400mm-f4-5-5-6l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef437.html",
+      "weightG": 1570,
+      "lengthMm": 193.0,
+      "frontDiameterMm": 94.0,
+      "closeFocusM": 0.98,
+      "introductionYear": 2014,
+      "imageCircleMm": 43.2,
+      "opticalElements": 21,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 160,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef437.html"
+      ]
+    },
+    {
+      "id": "canon-ef-100mm-f2-8l-is-macro",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef405.html",
+      "weightG": 625,
+      "lengthMm": 123.0,
+      "frontDiameterMm": 77.7,
+      "closeFocusM": 0.3,
+      "introductionYear": 2009,
+      "imageCircleMm": 43.2,
+      "opticalElements": 15,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef405.html"
+      ]
+    },
+    {
+      "id": "canon-ef-135mm-f2l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef335.html",
+      "weightG": 750,
+      "lengthMm": 112.0,
+      "frontDiameterMm": 82.5,
+      "closeFocusM": 0.9,
+      "introductionYear": 1996,
+      "imageCircleMm": 43.2,
+      "opticalElements": 10,
+      "filterType": "front_thread",
+      "filterThreadMm": 72,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef335.html"
+      ]
+    },
+    {
+      "id": "canon-ef-16-35mm-f2-8l-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef393.html",
+      "weightG": 640,
+      "lengthMm": 111.6,
+      "frontDiameterMm": 88.5,
+      "closeFocusM": 0.28,
+      "introductionYear": 2007,
+      "imageCircleMm": 43.2,
+      "opticalElements": 16,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 110,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef393.html"
+      ]
+    },
+    {
+      "id": "canon-ef-16-35mm-f4l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef432.html",
+      "weightG": 615,
+      "lengthMm": 112.8,
+      "frontDiameterMm": 82.6,
+      "closeFocusM": 0.28,
+      "introductionYear": 2014,
+      "imageCircleMm": 43.2,
+      "opticalElements": 16,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 95,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef432.html"
+      ]
+    },
+    {
+      "id": "canon-ef-17-40mm-f4l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef373.html",
+      "weightG": 475,
+      "lengthMm": 96.8,
+      "frontDiameterMm": 83.5,
+      "closeFocusM": 0.28,
+      "introductionYear": 2003,
+      "imageCircleMm": 43.2,
+      "opticalElements": 12,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 100,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef373.html"
+      ]
+    },
+    {
+      "id": "canon-ef-200-400mm-f4l-is-ext1-4",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef428.html",
+      "weightG": 3620,
+      "lengthMm": 366.0,
+      "frontDiameterMm": 128.0,
+      "closeFocusM": 2.0,
+      "introductionYear": 2013,
+      "imageCircleMm": 43.2,
+      "opticalElements": 25,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 175,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef428.html"
+      ]
+    },
+    {
+      "id": "canon-ef-200mm-f2l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef397.html",
+      "weightG": 2520,
+      "lengthMm": 208.0,
+      "frontDiameterMm": 128.0,
+      "closeFocusM": 1.9,
+      "introductionYear": 2008,
+      "imageCircleMm": 43.2,
+      "opticalElements": 17,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef397.html"
+      ]
+    },
+    {
+      "id": "canon-ef-24-105mm-f4l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef457.html",
+      "weightG": 795,
+      "lengthMm": 118.0,
+      "frontDiameterMm": 83.5,
+      "closeFocusM": 0.45,
+      "introductionYear": 2016,
+      "imageCircleMm": 43.2,
+      "opticalElements": 17,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 115,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef457.html"
+      ]
+    },
+    {
+      "id": "canon-ef-24-70mm-f2-8l-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef424.html",
+      "weightG": 805,
+      "lengthMm": 113.0,
+      "frontDiameterMm": 88.5,
+      "closeFocusM": 0.38,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.2,
+      "opticalElements": 18,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 120,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "LensTip.com technical specifications",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef424.html"
+      ]
+    },
+    {
+      "id": "canon-ef-24-70mm-f4l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef425.html",
+      "weightG": 600,
+      "lengthMm": 93.0,
+      "frontDiameterMm": 83.4,
+      "closeFocusM": 0.38,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.2,
+      "opticalElements": 15,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 90,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef425.html"
+      ]
+    },
+    {
+      "id": "canon-ef-24mm-f1-4l-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef400.html",
+      "weightG": 650,
+      "lengthMm": 86.9,
+      "frontDiameterMm": 83.5,
+      "closeFocusM": 0.25,
+      "introductionYear": 2008,
+      "imageCircleMm": 43.2,
+      "opticalElements": 13,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef400.html"
+      ]
+    },
+    {
+      "id": "canon-ef-28-300mm-f3-5-5-6l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef377.html",
+      "weightG": 1670,
+      "lengthMm": 184.0,
+      "frontDiameterMm": 92.0,
+      "closeFocusM": 0.7,
+      "introductionYear": 2004,
+      "imageCircleMm": 43.2,
+      "opticalElements": 22,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 110,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef377.html"
+      ]
+    },
+    {
+      "id": "canon-ef-300mm-f2-8l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef417.html",
+      "weightG": 2350,
+      "lengthMm": 248.0,
+      "frontDiameterMm": 128.0,
+      "closeFocusM": 2.0,
+      "introductionYear": 2011,
+      "imageCircleMm": 43.2,
+      "opticalElements": 16,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef417.html"
+      ]
+    },
+    {
+      "id": "canon-ef-300mm-f4l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef340.html",
+      "weightG": 1190,
+      "lengthMm": 221.0,
+      "frontDiameterMm": 90.0,
+      "closeFocusM": 1.5,
+      "introductionYear": 1997,
+      "imageCircleMm": 43.2,
+      "opticalElements": 15,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef340.html"
+      ]
+    },
+    {
+      "id": "canon-ef-35mm-f1-4l-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef452.html",
+      "weightG": 760,
+      "lengthMm": 105.5,
+      "frontDiameterMm": 80.4,
+      "closeFocusM": 0.28,
+      "introductionYear": 2015,
+      "imageCircleMm": 43.2,
+      "opticalElements": 14,
+      "filterType": "front_thread",
+      "filterThreadMm": 72,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef452.html"
+      ]
+    },
+    {
+      "id": "canon-ef-400mm-f2-8l-is-iii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef474.html",
+      "weightG": 2840,
+      "lengthMm": 343.0,
+      "frontDiameterMm": 163.0,
+      "closeFocusM": 2.5,
+      "introductionYear": 2018,
+      "imageCircleMm": 43.2,
+      "opticalElements": 17,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef474.html"
+      ]
+    },
+    {
+      "id": "canon-ef-400mm-f4-do-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef435.html",
+      "weightG": 2100,
+      "lengthMm": 232.7,
+      "frontDiameterMm": 128.0,
+      "closeFocusM": 3.3,
+      "introductionYear": 2014,
+      "imageCircleMm": 43.2,
+      "opticalElements": 18,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef435.html"
+      ]
+    },
+    {
+      "id": "canon-ef-400mm-f5-6l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef317.html",
+      "weightG": 1250,
+      "lengthMm": 256.5,
+      "frontDiameterMm": 90.0,
+      "closeFocusM": 3.5,
+      "introductionYear": 1993,
+      "imageCircleMm": 43.2,
+      "opticalElements": 7,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef317.html"
+      ]
+    },
+    {
+      "id": "canon-ef-500mm-f4l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef412.html",
+      "weightG": 3190,
+      "lengthMm": 383.0,
+      "frontDiameterMm": 146.0,
+      "closeFocusM": 3.7,
+      "introductionYear": 2012,
+      "imageCircleMm": 43.2,
+      "opticalElements": 16,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef412.html"
+      ]
+    },
+    {
+      "id": "canon-ef-50mm-f1-2l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef392.html",
+      "weightG": 590,
+      "lengthMm": 65.5,
+      "frontDiameterMm": 85.8,
+      "closeFocusM": 0.45,
+      "introductionYear": 2007,
+      "imageCircleMm": 43.2,
+      "opticalElements": 8,
+      "filterType": "front_thread",
+      "filterThreadMm": 72,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef392.html"
+      ]
+    },
+    {
+      "id": "canon-ef-600mm-f4l-is-iii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef475.html",
+      "weightG": 3050,
+      "lengthMm": 448.0,
+      "frontDiameterMm": 168.0,
+      "closeFocusM": 4.2,
+      "introductionYear": 2018,
+      "imageCircleMm": 43.2,
+      "opticalElements": 17,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef475.html"
+      ]
+    },
+    {
+      "id": "canon-ef-70-200mm-f2-8l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef406.html",
+      "weightG": 1490,
+      "lengthMm": 199.0,
+      "frontDiameterMm": 88.8,
+      "closeFocusM": 1.2,
+      "introductionYear": 2010,
+      "imageCircleMm": 43.2,
+      "opticalElements": 23,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 140,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "LensTip.com technical specifications",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef406.html"
+      ]
+    },
+    {
+      "id": "canon-ef-70-200mm-f2-8l-is-iii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef469.html",
+      "weightG": 1480,
+      "lengthMm": 199.0,
+      "frontDiameterMm": 88.8,
+      "closeFocusM": 1.2,
+      "introductionYear": 2018,
+      "imageCircleMm": 43.2,
+      "opticalElements": 23,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 140,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "LensTip.com technical specifications",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef469.html"
+      ]
+    },
+    {
+      "id": "canon-ef-70-200mm-f4l",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef356.html",
+      "weightG": 705,
+      "lengthMm": 172.0,
+      "frontDiameterMm": 76.0,
+      "closeFocusM": 1.2,
+      "introductionYear": 1999,
+      "imageCircleMm": 43.2,
+      "opticalElements": 16,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 150,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "LensTip.com technical specifications",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef356.html"
+      ]
+    },
+    {
+      "id": "canon-ef-70-200mm-f4l-is-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef467.html",
+      "weightG": 780,
+      "lengthMm": 176.0,
+      "frontDiameterMm": 80.0,
+      "closeFocusM": 1.0,
+      "introductionYear": 2018,
+      "imageCircleMm": 43.2,
+      "opticalElements": 20,
+      "filterType": "front_thread",
+      "filterThreadMm": 72,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 145,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef467.html"
+      ]
+    },
+    {
+      "id": "canon-ef-70-300mm-f4-5-6l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef407.html",
+      "weightG": 1050,
+      "lengthMm": 143.0,
+      "frontDiameterMm": 89.0,
+      "closeFocusM": 1.2,
+      "introductionYear": 2010,
+      "imageCircleMm": 43.2,
+      "opticalElements": 19,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": false,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 95,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)",
+        "focusRingRotationDeg": "The-Digital-Picture.com lens review",
+        "focusRingRotationDeg_confidence": "unconfirmed",
+        "gearPitch": "Canon EF photo lens -- no cine gear ring, concept not applicable"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef407.html"
+      ]
+    },
+    {
+      "id": "canon-ef-800mm-f5-6l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef398.html",
+      "weightG": 4500,
+      "lengthMm": 461.0,
+      "frontDiameterMm": 163.0,
+      "closeFocusM": 6.0,
+      "introductionYear": 2008,
+      "imageCircleMm": 43.2,
+      "opticalElements": 18,
+      "filterType": "rear_filter",
+      "filterThreadMm": 52,
+      "isParfocal": null,
+      "hasFocusBreathing": "significant",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef398.html"
+      ]
+    },
+    {
+      "id": "canon-ef-85mm-f1-2l-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef389.html",
+      "weightG": 1025,
+      "lengthMm": 84.0,
+      "frontDiameterMm": 91.5,
+      "closeFocusM": 0.95,
+      "introductionYear": 2006,
+      "imageCircleMm": 43.2,
+      "opticalElements": 8,
+      "filterType": "front_thread",
+      "filterThreadMm": 72,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef389.html"
+      ]
+    },
+    {
+      "id": "canon-ef-85mm-f1-4l-is",
+      "lensType": "cine",
+      "manufacturerUrl": "https://global.canon/en/c-museum/product/ef466.html",
+      "weightG": 950,
+      "lengthMm": 105.4,
+      "frontDiameterMm": 88.6,
+      "closeFocusM": 0.85,
+      "introductionYear": 2017,
+      "imageCircleMm": 43.2,
+      "opticalElements": 14,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "moderate",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "hasFocusBreathing": "EF photo lens, not optimized for cine use; no manufacturer breathing minimization claim; classification based on lens type and focal length",
+        "imageCircleMm": "EF mount standard: 43.2mm image circle covering 35mm full-frame (Canon EF specification)"
+      },
+      "webSources": [
+        "https://global.canon/en/c-museum/product/ef466.html"
+      ]
+    }
+  ]
+}

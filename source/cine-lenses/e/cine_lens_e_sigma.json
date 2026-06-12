@@ -1,0 +1,58 @@
+{
+  "lenses": [
+    {
+      "id": "sigma-af-cine-28-105mm-t3-ff-e",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-105mm T3 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 105.0,
+      "zoomRatio": 3.75,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/.",
+      "addedDate": null
+    },
+    {
+      "id": "sigma-af-cine-28-45mm-t2-ff-e",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-45mm T2 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 45.0,
+      "zoomRatio": 1.61,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, Sony E-mount. Autofocus. Available December 2025. Source: sigma-global.com/en/cine-lenses/af-cine/28_45_2/.",
+      "addedDate": null
+    },
+    {
+      "id": "sigma-cine-24-35mm-t2-2-ff-e",
+      "manufacturer": "Sigma",
+      "model": "Cine 24-35mm T2.2 FF",
+      "series": "Cine High Speed Zoom",
+      "generation": "4K UHD",
+      "focalLengthMin": 24.0,
+      "focalLengthMax": 35.0,
+      "zoomRatio": 1.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame wide cine zoom, Sony E mount. Not available in PL. Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/.",
+      "addedDate": null
+    }
+  ]
+}

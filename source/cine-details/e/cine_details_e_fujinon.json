@@ -1,0 +1,82 @@
+{
+  "lenses": [
+    {
+      "id": "fujinon-mk18-55mm-t2-9-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series",
+      "weightG": 980,
+      "lengthMm": 206.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.85,
+      "introductionYear": 2017,
+      "imageCircleMm": 28.5,
+      "opticalElements": 22,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": 200,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series (tier-1)",
+        "weightG": "fujifilm.com MK18-55mm T2.9 specifications: 980g (tier-1)",
+        "lengthMm": "fujifilm.com MK18-55mm: φ85 × 206mm (tier-1)",
+        "frontDiameterMm": "fujifilm.com MK18-55mm: 85mm (tier-1)",
+        "closeFocusM": "fujifilm.com MK18-55mm: 0.85m standard mode (0.38m macro mode not used) (tier-1)",
+        "introductionYear": "Announced February 2017, shipped March 2017 (ProVideo Coalition, No Film School) (tier-5)",
+        "imageCircleMm": "fujifilm.com MK series: 28.5mm diagonal (Super 35 16:9) (tier-1)",
+        "opticalElements": "fujifilm.com / CineD / ProVideo Coalition: 22 elements in 17 groups (tier-1)",
+        "filterType": "fujifilm.com: 82mm front filter thread (tier-1)",
+        "filterThreadMm": "fujifilm.com MK18-55mm: 82mm (tier-1)",
+        "isParfocal": "fujifilm.com and multiple reviews confirm parfocal design (tier-1 explicit claim)",
+        "hasFocusBreathing": "cined.com lab test; newsshooter.com; videomaker.com; provideocoalition.com; fujinon.com",
+        "hasFrontRotation": "fujifilm.com: internal zoom/focus design; no front element rotation (tier-1)",
+        "focusRingRotationDeg": "fujifilm.com MK18-55mm: 200 degrees (tier-1)",
+        "gearPitch": "fujifilm.com MK18-55mm: 0.8mm pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series"
+      ]
+    },
+    {
+      "id": "fujinon-mk50-135mm-t2-9-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series",
+      "weightG": 980,
+      "lengthMm": 206.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 1.2,
+      "introductionYear": 2017,
+      "imageCircleMm": 28.5,
+      "opticalElements": 22,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": 200,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series (tier-1)",
+        "weightG": "fujifilm.com MK50-135mm T2.9 specifications: 980g (tier-1)",
+        "lengthMm": "fujifilm.com MK50-135mm: φ85 × 206mm (tier-1)",
+        "frontDiameterMm": "fujifilm.com MK50-135mm: 85mm (tier-1)",
+        "closeFocusM": "fujifilm.com MK50-135mm: 1.2m standard mode (tier-1)",
+        "introductionYear": "Announced February 2017, shipped July 2017 (ProVideo Coalition, No Film School) (tier-5)",
+        "imageCircleMm": "fujifilm.com MK series: 28.5mm diagonal (Super 35 16:9) (tier-1)",
+        "opticalElements": "fujifilm.com / CineD / ProVideo Coalition: 22 elements in 17 groups (tier-1)",
+        "filterType": "fujifilm.com: 82mm front filter thread (tier-1)",
+        "filterThreadMm": "fujifilm.com MK50-135mm: 82mm (tier-1)",
+        "isParfocal": "fujifilm.com and multiple reviews confirm parfocal design (tier-1 explicit claim)",
+        "hasFocusBreathing": "videomaker.com; newsshooter.com; cined.com; fujinon.com",
+        "hasFrontRotation": "fujifilm.com: internal zoom/focus design; no front element rotation (tier-1)",
+        "focusRingRotationDeg": "fujifilm.com MK50-135mm: 200 degrees (tier-1)",
+        "gearPitch": "fujifilm.com MK50-135mm: 0.8mm pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series"
+      ]
+    }
+  ]
+}

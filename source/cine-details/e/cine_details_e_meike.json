@@ -1,0 +1,165 @@
+{
+  "lenses": [
+    {
+      "id": "meike-ff-cine-105mm-t2-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-135mm-t2-4",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-16mm-t2-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 86,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-24mm-t2-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-35mm-t2-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-50mm-t2-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    },
+    {
+      "id": "meike-ff-cine-85mm-t2-1",
+      "lensType": "cine",
+      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 45.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 330,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "sigma-cine-24-35mm-t2-2-ff",
+      "manufacturer": "Sigma",
+      "model": "Cine 24-35mm T2.2 FF",
+      "series": "Cine High Speed Zoom",
+      "generation": "4K UHD",
+      "focalLengthMin": 24.0,
+      "focalLengthMax": 35.0,
+      "zoomRatio": 1.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame wide cine zoom, Canon EF mount. Not available in PL. Actual zoom ratio is 1.46x; zoomRatio=1 per convention (barely a zoom). Source: sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/.",
+      "addedDate": null
+    }
+  ]
+}
