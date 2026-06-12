@@ -1,4 +1,4 @@
 {
-  "version": "1.0.4",
-  "announcement": null
+  "version": "1.0.5",
+  "announcement": "Update 1.1.0 is here.\n\nExport any scout list as a CSV for easy import in production or rental software.\nAdjust bracket thickness for wide and tele independently.\nEdit or duplicate your custom lenses directly from the picker.\n\nPlus a rebuilt cine lens selector and performance improvements."
 }
