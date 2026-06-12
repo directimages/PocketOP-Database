@@ -195,6 +195,10 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm lengthMm=109 marked unconfirmed (Gemini source); all other SP3 values from Cooke spec sheet PDF (Tier 1)
 
 ## announcements.json
+### v1.0.5 — 2026-06-12
+
+- Update 1.1.0 release announcement: CSV export, bracket thickness controls, custom lens editing/duplication, rebuilt cine lens selector, performance improvements
+
 ### v1.0.4 — 2026-05-25
 
 - Cleared beta announcement for App Store release: announcement set to null
