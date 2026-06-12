@@ -11,3 +11,6 @@
 # Temporary
 *.tmp
 *.bak
+
+# Build output (regenerated, never committed)
+build/gap-report.md
