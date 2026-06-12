@@ -5,8 +5,8 @@ The published files at the repo root are generated output. You do not edit them
 by hand. You edit small shard files under `source/`, and a GitHub Action
 validates them, assembles the published files, and commits the result.
 
-This document is the Milestone 1 version. It covers sharding and assembly.
-Release tagging and the manifest are added in Milestone 2.
+This document covers the full pipeline: sharding and assembly, and the immutable
+release tagging with manifest.json and website dispatch.
 
 ## Where the data lives
 
@@ -155,6 +155,87 @@ field, and commits nothing:
 
 Nothing is published while validation is red, so a bad edit can never reach the
 consumers. The previous good output stays in place until a green run replaces it.
+
+## Releases, tags, and manifest.json
+
+jsDelivr serves branch refs from edge caches that can fall behind origin, so a
+purge is not reliable. Versioned tags are cached permanently and immutably, so
+consumers should fetch a specific release tag, not `@main`.
+
+Every push to `main` that touches `source/` cuts one immutable release:
+
+1. The Action assembles the published files.
+2. It reads the existing `db-v*` tags, takes the highest N, and computes the next
+   tag `db-v{N+1}`. If that tag somehow already exists it fails and does nothing.
+   It never moves, reuses, deletes, or force pushes a tag.
+3. It writes `manifest.json`, commits the assembled output and the manifest, and
+   pushes the commit to `main`.
+4. It creates and pushes the tag `db-v{N+1}` at that commit.
+5. It dispatches a `database-updated` event to PocketOP-Website and to
+   directimages.nl using the `PAT_DISPATCH_WEBSITE` secret. This call is explicit
+   because a push or tag made with the Action's `GITHUB_TOKEN` does not trigger
+   any other workflow.
+
+### manifest.json
+
+`manifest.json` at the repo root is the release log. It records the latest tag,
+an update timestamp, and one entry per release with the tag, a UTC timestamp, and
+every published file's version and entry count:
+
+```json
+{
+  "latest": "db-v7",
+  "updatedAt": "2026-06-12T08:30:00Z",
+  "releases": [
+    {
+      "tag": "db-v7",
+      "timestamp": "2026-06-12T08:30:00Z",
+      "files": {
+        "lenses.json": { "version": "1.30.0", "entries": 727 },
+        "devices.json": { "version": "1.6.0", "entries": 19 }
+      }
+    }
+  ]
+}
+```
+
+### How consumers fetch a release
+
+1. Read the latest tag from the manifest over raw, which always reflects `main`:
+   `https://raw.githubusercontent.com/directimages/PocketOP-Database/main/manifest.json`
+2. Fetch the data files from that immutable tag over jsDelivr:
+   `https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@db-v7/lenses.json`
+
+Switching the iOS app and the websites over to this tag based fetching is Alex
+and Sam's work in separate sessions. This pipeline only produces the tags and the
+manifest.
+
+### Dry run on branches and manual dispatch
+
+A push to a feature branch or a manual `workflow_dispatch` never tags or
+dispatches. It assembles, commits the output if it changed, prints the tag it
+would create, and prints the manifest it would write. Real releases happen only
+on a push to `main`.
+
+### Relationship to notify-website.yml
+
+`notify-website.yml` still exists and still dispatches on a direct push of the
+root JSON to `main`. In normal operation nobody pushes root JSON by hand any more;
+the Action commits it with `GITHUB_TOKEN`, which does not trigger
+`notify-website.yml`. The release dispatch in this workflow is what notifies the
+sites, so there is no double build. Do not hand edit the root JSON on `main`.
+
+### When a release step fails
+
+- Tag computation fails because the computed tag already exists: stop and inspect
+  the tags with `git tag -l 'db-v*'`. Never delete or move a tag to work around
+  this. Find why the counter and the tags disagree before doing anything.
+- The push of the commit or the tag fails: the release is incomplete. The tag is
+  only pushed after the commit, so re run the workflow; the counter advances to a
+  fresh tag rather than reusing the failed one.
+- The website dispatch fails: the tag and manifest are already published and
+  correct. Re run only the dispatch, or check the `PAT_DISPATCH_WEBSITE` secret.
+  jsDelivr already serves the new tag regardless of the dispatch.
 
 ## Future categories
 
