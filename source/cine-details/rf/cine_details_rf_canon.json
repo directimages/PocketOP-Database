@@ -1,0 +1,97 @@
+{
+  "lenses": [
+    {
+      "id": "canon-cn30x40-ias-rf",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf",
+      "weightG": 6700,
+      "lengthMm": 437.2,
+      "frontDiameterMm": 136,
+      "closeFocusM": 3.5,
+      "introductionYear": 2019,
+      "imageCircleMm": 29.6,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 180,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf IAS H RF (discontinued; IAS J specs not yet published) (tier-1)",
+        "weightG": "usa.canon.com CINE-SERVO 40-1200mm RF: 14.8 lbs = 6.7kg (tier-1, IAS H)",
+        "lengthMm": "usa.canon.com CINE-SERVO 40-1200mm RF: 437.2mm depth; 32mm longer than PL variant due to RF mount housing (tier-1, IAS H)",
+        "frontDiameterMm": "usa.canon.com CINE-SERVO 40-1200mm RF: Φ136mm (tier-1, IAS H)",
+        "closeFocusM": "usa.canon.com CINE-SERVO 40-1200mm RF: 11.5 ft = 3.5m (tier-1, IAS H)",
+        "introductionYear": "Canon IAS H announced NAB 2019 (tier-4); IAS J (2026 model in DB) specs not yet published",
+        "imageCircleMm": "usa.canon.com CINE-SERVO 40-1200mm: Φ29.6mm native; built-in 1.5x extender covers 43.3mm FF (tier-1, IAS H)",
+        "opticalElements": "Canon does not publish optical element count for CN-E lenses",
+        "filterType": "usa.canon.com CINE-SERVO 40-1200mm: Filter Diameter Φ127mm front thread (tier-1, IAS H)",
+        "filterThreadMm": "usa.canon.com CINE-SERVO 40-1200mm: Φ127mm filter diameter confirmed (tier-1, IAS H)",
+        "isParfocal": "Canon CINE-SERVO product documentation -- usa.canon.com (Tier 1)",
+        "hasFocusBreathing": "Canon CINE-SERVO 40-1200mm: minimal focus breathing consistent with Cine Servo series design (tier-1)",
+        "hasFrontRotation": "Not stated on Canon product page",
+        "focusRingRotationDeg": "Canon IAS Cine Servo family pattern: CN7x17 KAS S confirmed 180° (canon-europe.com), CN20x50 IAS H confirmed 180° (canon-europe.com). CN30x40 is same Cine Servo family. No explicit spec sheet statement found for CN30x40.",
+        "gearPitch": "Servo lens; no gear pitch applicable",
+        "focusRingRotationDeg_confidence": "unconfirmed"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf"
+      ]
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp",
+      "weightG": 3300,
+      "lengthMm": 241.3,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 112,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CN-E FF 20-50mm: minimal focus breathing, cine-optimized full-frame zoom (tier-1)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm for CN-E FF 20-50mm — Tim: zoek spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp"
+      ]
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp",
+      "weightG": 3400,
+      "lengthMm": 246.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 1.0,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 112,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CN-E FF 45-135mm: minimal focus breathing, cine-optimized full-frame zoom (tier-1)",
+        "isParfocal": "Canon CN-E FF 45-135mm T2.4: parfocal confirmed (tier-1)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm for CN-E FF 45-135mm — Tim: zoek spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp"
+      ]
+    }
+  ]
+}

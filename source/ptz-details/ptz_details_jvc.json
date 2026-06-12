@@ -1,0 +1,290 @@
+{
+  "cameras": [
+    {
+      "id": "jvc-ky-pz100",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz100bu/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-422",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 480,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "FAW",
+        "AWB-A",
+        "3200K",
+        "5600K",
+        "Manual"
+      ],
+      "minLux": 0.02,
+      "weightG": 1900,
+      "widthMm": 148,
+      "heightMm": 199.5,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz100be/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz200",
+      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 1700,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz200n",
+      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1700,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz400n",
+      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
+        "https://proflixsales.com/ky-pz400nbu.html"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz510",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz510n",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-485",
+        "Pelco-D",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ]
+    },
+    {
+      "id": "jvc-ky-pz540n",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
+      "controlProtocols": [
+        "JVC IP",
+        "RS-232C",
+        "RS-422",
+        "RS-485",
+        "VISCA",
+        "Pelco-D",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
+        "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html",
+        "https://www.fullcompass.com/prod/jvc-ky-pz540"
+      ]
+    }
+  ]
+}

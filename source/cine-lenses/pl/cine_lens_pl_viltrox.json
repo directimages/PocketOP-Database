@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "viltrox-luna-30-300mm-t4-0",
+      "manufacturer": "Viltrox",
+      "model": "LUNA 30-300mm T4.0",
+      "series": "LUNA",
+      "generation": "Cinema",
+      "focalLengthMin": 30.0,
+      "focalLengthMax": 300.0,
+      "zoomRatio": 10.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame 10× parfocal cine zoom (46.5mm image circle — covers Full Frame and VistaVision), PL mount. Current. ~$65,000. 8-blade iris, 0.8 MOD gears. Source: bhphotovideo.com.",
+      "addedDate": null
+    }
+  ]
+}

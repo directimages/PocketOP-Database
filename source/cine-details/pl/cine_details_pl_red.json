@@ -1,0 +1,82 @@
+{
+  "lenses": [
+    {
+      "id": "red-pro-17-50mm-t2-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.red.com/lenses",
+      "weightG": 1450,
+      "lengthMm": 129.0,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.25,
+      "introductionYear": null,
+      "imageCircleMm": 32,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 175,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "red.com/lenses (tier-1; product page removed post-Nikon acquisition)",
+        "weightG": "triode.tv rental listing: 3.2 lbs = 1,451g → 1,450g. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "lengthMm": "triode.tv rental listing: 129mm. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "frontDiameterMm": "triode.tv: 114mm outer ring diameter. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "closeFocusM": "triode.tv: 10 in = 254mm = 0.25m. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "introductionYear": "Not found in searchable press archives across 6 tiers after red.com removal",
+        "imageCircleMm": "Super 35 coverage confirmed; exact mm not published in any accessible source",
+        "opticalElements": "Not published in accessible sources",
+        "filterType": "Filter system present (inner thread 139mm confirmed) but type unconfirmed; marked unconfirmed per instruction. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "filterThreadMm": "filterType unconfirmed; thread size not applicable",
+        "isParfocal": "Parfocal not claimed in accessible sources; POS-D11 applied",
+        "hasFocusBreathing": "Not stated in accessible documentation",
+        "hasFrontRotation": "Not stated in accessible documentation",
+        "focusRingRotationDeg": "Les Productions Midcan / Frank Gear rental listings (Tier 3): \"175 degrees of focus rotation.\"",
+        "gearPitch": "Multiple rental listings confirm 0.8 MOD (focus, iris, zoom). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition"
+      },
+      "webSources": [
+        "https://www.red.com/lenses"
+      ]
+    },
+    {
+      "id": "red-pro-18-85mm-t2-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.red.com/lenses",
+      "weightG": 4500,
+      "lengthMm": 280.0,
+      "frontDiameterMm": 142,
+      "closeFocusM": 0.7,
+      "introductionYear": null,
+      "imageCircleMm": 32,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 271,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "red.com/lenses (tier-1; product page removed post-Nikon acquisition)",
+        "weightG": "filmtools.com / hdgear.tv: 9.9 lbs = 4,490g → 4,500g. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "lengthMm": "filmtools.com: 11 in = 279mm → 280mm (front to mount). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "frontDiameterMm": "filmtools.com / hdgear.tv: 142mm outer ring diameter. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "closeFocusM": "filmtools.com: 27.6 in = 701mm = 0.70m (from lens front). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "introductionYear": "Not found in searchable press archives across 6 tiers after red.com removal",
+        "imageCircleMm": "Super 35 coverage confirmed; exact mm not published in any accessible source",
+        "opticalElements": "Not published in accessible sources",
+        "filterType": "Filter provision present (142mm outer ring; internal system assumed) but type unconfirmed; marked unconfirmed per instruction. triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "filterThreadMm": "filterType unconfirmed; thread size not applicable",
+        "isParfocal": "Parfocal not claimed in accessible sources; POS-D11 applied",
+        "hasFocusBreathing": "Not stated in accessible documentation",
+        "hasFrontRotation": "Not stated in accessible documentation",
+        "focusRingRotationDeg": "filmtools.com: 271 degrees (infinity to MOD end stop). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition",
+        "gearPitch": "filmtools.com confirms 0.8 metric module (focus, iris, zoom). triode.tv / filmtools.com / hdgear.tv rental listings (tier-2/3); red.com product pages removed post-Nikon acquisition"
+      },
+      "webSources": [
+        "https://www.red.com/lenses"
+      ]
+    }
+  ]
+}

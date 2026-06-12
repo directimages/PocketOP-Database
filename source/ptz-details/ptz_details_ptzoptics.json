@@ -1,0 +1,494 @@
+{
+  "cameras": [
+    {
+      "id": "ptzoptics-pt12x-4k-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1470,
+      "widthMm": 168,
+      "heightMm": 165,
+      "depthMm": 142,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt12x-link-4k",
+      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1470,
+      "widthMm": 168,
+      "heightMm": 165,
+      "depthMm": 142,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt12x-sdi-g2",
+      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1380,
+      "widthMm": 142,
+      "heightMm": 175,
+      "depthMm": 150,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/sdi/",
+        "https://files.bzbexpress.com/files/attachments/12812/ptzoptics-pt12x-sdi-wh-g2-datasheet.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt12x-se-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1445,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-se/",
+        "https://www.bhphotovideo.com/lit_files/1074274.pdf",
+        "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt20x-4k-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 170,
+      "heightMm": 228,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt20x-link-4k",
+      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 170,
+      "heightMm": 228,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt20x-sdi-g2",
+      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1360,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/sdi/",
+        "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT20X-SDI-xx-G2/PT20X-SDI-xx-G2%20User%20Manual.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt20x-se-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1445,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-se/",
+        "https://www.bhphotovideo.com/lit_files/1074274.pdf",
+        "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt30x-4k-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 170,
+      "heightMm": 228,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-4k/",
+        "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt30x-link-4k",
+      "manufacturerUrl": "https://ptzoptics.com/link-4k/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D RS-232",
+        "Pelco-P RS-232",
+        "VISCA RS-485",
+        "Pelco-D RS-485",
+        "Pelco-P RS-485"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 170,
+      "heightMm": 228,
+      "depthMm": 181,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://ptzoptics.com/link-4k/",
+        "https://ptzoptics.com/wp-content/uploads/2023/09/PT30X-LINK-xx.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt30x-sdi-g2",
+      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1390,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/sdi/",
+        "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT30X-SDI-xx-G2/PT30X-SDI-xx-G2%20Data%20Sheet.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-pt30x-se-g3",
+      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 69.9,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1445,
+      "widthMm": 142,
+      "heightMm": 164,
+      "depthMm": 169,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/move-se/",
+        "https://www.bhphotovideo.com/lit_files/1074274.pdf",
+        "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ]
+    }
+  ]
+}

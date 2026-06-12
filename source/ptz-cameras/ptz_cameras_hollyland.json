@@ -1,0 +1,21 @@
+{
+  "ptzCameras": [
+    {
+      "id": "hollyland-astra-p1",
+      "brand": "hollyland",
+      "model": "Astra P1",
+      "sensorLabel": "1/1.8 inch",
+      "sensorWidthMM": 7.18,
+      "sensorHeightMM": 5.32,
+      "minFocalLengthMM": 7.1,
+      "maxFocalLengthMM": 210.0,
+      "hFOVWide": 59.2,
+      "hFOVTele": 2.5,
+      "opticalZoom": 30,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.8-inch CMOS, 30x. HFOV 59.2°–2.5° published by Hollyland (H: 59.2°~2.5°, V: 34.6°~1.4°). Focal range 7.1–210.0mm. 8.42MP effective pixels. Source: hollyland.com/product/astra-p1. Current.",
+      "addedDate": "2026-06-10"
+    }
+  ]
+}

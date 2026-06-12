@@ -1,0 +1,391 @@
+{
+  "cameras": [
+    {
+      "id": "birddog-p100",
+      "manufacturerUrl": "https://birddog.tv/p100-overview/p100-techspecs/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 145,
+      "heightMm": 154,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p100-overview/p100-techspecs/",
+        "https://www.lensrentals.com/rent/birddog-eyes-p100-ndi-ptz-camera"
+      ]
+    },
+    {
+      "id": "birddog-p110",
+      "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "FreeD",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 145,
+      "heightMm": 152,
+      "depthMm": 171,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p110p120-overview/"
+      ]
+    },
+    {
+      "id": "birddog-p120",
+      "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "FreeD",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p110p120-overview/"
+      ]
+    },
+    {
+      "id": "birddog-p200",
+      "manufacturerUrl": "https://birddog.tv/p200-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 195,
+      "heightMm": 214,
+      "depthMm": 164,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p200-overview/",
+        "https://birddog.tv/p200-overview/p200-techspecs/"
+      ]
+    },
+    {
+      "id": "birddog-p240",
+      "manufacturerUrl": "https://birddog.tv/p240-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2395,
+      "widthMm": 163,
+      "heightMm": 199,
+      "depthMm": 231,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/p240-overview/"
+      ]
+    },
+    {
+      "id": "birddog-p400",
+      "manufacturerUrl": "https://birddog.tv/p400-overview/p400-techspecs/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 50,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 1.6,
+      "weightG": 2700,
+      "widthMm": 195,
+      "heightMm": 217,
+      "depthMm": 164,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/p400-overview/p400-techspecs/"
+      ]
+    },
+    {
+      "id": "birddog-p4k",
+      "manufacturerUrl": "https://birddog.tv/p4k-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI Full",
+        "NDI|HX",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "6G-SDI (x2)",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 50,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 1.7,
+      "weightG": 3400,
+      "widthMm": 196,
+      "heightMm": 247,
+      "depthMm": 165,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/p4k-overview/",
+        "https://birddog.tv/p4k-overview/p4k-techspecs/"
+      ]
+    },
+    {
+      "id": "birddog-x1",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1350,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/",
+        "https://videoguys.com/products/birddog-x1-20x-hd-ptz-camera-black"
+      ]
+    },
+    {
+      "id": "birddog-x1-30x",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1350,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/"
+      ]
+    },
+    {
+      "id": "birddog-x1-ultra",
+      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1430,
+      "widthMm": 172,
+      "heightMm": 193,
+      "depthMm": 172,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x1-techspecs/",
+        "https://birddog.tv/cameras-show/",
+        "https://videoguys.com/products/birddog-3x-x1-ultra-ptz-cameras-and-kbd-keyboard-bundle-black"
+      ]
+    }
+  ]
+}

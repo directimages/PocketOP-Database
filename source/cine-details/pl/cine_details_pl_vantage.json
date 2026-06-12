@@ -1,0 +1,46 @@
+{
+  "lenses": [
+    {
+      "id": "vantage-lightweight-zoom-17-35mm-t2-8",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "weightG": 3200,
+      "lengthMm": 210,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": null,
+      "imageCircleMm": 31.1,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": 48,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "vantagefilm.com/en/lenses (tier-1; individual product page PDF is image-only, not text-extractable)",
+        "weightG": "Vantage Film equipment archives -- vantagefilm.com (Tier 3)",
+        "lengthMm": "Vantage Film equipment archives -- vantagefilm.com (Tier 3)",
+        "frontDiameterMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "closeFocusM": "Vantage Film equipment archives -- vantagefilm.com (Tier 3)",
+        "introductionYear": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "imageCircleMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "opticalElements": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "filterType": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "filterThreadMm": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "isParfocal": "Parfocal not claimed in any accessible source; POS-D11 applied",
+        "hasFocusBreathing": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "hasFrontRotation": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "focusRingRotationDeg": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "gearPitch": "vantagefilm.com PDF is image-only (not text-extractable); no specs published in searchable form across 6 tiers",
+        "lengthMm_confidence": "unconfirmed",
+        "weightG_confidence": "unconfirmed",
+        "closeFocusM_confidence": "unconfirmed"
+      },
+      "webSources": [
+        "https://www.vantagefilm.com/en/lenses"
+      ]
+    }
+  ]
+}

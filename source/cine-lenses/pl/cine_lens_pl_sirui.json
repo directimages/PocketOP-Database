@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "sirui-jupiter-28-85mm-t3-2",
+      "manufacturer": "Sirui",
+      "model": "Jupiter 28-85mm T3.2",
+      "series": "Jupiter",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 85.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame parfocal cine zoom (44mm image circle), PL and EF native mount versions (sold separately). Current. ~$2,899. 22 elements in 18 groups, 11-blade iris, negligible focus breathing. Source: bhphotovideo.com.",
+      "addedDate": null
+    }
+  ]
+}

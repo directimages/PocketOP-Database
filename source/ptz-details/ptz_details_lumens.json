@@ -1,0 +1,453 @@
+{
+  "cameras": [
+    {
+      "id": "lumens-vc-a50p",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/18/VC-A50P",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "3000K",
+        "5800K"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 185,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/18/VC-A50P",
+        "https://www.manua.ls/lumens/vc-a50p/manual"
+      ]
+    },
+    {
+      "id": "lumens-vc-a50s",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 185,
+      "depthMm": 186,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
+        "https://www.manua.ls/lumens/vc-a50p/manual"
+      ]
+    },
+    {
+      "id": "lumens-vc-a51p",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 175,
+      "heightMm": 185,
+      "depthMm": 185,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera",
+        "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN",
+        "https://www.amazon.com/Lumens-VC-A51PW-Flexible-Support-Ethernet/dp/B09P8XBQCZ"
+      ]
+    },
+    {
+      "id": "lumens-vc-a53",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A53",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 180,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A53",
+        "https://univesointegration.com/wp-content/uploads/2024/05/vc53.pdf"
+      ]
+    },
+    {
+      "id": "lumens-vc-a61p",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/37/VC-A61P",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "FreeD",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "Indoor",
+        "Outdoor"
+      ],
+      "minLux": 0.1,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/37/VC-A61P",
+        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
+        "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ]
+    },
+    {
+      "id": "lumens-vc-a61pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "NDI|HX",
+        "FreeD",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+        "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
+        "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ]
+    },
+    {
+      "id": "lumens-vc-a71p",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "FreeD",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.05,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera",
+        "https://www.manua.ls/lumens/vc-a71p/manual"
+      ]
+    },
+    {
+      "id": "lumens-vc-a71p-hn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "NDI|HX",
+        "FreeD",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+        "https://www.manua.ls/lumens/vc-a71p/manual"
+      ]
+    },
+    {
+      "id": "lumens-vc-a71pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "NDI|HX",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 189,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera",
+        "https://www.manua.ls/lumens/vc-a71p/manual"
+      ]
+    },
+    {
+      "id": "lumens-vc-r30",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTMP",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+        "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
+      ]
+    },
+    {
+      "id": "lumens-vc-tr1",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1400,
+      "widthMm": 245,
+      "heightMm": 165,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+        "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
+      ]
+    }
+  ]
+}

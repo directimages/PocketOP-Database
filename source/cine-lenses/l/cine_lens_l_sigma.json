@@ -1,0 +1,40 @@
+{
+  "lenses": [
+    {
+      "id": "sigma-af-cine-28-105mm-t3-ff-l",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-105mm T3 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 105.0,
+      "zoomRatio": 3.75,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "L",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, L-mount. Autofocus. Available April 2026. Source: sigma-global.com/en/cine-lenses/af-cine/28_105_3/.",
+      "addedDate": null
+    },
+    {
+      "id": "sigma-af-cine-28-45mm-t2-ff-l",
+      "manufacturer": "Sigma",
+      "model": "AF Cine 28-45mm T2 FF",
+      "series": "AF Cine",
+      "generation": "Cinema",
+      "focalLengthMin": 28.0,
+      "focalLengthMax": 45.0,
+      "zoomRatio": 1.61,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "L",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full Frame AF cine zoom, L-mount. Autofocus. Available December 2025. Source: sigma-global.com/en/cine-lenses/af-cine/28_45_2/.",
+      "addedDate": null
+    }
+  ]
+}

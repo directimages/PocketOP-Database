@@ -1,0 +1,104 @@
+{
+  "lenses": [
+    {
+      "id": "nikon-s13x9",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2200,
+      "lengthMm": 241,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.5,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ],
+      "webSources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
+    },
+    {
+      "id": "nikon-s15x8-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1250,
+      "lengthMm": 177,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
+      ],
+      "webSources": [
+        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
+      ]
+    },
+    {
+      "id": "nikon-s19x8",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1650,
+      "lengthMm": 215,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": "unconfirmed",
+      "hasServoFocus": false,
+      "servoConnector": "unconfirmed",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ],
+      "webSources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
+    },
+    {
+      "id": "nikon-s9x5-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 2150,
+      "lengthMm": 232,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ],
+      "webSources": [
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+      ]
+    }
+  ]
+}

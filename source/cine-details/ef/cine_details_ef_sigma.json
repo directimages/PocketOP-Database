@@ -1,0 +1,43 @@
+{
+  "lenses": [
+    {
+      "id": "sigma-cine-24-35mm-t2-2-ff",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/",
+      "weightG": 1500,
+      "lengthMm": 122.7,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.28,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 180,
+      "gearPitch": 0.8,
+      "sources": {
+        "manufacturerUrl": "sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/ product page (tier-1)",
+        "weightG": "sigma-global.com 24-35mm T2.2 FF specifications: Canon EF mount 1.5kg (tier-1)",
+        "lengthMm": "sigma-global.com 24-35mm T2.2 FF specifications: Canon EF mount 122.7mm (tier-1)",
+        "frontDiameterMm": "sigma-global.com 24-35mm T2.2 FF specifications: 95mm (tier-1)",
+        "closeFocusM": "sigma-global.com 24-35mm T2.2 FF specifications: 0.28m (tier-1)",
+        "introductionYear": "Not stated on sigma-global.com product page; no tier-4 source found",
+        "imageCircleMm": "sigma-global.com 24-35mm T2.2 FF specifications: FF 43.3mm (tier-1)",
+        "opticalElements": "Sigma does not publish optical element count for cine lenses",
+        "filterType": "sigma-global.com 24-35mm T2.2 FF specifications: M82x0.75mm filter size (tier-1)",
+        "filterThreadMm": "sigma-global.com 24-35mm T2.2 FF specifications: 82mm filter thread (tier-1)",
+        "isParfocal": "sigma-global.com product page; parfocal not claimed (POS-D11 applied)",
+        "hasFocusBreathing": "Sigma does not publish focus breathing data for cine lenses",
+        "hasFrontRotation": "Not stated on sigma-global.com product page",
+        "focusRingRotationDeg": "sigma-global.com 24-35mm T2.2 FF specifications: 180 degrees (tier-1)",
+        "gearPitch": "sigma-global.com 24-35mm T2.2 FF specifications: 0.8mm gear pitch (tier-1)"
+      },
+      "webSources": [
+        "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lenses": [
+    {
+      "id": "canon-cn30x40-ias-rf",
+      "manufacturer": "Canon",
+      "model": "CN30x40 IAS J/R1",
+      "series": "CN",
+      "generation": "4K UHD",
+      "focalLengthMin": 40.0,
+      "focalLengthMax": 1200.0,
+      "zoomRatio": 30.0,
+      "extenderFactor": 1.5,
+      "sensorFormat": "superThirtyFive",
+      "mount": "RF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Cine-servo super-telephoto, RF mount. World's longest focal length cine-servo lens. Built-in 1.5x IAS extender (not applied to focalLengthMax); with extender: 60–1800mm. T5.0–T10.8. Announced NAB 2026, shipping September 2026. Source: usa.canon.com, canon-europe.com.",
+      "addedDate": null
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff",
+      "manufacturer": "Canon",
+      "model": "CN-E20-50mm T2.4 L F/FP",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 20.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 2.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "RF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom wide cine zoom, PL/EF mount, Full Frame. Manual. Source: usa.canon.com.",
+      "addedDate": null
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff",
+      "manufacturer": "Canon",
+      "model": "CN-E45-135mm T2.4 L F/FP",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 45.0,
+      "focalLengthMax": 135.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "RF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom telephoto cine zoom, PL/EF mount, Full Frame. Manual. Source: usa.canon.com.",
+      "addedDate": null
+    }
+  ]
+}

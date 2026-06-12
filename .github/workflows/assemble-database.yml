@@ -1,0 +1,124 @@
+name: Assemble Database
+
+# Validates the source shards and assembles the published JSON files at the repo
+# root. On a push to main that touches source/ it also cuts an immutable release:
+# it computes the next db-vN tag from existing tags, writes manifest.json, commits
+# and pushes the assembled output, pushes the tag, and dispatches the website
+# rebuilds. On any other trigger (a feature branch push or a manual dispatch) it
+# only assembles and shows a dry run of what a release would do; it never tags or
+# dispatches. This file contains no em dashes by project policy.
+
+on:
+  push:
+    branches:
+      - main
+      - finn/db-pipeline
+    paths:
+      - 'source/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Serialise runs per ref so two pushes to main cannot compute the same tag.
+  group: assemble-database-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  # The list of published output files, kept in one place.
+  OUTPUT_FILES: >-
+    broadcast_lenses.json broadcast_lens_details.json
+    cine_lenses.json cine_lens_details.json
+    ptz_cameras.json ptz_details.json ptz-details.json
+    devices.json lenses.json lens-details.json
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+        with:
+          # Full history and tags so the release counter can read existing db-v tags.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.12'
+
+      - name: Validate and assemble
+        run: python build/assemble.py
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Compute next release tag
+        id: rel
+        run: |
+          git fetch --tags --force origin
+          # The trailing || true keeps the first release working: with no db-v
+          # tags yet grep exits non zero, and the step runs under pipefail.
+          latest=$(git tag -l 'db-v*' | sed 's/^db-v//' | grep -E '^[0-9]+$' | sort -n | tail -1 || true)
+          next=$(( ${latest:-0} + 1 ))
+          tag="db-v${next}"
+          if git rev-parse -q --verify "refs/tags/${tag}" >/dev/null; then
+            echo "Computed tag ${tag} already exists. Refusing to move, reuse, or force it." >&2
+            exit 1
+          fi
+          echo "tag=${tag}" >> "$GITHUB_OUTPUT"
+          echo "Next release tag would be ${tag}."
+
+      # Release path. Only a push to main cuts a real release.
+      - name: Cut release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          TAG: ${{ steps.rel.outputs.tag }}
+        run: |
+          python build/release.py --tag "${TAG}"
+          git add ${OUTPUT_FILES} manifest.json
+          git commit -m "chore: release ${TAG}"
+          git push origin HEAD:main
+          git tag "${TAG}"
+          git push origin "refs/tags/${TAG}"
+          echo "Released ${TAG} at $(git rev-parse HEAD)."
+
+      - name: Notify websites
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          TAG: ${{ steps.rel.outputs.tag }}
+        run: |
+          for repo in PocketOP-Website directimages.nl; do
+            echo "Dispatching database-updated to directimages/${repo}"
+            curl --fail-with-body -sS -X POST \
+              -H "Authorization: Bearer ${{ secrets.PAT_DISPATCH_WEBSITE }}" \
+              -H "Accept: application/vnd.github+json" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              "https://api.github.com/repos/directimages/${repo}/dispatches" \
+              -d "{\"event_type\":\"database-updated\",\"client_payload\":{\"triggered_by\":\"PocketOP-Database\",\"tag\":\"${TAG}\"}}"
+          done
+
+      # Non release path. Feature branch pushes and manual dispatches assemble and
+      # commit the output if it changed, and show a dry run of the release.
+      - name: Commit assembled output (no release)
+        if: ${{ !(github.event_name == 'push' && github.ref == 'refs/heads/main') }}
+        run: |
+          git add ${OUTPUT_FILES}
+          if git diff --cached --quiet; then
+            echo "No output changes to commit."
+          else
+            git commit -m "chore: assemble database outputs from source shards"
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
+
+      - name: Dry run release preview
+        if: ${{ !(github.event_name == 'push' && github.ref == 'refs/heads/main') }}
+        env:
+          TAG: ${{ steps.rel.outputs.tag }}
+        run: |
+          echo "Dry run. A push to main would create tag ${TAG}, update manifest.json,"
+          echo "and dispatch database-updated to PocketOP-Website and directimages.nl."
+          python build/release.py --tag "${TAG}" --dry-run

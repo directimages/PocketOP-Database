@@ -1,0 +1,286 @@
+{
+  "cameras": [
+    {
+      "id": "minrray-uv430e0",
+      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
+      ]
+    },
+    {
+      "id": "minrray-uv430e2",
+      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
+      ]
+    },
+    {
+      "id": "minrray-uv430e3",
+      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+        "https://en.minrrayav.com/Products/262.html",
+        "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-hdmi-output/"
+      ]
+    },
+    {
+      "id": "minrray-uv510e0",
+      "manufacturerUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1400,
+      "widthMm": 150,
+      "heightMm": 167.5,
+      "depthMm": 150,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+        "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
+      ]
+    },
+    {
+      "id": "minrray-uv510e2",
+      "manufacturerUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1400,
+      "widthMm": 150,
+      "heightMm": 167.5,
+      "depthMm": 150,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+        "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
+      ]
+    },
+    {
+      "id": "minrray-uv950e0",
+      "manufacturerUrl": "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1540,
+      "widthMm": 172,
+      "heightMm": 168,
+      "depthMm": 258,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html",
+        "https://en.minrrayav.com/Products/339.html",
+        "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
+      ]
+    },
+    {
+      "id": "minrray-uv950e2",
+      "manufacturerUrl": "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1540,
+      "widthMm": 172,
+      "heightMm": 168,
+      "depthMm": 258,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
+        "https://en.minrrayav.com/Products/339.html",
+        "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
+      ]
+    }
+  ]
+}

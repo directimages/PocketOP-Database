@@ -1,0 +1,42 @@
+{
+  "lenses": [
+    {
+      "id": "dzofilm-tango-18-90mm-t2-9-e",
+      "lensType": "cine",
+      "manufacturerUrl": "https://dzofilm.com/products/tango-zoom",
+      "weightG": 3539,
+      "lengthMm": 256.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.7,
+      "introductionYear": null,
+      "imageCircleMm": 31.5,
+      "opticalElements": 24,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "dzofilm.com product specification table (≈ approximate per dzofilm.com) (primary)",
+        "lengthMm": "dzofilm.com product specification table (primary)",
+        "frontDiameterMm": "dzofilm.com product specification table (primary)",
+        "closeFocusM": "dzofilm.com product specification table (primary)",
+        "imageCircleMm": "dzofilm.com product specification table (primary)",
+        "opticalElements": "dzofilm.com product specification table (primary)",
+        "gearPitch": "dzofilm.com: 0.8 MOD confirmed (primary)",
+        "focusRingRotationDeg": "dzofilm.com product specification table: 270° (primary)",
+        "introductionYear": "Not found on dzofilm.com product page",
+        "hasFrontRotation": "Not stated on dzofilm.com product page",
+        "filterType": "dzofilm.com: M105 front filter thread (primary)",
+        "filterThreadMm": "dzofilm.com: M105 confirmed (primary)",
+        "isParfocal": "dzofilm.com: 'Its parfocal design maintains sharp focus throughout zoom transitions.' (primary)",
+        "hasFocusBreathing": "dzofilm.com: 'minimal focus breathing' — present but reduced; hasFocusBreathing=true (primary)"
+      },
+      "webSources": [
+        "https://dzofilm.com/products/tango-zoom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+  "lenses": [
+    {
+      "id": "fujinon-ha13x4-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1980,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.59,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha14x4-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2140,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha16x6-3",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1980,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 107,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha18x5-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1970,
+      "lengthMm": 240.5,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha18x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1650,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha19x7-4",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2150,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.55,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha22x7-3",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 3000,
+      "lengthMm": 287.3,
+      "frontDiameterMm": 110,
+      "closeFocusM": 0.85,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha22x7-8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1780,
+      "lengthMm": 218.6,
+      "frontDiameterMm": 100,
+      "closeFocusM": 1.07,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha23x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1880,
+      "lengthMm": 223.6,
+      "frontDiameterMm": 100,
+      "closeFocusM": 1.07,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha25x11-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2810,
+      "lengthMm": 265.0,
+      "frontDiameterMm": 110.0,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha25x16-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2900,
+      "lengthMm": 276.0,
+      "frontDiameterMm": 110.0,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 107,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha27x6-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 19700,
+      "lengthMm": 539,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+      ]
+    },
+    {
+      "id": "fujinon-ha42x13-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 5400,
+      "lengthMm": 357.5,
+      "frontDiameterMm": 130.0,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ha42x9-7",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 5300,
+      "lengthMm": 338.5,
+      "frontDiameterMm": 130.0,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-la16x8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1600,
+      "lengthMm": 163.8,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-la30x7-8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1700,
+      "lengthMm": 190.0,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-la30x7-8brm-xb2",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 1700,
+      "lengthMm": 190.0,
+      "frontDiameterMm": 100,
+      "closeFocusM": 0.8,
+      "introductionYear": 2025,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://asset.fujifilm.com/www/au/files/2025-09/2dcc3885de26654c4322767dc7598f11/la30_a4_en_250815.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": null
+    },
+    {
+      "id": "fujinon-ua107x8-4",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 23900,
+      "lengthMm": 670.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua107x8-4-af",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 26000,
+      "lengthMm": 670.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua125x8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 26600,
+      "lengthMm": 635.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua13x4-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2280,
+      "lengthMm": 253.0,
+      "frontDiameterMm": 95.0,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua14x4-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2210,
+      "lengthMm": 238.5,
+      "frontDiameterMm": 95.0,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua16x4berd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 2290,
+      "lengthMm": 252.6,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": null,
+      "formFactor": "portable",
+      "sources": [
+        "https://videobrokers.com/fujinon-ua16x4berd-portable-4k-lens-zoom-972.html"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": null
+    },
+    {
+      "id": "fujinon-ua18x5-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2040,
+      "lengthMm": 240.5,
+      "frontDiameterMm": 95.0,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua18x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1740,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85.0,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua22x4-8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2170,
+      "lengthMm": 251.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua22x8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2550,
+      "lengthMm": 241.5,
+      "frontDiameterMm": 110.0,
+      "closeFocusM": 0.85,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua23x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1950,
+      "lengthMm": 221.4,
+      "frontDiameterMm": 100.0,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua24x7-8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1980,
+      "lengthMm": 220.5,
+      "frontDiameterMm": 100.0,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua27x6-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 22800,
+      "lengthMm": 610.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua30x7-3berd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "weightG": 2260,
+      "lengthMm": 230.9,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 95,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": null,
+      "formFactor": "portable",
+      "sources": [
+        "https://videobrokers.com/fujinon-ua30x73berd-portable-4k-zoom-lens-971.html"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      ],
+      "fieldNotes": {
+        "filterThreadNote": "Two options available: M95x1 and M107x1. M95x1 stored as primary. Schema migration to array planned for Update-2."
+      }
+    },
+    {
+      "id": "fujinon-ua46x13-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 5800,
+      "lengthMm": 364.2,
+      "frontDiameterMm": 146.5,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua46x9-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 5700,
+      "lengthMm": 345.8,
+      "frontDiameterMm": 146.5,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua70x8-7",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 23800,
+      "lengthMm": 610.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua80x9",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 23700,
+      "lengthMm": 610.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-ua94x8-7besm",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens",
+      "weightG": 24300,
+      "lengthMm": 610,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.05,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
+      "hasMacro": null,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://asset.fujifilm.com/www/au/files/2026-03/c2da036a1593b43e6b381dff2d899eb3/fujinon_general_brochure_en_202603.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
+      ],
+      "fieldNotes": null
+    },
+    {
+      "id": "fujinon-xa101x8-9",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 22900,
+      "lengthMm": 660,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+      ]
+    },
+    {
+      "id": "fujinon-xa17x7-6berm",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1580,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa17x7-6brm",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1530,
+      "lengthMm": 204.0,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.6,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa20sx8-5b",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1500,
+      "lengthMm": 180.8,
+      "frontDiameterMm": 85.0,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa20sx8-5bemd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1600,
+      "lengthMm": 200.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "none",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa20sx8-5berm",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1600,
+      "lengthMm": 200.4,
+      "frontDiameterMm": 85.0,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa20sx8-5bmd",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1500,
+      "lengthMm": 180.8,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "none",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa22x7",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 6600,
+      "lengthMm": 340.0,
+      "frontDiameterMm": 127,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "internal",
+      "filterThreadMm": "none",
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa55x9-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 20800,
+      "lengthMm": 876.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 3.0,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa66x9-3",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 21500,
+      "lengthMm": 634.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa72x9-3",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 21000,
+      "lengthMm": 656.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa77x9-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 22400,
+      "lengthMm": 656.4,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.7,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa87x9-3",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 21500,
+      "lengthMm": 631,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa88x8-8",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 24500,
+      "lengthMm": 575.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-xa99x8-4",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 24000,
+      "lengthMm": 610.0,
+      "frontDiameterMm": null,
+      "closeFocusM": 2.9,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "screw_in",
+      "filterThreadMm": 127,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "box",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-za12x4-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 2070,
+      "lengthMm": 237.5,
+      "frontDiameterMm": 95.0,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-za17x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1740,
+      "lengthMm": 203.0,
+      "frontDiameterMm": 85.0,
+      "closeFocusM": 0.3,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    },
+    {
+      "id": "fujinon-za22x7-6",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "weightG": 1920,
+      "lengthMm": 220.4,
+      "frontDiameterMm": 100.0,
+      "closeFocusM": 0.8,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "hasMacro": false,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      ]
+    }
+  ]
+}

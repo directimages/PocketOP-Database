@@ -1,0 +1,377 @@
+{
+  "cameras": [
+    {
+      "id": "datavideo-ptc-140",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-140",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-140",
+        "https://www.soundpro.com/item/50247"
+      ],
+      "fieldNotes": {
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+      }
+    },
+    {
+      "id": "datavideo-ptc-150",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-150",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "none",
+      "presetCount": 50,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2700,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-150",
+        "https://datavideo.com/global/product/ptc-150"
+      ],
+      "fieldNotes": {
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+      }
+    },
+    {
+      "id": "datavideo-ptc-150t",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-150T",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 50,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2700,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-150T",
+        "https://datavideo.com/global/product/ptc-150"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-280",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-280",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2800,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-280",
+        "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html",
+        "https://www.manualslib.com/manual/2181902/Datavideo-Ptc-280.html"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-285",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-285",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2300,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-285",
+        "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-285t",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-285T",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2300,
+      "widthMm": 173,
+      "heightMm": 189,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-285T",
+        "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-300",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-300",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-300",
+        "https://datavideo.com/in/product/PTC-305/export"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-305",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-305",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-305",
+        "https://datavideo.com/in/product/PTC-305/export"
+      ]
+    },
+    {
+      "id": "datavideo-ptc-305t",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-305T",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF",
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-305T",
+        "https://datavideo.com/global/product/PTC-305/export"
+      ]
+    }
+  ]
+}

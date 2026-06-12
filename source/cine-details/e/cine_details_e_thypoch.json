@@ -1,0 +1,119 @@
+{
+  "lenses": [
+    {
+      "id": "thypoch-simera-c-21mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 210,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://thypoch.com/en/simera-c/"
+      ]
+    },
+    {
+      "id": "thypoch-simera-c-28mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 210,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://thypoch.com/en/simera-c/"
+      ]
+    },
+    {
+      "id": "thypoch-simera-c-35mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 210,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://thypoch.com/en/simera-c/"
+      ]
+    },
+    {
+      "id": "thypoch-simera-c-50mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 210,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://thypoch.com/en/simera-c/"
+      ]
+    },
+    {
+      "id": "thypoch-simera-c-75mm-t1-5",
+      "lensType": "cine",
+      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 210,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://thypoch.com/en/simera-c/"
+      ]
+    }
+  ]
+}

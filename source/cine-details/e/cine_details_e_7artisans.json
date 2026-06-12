@@ -1,0 +1,96 @@
+{
+  "lenses": [
+    {
+      "id": "7artisans-spectrum-14mm-t2-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://7artisans.store/collections/cine-lenses",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://7artisans.store/collections/cine-lenses"
+      ]
+    },
+    {
+      "id": "7artisans-spectrum-35mm-t2-0",
+      "lensType": "cine",
+      "manufacturerUrl": "https://7artisans.store/collections/cine-lenses",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://7artisans.store/collections/cine-lenses"
+      ]
+    },
+    {
+      "id": "7artisans-spectrum-50mm-t2-0",
+      "lensType": "cine",
+      "manufacturerUrl": "https://7artisans.store/collections/cine-lenses",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://7artisans.store/collections/cine-lenses"
+      ]
+    },
+    {
+      "id": "7artisans-spectrum-85mm-t2-0",
+      "lensType": "cine",
+      "manufacturerUrl": "https://7artisans.store/collections/cine-lenses",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 43.3,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 82,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 270,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://7artisans.store/collections/cine-lenses"
+      ]
+    }
+  ]
+}

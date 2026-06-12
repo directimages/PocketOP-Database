@@ -1,0 +1,664 @@
+{
+  "cameras": [
+    {
+      "id": "panasonic-aw-he130",
+      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "RS-232"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HD-SDI",
+        "HDMI",
+        "IP",
+        "Composite"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K",
+        "VAR"
+      ],
+      "minLux": 2.0,
+      "weightG": 3100,
+      "widthMm": 180,
+      "heightMm": 228,
+      "depthMm": 234,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130",
+        "https://www.manualslib.com/manual/884474/Panasonic-Aw-He130w.html?page=122",
+        "https://www.willoughbys.com/Panasonic_AW-HE130_HD_Integrated_PTZ_Camera_White_370494.html",
+        "https://www.manualpdf.in/panasonic/aw-he130/specifications"
+      ]
+    },
+    {
+      "id": "panasonic-aw-he145",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": null,
+      "weightG": 4100,
+      "widthMm": 213,
+      "heightMm": 267,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
+        "https://eu.connect.panasonic.com/dk/en/download-specifications/6541"
+      ]
+    },
+    {
+      "id": "panasonic-aw-he20",
+      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-232",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K"
+      ],
+      "minLux": 0.4,
+      "weightG": 1900,
+      "widthMm": 165.1,
+      "heightMm": 176.2,
+      "depthMm": 176.1,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
+        "https://ap.connect.panasonic.com/ph/en/aw-he20",
+        "https://www.manualslib.com/manual/2918240/Panasonic-Aw-He20kp.html?page=119"
+      ]
+    },
+    {
+      "id": "panasonic-aw-he38",
+      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-232",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K",
+        "VAR"
+      ],
+      "minLux": 0.35,
+      "weightG": 1500,
+      "widthMm": 160,
+      "heightMm": 186,
+      "depthMm": 166,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
+      ]
+    },
+    {
+      "id": "panasonic-aw-he40",
+      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-232",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "HD-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K",
+        "VAR"
+      ],
+      "minLux": 0.7,
+      "weightG": 1500,
+      "widthMm": 160,
+      "heightMm": 186,
+      "depthMm": 166,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
+        "https://manuals.co.uk/panasonic/aw-he40s/specifications"
+      ]
+    },
+    {
+      "id": "panasonic-aw-he42",
+      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-232",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K",
+        "VAR"
+      ],
+      "minLux": 0.7,
+      "weightG": 1500,
+      "widthMm": 160,
+      "heightMm": 186,
+      "depthMm": 179,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue100",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI High Bandwidth",
+        "NDI|HX",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue150",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 2.0,
+      "weightG": 4200,
+      "widthMm": 213,
+      "heightMm": 267,
+      "depthMm": 219,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue150a",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI|HX2",
+        "NDI High Bandwidth",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 2.0,
+      "weightG": 4300,
+      "widthMm": 213,
+      "heightMm": 267,
+      "depthMm": 219,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue160",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI|HX2",
+        "SRT",
+        "RTMP",
+        "SMPTE ST 2110"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "Fiber",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue20",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "RS-232",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "3200K",
+        "5600K"
+      ],
+      "minLux": 0.4,
+      "weightG": 1900,
+      "widthMm": 165,
+      "heightMm": 176,
+      "depthMm": 176,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue30",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 3.0,
+      "weightG": 1800,
+      "widthMm": 160,
+      "heightMm": 192,
+      "depthMm": 166,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue4",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "NDI|HX"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 100,
+      "panRangeDeg": 0,
+      "tiltRangeDeg": 0,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": 1.0,
+      "weightG": 500,
+      "widthMm": 123,
+      "heightMm": 131,
+      "depthMm": 136,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue40",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 3.0,
+      "weightG": 1800,
+      "widthMm": 160,
+      "heightMm": 192,
+      "depthMm": 166,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue50",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 3.0,
+      "weightG": 1800,
+      "widthMm": 160,
+      "heightMm": 192,
+      "depthMm": 166,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ]
+    },
+    {
+      "id": "panasonic-aw-ue80",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422",
+        "FreeD",
+        "NDI High Bandwidth",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR"
+      ],
+      "minLux": 3.0,
+      "weightG": 2000,
+      "widthMm": 170,
+      "heightMm": 211,
+      "depthMm": 171,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "masterbuilt-cfz-27-60mm-t2-9",
+      "manufacturer": "MasterBuilt",
+      "model": "CFZ 27-60mm T2.9",
+      "series": "CFZ",
+      "generation": "Cinema",
+      "focalLengthMin": 27.0,
+      "focalLengthMax": 60.0,
+      "zoomRatio": 2.2,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame / VistaVision cine zoom (46.5mm image circle), PL mount. Current. ~$42,900. Designed to match MasterBuilt Classic Prime character. 114mm front diameter, best-in-class close focus at 11 inches. Boutique manufacturer, not affiliated with Panavision. Source: masterbuiltlenses.com.",
+      "addedDate": null
+    }
+  ]
+}

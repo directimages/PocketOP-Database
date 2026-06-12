@@ -1,0 +1,22 @@
+{
+  "lenses": [
+    {
+      "id": "viltrox-luna-42-420mm-t5-6",
+      "manufacturer": "Viltrox",
+      "model": "LUNA 42-420mm T5.6",
+      "series": "LUNA",
+      "generation": "Cinema",
+      "focalLengthMin": 42.0,
+      "focalLengthMax": 420.0,
+      "zoomRatio": 10.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "largeFormat",
+      "mount": "LPL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Large Format 10× parfocal cine zoom (60mm image circle — covers ARRI Alexa 65 / Open Gate), LPL mount. Current. ~$100,000. 8-blade iris, 0.8 MOD gears. Source: cined.com.",
+      "addedDate": null
+    }
+  ]
+}

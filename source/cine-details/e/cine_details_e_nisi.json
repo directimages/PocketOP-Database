@@ -1,0 +1,188 @@
+{
+  "lenses": [
+    {
+      "id": "nisi-athena-135mm-t2-2",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-14mm-t2-4",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-18mm-t2-2",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-25mm-t1-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-35mm-t1-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-40mm-t1-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-50mm-t1-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    },
+    {
+      "id": "nisi-athena-85mm-t1-9",
+      "lensType": "cine",
+      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "weightG": null,
+      "lengthMm": null,
+      "frontDiameterMm": null,
+      "closeFocusM": null,
+      "introductionYear": null,
+      "imageCircleMm": 46.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {},
+      "webSources": [
+        "https://nisioptics.co.uk/nisi-athena-prime/"
+      ]
+    }
+  ]
+}

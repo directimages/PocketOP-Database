@@ -1,0 +1,481 @@
+{
+  "cameras": [
+    {
+      "id": "fomako-fmk12uh",
+      "manufacturerUrl": "https://www.fomako.net/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/"
+      ]
+    },
+    {
+      "id": "fomako-fmk20uh",
+      "manufacturerUrl": "https://www.fomako.net/product/FMK20UH-NDI.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/FMK20UH-NDI.html"
+      ]
+    },
+    {
+      "id": "fomako-k20",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html"
+      ]
+    },
+    {
+      "id": "fomako-k30",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html"
+      ]
+    },
+    {
+      "id": "fomako-k30ns",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html"
+      ]
+    },
+    {
+      "id": "fomako-k600n",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html"
+      ]
+    },
+    {
+      "id": "fomako-k820",
+      "manufacturerUrl": "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": 223,
+      "heightMm": 166,
+      "depthMm": 163,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html",
+        "https://www.fomako.net/uploads/20230823/e2b9ad5c55b3164c5e06383b05d47dd3.pdf"
+      ]
+    },
+    {
+      "id": "fomako-k820n",
+      "manufacturerUrl": "https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": 223,
+      "heightMm": 166,
+      "depthMm": 163,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html",
+        "https://www.fomako.net/uploads/20230823/e2b9ad5c55b3164c5e06383b05d47dd3.pdf",
+        "https://www.amazon.com/FoMaKo-Auto-Tracking-Education-Conference-K820N/dp/B0BJNHLK7C"
+      ]
+    },
+    {
+      "id": "fomako-kn20",
+      "manufacturerUrl": "https://www.fomako.net/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.bhphotovideo.com/c/product/1941145-REG/fomako_kn20_ndi_ptz_camera.html"
+      ]
+    },
+    {
+      "id": "fomako-kn20a",
+      "manufacturerUrl": "https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html"
+      ]
+    },
+    {
+      "id": "fomako-kn30",
+      "manufacturerUrl": "https://www.fomako.net/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/"
+      ]
+    },
+    {
+      "id": "fomako-kn30a",
+      "manufacturerUrl": "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB",
+        "IP"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html"
+      ]
+    }
+  ]
+}

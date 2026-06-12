@@ -1,0 +1,40 @@
+{
+  "lenses": [
+    {
+      "id": "fujinon-mk18-55mm-t2-9",
+      "manufacturer": "Fujinon",
+      "model": "MK 18-55mm T2.9",
+      "series": "MK",
+      "generation": "4K UHD",
+      "focalLengthMin": 18.0,
+      "focalLengthMax": 55.0,
+      "zoomRatio": 3.06,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Compact cine zoom for cinema cameras, EF mount. Also available in MFT mount. Super 35 coverage. Popular on BMPCC 6K. Source: fujifilm.com.",
+      "addedDate": null
+    },
+    {
+      "id": "fujinon-mk50-135mm-t2-9",
+      "manufacturer": "Fujinon",
+      "model": "MK 50-135mm T2.9",
+      "series": "MK",
+      "generation": "4K UHD",
+      "focalLengthMin": 50.0,
+      "focalLengthMax": 135.0,
+      "zoomRatio": 2.7,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Compact telephoto cine zoom, EF mount. Also available in MFT mount. Super 35 coverage. Popular on BMPCC 6K. Source: fujifilm.com.",
+      "addedDate": null
+    }
+  ]
+}

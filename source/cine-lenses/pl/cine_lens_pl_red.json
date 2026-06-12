@@ -1,0 +1,40 @@
+{
+  "lenses": [
+    {
+      "id": "red-pro-17-50mm-t2-9",
+      "manufacturer": "RED",
+      "model": "Pro 17-50mm T2.9",
+      "series": "Pro Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 17.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 2.9,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Super 35 cine zoom, PL mount. Discontinued. DSMC era. Available used market ~$1,000–$4,500. Original RED product pages no longer active.",
+      "addedDate": null
+    },
+    {
+      "id": "red-pro-18-85mm-t2-9",
+      "manufacturer": "RED",
+      "model": "Pro 18-85mm T2.9",
+      "series": "Pro Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 18.0,
+      "focalLengthMax": 85.0,
+      "zoomRatio": 4.7,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Super 35 cine zoom, PL mount. Discontinued. DSMC era. 4.5 kg. Focus rotation 271°, zoom rotation 120°. Available used market. Original RED product pages no longer active.",
+      "addedDate": null
+    }
+  ]
+}

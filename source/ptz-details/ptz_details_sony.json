@@ -1,0 +1,369 @@
+{
+  "cameras": [
+    {
+      "id": "sony-brc-am7",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
+      "controlProtocols": [
+        "VISCA IP",
+        "S700PTP",
+        "RTSP",
+        "SRT",
+        "NDI|HX"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 100,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
+        "https://helpguide.sony.net/rc/brc-am7/v1/en/contents/specifications.html"
+      ]
+    },
+    {
+      "id": "sony-brc-h800",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "3G-SDI (x2)",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.7,
+      "weightG": 4300,
+      "widthMm": 198,
+      "heightMm": 260,
+      "depthMm": 238,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
+      ]
+    },
+    {
+      "id": "sony-brc-h900",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "HD-SDI",
+        "SD analog"
+      ],
+      "poeClass": "none",
+      "presetCount": 16,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 4.0,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
+      ]
+    },
+    {
+      "id": "sony-brc-x1000",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "3G-SDI (x4 dual link)",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.7,
+      "weightG": 4300,
+      "widthMm": 198,
+      "heightMm": 260,
+      "depthMm": 238,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
+        "https://www.fullcompass.com/prod/525830-sony-brc-x1000-1-4k-hd-ptz-camera-with-12x-optical-zoom"
+      ]
+    },
+    {
+      "id": "sony-brc-x400",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "NDI|HX",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 101,
+      "maxTiltSpeedDegS": 101,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": 158.4,
+      "heightMm": 177.5,
+      "depthMm": 200.2,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
+        "https://www.manualslib.com/manual/1664613/Sony-Brc-X400.html"
+      ]
+    },
+    {
+      "id": "sony-srg-300h",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "none",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.4,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
+      ]
+    },
+    {
+      "id": "sony-srg-360she",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": null,
+      "maxTiltSpeedDegS": null,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 2100,
+      "widthMm": 159,
+      "heightMm": 188,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
+        "https://www.manua.ls/sony/srg-360she/manual"
+      ]
+    },
+    {
+      "id": "sony-srg-x120",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "RTSP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 101,
+      "maxTiltSpeedDegS": 101,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
+      ]
+    },
+    {
+      "id": "sony-srg-x400",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-422",
+        "NDI|HX",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "IP"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 101,
+      "maxTiltSpeedDegS": 101,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
+      ]
+    }
+  ]
+}
