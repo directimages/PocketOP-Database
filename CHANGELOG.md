@@ -87,6 +87,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.46.1 — 2026-06-12
+
+- Panoptes 65 LPL details rebuild (8 entries): per-field sources object, filterType → "matte_box", filterThreadMm → "none" (POS-D24), gearPitch 0.8, hasFocusBreathing "minimal"; opticalElements/hasFrontRotation/focusRingRotationDeg null (sources exhausted; ships late summer 2026); webSources per entry
+- Vista-C webSources: added webSources array to all 48 Vista-C entries across E/EF/LPL/PL shards; value = per-entry manufacturerUrl
+
 ### v1.46.0 — 2026-06-11
 
 - Sidecars for 8 new Zeiss Panoptes 65 entries (v1.30.0 in lenses.json)

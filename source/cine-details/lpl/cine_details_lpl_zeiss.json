@@ -1,44 +1,6 @@
 {
   "lenses": [
     {
-      "id": "zeiss-panoptes-65-110mm-t2-2-lpl",
-      "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
-      "weightG": 1800,
-      "lengthMm": 144,
-      "frontDiameterMm": 95,
-      "closeFocusM": 0.86,
-      "introductionYear": 2026,
-      "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
-      "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
-      "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
-    },
-    {
-      "id": "zeiss-panoptes-65-135mm-t2-2-lpl",
-      "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
-      "weightG": 2180,
-      "lengthMm": 144,
-      "frontDiameterMm": 95,
-      "closeFocusM": 1.1,
-      "introductionYear": 2026,
-      "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
-      "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
-      "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
-    },
-    {
       "id": "zeiss-panoptes-65-35mm-t2-2-lpl",
       "lensType": "cine",
       "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
@@ -48,14 +10,31 @@
       "closeFocusM": 0.28,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975880-REG/zeiss_2739_409_panoptes_65_35mm_t2_2.html",
+        "https://www.ducloslenses.com/products/panoptes-35"
+      ]
     },
     {
       "id": "zeiss-panoptes-65-40mm-t2-2-lpl",
@@ -67,14 +46,30 @@
       "closeFocusM": 0.35,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975881-REG/zeiss_2739_411_panoptes_65_40mm_t2_2.html"
+      ]
     },
     {
       "id": "zeiss-panoptes-65-45mm-t2-2-lpl",
@@ -86,14 +81,30 @@
       "closeFocusM": 0.35,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975882-REG/zeiss_2739_413_panoptes_65_45mm_t2_2.html"
+      ]
     },
     {
       "id": "zeiss-panoptes-65-55mm-t2-2-lpl",
@@ -105,14 +116,30 @@
       "closeFocusM": 0.43,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975883-REG/zeiss_2739_415_panoptes_65_55mm_t2_2.html"
+      ]
     },
     {
       "id": "zeiss-panoptes-65-70mm-t2-2-lpl",
@@ -124,14 +151,30 @@
       "closeFocusM": 0.49,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975884-REG/zeiss_2739_417_panoptes_65_70mm_t2_2.html"
+      ]
     },
     {
       "id": "zeiss-panoptes-65-90mm-t2-2-lpl",
@@ -143,14 +186,100 @@
       "closeFocusM": 0.62,
       "introductionYear": 2026,
       "imageCircleMm": 59.9,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
-      "gearPitch": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
       "sources": {
-        "all": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html (Tier 1)"
-      }
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975885-REG/zeiss_2739_419_panoptes_65_90mm_t2_2.html"
+      ]
+    },
+    {
+      "id": "zeiss-panoptes-65-110mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 1800,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 0.86,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975876-REG/zeiss_2739_421_panoptes_65_110mm_t2_2.html"
+      ]
+    },
+    {
+      "id": "zeiss-panoptes-65-135mm-t2-2-lpl",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+      "weightG": 2180,
+      "lengthMm": 144,
+      "frontDiameterMm": 95,
+      "closeFocusM": 1.1,
+      "introductionYear": 2026,
+      "imageCircleMm": 59.9,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": null,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": null,
+      "gearPitch": 0.8,
+      "sources": {
+        "weightG": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "lengthMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): front to LPL mount flange",
+        "frontDiameterMm": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1)",
+        "closeFocusM": "zeiss.com Panoptes 65 product page, Technical Data table (Tier 1): minimum marked distance from image plane",
+        "introductionYear": "ZEISS newsroom press release 2026-05-27; Cine Gear Expo LA launch 2026-06-05 (Tier 3)",
+        "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
+        "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
+        "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
+      },
+      "webSources": [
+        "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
+        "https://www.bhphotovideo.com/c/product/1975877-REG/zeiss_2739_424_panoptes_65_135mm_t2_2.html"
+      ]
     }
   ]
 }
