@@ -3,10 +3,14 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.31.1 — 2026-06-13
+
+- sony-fe-pz-28-135mm-f4-g-oss: addedDate corrected 2026-06-14 → 2026-06-13 (actual commit date)
+
 ### v1.31.0 — 2026-06-13
 
 - Sony FE PZ 28-135mm F4 G OSS import: 1 new entry, E mount, fullFrame, G series, 4K UHD generation
-- addedDate: 2026-06-14. Source: Sony Asia spec page (Tier 1)
+- addedDate: 2026-06-13. Source: Sony Asia spec page (Tier 1)
 
 ### v1.30.0 — 2026-06-11
 
