@@ -14270,6 +14270,51 @@
       ]
     },
     {
+      "id": "sony-fe-pz-28-135mm-f4-g-oss",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sony.com/electronics/camera-lenses/selp28135g",
+      "weightG": 1215,
+      "lengthMm": 162.5,
+      "frontDiameterMm": 105,
+      "closeFocusM": 0.4,
+      "introductionYear": 2014,
+      "imageCircleMm": 43.3,
+      "opticalElements": 18,
+      "filterType": "front_thread",
+      "filterThreadMm": 95,
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "weightG": "Sony Asia spec page (Tier 1): 1215g without tripod mount",
+        "lengthMm": "Sony Asia spec page (Tier 1): dimensions D x L = 105 x 162.5mm",
+        "frontDiameterMm": "Sony Asia spec page (Tier 1): D = 105mm (barrel diameter)",
+        "closeFocusM": "Sony Asia spec page (Tier 1): minimum focus 0.4m (wide, AF/MF)",
+        "introductionYear": "Announced 2014-09-12 (Sony / dpreview); POS-D12 Tier-4 acceptable",
+        "imageCircleMm": "Full-frame standard image circle (35mm full frame, 43.3mm diagonal); Sony publishes no image circle for this lens",
+        "imageCircleMm_confidence": "unconfirmed",
+        "opticalElements": "Sony Asia spec page (Tier 1): 12 groups / 18 elements",
+        "filterType": "Sony Asia spec page (Tier 1): 95mm screw-in front filter",
+        "filterThreadMm": "Sony Asia spec page (Tier 1): 95mm filter diameter",
+        "isParfocal": "Sony Asia spec page (Tier 1) SMO design: focus shift while zooming minimized by design; treated as parfocal",
+        "hasFocusBreathing": "Sony Asia spec page (Tier 1) SMO design: focus breathing minimized",
+        "hasFrontRotation": "Sony US product page (Tier 1): the front filter thread does not rotate; internal focusing design. Evidence of absence per POS-D10.",
+        "focusRingRotationDeg": "Focus-by-wire (RDSSM); no fixed or published focus ring rotation",
+        "gearPitch": "Power zoom with focus-by-wire, no cine gear ring; concept not applicable to this lens class (POS-D33)"
+      },
+      "webSources": [
+        "https://www.sony-asia.com/electronics/camera-lenses/selp28135g/specifications"
+      ],
+      "fieldNotes": {
+        "isParfocal": "Sony SMO design minimizes focus shift while zooming; treated as parfocal.",
+        "hasFocusBreathing": "Minimized per Sony SMO design.",
+        "focusRingRotationDeg": "Focus-by-wire, no fixed rotation.",
+        "gearPitch": "Photo/hybrid power zoom, no cine gear ring (POS-D33)."
+      }
+    },
+    {
       "id": "thypoch-simera-c-21mm-t1-5",
       "lensType": "cine",
       "manufacturerUrl": "https://thypoch.com/en/simera-c/",

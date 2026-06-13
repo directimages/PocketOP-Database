@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.31.0 — 2026-06-13
+
+- Sony FE PZ 28-135mm F4 G OSS import: 1 new entry, E mount, fullFrame, G series, 4K UHD generation
+- addedDate: 2026-06-14. Source: Sony Asia spec page (Tier 1)
+
 ### v1.30.0 — 2026-06-11
 
 - Zeiss Panoptes 65 import: 8 new entries (35/40/45/55/70/90/110/135mm T2.2), LPL mount, largeFormat, 59.9mm image circle, series "Panoptes 65"
@@ -87,6 +92,10 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## lens-details.json
+### v1.47.0 — 2026-06-13
+
+- Sony FE PZ 28-135mm F4 G OSS sidecar: weightG 1215g, lengthMm 162.5, frontDiameterMm 105, closeFocusM 0.4, introductionYear 2014, imageCircleMm 43.3 (unconfirmed — FF standard), opticalElements 18, filterType front_thread/95mm, isParfocal true (SMO design), hasFocusBreathing minimal (SMO design), hasFrontRotation false. focusRingRotationDeg/gearPitch null (FBW power zoom). Source: Sony Asia spec page (Tier 1)
+
 ### v1.46.1 — 2026-06-12
 
 - Panoptes 65 LPL details rebuild (8 entries): per-field sources object, filterType → "matte_box", filterThreadMm → "none" (POS-D24), gearPitch 0.8, hasFocusBreathing "minimal"; opticalElements/hasFrontRotation/focusRingRotationDeg null (sources exhausted; ships late summer 2026); webSources per entry
