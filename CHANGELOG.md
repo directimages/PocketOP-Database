@@ -615,6 +615,7 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## devices.json
 
+- **1.6.1** (2026-06-14) - Content-neutral version bump to cut db-v5 and first-publish current_version.json on the CDN; no device data changed (only the version field moved)
 - **1.6.0** (2026-04-03) — Added displayMM field to all 50 camera entries across all 19 iPhone/iPad device entries; non-Pro wide=26mm, Pro wide=26mm pre-14-Pro / 24mm from 14-Pro onward
 - **1.5.0** (2026-04-03) — Added isSensorCrop and videoZoomFactor fields to sensor-crop telephoto entries (iPhone 15 Pro Max 10x, iPhone 16 Pro 10x, iPhone 17 Pro 8x, iPhone 17 Pro Max 8x); schema addition from session 74.01
 - **1.4.0** (2026-04-03) — Version bump above high-water mark (1.3.0) for cache safety; full quality checklist passed
