@@ -79,7 +79,7 @@ jobs:
           TAG: ${{ steps.rel.outputs.tag }}
         run: |
           python build/release.py --tag "${TAG}"
-          git add ${OUTPUT_FILES} manifest.json
+          git add ${OUTPUT_FILES} manifest.json current_version.json
           git commit -m "chore: release ${TAG}"
           git push origin HEAD:main
           git tag "${TAG}"
