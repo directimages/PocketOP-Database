@@ -8,6 +8,21 @@ validates them, assembles the published files, and commits the result.
 This document covers the full pipeline: sharding and assembly, and the immutable
 release tagging with manifest.json and website dispatch.
 
+## Schema and data convention mutations
+
+Before editing any shard to add a field or enum value, change a field's type or
+meaning, or remove a field, consult the mutation runbook in the vault:
+
+    HQ/PROJECTS/PocketOP/MUTATION-RUNBOOK.md
+
+The runbook defines the three mutation scenarios (add, change, remove), the live
+consumer map, and the gates that govern each scenario. It is the authority for
+whether a mutation may happen and how to carry it out safely.
+
+This document remains the authority for shard structure, assembly, validation,
+release tags, and manifest.json. The runbook and this document are complementary:
+check the runbook first, then follow the pipeline.
+
 ## Where the data lives
 
 All editable data lives under `source/`:
