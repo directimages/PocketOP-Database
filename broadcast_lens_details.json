@@ -1,5 +1,5 @@
 {
-  "version": "1.48.0",
+  "version": "1.49.0",
   "updatedAt": "2026-06-17",
   "lenses": [
     {
@@ -14,7 +14,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": "none",
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": false,
@@ -39,7 +39,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": "none",
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": false,
@@ -172,7 +172,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -380,14 +380,15 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": "none",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
+        "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html",
+        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 127 mm P0.75 (lens barrel thread size)."
       ],
       "webSources": [
         "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
@@ -404,15 +405,16 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": "front_thread",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
+        "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification",
+        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 127 mm P0.75 (lens barrel thread size)."
       ],
       "webSources": [
         "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
@@ -871,14 +873,15 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 105,
+      "filterThreadMm": 125,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 125 mm P1.0 (lens barrel thread size)."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
