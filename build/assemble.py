@@ -40,6 +40,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE = os.path.join(REPO_ROOT, "source")
 META_DIR = os.path.join(SOURCE, "meta")
 SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output_schema.json")
+LEGACY_WHITELIST_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "legacy_whitelist.json")
 
 
 class AssembleError(Exception):
@@ -539,6 +540,63 @@ def validate_outputs(built):
              % (len(errors), body))
 
 
+# --------------------------------------------------------------------------
+# Legacy schema freeze strip.
+#
+# The legacy outputs (lenses.json, lens-details.json, and the ptz-details.json
+# hyphen alias) still serve pre update 2 apps via @main. Their schema is frozen:
+# build/legacy_whitelist.json records the exact fields each carries today,
+# mechanically derived by build/derive_legacy_whitelist.py. This step is a
+# separate concern from the main assemble, which stays dumb and produces full
+# output; here we strip from the legacy outputs only any entry field or top level
+# key not on the whitelist, leaving the primary split outputs untouched. Today it
+# is a proven no op: the whitelist is exactly what is present, so nothing is
+# removed (assemble.py --check confirms it byte for byte). It begins removing
+# fields the moment the first field outside the whitelist enters the source.
+# --------------------------------------------------------------------------
+
+
+def load_legacy_whitelist():
+    if not os.path.isfile(LEGACY_WHITELIST_PATH):
+        fail("Missing legacy whitelist '%s'. Run build/derive_legacy_whitelist.py."
+             % rel(LEGACY_WHITELIST_PATH))
+    data = load_json(LEGACY_WHITELIST_PATH)
+    outputs = data.get("outputs")
+    if not isinstance(outputs, dict):
+        fail("Legacy whitelist '%s' is missing its 'outputs' map."
+             % rel(LEGACY_WHITELIST_PATH))
+    return outputs
+
+
+def strip_legacy_outputs(built):
+    """Strip non whitelisted fields from the frozen legacy outputs.
+
+    Only the legacy outputs named in the whitelist are touched. The split outputs
+    share their entry objects with the legacy union outputs (both assemble from
+    the same pools), so each stripped entry is rebuilt as a fresh object rather
+    than mutated in place; this keeps the split outputs untouched. Stripping is at
+    the entry top level and the output top level only; nested objects are not
+    recursed into. Field order is preserved, so today the strip is byte for byte
+    identical to the current legacy files.
+    """
+    whitelist = load_legacy_whitelist()
+    for name, spec in whitelist.items():
+        if name not in built:
+            fail("Legacy whitelist names output '%s' which the assembler does "
+                 "not produce." % name)
+        obj = built[name]
+        allowed_top = set(spec["topLevelKeys"])
+        for key in list(obj.keys()):
+            if key not in allowed_top:
+                del obj[key]
+        allowed_fields = set(spec["entryFields"])
+        array_key = spec["arrayKey"]
+        obj[array_key] = [
+            {key: value for key, value in entry.items() if key in allowed_fields}
+            for entry in obj.get(array_key, [])
+        ]
+
+
 def dump_bytes(obj):
     return (json.dumps(obj, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
 
@@ -623,6 +681,7 @@ def run_check():
     if ptzc_ids != ptzd_ids:
         fail("ptz_cameras id set does not equal ptz-details id set.")
     built = build_outputs(pools)
+    strip_legacy_outputs(built)
     validate_outputs(built)
     baselines = load_baselines()
     diffs = field_diff(built, baselines)
@@ -646,6 +705,7 @@ def run_assemble():
     pools, pairs = load_shards()
     validate_pairs(pairs)
     built = build_outputs(pools)
+    strip_legacy_outputs(built)
     validate_outputs(built)
     written = write_outputs(built)
     print("Assembled %d output files:" % len(written))

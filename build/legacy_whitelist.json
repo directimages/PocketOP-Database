@@ -1,0 +1,102 @@
+{
+  "description": "Frozen field whitelist for the legacy outputs, mechanically derived from the current legacy outputs on @main. Do not hand edit. See legacy-schema-freeze.md.",
+  "outputs": {
+    "lenses.json": {
+      "role": "Legacy union of broadcast plus cine core lenses.",
+      "arrayKey": "lenses",
+      "topLevelKeys": [
+        "version",
+        "lenses",
+        "updatedAt"
+      ],
+      "entryFields": [
+        "addedDate",
+        "extenderFactor",
+        "focalLengthMax",
+        "focalLengthMin",
+        "generation",
+        "id",
+        "isCustom",
+        "isFree",
+        "isPTZ",
+        "manufacturer",
+        "model",
+        "mount",
+        "notes",
+        "sensorFormat",
+        "series",
+        "zoomRatio"
+      ]
+    },
+    "lens-details.json": {
+      "role": "Legacy union of broadcast plus cine lens details.",
+      "arrayKey": "lenses",
+      "topLevelKeys": [
+        "version",
+        "updatedAt",
+        "lenses"
+      ],
+      "entryFields": [
+        "closeFocusM",
+        "fieldNotes",
+        "filterThreadMm",
+        "filterType",
+        "focusRingRotationDeg",
+        "formFactor",
+        "frontDiameterMm",
+        "gearPitch",
+        "hasFocusBreathing",
+        "hasFrontRotation",
+        "hasMacro",
+        "hasServoFocus",
+        "hasServoZoom",
+        "id",
+        "imageCircleMm",
+        "introductionYear",
+        "isParfocal",
+        "lengthMm",
+        "lensType",
+        "manufacturerUrl",
+        "opticalElements",
+        "servoConnector",
+        "sources",
+        "webSources",
+        "weightG"
+      ]
+    },
+    "ptz-details.json": {
+      "role": "Legacy hyphen alias of ptz_details.json.",
+      "arrayKey": "cameras",
+      "topLevelKeys": [
+        "version",
+        "updatedAt",
+        "cameras"
+      ],
+      "entryFields": [
+        "controlProtocols",
+        "depthMm",
+        "fieldNotes",
+        "hasCeilingMount",
+        "hasIR",
+        "hasPoE",
+        "hasWallMount",
+        "heightMm",
+        "id",
+        "manufacturerUrl",
+        "maxPanSpeedDegS",
+        "maxTiltSpeedDegS",
+        "minLux",
+        "mountThreads",
+        "panRangeDeg",
+        "poeClass",
+        "presetCount",
+        "sources",
+        "tiltRangeDeg",
+        "videoOutputs",
+        "weightG",
+        "whiteBalanceModes",
+        "widthMm"
+      ]
+    }
+  }
+}
