@@ -22,3 +22,6 @@ mockups/
 # Local Claude Code tooling config (machine-specific, never committed)
 .mcp.json
 .claude/
+
+# Local editor workspace files (machine-specific, never committed)
+*.code-workspace
