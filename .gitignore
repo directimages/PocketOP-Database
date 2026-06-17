@@ -18,3 +18,7 @@ build/__pycache__/
 
 # Test fixtures — never committed; Martijn copies to app Resources manually
 mockups/
+
+# Local Claude Code tooling config (machine-specific, never committed)
+.mcp.json
+.claude/
