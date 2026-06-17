@@ -104,6 +104,15 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.49.0 — 2026-06-17
+
+- filterThreadMm cross-field invariant fixes (6 B4 portable broadcast zooms; filterType/filterThreadMm only, no core change). Verified Tier-1 from Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications, for the three numeric values.
+- canon-cj45ex13-6b (broadcast_details_canon): filterThreadMm "none" → 127 (barrel thread 127 mm P0.75; the φ127mm in Canon marketing is the front element, the barrel still carries a 127 P0.75 thread). filterType front_thread unchanged. Manual provenance source added.
+- canon-cj45ex9-7b (broadcast_details_canon): filterType "internal" → "front_thread", filterThreadMm "none" → 127 (shares the CJ45 127 mm P0.75 thread). Manual provenance source added.
+- canon-cj15ex4-3b (broadcast_details_canon): filterThreadMm null → "unknown" (size not published; the 2026-06-14 "127" was mis-attributed, belongs to the CJ45). filterType front_thread unchanged. No source change.
+- canon-j35ex15b (broadcast_details_canon): filterThreadMm 105 → 125 (125 mm P1.0). filterType front_thread unchanged. Manual provenance source added.
+- angenieux-t12x5-3b, angenieux-t15x8-3b (broadcast_details_angenieux): filterThreadMm "none" → "unknown" (size not published; prior value rested on a junk Amazon listing). filterType front_thread unchanged. No source change.
+
 ### v1.48.0 — 2026-06-17
 
 - Schema-gate reconciliation datafixes (registry-vs-data, dispatched 2026-06-16). No core change; broadcast detail output only.
