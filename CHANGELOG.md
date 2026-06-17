@@ -95,7 +95,26 @@ Most recent changes at the top. One line per file changed per commit.
 - Focal lengths: 18mm/25mm/32mm/50mm/75mm/100mm T2.4, Full Frame, SP3 series
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
+## cine_lens_details.json
+### v1.48.0 — 2026-06-17
+
+- Schema-gate reconciliation datafixes (registry-vs-data, dispatched 2026-06-16). No core change; cine detail output only.
+- filterType "rear_filter" → "internal": 28 entries — 20 ARRI Signature (16 Primes + 4 Zooms, cine_details_lpl_arri) + 8 Canon EF tele primes (cine_details_ef_canon). Field value only; "rear_filter" text in sources strings left intact.
+- filterType "front" → "front_thread": 6 Zeiss Nano Prime T1.5 (18/24/35/50/75/100mm, cine_details_e_zeiss). filterThreadMm already 86, untouched.
+- opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
+
+## broadcast_lens_details.json
+### v1.48.0 — 2026-06-17
+
+- Schema-gate reconciliation datafixes (registry-vs-data, dispatched 2026-06-16). No core change; broadcast detail output only.
+- fieldNotes bare string → object {"hasMacro": ...}: canon-uj25ex7-6b, canon-xj23x7b (broadcast_details_canon). Value "Macro available via optional MCJ-S02 accessory" preserved inside the object.
+- nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
+
 ## lens-details.json
+### v1.48.0 — 2026-06-17
+
+- Legacy union rebuild aggregating the cine_lens_details v1.48.0 and broadcast_lens_details v1.48.0 schema-gate datafixes above (filterType rear_filter→internal ×28, front→front_thread ×6, Tokina Vista-C opticalElements string→integer ×48, Canon fieldNotes string→object ×2, nikon-s19x8 unconfirmed→null). No lens core change.
+
 ### v1.47.0 — 2026-06-13
 
 - Sony FE PZ 28-135mm F4 G OSS sidecar: weightG 1215g, lengthMm 162.5, frontDiameterMm 105, closeFocusM 0.4, introductionYear 2014, imageCircleMm 43.3 (unconfirmed — FF standard), opticalElements 18, filterType front_thread/95mm, isParfocal true (SMO design), hasFocusBreathing minimal (SMO design), hasFrontRotation false. focusRingRotationDeg/gearPitch null (FBW power zoom). Source: Sony Asia spec page (Tier 1)
@@ -464,6 +483,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.12.0 — 2026-06-17
+
+- Removed panasonic-aw-ue4 from the published core (out of scope per POS-D30; outOfScope flag was true; hFOVTele=111 anomalous for a fixed-lens ePTZ). Full core + detail entry preserved verbatim in TIM/Private/incomplete_data.md, restore only after validation. NOT aw-ue40 (free tier), which is untouched. PTZ core count 137 → 136.
+
 ### v1.11.0 — 2026-06-11
 
 - Added Marshall CV625-TBN/TWN (`marshall-cv625-tbn`): NDI HX2/HX3 variant of CV625-TB/TW. Identical sensor (1/1.8-inch Sony IMX678 CMOS, 25×, 7.18mm width). hFOVWide 60.0° published by Marshall; hFOVTele 2.39° calculated. `addedDate: 2026-06-11`. Source: marshall-usa.com/cameras/CV625-TBN-TWN/ (Tier 1)
@@ -516,6 +539,10 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.21.0 — 2026-06-17
+
+- Removed panasonic-aw-ue4 detail entry (paired with the core removal above; out of scope per POS-D30). Full entry preserved verbatim in TIM/Private/incomplete_data.md. PTZ detail count 137 → 136.
 
 ### v1.20.1 — 2026-06-12
 

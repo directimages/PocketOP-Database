@@ -64,9 +64,9 @@
       "filterType": "front_thread",
       "filterThreadMm": 82,
       "hasMacro": true,
-      "hasServoZoom": "unconfirmed",
+      "hasServoZoom": null,
       "hasServoFocus": false,
-      "servoConnector": "unconfirmed",
+      "servoConnector": null,
       "formFactor": "portable",
       "sources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"

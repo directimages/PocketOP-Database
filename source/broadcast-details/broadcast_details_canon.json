@@ -1101,7 +1101,7 @@
       "sources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
       ],
-      "fieldNotes": "Macro available via optional MCJ-S02 accessory",
+      "fieldNotes": {"hasMacro": "Macro available via optional MCJ-S02 accessory"},
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
       ]
@@ -1298,7 +1298,7 @@
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
-      "fieldNotes": "Macro available via optional MCJ-S02 accessory",
+      "fieldNotes": {"hasMacro": "Macro available via optional MCJ-S02 accessory"},
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",

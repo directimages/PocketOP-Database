@@ -205,24 +205,6 @@
       "addedDate": null
     },
     {
-      "id": "panasonic-aw-ue4",
-      "brand": "panasonic",
-      "model": "AW-UE4",
-      "sensorLabel": "1/2.5 inch",
-      "sensorWidthMM": 5.76,
-      "sensorHeightMM": 4.29,
-      "minFocalLengthMM": 2.21,
-      "maxFocalLengthMM": 2.21,
-      "hFOVWide": 111.0,
-      "hFOVTele": 111.0,
-      "opticalZoom": 1,
-      "isFree": false,
-      "isCustom": false,
-      "outOfScope": true,
-      "notes": "1/2.5-inch MOS, fixed 2.21mm wide-angle lens. 111° HFOV published by Panasonic (LDC off). Motorized PTZ (+-110° pan, +-25° tilt). No optical zoom; digital zoom up to 4x with digital pan/tilt overlay. ePTZ camera. Current.",
-      "addedDate": null
-    },
-    {
       "id": "panasonic-aw-ue40",
       "brand": "panasonic",
       "model": "AW-UE40",
