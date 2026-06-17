@@ -1,6 +1,6 @@
 {
-  "version": "1.20.1",
-  "updatedAt": "2026-06-12",
+  "version": "1.21.0",
+  "updatedAt": "2026-06-17",
   "cameras": [
     {
       "id": "aver-ptc310uv2",
@@ -4576,38 +4576,6 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
-      ]
-    },
-    {
-      "id": "panasonic-aw-ue4",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html",
-      "controlProtocols": [
-        "Panasonic AW IP",
-        "NDI|HX"
-      ],
-      "videoOutputs": [
-        "HDMI",
-        "IP",
-        "USB"
-      ],
-      "poeClass": "PoE",
-      "presetCount": 100,
-      "panRangeDeg": 0,
-      "tiltRangeDeg": 0,
-      "maxPanSpeedDegS": null,
-      "maxTiltSpeedDegS": null,
-      "hasIR": false,
-      "whiteBalanceModes": null,
-      "minLux": 1.0,
-      "weightG": 500,
-      "widthMm": 123,
-      "heightMm": 131,
-      "depthMm": 136,
-      "mountThreads": null,
-      "hasCeilingMount": null,
-      "hasWallMount": null,
-      "sources": [
-        "https://pro-av.panasonic.net/en/products/aw-ue4/spec.html"
       ]
     },
     {
