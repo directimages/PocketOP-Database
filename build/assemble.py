@@ -39,6 +39,7 @@ import unicodedata
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE = os.path.join(REPO_ROOT, "source")
 META_DIR = os.path.join(SOURCE, "meta")
+SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output_schema.json")
 
 
 class AssembleError(Exception):
@@ -342,6 +343,202 @@ def build_outputs(pools):
     return built
 
 
+# --------------------------------------------------------------------------
+# Schema validation gate.
+#
+# output_schema.json is the readable field registry: one $def per output kind,
+# closed at the entry top level, every field optional. A field counts as added
+# to an output kind only once it is registered there. This section is a small
+# self contained interpreter of the subset of JSON Schema that registry uses
+# (type, enum, const, anyOf, items, additionalProperties), so the pipeline stays
+# stdlib only. It produces one clear per entry, per field message per violation.
+# --------------------------------------------------------------------------
+
+# Each assembled output maps to the $def it is validated against. The two lens
+# details files dispatch per entry on lensType to the matching variant. Legacy
+# union outputs (lenses.json, lens-details.json) and the ptz-details.json hyphen
+# alias are out of scope and are not listed here, so they are not validated.
+OUTPUT_VALIDATION = {
+    "broadcast_lenses.json":       {"def": "lens_core"},
+    "cine_lenses.json":            {"def": "lens_core"},
+    "broadcast_lens_details.json": {"dispatch": "lensType",
+                                    "variants": {"broadcast": "lens_details_broadcast",
+                                                 "cine": "lens_details_cine"}},
+    "cine_lens_details.json":      {"dispatch": "lensType",
+                                    "variants": {"broadcast": "lens_details_broadcast",
+                                                 "cine": "lens_details_cine"}},
+    "ptz_cameras.json":            {"def": "ptz_core"},
+    "ptz_details.json":            {"def": "ptz_details"},
+}
+
+
+def json_type(value):
+    """Name the JSON type of a value, distinguishing bool, integer and number."""
+    if value is None:
+        return "null"
+    if isinstance(value, bool):
+        return "boolean"
+    if isinstance(value, int):
+        return "integer"
+    if isinstance(value, float):
+        return "number"
+    if isinstance(value, str):
+        return "string"
+    if isinstance(value, list):
+        return "array"
+    if isinstance(value, dict):
+        return "object"
+    return type(value).__name__
+
+
+def matches_type(value, type_spec):
+    """True when value satisfies a JSON Schema 'type' (a string or list of strings).
+
+    bool is never an integer or a number; an integer valued float satisfies
+    'integer'. This matches Draft 2020-12 numeric semantics.
+    """
+    names = type_spec if isinstance(type_spec, list) else [type_spec]
+    for name in names:
+        if name == "null" and value is None:
+            return True
+        if name == "boolean" and isinstance(value, bool):
+            return True
+        if name == "string" and isinstance(value, str):
+            return True
+        if name == "array" and isinstance(value, list):
+            return True
+        if name == "object" and isinstance(value, dict):
+            return True
+        if name == "number" and isinstance(value, (int, float)) and not isinstance(value, bool):
+            return True
+        if name == "integer" and not isinstance(value, bool):
+            if isinstance(value, int):
+                return True
+            if isinstance(value, float) and value.is_integer():
+                return True
+    return False
+
+
+def describe_type(type_spec):
+    names = type_spec if isinstance(type_spec, list) else [type_spec]
+    return "|".join(names)
+
+
+def validate_value(value, schema, path, errors):
+    """Validate value against the registry subschema, appending failure lines.
+
+    Only the keywords the registry uses are interpreted: type, const, enum,
+    anyOf, items, properties, additionalProperties. A hard mismatch stops the
+    descent for that value so one bad field yields one clear message.
+    """
+    where = path if path else "<entry>"
+
+    if "anyOf" in schema:
+        for branch in schema["anyOf"]:
+            trial = []
+            validate_value(value, branch, path, trial)
+            if not trial:
+                return
+        shown = repr(value)
+        if len(shown) > 80:
+            shown = shown[:77] + "..."
+        errors.append("at '%s': value %s (type %s) does not match any registered "
+                      "type or value for this field" % (where, shown, json_type(value)))
+        return
+
+    if "allOf" in schema:
+        for branch in schema["allOf"]:
+            validate_value(value, branch, path, errors)
+
+    if "if" in schema:
+        condition = []
+        validate_value(value, schema["if"], path, condition)
+        if not condition:
+            if "then" in schema:
+                validate_value(value, schema["then"], path, errors)
+        elif "else" in schema:
+            validate_value(value, schema["else"], path, errors)
+
+    if "required" in schema and isinstance(value, dict):
+        for key in schema["required"]:
+            if key not in value:
+                errors.append("at '%s': required field '%s' is missing" % (where, key))
+
+    if "type" in schema and not matches_type(value, schema["type"]):
+        errors.append("at '%s': expected %s, got %s"
+                      % (where, describe_type(schema["type"]), json_type(value)))
+        return
+
+    if "const" in schema and value != schema["const"]:
+        errors.append("at '%s': value %r is not the allowed constant %r"
+                      % (where, value, schema["const"]))
+        return
+
+    if "enum" in schema and value not in schema["enum"]:
+        errors.append("at '%s': value %r is not one of the allowed values %s"
+                      % (where, value, schema["enum"]))
+        return
+
+    if isinstance(value, dict) and ("properties" in schema or "additionalProperties" in schema):
+        props = schema.get("properties", {})
+        additional = schema.get("additionalProperties", True)
+        for key, sub_value in value.items():
+            child = (path + "." + key) if path else key
+            if key in props:
+                validate_value(sub_value, props[key], child, errors)
+            elif additional is False:
+                errors.append("at '%s': field '%s' is not registered (closed set, "
+                              "unregistered field rejected)" % (where, key))
+            elif isinstance(additional, dict):
+                validate_value(sub_value, additional, child, errors)
+
+    if isinstance(value, list) and "items" in schema:
+        for index, item in enumerate(value):
+            validate_value(item, schema["items"], "%s[%d]" % (path, index), errors)
+
+
+def validate_outputs(built):
+    """Validate every in scope assembled output against output_schema.json.
+
+    Fails with one line per entry, per field on the first run that finds any
+    violation, naming the output, the entry id, the kind, and the field.
+    """
+    schema = load_json(SCHEMA_PATH)
+    defs = schema.get("$defs")
+    if not isinstance(defs, dict):
+        fail("Schema '%s' is missing its '$defs' registry." % rel(SCHEMA_PATH))
+    errors = []
+    for out in OUTPUTS:
+        spec = OUTPUT_VALIDATION.get(out["name"])
+        if spec is None:
+            continue
+        entries = built[out["name"]][out["array_key"]]
+        for entry in entries:
+            entry_id = entry.get("id", "<no id>")
+            if "def" in spec:
+                def_name = spec["def"]
+            else:
+                selector = entry.get(spec["dispatch"])
+                def_name = spec["variants"].get(selector)
+                if def_name is None:
+                    errors.append("%s id '%s': %s=%r matches no registered variant "
+                                  "(%s)" % (out["name"], entry_id, spec["dispatch"],
+                                            selector, "|".join(sorted(spec["variants"]))))
+                    continue
+            entry_errors = []
+            validate_value(entry, defs[def_name], "", entry_errors)
+            for line in entry_errors:
+                errors.append("%s id '%s' [%s]: %s"
+                              % (out["name"], entry_id, def_name, line))
+    if errors:
+        shown = errors[:300]
+        body = "\n".join("  " + line for line in shown)
+        if len(errors) > len(shown):
+            body += "\n  ... and %d more" % (len(errors) - len(shown))
+        fail("Schema validation failed against output_schema.json. %d violation(s):\n%s"
+             % (len(errors), body))
+
+
 def dump_bytes(obj):
     return (json.dumps(obj, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
 
@@ -426,6 +623,7 @@ def run_check():
     if ptzc_ids != ptzd_ids:
         fail("ptz_cameras id set does not equal ptz-details id set.")
     built = build_outputs(pools)
+    validate_outputs(built)
     baselines = load_baselines()
     diffs = field_diff(built, baselines)
     if diffs:
@@ -448,6 +646,7 @@ def run_assemble():
     pools, pairs = load_shards()
     validate_pairs(pairs)
     built = build_outputs(pools)
+    validate_outputs(built)
     written = write_outputs(built)
     print("Assembled %d output files:" % len(written))
     for out in OUTPUTS:
