@@ -779,7 +779,7 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
       "fieldNotes": {
-        "filterThreadNote": "Two options available: M95x1 and M107x1. M95x1 stored as primary. Schema migration to array planned for Update-2."
+        "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
       }
     },
     {

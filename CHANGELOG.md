@@ -96,6 +96,13 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.49.0 — 2026-06-18
+
+- fieldNotes-contract compliance pass (no core change; cine detail output only). Stripped internal references, source citations and process notes from user-facing fieldNotes per reference/fieldnotes-contract.md. Rides db-v8.
+- canon-cn20x50-ias-h-p1 (cine_details_pl_canon): fieldNotes.hasFocusBreathing reworded — dropped the CineD citation and the optical-design rationale wording.
+- sigma-af-cine-28-105mm-t3-ff-e, sigma-af-cine-28-45mm-t2-ff-e (cine_details_e_sigma) + sigma-af-cine-28-105mm-t3-ff-l, sigma-af-cine-28-45mm-t2-ff-l (cine_details_l_sigma): fieldNotes.isParfocal reworded — dropped the "(B&H Photo, WEX)" citation.
+- sony-fe-pz-28-135mm-f4-g-oss (cine_details_e_sony): fieldNotes.gearPitch reworded — dropped the "(POS-D33)" internal marker.
+
 ### v1.48.0 — 2026-06-17
 
 - Schema-gate reconciliation datafixes (registry-vs-data, dispatched 2026-06-16). No core change; cine detail output only.
@@ -104,6 +111,11 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.50.0 — 2026-06-18
+
+- fieldNotes-contract compliance pass (no core change; broadcast detail output only). Rides db-v8.
+- fujinon-ua30x7-3berd (broadcast_details_fujinon): fieldNotes key renamed filterThreadNote → filterThreadMm (key must be an existing field name — fieldnotes-contract hard rule, so the note renders inline under that field), and the value reworded to drop the storage/Update-2 migration process notes. Now "Two filter thread options: M95x1 and M107x1."
+
 ### v1.49.0 — 2026-06-17
 
 - filterThreadMm cross-field invariant fixes (6 B4 portable broadcast zooms; filterType/filterThreadMm only, no core change). Verified Tier-1 from Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications, for the three numeric values.
@@ -120,6 +132,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.49.0 — 2026-06-18
+
+- Legacy union rebuild aggregating the cine_lens_details v1.49.0 and broadcast_lens_details v1.50.0 fieldNotes-contract compliance fixes above (six fieldNotes cleaned + one key renamed filterThreadNote → filterThreadMm). No lens core change. Rides db-v8.
+
 ### v1.48.0 — 2026-06-17
 
 - Legacy union rebuild aggregating the cine_lens_details v1.48.0 and broadcast_lens_details v1.48.0 schema-gate datafixes above (filterType rear_filter→internal ×28, front→front_thread ×6, Tokina Vista-C opticalElements string→integer ×48, Canon fieldNotes string→object ×2, nikon-s19x8 unconfirmed→null). No lens core change.
