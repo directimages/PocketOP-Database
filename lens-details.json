@@ -1,6 +1,6 @@
 {
-  "version": "1.48.0",
-  "updatedAt": "2026-06-17",
+  "version": "1.49.0",
+  "updatedAt": "2026-06-18",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -3159,7 +3159,7 @@
       "focusRingRotationDeg": 180,
       "gearPitch": 0.8,
       "fieldNotes": {
-        "hasFocusBreathing": "Significant focus breathing at long focal lengths (850mm+) per CineD independent review; optical design prioritizes compact form over breathing minimization"
+        "hasFocusBreathing": "Significant focus breathing at long focal lengths (850mm and up); the optical design favors a compact form."
       },
       "sources": {
         "filterType": "dvinfo: filter thread present; front diameter 136mm (tier-5)",
@@ -12216,7 +12216,7 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
       "fieldNotes": {
-        "filterThreadNote": "Two options available: M95x1 and M107x1. M95x1 stored as primary. Schema migration to array planned for Update-2."
+        "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
       }
     },
     {
@@ -16536,7 +16536,7 @@
         "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/"
       ],
       "fieldNotes": {
-        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
       }
     },
     {
@@ -16578,7 +16578,7 @@
         "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/"
       ],
       "fieldNotes": {
-        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
       }
     },
     {
@@ -16620,7 +16620,7 @@
         "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/"
       ],
       "fieldNotes": {
-        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
       }
     },
     {
@@ -16662,7 +16662,7 @@
         "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/"
       ],
       "fieldNotes": {
-        "isParfocal": "Near-parfocal per manufacturer; Sigma describes minimized focus shift across zoom range (B&H Photo, WEX)"
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
       }
     },
     {
@@ -17526,7 +17526,7 @@
         "isParfocal": "Sony SMO design minimizes focus shift while zooming; treated as parfocal.",
         "hasFocusBreathing": "Minimized per Sony SMO design.",
         "focusRingRotationDeg": "Focus-by-wire, no fixed rotation.",
-        "gearPitch": "Photo/hybrid power zoom, no cine gear ring (POS-D33)."
+        "gearPitch": "Photo/hybrid power zoom, no cine gear ring."
       }
     },
     {
