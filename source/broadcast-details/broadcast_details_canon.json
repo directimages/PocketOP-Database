@@ -1644,6 +1644,33 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
       ]
+    },
+    {
+      "id": "canon-cj25ex7-6b",
+      "lensType": "broadcast",
+      "manufacturerUrl": null,
+      "weightG": 1990,
+      "lengthMm": 223.6,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.8,
+      "introductionYear": 2018,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "front_thread",
+      "filterThreadMm": 105,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": true,
+      "servoConnector": "20pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.canon-europe.com/lenses/cj25ex7.6b/specifications/",
+        "https://www.bhphotovideo.com/c/product/1701905-REG/canon_cj25ex7_6b_iase_s_2_3_uhd_xs_standard.html",
+        "https://www.prnewswire.com/news-releases/canon-expands-lineup-of-portable-zoom-lenses-for-4k-broadcast-cameras-with-the-introduction-of-the-cj25ex7-6b-300711146.html"
+      ],
+      "webSources": [
+        "https://www.canon-europe.com/lenses/cj25ex7.6b/specifications/"
+      ]
     }
   ]
 }
