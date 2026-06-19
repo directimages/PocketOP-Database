@@ -1096,6 +1096,24 @@
       "notes": "DIGISUPER 95 field. Built-in image stabilizer.",
       "isCustom": false,
       "addedDate": null
+    },
+    {
+      "id": "canon-cj25ex7-6b",
+      "manufacturer": "Canon",
+      "model": "CJ25ex7.6B",
+      "series": "CJ",
+      "generation": "4K UHD",
+      "focalLengthMin": 7.6,
+      "focalLengthMax": 190.0,
+      "zoomRatio": 25.0,
+      "extenderFactor": 2.0,
+      "sensorFormat": "twoThirdsInch",
+      "mount": "B4",
+      "isPTZ": false,
+      "isFree": false,
+      "notes": "4K UHDxs ENG portable. 25x standard-to-tele. HFOV 64.6 deg wide, 2.89 deg tele [16:9].",
+      "isCustom": false,
+      "addedDate": "2026-06-19"
     }
   ]
 }

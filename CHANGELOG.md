@@ -3,6 +3,13 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.32.0 — 2026-06-19
+
+- Canon CJ25ex7.6B import: 1 new broadcast entry (`canon-cj25ex7-6b`), CJ series, 7.6–190.0mm, 25×, extender 2.0, B4, twoThirdsInch, 4K UHD. ENG portable
+- addedDate: 2026-06-19. Specs supplied and verified by Kay (canon-europe.com Tier-1 + B&H + PRNewswire); pure import, no Tim research
+- broadcast_lenses.json split bumped to v1.31.0
+- maxApertureWide/maxApertureTele/apertureType/hasIS and description intentionally omitted — gated, land in their own later batches
+
 ### v1.31.1 — 2026-06-13
 
 - sony-fe-pz-28-135mm-f4-g-oss: addedDate corrected 2026-06-14 → 2026-06-13 (actual commit date)
@@ -111,6 +118,10 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.51.0 — 2026-06-19
+
+- Canon CJ25ex7.6B sidecar (`canon-cj25ex7-6b`, broadcast_details_canon): weightG 1990, lengthMm 223.6, closeFocusM 0.8, introductionYear 2018, imageCircleMm 11.0, filterType front_thread, filterThreadMm 105, hasMacro true, servo zoom/focus true, servoConnector 20pin, formFactor portable. frontDiameterMm/opticalElements/manufacturerUrl null. Source: canon-europe.com (Tier 1) + B&H + PRNewswire. Pure import, specs Kay-verified
+
 ### v1.50.0 — 2026-06-18
 
 - fieldNotes-contract compliance pass (no core change; broadcast detail output only). Rides db-v8.
@@ -132,6 +143,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.50.0 — 2026-06-19
+
+- Legacy union rebuild aggregating the broadcast_lens_details v1.51.0 Canon CJ25ex7.6B sidecar import above. No cine change. One new entry (`canon-cj25ex7-6b`)
+
 ### v1.49.0 — 2026-06-18
 
 - Legacy union rebuild aggregating the cine_lens_details v1.49.0 and broadcast_lens_details v1.50.0 fieldNotes-contract compliance fixes above (six fieldNotes cleaned + one key renamed filterThreadNote → filterThreadMm). No lens core change. Rides db-v8.
