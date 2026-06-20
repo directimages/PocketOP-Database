@@ -23,7 +23,8 @@
       ],
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's T series, the high-resolution (HR) line the French optical house built for standard- and early-HD broadcast work. The T12x5.3B is the wide-angle member, pairing a broad starting angle with a built-in 2x extender and Angénieux's well-regarded optics; like the rest of the series it is long discontinued, with support and documentation now scarce."
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -48,7 +49,8 @@
       ],
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T15x8.3B is a standard-range parfocal zoom praised for its optics and still usable on modern HD and UHD broadcast bodies. It carries a built-in 2x extender; like the rest of the series it is long discontinued, with support and documentation now scarce."
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -77,7 +79,8 @@
         "https://www.adorama.com/clearance/l/Used/Video/Video-Lenses/Angenieux~Professional-Lenses?emailPrice=T",
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
         "https://newprovideo.com/equipment/product/lenses/angenieux-t19x7-3-besmd-hd-2-3inch-hd-eng-zoom-lens"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount ENG zoom and Angénieux's one dedicated HD model in the T series (the AIF HD-e), the T19x7.3B pairs a standard-to-telephoto range with a notably light, compact body and digital servo control for handheld field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued."
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -104,7 +107,8 @@
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
         "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T26x7.8B is the long-telephoto member, reaching well into telephoto from a standard wide for sports and field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued and comparatively rare."
     }
   ]
 }

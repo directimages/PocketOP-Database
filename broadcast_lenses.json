@@ -1,5 +1,5 @@
 {
-  "version": "1.31.0",
+  "version": "1.31.1",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -369,7 +369,7 @@
       "focalLengthMin": 8.5,
       "focalLengthMax": 128.0,
       "zoomRatio": 15.06,
-      "extenderFactor": 2.0,
+      "extenderFactor": 1.0,
       "sensorFormat": "twoThirdsInch",
       "mount": "B4",
       "isPTZ": false,
@@ -2269,5 +2269,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-06-19"
+  "updatedAt": "2026-06-20"
 }

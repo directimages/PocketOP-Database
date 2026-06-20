@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.32.1 - 2026-06-20
+
+- canon-hj15ex8-5b: extenderFactor corrected 2.0 -> 1.0. No built-in extender (Kay-verified vs Canon, B&H, Adorama, AbelCine; the 4K twin canon-cj15ex8-5b was already 1.0). Single-field core correction
+- broadcast_lenses.json split bumped to v1.31.1 (same correction)
+
 ### v1.32.0 — 2026-06-19
 
 - Canon CJ25ex7.6B import: 1 new broadcast entry (`canon-cj25ex7-6b`), CJ series, 7.6–190.0mm, 25×, extender 2.0, B4, twoThirdsInch, 4K UHD. ENG portable
@@ -118,6 +123,10 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.52.0 - 2026-06-20
+
+- Broadcast description population (Fase 1): 126 user-facing description fields applied across broadcast_details_angenieux / canon / fujinon / nikon / zeiss via build/apply_descriptions.py. Additive field population only; prose imported verbatim from the staged pass blocks, no other field touched. The legacy lens-details union strips description by the freeze, so it stays byte-identical and is not bumped
+
 ### v1.51.0 — 2026-06-19
 
 - Canon CJ25ex7.6B sidecar (`canon-cj25ex7-6b`, broadcast_details_canon): weightG 1990, lengthMm 223.6, closeFocusM 0.8, introductionYear 2018, imageCircleMm 11.0, filterType front_thread, filterThreadMm 105, hasMacro true, servo zoom/focus true, servoConnector 20pin, formFactor portable. frontDiameterMm/opticalElements/manufacturerUrl null. Source: canon-europe.com (Tier 1) + B&H + PRNewswire. Pure import, specs Kay-verified

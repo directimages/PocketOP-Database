@@ -25,7 +25,8 @@
       "webSources": [
         "https://www.bhphotovideo.com/c/product/674640-REG/Zeiss_1531_502_DigiZoom_17_112mm_T1_9.html",
         "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, the telephoto companion to the 6-24mm and designed to match the DigiPrime primes for 2/3-inch digital cinematography. It holds a constant T1.9 aperture across its range, with manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued."
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -52,7 +53,8 @@
       "webSources": [
         "https://www.bhphotovideo.com/c/product/674636-REG/Zeiss_1262_604_DigiZoom_6_24mm_T1_9.html",
         "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
-      ]
+      ],
+      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, designed to match the DigiPrime primes as part of Zeiss's lens system for 2/3-inch digital cinematography. The 6-24mm is the wide-angle zoom, with a constant T1.9 aperture, manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued."
     }
   ]
 }

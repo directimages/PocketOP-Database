@@ -1,5 +1,5 @@
 {
-  "version": "1.32.0",
+  "version": "1.32.1",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -2889,7 +2889,7 @@
       "focalLengthMin": 8.5,
       "focalLengthMax": 128.0,
       "zoomRatio": 15.06,
-      "extenderFactor": 2.0,
+      "extenderFactor": 1.0,
       "sensorFormat": "twoThirdsInch",
       "mount": "B4",
       "isPTZ": false,
@@ -13123,5 +13123,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-06-19"
+  "updatedAt": "2026-06-20"
 }

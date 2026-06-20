@@ -23,7 +23,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's HA series, the company's Premier-grade HD ENG and EFP line and the HD predecessor to its 4K UA lenses. This wide-angle 13x lens is built for newsgathering and documentary field work, staying compact and light for handheld and shoulder use, with a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -48,7 +49,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this ultra-wide 14x lens covers a very wide starting angle for newsgathering, documentary and sports field work where tight interiors and establishing shots matter. It stays compact and light for handheld and shoulder use, with a built-in extender and digital servo drive."
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -73,7 +75,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 16x lens pairs a wide starting angle with a useful telephoto reach for general newsgathering and field production. It stays light for handheld and shoulder use, with a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -98,7 +101,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this wide-range 18x lens holds a bright f/1.8 across most of its range and suits both sideline sports and studio or interview work. Its digital servo zoom and focus support full servo studio control, robotics and tower cams as well as handheld use, with a built-in 2x extender and a short close-focus distance for tight detail."
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -123,7 +127,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this standard-range 18x lens is a light, general-purpose ENG workhorse for newsgathering and field production. It stays compact for sustained handheld and shoulder use, with a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -148,7 +153,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 19x lens covers a standard-to-telephoto range for newsgathering and field work. It carries digital servo zoom and focus for handheld and full servo studio use, with a built-in 2x extender."
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -173,7 +179,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens extends a standard wide end to a long reach for sports and EFP field work. It carries digital servo zoom and focus for handheld and full servo studio control, with a built-in 2x extender."
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -198,7 +205,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens covers a standard-to-long range for newsgathering and field production while staying relatively light for shoulder use. It carries a built-in 2x extender and digital servo drive. Discontinued."
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -223,7 +231,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 23x lens reaches a long telephoto end from a standard wide for sports and EFP field work, while remaining portable enough for shoulder use. It carries a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -248,7 +257,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 25x lens reaches well into long-lens territory for sports, wildlife and documentary field work at distance, while staying light enough for handheld and shoulder use on a support. It carries a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -273,7 +283,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this super-telephoto 25x lens trades a wide angle of view for reach, with a narrow wide end opening onto a long telephoto for sports and wildlife coverage at distance. It carries a built-in 2x extender and digital servo drive."
     },
     {
       "id": "fujinon-ha27x6-5",
@@ -300,7 +311,8 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
-      ]
+      ],
+      "description": "A 2/3-inch HD studio and field box lens from Fujinon's HA line, this 27x box zoom is built for fixed studio and field positions rather than handheld use, pairing a wide standard range with an internal filter system. It carries a built-in 2x extender and full digital servo zoom and focus for studio and robotic control."
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -325,7 +337,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this long-throw 42x lens reaches deep into telephoto territory for sports and outside-broadcast field work, while staying portable enough for shoulder and supported use. It carries a built-in 2x extender and digital servo zoom and focus."
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -350,7 +363,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this 42x lens pairs a usefully wide start with a long telephoto reach for sports and field work, the wider-angle companion to the longer-throw HA42x13.5. It carries a built-in 2x extender and digital servo zoom and focus."
     },
     {
       "id": "fujinon-la16x8",
@@ -375,7 +389,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "The first lens in Fujinon's LA series of compact, affordable 4K broadcast zooms, a lightweight 16x for 2/3-inch cameras introduced in 2019. Its small, light body eases shoulder-mounted and remote-rig work, and it holds 4K optical performance across the zoom with HT-EBC coating for high transmittance and accurate colour. It has no built-in extender, keeping size and weight down."
     },
     {
       "id": "fujinon-la30x7-8",
@@ -400,7 +415,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A compact, lightweight 4K broadcast zoom from Fujinon's affordable LA line, this portable 30x lens offers a class-leading zoom range for 2/3-inch cameras while staying light enough to ease shoulder-mounted work. A rear-focus mechanism keeps focus breathing minimal and operation quiet under camera autofocus, variable zoom speed spans fast sports moves to slow creative pulls, and a 16-bit encoder drive supports virtual and remote production. HT-EBC coating holds colour and transmittance across the range."
     },
     {
       "id": "fujinon-la30x7-8brm-xb2",
@@ -426,7 +442,8 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
-      "fieldNotes": null
+      "fieldNotes": null,
+      "description": "The XB2 version of Fujinon's compact 30x LA-series 4K broadcast zoom, sharing the base lens's portable body, rear-focus mechanism and class-leading range while adding an expansion connector for virtual and remote production. It holds 4K across the zoom with HT-EBC coating, runs variable zoom speeds for sports and creative work, and feeds accurate lens data through 16-bit encoders."
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -451,7 +468,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A flagship 4K box lens from Fujinon's UA Premier line, launched as the world's highest zoom ratio at 107x and built to cover an entire field of play from wide to super-telephoto without giving up image quality or HDR range. OS-TECH optical image stabilisation steadies long shots, a floating focus holds sharpness across the zoom, and a 9-blade iris renders natural bokeh; a built-in 2x extender adds further reach."
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -476,7 +494,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "The autofocus version of Fujinon's flagship 107x 4K box lens, adding an autofocus system usable on air, a 0.7-second quick-zoom for focus checks, zoom and focus presets, self-diagnostics and automatic breathing compensation. Optically identical to the standard UA107x8.4, it pairs OS-TECH stabilisation and floating focus with a built-in 2x extender and lens-data output for virtual and compositing systems."
     },
     {
       "id": "fujinon-ua125x8",
@@ -501,7 +520,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "The most powerful box lens in Fujinon's UA Premier line, its 125x range built around an integrated doubler to reach extreme telephoto for live sports and large shows on 2/3-inch 4K cameras. It carries the Premier box hallmarks of 4K HDR imaging, image stabilisation and a 16-bit encoder, holding resolution and contrast across an exceptionally long zoom."
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -526,7 +546,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "An ultra-wide 13x zoom from Fujinon's UA 4K Premier broadcast line for 2/3-inch cameras. Large-diameter aspherical elements hold center-to-corner 4K resolution across the zoom range while keeping distortion in check, and Fujinon's HT-EBC coating lifts colour and transmittance. It supports HDR, carries a built-in 2x extender, and uses a digital servo drive compatible with standard 2/3-inch broadcast controllers."
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -551,7 +572,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A compact ultra-wide 14x zoom from Fujinon's UA 4K Premier line, short enough in the body to work close to the action with a real sense of depth in live sports and on-location production. It resolves 4K across the zoom range with HT-EBC coating and HDR support, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
     },
     {
       "id": "fujinon-ua16x4berd",
@@ -577,7 +599,8 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
-      "fieldNotes": null
+      "fieldNotes": null,
+      "description": "An ultra-wide 16x zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive unit and 16-bit encoders that feed accurate lens data to virtual and AR production systems. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch controllers."
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -602,7 +625,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A lightweight wide-angle 18x zoom from Fujinon's UA 4K Premier line, built for high-mobility work such as news gathering and on-location production where a wide starting angle and low weight matter. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -627,7 +651,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "Fujinon's standard 4K HDR workhorse in the UA Premier line, an 18x zoom that spans broadcast news gathering through studio use on 2/3-inch cameras. It resolves 4K center-to-corner across the zoom range with HT-EBC coating and HDR support, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers."
     },
     {
       "id": "fujinon-ua22x4-8",
@@ -652,7 +677,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A recent ultra-wide 22x ENG zoom from Fujinon's UA 4K Premier line, pairing a wide starting angle with a long reach for versatile field work. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers."
     },
     {
       "id": "fujinon-ua22x8",
@@ -677,7 +703,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A compact, lightweight portable 22x zoom from Fujinon's UA 4K Premier line, well suited to live sport, indoor and outdoor program production, and news reporting. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -702,7 +729,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 23x wide-to-telephoto ENG zoom from Fujinon's UA 4K Premier line, compact and light with a fast aperture for natural bokeh. Its BERD drive carries 16-bit encoders for virtual production, and an updated ergonomic handle with smooth gearing aids precise servo control. It resolves 4K across the zoom range with HDR and HT-EBC coating and carries a built-in 2x extender."
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -727,7 +755,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A standard-to-telephoto 24x zoom from Fujinon's UA 4K Premier line for 2/3-inch broadcast cameras, extending a standard wide end to a longer reach for ENG and field production. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch controllers."
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -752,7 +781,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "An ultra-wide 27x studio zoom from Fujinon's UA 4K Premier line, built in a studio form with a 16-bit encoder and precision-servo compatibility for repeatable digital control from paint boxes and studio systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, carries a 2x extender, and renders natural bokeh from its 9-blade iris."
     },
     {
       "id": "fujinon-ua30x7-3berd",
@@ -780,7 +810,8 @@
       ],
       "fieldNotes": {
         "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
-      }
+      },
+      "description": "A 30x ENG and field zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive and 16-bit encoders that feed lens data to virtual studio and AR tracking systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch broadcast controllers."
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -805,7 +836,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, trading the wider sibling's starting angle for greater telephoto reach while keeping OS-TECH optical image stabilisation for steady work away from a tripod. It resolves 4K across the zoom range with HDR and HT-EBC coating, and carries a built-in 2x extender for extended reach."
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -830,7 +862,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, billed as the widest-angle lens in its class for its reach and carrying OS-TECH optical image stabilisation for steady handheld and unstable-platform work. With a fast aperture and a 9-blade iris it suits 4K sports, nature documentary and news, resolving 4K across the zoom with HDR and HT-EBC coating and a built-in 2x extender."
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -855,7 +888,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "An economical 4K box lens from Fujinon's UA Premier line, its 70x range running from a wide venue view straight into a distant subject for sports, concerts and house-of-worship live production. A floating focus system holds high resolution across the zoom, with HDR and HT-EBC coating and a built-in 2x extender; it is a substantial, mount-bound optic rather than a shoulder lens."
     },
     {
       "id": "fujinon-ua80x9",
@@ -880,7 +914,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "An iconic 4K sports box lens from Fujinon's UA Premier line, its 80x range built to cover a full field of action. It carries optical image stabilisation, a 16-bit encoder for virtual production, and both 1.2x and 2x extenders for extra reach, resolving 4K across the zoom with HDR, HT-EBC coating and a 9-blade iris for natural bokeh."
     },
     {
       "id": "fujinon-ua94x8-7besm",
@@ -906,7 +941,8 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
       ],
-      "fieldNotes": null
+      "fieldNotes": null,
+      "description": "A high-ratio 94x 4K box lens in Fujinon's UA Premier line, a studio and field optic listed as under development in Fujinon's product guide. In line with the Premier box range it is built for 4K HDR with image stabilisation, a 16-bit encoder and a built-in extender, aimed at the long reach that live sports and large-venue events demand."
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -933,7 +969,8 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
-      ]
+      ],
+      "description": "The Fujinon XA101x8.9 is among the highest-magnification lenses in the HD eXceed field-box line, a 2/3-inch super-telephoto built for the longest reaches in stadium and live-event coverage. It shares the range's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -958,7 +995,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the company's cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production, with a built-in 2x extender, servo zoom and internal focus to keep framing steady through focus pulls. Discontinued."
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -983,7 +1021,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production and forgoes a built-in extender to stay lighter and simpler, with servo zoom and internal focus for steady framing. Discontinued."
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -1008,7 +1047,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, this 20x lens is one of the most widely used standard ENG zooms on 2/3-inch cameras, covering a versatile wide-to-telephoto range for newsgathering, sports, documentary and studio work. It holds a fast f/1.8 across most of its range for low light, with servo zoom, internal focus to suppress breathing, and Fujinon's QuickZoom for an instant focus check at the telephoto end. This base variant carries no optical extender."
     },
     {
       "id": "fujinon-xa20sx8-5bemd",
@@ -1033,7 +1073,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of the extender-equipped 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a wide-to-telephoto range doubled by its built-in 2x extender, with internal focus to keep framing steady."
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1058,7 +1099,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series and the extender-equipped version of Fujinon's widely used 20x standard ENG zoom. It covers a versatile wide-to-telephoto range doubled by its built-in 2x extender, with a fast f/1.8 across most of the range, an ergonomic servo zoom grip, internal focus and Fujinon's QuickZoom for instant telephoto focus checks. Suited to newsgathering, sports, live production and studio work."
     },
     {
       "id": "fujinon-xa20sx8-5bmd",
@@ -1083,7 +1125,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of Fujinon's 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a versatile wide-to-telephoto range and forgoes a built-in extender to stay lighter."
     },
     {
       "id": "fujinon-xa22x7",
@@ -1108,7 +1151,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD studio box lens from Fujinon's XA eXceed series, this 22x box zoom is built for fixed studio and field positions rather than handheld use, pairing a standard wide-to-telephoto range with an internal filter system and full digital servo zoom and focus for studio and remote control. Discontinued."
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -1133,7 +1177,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed line, the XA55x9.5 sits at the wide-zoom-ratio end of the Digipower box-tele range and is built for the telephoto reach that live sports, concerts and stage productions need. It comes with Fujinon's OS-TECH optical image stabilization as standard to steady the long end against wind and unstable platforms, plus a built-in 2x extender, EBC coating and an anti-fogging design for dependable outdoor use."
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -1158,7 +1203,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA66x9.3 lifts the magnification a step up for stadium and large-venue coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -1183,7 +1229,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA72x9.3 is aimed at sports and studio productions that need to pull in distant action. It holds a fast f/1.7 aperture well into its zoom range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. Discontinued."
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -1208,7 +1255,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "Fujinon positions the XA77x9.5 as the price/performance benchmark of its HD eXceed field-box line, a 2/3-inch long-throw lens for large venues and sporting events. Standard OS-TECH optical stabilization, an anti-fogging design and EBC coating keep it steady and clean in the field, with a built-in 2x extender and 16-bit encoder output for virtual-production and remote work."
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -1233,7 +1281,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA87x9.3 reaches deep into super-telephoto territory for stadium and long-range event coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -1258,7 +1307,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA88x8.8 is built for long-range sports and big-venue event coverage. Like its siblings it pairs standard OS-TECH optical stabilization with a built-in 2x extender, EBC coating and an anti-fogging design. Discontinued."
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -1283,7 +1333,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "Marketed as the Digipower 99, the Fujinon XA99x8.4 is one of the highest-magnification 2/3-inch HD field box lenses in the eXceed line, built for EFP and long-range sports coverage. It holds a fast f/1.7 aperture across much of its range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. End of life."
     },
     {
       "id": "fujinon-za12x4-5",
@@ -1308,7 +1359,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A super-wide-angle lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras. Its wide 12x range suits news, documentary and live sport, and improved control of chromatic aberration and distortion keeps the image clean. A DIGI POWER digital servo grip with 16-bit encoders supports manual, studio, robotic and remote control."
     },
     {
       "id": "fujinon-za17x7-6",
@@ -1333,7 +1385,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "A standard-range 17x lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras, a general-purpose news and field lens. It pairs solid HD optical performance with a DIGI POWER digital servo and 16-bit encoders for virtual systems, and a built-in 2x extender adds reach."
     },
     {
       "id": "fujinon-za22x7-6",
@@ -1358,7 +1411,8 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "description": "The high-power member of Fujinon's value-priced ZA Select line of HD ENG/EFP zooms, a 22x lens for 2/3-inch cameras with a fast aperture and an ergonomic digital grip. It suits news, documentary and live sport, with inner focus, quick zoom and a zoom limit, a built-in 2x extender for reach, and 16-bit encoders for virtual systems."
     }
   ]
 }
