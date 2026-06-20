@@ -31,7 +31,7 @@
     },
 
     "lens_details_broadcast": {
-      "description": "LENS DETAILS, broadcast variant. Validated against entries whose lensType is broadcast (broadcast_lens_details.json). The broadcast sources value is an array of strings. weightG, lengthMm, closeFocusM, opticalElements and webSources are registered live fields. fieldNotes is an open object of string values, or null. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
+      "description": "LENS DETAILS, broadcast variant. Validated against entries whose lensType is broadcast (broadcast_lens_details.json). The broadcast sources value is an array of strings. weightG, lengthMm, closeFocusM, opticalElements and webSources are registered live fields. description is the registered user-facing prose field, a string or null. fieldNotes is an open object of string values, or null. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
       "type": "object",
       "additionalProperties": false,
       "allOf": [
@@ -68,12 +68,13 @@
         "lengthMm": { "type": ["number", "null"] },
         "closeFocusM": { "type": ["number", "null"] },
         "opticalElements": { "anyOf": [{ "type": ["integer", "null"] }, { "const": "unknown" }] },
-        "webSources": { "type": "array", "items": { "type": "string" } }
+        "webSources": { "type": "array", "items": { "type": "string" } },
+        "description": { "type": ["string", "null"] }
       }
     },
 
     "lens_details_cine": {
-      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. fieldNotes is a registered open object of string values. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
+      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
       "type": "object",
       "additionalProperties": false,
       "allOf": [
@@ -108,6 +109,7 @@
         "hasIS": { "type": ["boolean", "null"] },
         "maximumDiameterMm": { "type": ["number", "null"] },
         "productUrl": { "type": ["string", "null"] },
+        "description": { "type": ["string", "null"] },
         "fieldNotes": { "type": "object", "additionalProperties": { "type": "string" } }
       }
     },
@@ -136,7 +138,7 @@
     },
 
     "ptz_details": {
-      "description": "PTZ DETAILS (ptz_details.json). The sources value is an array of strings. poeClass is a registered live string field. fieldNotes is a registered open object of string values.",
+      "description": "PTZ DETAILS (ptz_details.json). The sources value is an array of strings. poeClass is a registered live string field. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
@@ -173,6 +175,7 @@
         "introductionYear": { "type": ["integer", "null"] },
         "productUrl": { "type": ["string", "null"] },
         "poeClass": { "type": ["string", "null"] },
+        "description": { "type": ["string", "null"] },
         "fieldNotes": { "type": "object", "additionalProperties": { "type": "string" } }
       }
     }
