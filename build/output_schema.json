@@ -74,7 +74,7 @@
     },
 
     "lens_details_cine": {
-      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. apertureType accepts null, meaning not investigated. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
+      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. apertureType accepts null, meaning not investigated. tStop carries the cine T-stop at the wide end and tStopTele the T-stop at the tele end for ramping zooms; each is a number, null, or 'unknown'. hasIS marks built-in optical image stabilisation, a boolean or null. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
       "type": "object",
       "additionalProperties": false,
       "allOf": [
@@ -106,6 +106,8 @@
         "maxApertureWide": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "maxApertureTele": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "apertureType": { "anyOf": [{ "enum": ["T", "f"] }, { "type": "null" }] },
+        "tStop": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
+        "tStopTele": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "hasIS": { "type": ["boolean", "null"] },
         "maximumDiameterMm": { "type": ["number", "null"] },
         "productUrl": { "type": ["string", "null"] },
@@ -138,7 +140,7 @@
     },
 
     "ptz_details": {
-      "description": "PTZ DETAILS (ptz_details.json). The sources value is an array of strings. poeClass is a registered live string field. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. streamingProtocols and trackingDataOut are closed vocabulary array fields, or null; an unlisted value is rejected by the build. apertureType accepts null, meaning not investigated.",
+      "description": "PTZ DETAILS (ptz_details.json). The sources value is an array of strings. poeClass is a registered live string field. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. streamingProtocols and trackingDataOut are closed vocabulary array fields, or null; an unlisted value is rejected by the build. apertureType accepts null, meaning not investigated. introductionYear is an integer, null, or 'unknown'. isParfocal is retired as a PTZ field and no longer registered here.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
@@ -167,12 +169,11 @@
         "maxApertureTele": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "apertureType": { "anyOf": [{ "enum": ["f", "T"] }, { "type": "null" }] },
         "hasIS": { "type": ["boolean", "null"] },
-        "isParfocal": { "type": ["boolean", "null"] },
         "autoTracking": { "anyOf": [{ "enum": ["none", "basic", "ai", "external", "unknown"] }, { "type": "null" }] },
         "autoTrackingNote": { "type": ["string", "null"] },
         "hasND": { "type": ["boolean", "null"] },
         "ndDetail": { "type": ["string", "null"] },
-        "introductionYear": { "type": ["integer", "null"] },
+        "introductionYear": { "anyOf": [{ "type": ["integer", "null"] }, { "const": "unknown" }] },
         "productUrl": { "type": ["string", "null"] },
         "poeClass": { "type": ["string", "null"] },
         "streamingProtocols": { "anyOf": [{ "type": "array", "items": { "enum": ["IP", "NDI", "NDI|HX", "NDI|HX2", "NDI|HX3", "SRT", "RTSP", "RTMP", "RTMPS", "HLS", "Dante AV-H", "SMPTE ST 2110"] } }, { "type": "null" }] },
