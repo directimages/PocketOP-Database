@@ -74,7 +74,7 @@
     },
 
     "lens_details_cine": {
-      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. apertureType accepts null, meaning not investigated. tStop carries the cine T-stop at the wide end and tStopTele the T-stop at the tele end for ramping zooms; each is a number, null, or 'unknown'. hasIS marks built-in optical image stabilisation, a boolean or null. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
+      "description": "LENS DETAILS, cine variant. Validated against entries whose lensType is cine (cine_lens_details.json). The cine sources value is an open object of string values. description is the registered user-facing prose field, a string or null. fieldNotes is a registered open object of string values. apertureType accepts null, meaning not investigated. Aperture follows the single database-wide model: maxApertureWide and maxApertureTele carry the aperture at the wide and tele ends, each a number, null, or 'unknown', with the T versus f distinction carried by apertureType. hasIS marks built-in optical image stabilisation, a boolean or null. Cross-field invariant: a filterType of front_thread, screw_in or hood_thread implies filterThreadMm is a number or 'unknown'.",
       "type": "object",
       "additionalProperties": false,
       "allOf": [
@@ -106,8 +106,6 @@
         "maxApertureWide": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "maxApertureTele": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "apertureType": { "anyOf": [{ "enum": ["T", "f"] }, { "type": "null" }] },
-        "tStop": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
-        "tStopTele": { "anyOf": [{ "type": ["number", "null"] }, { "const": "unknown" }] },
         "hasIS": { "type": ["boolean", "null"] },
         "maximumDiameterMm": { "type": ["number", "null"] },
         "productUrl": { "type": ["string", "null"] },
