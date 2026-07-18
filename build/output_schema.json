@@ -92,6 +92,7 @@
         "frontDiameterMm": { "type": ["number", "null"] },
         "closeFocusM": { "type": ["number", "null"] },
         "introductionYear": { "type": ["integer", "null"] },
+        "hasMacro": { "type": ["boolean", "null"] },
         "imageCircleMm": { "type": ["number", "null"] },
         "opticalElements": { "anyOf": [{ "type": ["integer", "null"] }, { "const": "unknown" }] },
         "filterType": { "anyOf": [{ "enum": ["front_thread", "matte_box", "internal", "none", "screw_in", "hood_thread"] }, { "type": "null" }] },
