@@ -289,24 +289,6 @@
       "addedDate": null
     },
     {
-      "id": "fujinon-la30x7-8brm-xb2",
-      "manufacturer": "Fujinon",
-      "model": "LA30x7.8BRM-XB2",
-      "series": "LA",
-      "generation": "4K UHD",
-      "focalLengthMin": 7.8,
-      "focalLengthMax": 234.0,
-      "zoomRatio": 30.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "twoThirdsInch",
-      "mount": "B4",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "4K portable broadcast zoom. New drive unit with 16-bit encoders for virtual and remote production. XB2 variant adds expansion connector for virtual/remote production.",
-      "addedDate": "2026-06-09"
-    },
-    {
       "id": "fujinon-ua107x8-4",
       "manufacturer": "Fujinon",
       "model": "UA107x8.4",

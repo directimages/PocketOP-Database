@@ -3,7 +3,7 @@
     {
       "id": "nikon-s13x9",
       "manufacturer": "Nikon",
-      "model": "S13x9-EMS",
+      "model": "S13x9B1-EMS-20",
       "series": "TV-Nikkor",
       "generation": "SD",
       "focalLengthMin": 9.0,
@@ -14,7 +14,7 @@
       "mount": "B4",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
       "isCustom": false,
       "addedDate": null
     },
@@ -39,7 +39,7 @@
     {
       "id": "nikon-s19x8",
       "manufacturer": "Nikon",
-      "model": "ED S19x8",
+      "model": "S19x8B",
       "series": "TV-Nikkor",
       "generation": "SD",
       "focalLengthMin": 8.0,
@@ -68,7 +68,7 @@
       "mount": "B4",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
       "isCustom": false,
       "addedDate": null
     }

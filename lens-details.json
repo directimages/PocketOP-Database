@@ -1,6 +1,6 @@
 {
-  "version": "1.50.0",
-  "updatedAt": "2026-06-19",
+  "version": "1.51.0",
+  "updatedAt": "2026-07-23",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -5752,34 +5752,6 @@
       ]
     },
     {
-      "id": "canon-uj25ex7-6b",
-      "lensType": "broadcast",
-      "manufacturerUrl": null,
-      "weightG": 1810,
-      "lengthMm": 225.4,
-      "frontDiameterMm": null,
-      "closeFocusM": 0.6,
-      "introductionYear": null,
-      "imageCircleMm": 11.0,
-      "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
-      "hasMacro": false,
-      "hasServoZoom": true,
-      "hasServoFocus": true,
-      "servoConnector": "20pin",
-      "formFactor": "box",
-      "sources": [
-        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
-      ],
-      "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
-      },
-      "webSources": [
-        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
-      ]
-    },
-    {
       "id": "canon-uj27x6-5b",
       "lensType": "broadcast",
       "manufacturerUrl": null,
@@ -11286,7 +11258,10 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
+      }
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -11311,7 +11286,10 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
+      }
     },
     {
       "id": "fujinon-hk3-1x14-5-t2-0",
@@ -11619,32 +11597,6 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ]
-    },
-    {
-      "id": "fujinon-la30x7-8brm-xb2",
-      "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
-      "weightG": 1700,
-      "lengthMm": 190.0,
-      "frontDiameterMm": 100,
-      "closeFocusM": 0.8,
-      "introductionYear": 2025,
-      "imageCircleMm": 11.0,
-      "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
-      "hasMacro": true,
-      "hasServoZoom": true,
-      "hasServoFocus": false,
-      "servoConnector": "20pin",
-      "formFactor": "portable",
-      "sources": [
-        "https://asset.fujifilm.com/www/au/files/2025-09/2dcc3885de26654c4322767dc7598f11/la30_a4_en_250815.pdf"
-      ],
-      "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
-      ],
-      "fieldNotes": null
     },
     {
       "id": "fujinon-mk18-55mm-t2-9",
@@ -12697,7 +12649,10 @@
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
+      }
     },
     {
       "id": "fujinon-xa88x8-8",

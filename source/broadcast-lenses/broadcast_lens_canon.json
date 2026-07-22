@@ -738,24 +738,6 @@
       "addedDate": null
     },
     {
-      "id": "canon-uj25ex7-6b",
-      "manufacturer": "Canon",
-      "model": "UJ25ex7.6B",
-      "series": "UJ",
-      "generation": "4K UHD",
-      "focalLengthMin": 7.6,
-      "focalLengthMax": 190.0,
-      "zoomRatio": 25.0,
-      "extenderFactor": 2.0,
-      "sensorFormat": "twoThirdsInch",
-      "mount": "B4",
-      "isPTZ": false,
-      "isFree": false,
-      "notes": "Studio wide box.",
-      "isCustom": false,
-      "addedDate": null
-    },
-    {
       "id": "canon-uj27x6-5b",
       "manufacturer": "Canon",
       "model": "UJ27x6.5B",

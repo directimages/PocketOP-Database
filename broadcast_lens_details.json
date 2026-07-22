@@ -1,6 +1,6 @@
 {
-  "version": "1.52.0",
-  "updatedAt": "2026-06-20",
+  "version": "1.53.0",
+  "updatedAt": "2026-07-23",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -26,7 +26,11 @@
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
       ],
-      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's T series, the high-resolution (HR) line the French optical house built for standard- and early-HD broadcast work. The T12x5.3B is the wide-angle member, pairing a broad starting angle with a built-in 2x extender and Angénieux's well-regarded optics; like the rest of the series it is long discontinued, with support and documentation now scarce."
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's T series, the high-resolution (HR) line the French optical house built for standard- and early-HD broadcast work. The T12x5.3B is the wide-angle member, pairing a broad starting angle with a built-in 2x extender and Angénieux's well-regarded optics; like the rest of the series it is long discontinued, with support and documentation now scarce.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "angenieux-t15x8-3b",
@@ -52,7 +56,11 @@
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
       ],
-      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T15x8.3B is a standard-range parfocal zoom praised for its optics and still usable on modern HD and UHD broadcast bodies. It carries a built-in 2x extender; like the rest of the series it is long discontinued, with support and documentation now scarce."
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T15x8.3B is a standard-range parfocal zoom praised for its optics and still usable on modern HD and UHD broadcast bodies. It carries a built-in 2x extender; like the rest of the series it is long discontinued, with support and documentation now scarce.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "angenieux-t19x7-3b",
@@ -82,7 +90,11 @@
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
         "https://newprovideo.com/equipment/product/lenses/angenieux-t19x7-3-besmd-hd-2-3inch-hd-eng-zoom-lens"
       ],
-      "description": "A 2/3-inch B4-mount ENG zoom and Angénieux's one dedicated HD model in the T series (the AIF HD-e), the T19x7.3B pairs a standard-to-telephoto range with a notably light, compact body and digital servo control for handheld field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued."
+      "description": "A 2/3-inch B4-mount ENG zoom and Angénieux's one dedicated HD model in the T series (the AIF HD-e), the T19x7.3B pairs a standard-to-telephoto range with a notably light, compact body and digital servo control for handheld field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "angenieux-t26x7-8b",
@@ -110,7 +122,11 @@
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
         "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
       ],
-      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T26x7.8B is the long-telephoto member, reaching well into telephoto from a standard wide for sports and field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued and comparatively rare."
+      "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T26x7.8B is the long-telephoto member, reaching well into telephoto from a standard wide for sports and field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued and comparatively rare.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj12ex4-3b",
@@ -136,7 +152,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ series, this ultra-wide 12x lens is built for ENG and documentary field work. Its wide end suits tight interiors and establishing shots, and it stays compact and light for handheld, run-and-gun shooting. Like the rest of the series it resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ series, this ultra-wide 12x lens is built for ENG and documentary field work. Its wide end suits tight interiors and establishing shots, and it stays compact and light for handheld, run-and-gun shooting. Like the rest of the series it resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj14ex4-3b",
@@ -164,7 +184,11 @@
         "https://asia.canon/en/business/cj14ex4-3b/main/specification",
         "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc series. This wide-angle 14x lens is aimed at documentary and newsgathering field production, compact and light for high-mobility shooting, and it holds 4K resolving power across the full zoom range and the 16:9 image plane. It supports HDR imaging and BT.2020 wide-gamut colour correction, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc series. This wide-angle 14x lens is aimed at documentary and newsgathering field production, compact and light for high-mobility shooting, and it holds 4K resolving power across the full zoom range and the 16:9 image plane. It supports HDR imaging and BT.2020 wide-gamut colour correction, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -190,7 +214,11 @@
       "webSources": [
         "https://asia.canon/en/business/cj15ex4-3b/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this ultra-wide 15x lens covers the same wide end as the rest of Canon's wide portable trio with a little more reach. Compact and light for ENG and documentary field work, it resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this ultra-wide 15x lens covers the same wide end as the rest of Canon's wide portable trio with a little more reach. Compact and light for ENG and documentary field work, it resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -216,7 +244,11 @@
       "webSources": [
         "https://asia.canon/en/business/cj15ex8-5b/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this standard-range 15x lens adds Canon's Vari-Angle Prism image stabilisation to damp horizontal and vertical vibration during mobile shooting such as sports. It resolves 4K across the zoom range and supports HDR and the BT.2020 wide colour gamut. It forgoes a built-in extender to stay compact and light, and uses a digital drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this standard-range 15x lens adds Canon's Vari-Angle Prism image stabilisation to damp horizontal and vertical vibration during mobile shooting such as sports. It resolves 4K across the zoom range and supports HDR and the BT.2020 wide colour gamut. It forgoes a built-in extender to stay compact and light, and uses a digital drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 2.5,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-cj18ex28b",
@@ -242,7 +274,11 @@
       "webSources": [
         "https://asia.canon/en/business/cj18ex28b/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this long-throw 18x lens trades a wide angle of view for reach, built to pull in distant subjects in sports and field work while staying light enough for shoulder-mounted operation. Its built-in 2x extender roughly doubles that reach. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and uses a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this long-throw 18x lens trades a wide angle of view for reach, built to pull in distant subjects in sports and field work while staying light enough for shoulder-mounted operation. Its built-in 2x extender roughly doubles that reach. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and uses a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -270,7 +306,11 @@
         "https://asia.canon/en/business/cj18ex7-6b/main/specification",
         "https://www.bhphotovideo.com/c/product/1472953-REG/canon_cj18ex7_6b_iase_2_3_uhd_standard_full_servo.html"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this compact standard-range 18x lens is a general-purpose ENG and documentary field lens. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and stays light enough for sustained shoulder-mounted shooting, with a digital drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this compact standard-range 18x lens is a general-purpose ENG and documentary field lens. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and stays light enough for sustained shoulder-mounted shooting, with a digital drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj20ex5b",
@@ -298,7 +338,11 @@
         "https://www.newsshooter.com/2020/09/24/canon-cj20ex5b/",
         "https://www.canon-europe.com/press-centre/press-releases/2020/09/canon-strengthens-4k-broadcast-lens-line-up-bctv-zoom-lens-cj20ex5b/"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this wide-angle 20x lens pairs a wide starting angle with a useful 20x range for ENG, sports and documentary field work. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this wide-angle 20x lens pairs a wide starting angle with a useful 20x range for ENG, sports and documentary field work. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.95,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -324,7 +368,11 @@
       "webSources": [
         "https://asia.canon/en/business/cj20ex7-8b/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this standard-to-telephoto 20x lens suits ENG and field production that needs extra reach without moving to a box lens. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this standard-to-telephoto 20x lens suits ENG and field production that needs extra reach without moving to a box lens. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -350,7 +398,11 @@
       "webSources": [
         "https://asia.canon/en/business/cj24ex7-5b/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this telephoto 24x lens extends a standard wide end to a long reach for sports and event field work while staying portable enough for shoulder use. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's UHDgc line, this telephoto 24x lens extends a standard wide end to a long reach for sports and event field work while staying portable enough for shoulder use. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and combines a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj25ex7-6b",
@@ -378,7 +430,11 @@
       "webSources": [
         "https://www.canon-europe.com/lenses/cj25ex7.6b/specifications/"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ line, part of the UHDxs series, the CJ25ex7.6B is a high-magnification standard-to-telephoto lens for 4K ENG, documentary and live outside-broadcast work such as sports, nature and concerts. It stays light enough for sustained shoulder use while reaching well into telephoto, with a built-in 2x extender, full digital servo control and a 16-bit drive supporting virtual production, holding 4K resolution across the range with HDR and BT.2020 wide-gamut support."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ line, part of the UHDxs series, the CJ25ex7.6B is a high-magnification standard-to-telephoto lens for 4K ENG, documentary and live outside-broadcast work such as sports, nature and concerts. It stays light enough for sustained shoulder use while reaching well into telephoto, with a built-in 2x extender, full digital servo control and a 16-bit drive supporting virtual production, holding 4K resolution across the range with HDR and BT.2020 wide-gamut support.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -408,7 +464,11 @@
         "https://theasc.com/articles/canon-introduces-cj27ex7-3b",
         "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this telephoto 27x lens is among the newest in the range and carries Canon's eXs-V digital drive. Its long reach suits sports and event field work while remaining portable. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and pairs a built-in 2x extender with controls compatible with standard 2/3-inch broadcast demands."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this telephoto 27x lens is among the newest in the range and carries Canon's eXs-V digital drive. Its long reach suits sports and event field work while remaining portable. It resolves 4K across the zoom range, supports HDR and the BT.2020 wide colour gamut, and pairs a built-in 2x extender with controls compatible with standard 2/3-inch broadcast demands.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.95,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -435,7 +495,11 @@
       "webSources": [
         "https://www.bhphotovideo.com/c/product/1462871-REG/canon_cj45ex13_6b_iase_v_h_2_3_4k_uhd_portable.html"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this long-throw 45x field lens pushes well into box-lens reach and adds image stabilisation for handheld and unstable-platform work. It bridges portable and box-lens territory for sports and outside broadcast, resolving 4K across the zoom range with HDR and BT.2020 wide-gamut support and a digital drive for standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's premium UHDxs line, this long-throw 45x field lens pushes well into box-lens reach and adds image stabilisation for handheld and unstable-platform work. It bridges portable and box-lens territory for sports and outside broadcast, resolving 4K across the zoom range with HDR and BT.2020 wide-gamut support and a digital drive for standard 2/3-inch controllers.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 5.5,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -462,7 +526,11 @@
       "webSources": [
         "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
       ],
-      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ series, this 45x super-telephoto field lens combines a wider starting angle with long reach, positioned as the 4K successor to Canon's HD HJ40 field zooms for sports and outside broadcast. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers."
+      "description": "A 2/3-inch 4K UHD portable broadcast zoom from Canon's CJ series, this 45x super-telephoto field lens combines a wider starting angle with long reach, positioned as the 4K successor to Canon's HD HJ40 field zooms for sports and outside broadcast. It resolves 4K across the zoom range, supports HDR and BT.2020 wide-gamut colour, and pairs a built-in 2x extender with a digital drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.9,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -488,7 +556,11 @@
       "webSources": [
         "https://www.bhphotovideo.com/c/product/353072-REG/Canon_HJ11EX4_7B_WRSE_HJ11ex4_7B_WRSE_eHDxs_11x_2_3.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this super-wide 11x lens was the widest-angle HDTV portable lens of its generation, built for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' 16-bit digital drive, internal focus and shuttle-shot programmable positioning, with a built-in 2x extender for instant reach. It was later succeeded by the wider-range HJ14ex4.3B."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this super-wide 11x lens was the widest-angle HDTV portable lens of its generation, built for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' 16-bit digital drive, internal focus and shuttle-shot programmable positioning, with a built-in 2x extender for instant reach. It was later succeeded by the wider-range HJ14ex4.3B.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.45,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj11x4-7b-kll-sc",
@@ -516,7 +588,11 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
       ],
-      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the wide member of Canon's three EC zooms. Like the rest of the EC range it is built for film-style handling rather than ENG: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it a film-like rendering for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued."
+      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the wide member of Canon's three EC zooms. Like the rest of the EC range it is built for film-style handling rather than ENG: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it a film-like rendering for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": 2.7,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-hj14ex4-3b",
@@ -544,7 +620,11 @@
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
         "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this ultra-wide 14x lens is the successor to the long-running HJ11ex4.7B wide-angle, built for HD newsgathering and documentary field work. It opens to a bright f/1.8 across much of its range and stays compact and light for handheld and shoulder use, carrying the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ14ex4.3B."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this ultra-wide 14x lens is the successor to the long-running HJ11ex4.7B wide-angle, built for HD newsgathering and documentary field work. It opens to a bright f/1.8 across much of its range and stays compact and light for handheld and shoulder use, carrying the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ14ex4.3B.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -570,7 +650,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's HDxs line and the world's first portable 2/3-inch HDTV zoom with a built-in optical image stabiliser. Its Vari-Angle Prism (VAP-IS) system damps a wide range of vibration, from handheld and shoulder shake to unstable platforms and moving vehicles, across the full zoom range and with selectable stabilisation modes, which makes it well suited to mobile sports and drama field work. It is the HD predecessor of Canon's 4K CJ15ex8.5B."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's HDxs line and the world's first portable 2/3-inch HDTV zoom with a built-in optical image stabiliser. Its Vari-Angle Prism (VAP-IS) system damps a wide range of vibration, from handheld and shoulder shake to unstable platforms and moving vehicles, across the full zoom range and with selectable stabilisation modes, which makes it well suited to mobile sports and drama field work. It is the HD predecessor of Canon's 4K CJ15ex8.5B.",
+      "maxApertureWide": 2.5,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -596,7 +680,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this wide-angle 17x lens pairs a wide starting angle with a useful standard range for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' digital drive, internal focus and a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this wide-angle 17x lens pairs a wide starting angle with a useful standard range for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' digital drive, internal focus and a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -622,7 +710,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this standard-range 17x lens is a general-purpose ENG workhorse, light and compact for sustained handheld and shoulder-mounted shooting. It covers the everyday wide-to-telephoto range for newsgathering and field production, with the series' digital drive, internal focus and a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this standard-range 17x lens is a general-purpose ENG workhorse, light and compact for sustained handheld and shoulder-mounted shooting. It covers the everyday wide-to-telephoto range for newsgathering and field production, with the series' digital drive, internal focus and a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj18ex28b",
@@ -648,7 +740,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this long-throw lens trades a wide angle of view for reach, with a narrow wide end opening onto a long telephoto that the built-in 2x extender pushes further still. It is built to pull in distant subjects in sports and EFP field work while staying light enough for shoulder-mounted operation, with the series' digital drive and internal focus. It is the HD counterpart to Canon's later 4K CJ18ex28B."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this long-throw lens trades a wide angle of view for reach, with a narrow wide end opening onto a long telephoto that the built-in 2x extender pushes further still. It is built to pull in distant subjects in sports and EFP field work while staying light enough for shoulder-mounted operation, with the series' digital drive and internal focus. It is the HD counterpart to Canon's later 4K CJ18ex28B.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj18ex7-6b",
@@ -674,7 +770,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this standard 18x lens covers a general-purpose wide-to-telephoto range for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ18ex7.6B. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this standard 18x lens covers a general-purpose wide-to-telephoto range for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ18ex7.6B. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj21ex7-5b",
@@ -700,7 +800,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this compact 21x lens is aimed at studio and EFP field production, holding its framing with very little shift through focus pulls. It stays light and mobile for handheld and shoulder use across a standard-to-telephoto range, with the series' digital drive, internal focus and a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this compact 21x lens is aimed at studio and EFP field production, holding its framing with very little shift through focus pulls. It stays light and mobile for handheld and shoulder use across a standard-to-telephoto range, with the series' digital drive, internal focus and a built-in 2x extender.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj21x7-5b-kll-sc",
@@ -728,7 +832,11 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
       ],
-      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the longest of Canon's three EC zooms. Built for film-style handling rather than ENG, it carries a 270-degree focus rotation, engraved focus and iris scales, and gear rings for studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture and exceptionally low focus breathing give it the rendering of a cine prime across a standard-to-telephoto range, for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued."
+      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the longest of Canon's three EC zooms. Built for film-style handling rather than ENG, it carries a 270-degree focus rotation, engraved focus and iris scales, and gear rings for studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture and exceptionally low focus breathing give it the rendering of a cine prime across a standard-to-telephoto range, for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": "unknown",
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-hj22ex7-6b",
@@ -754,7 +862,11 @@
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this telephoto 22x lens extends a standard wide end to a long reach for HD newsgathering and field work, while staying light enough for handheld and shoulder use. It carries the series' digital drive, internal focus and a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this telephoto 22x lens extends a standard wide end to a long reach for HD newsgathering and field work, while staying light enough for handheld and shoulder use. It carries the series' digital drive, internal focus and a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.65,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -782,7 +894,11 @@
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
         "https://asia.canon/en/business/hj24ex7-5b/main/specification"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this telephoto 24x lens reaches a long tele end for sports and EFP field work while remaining portable enough for shoulder use. It carries the series' digital drive, internal focus and a built-in 2x extender. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this telephoto 24x lens reaches a long tele end for sports and EFP field work while remaining portable enough for shoulder use. It carries the series' digital drive, internal focus and a built-in 2x extender. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-hj40ex10b",
@@ -810,7 +926,11 @@
         "https://www.bhphotovideo.com/c/product/1696500-REG/canon_hj40ex10b_iase_v_h_hdtv_portable_hdxs_lenses.html",
         "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
       ],
-      "description": "A 2/3-inch HD field telephoto zoom from Canon's HDxs line, this 40x lens pairs a usable wide end with a long telephoto reach that the built-in 2x extender pushes further still, for sports, aerial and outside-broadcast field work. A built-in Optical Shift Image Stabiliser steadies the long end against wind and operator movement, and its advanced digital servo supports fast, repeatable framing. It is the wider-starting companion to the longer-throw HJ40ex14B."
+      "description": "A 2/3-inch HD field telephoto zoom from Canon's HDxs line, this 40x lens pairs a usable wide end with a long telephoto reach that the built-in 2x extender pushes further still, for sports, aerial and outside-broadcast field work. A built-in Optical Shift Image Stabiliser steadies the long end against wind and operator movement, and its advanced digital servo supports fast, repeatable framing. It is the wider-starting companion to the longer-throw HJ40ex14B.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.65,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-hj40ex14b",
@@ -838,7 +958,11 @@
         "https://www.bhphotovideo.com/c/product/1811292-REG/canon_1012b006_hj40ex14b_iase_v_h_2_3.html",
         "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
       ],
-      "description": "A 2/3-inch HD field telephoto zoom from Canon's HDxs line, this long-throw 40x lens reaches well into super-telephoto territory, extended further by its built-in 2x extender, for sports, aerial and outside-broadcast coverage at distance. A built-in Optical Shift Image Stabiliser steadies the extreme telephoto end against wind and movement, and its advanced digital servo supports fast, repeatable framing. It is the longer-reaching companion to the HJ40ex10B."
+      "description": "A 2/3-inch HD field telephoto zoom from Canon's HDxs line, this long-throw 40x lens reaches well into super-telephoto territory, extended further by its built-in 2x extender, for sports, aerial and outside-broadcast coverage at distance. A built-in Optical Shift Image Stabiliser steadies the extreme telephoto end against wind and movement, and its advanced digital servo supports fast, repeatable framing. It is the longer-reaching companion to the HJ40ex10B.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 5.1,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-hj40x10b",
@@ -866,7 +990,11 @@
         "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
         "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
       ],
-      "description": "A 2/3-inch HD field telephoto zoom from Canon's e-HDxs line, this 40x DIGISUPER-series field lens covers a long wide-to-telephoto range that the built-in 2x extender pushes further still, for documentary, natural-history and sports work at long distance. A built-in Optical Shift Image Stabiliser steadies the long end against wind and movement, and a framing-preset function recalls rehearsed zoom positions at the push of a button, alongside internal focus and crossover switching between 16:9 and 4:3."
+      "description": "A 2/3-inch HD field telephoto zoom from Canon's e-HDxs line, this 40x DIGISUPER-series field lens covers a long wide-to-telephoto range that the built-in 2x extender pushes further still, for documentary, natural-history and sports work at long distance. A built-in Optical Shift Image Stabiliser steadies the long end against wind and movement, and a framing-preset function recalls rehearsed zoom positions at the push of a button, alongside internal focus and crossover switching between 16:9 and 4:3.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.65,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-hj8x5-5b-kll-sc",
@@ -894,7 +1022,11 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
       ],
-      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, and the widest of Canon's three EC zooms. It is built for film-style handling rather than electronic newsgathering: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised control rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it the rendering and feel of a cine prime in zoom form, aimed at commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued."
+      "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, and the widest of Canon's three EC zooms. It is built for film-style handling rather than electronic newsgathering: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised control rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it the rendering and feel of a cine prime in zoom form, aimed at commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": "unknown",
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-j35ex11b",
@@ -920,7 +1052,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
       ],
-      "description": "A 2/3-inch portable EFP telephoto zoom from Canon's J series, a standard-definition lens family for NTSC and SDTV field production. The J35ex11B is built for documentary, natural-history and sports work that shoots from a distance, staying portable enough for remote and demanding locations, with full servo control and a built-in 2x extender; it remains in use in legacy SD workflows."
+      "description": "A 2/3-inch portable EFP telephoto zoom from Canon's J series, a standard-definition lens family for NTSC and SDTV field production. The J35ex11B is built for documentary, natural-history and sports work that shoots from a distance, staying portable enough for remote and demanding locations, with full servo control and a built-in 2x extender; it remains in use in legacy SD workflows.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-j35ex15b",
@@ -947,7 +1083,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
       ],
-      "description": "A 2/3-inch portable EFP zoom from Canon's standard-definition J series, the J35ex15B is the ultra-telephoto companion to the J35ex11B, trading a wider angle for greater reach in NTSC and SDTV field production. It suits long-distance documentary, natural-history and sports coverage from remote locations, with full servo control and a built-in 2x extender; it remains in use in legacy SD workflows."
+      "description": "A 2/3-inch portable EFP zoom from Canon's standard-definition J series, the J35ex15B is the ultra-telephoto companion to the J35ex11B, trading a wider angle for greater reach in NTSC and SDTV field production. It suits long-distance documentary, natural-history and sports coverage from remote locations, with full servo control and a built-in 2x extender; it remains in use in legacy SD workflows.",
+      "maxApertureWide": 2.7,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj10ex4-5b",
@@ -975,7 +1115,11 @@
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://asia.canon/en/business/kj10ex4-5b-irse-s-iase-s/main/specification"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's KJ series, the company's affordable HDgc line built to bring HD-grade optics to lower-cost ENG cameras and camcorders. This super-wide 10x lens opens to a very wide angle of view for newsgathering, reality TV and budget-conscious HD production, staying compact and light for handheld and shoulder use, with a built-in 2x extender and digital drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's KJ series, the company's affordable HDgc line built to bring HD-grade optics to lower-cost ENG cameras and camcorders. This super-wide 10x lens opens to a very wide angle of view for newsgathering, reality TV and budget-conscious HD production, staying compact and light for handheld and shoulder use, with a built-in 2x extender and digital drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.35,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj13x6b",
@@ -1003,7 +1147,11 @@
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://www.bhphotovideo.com/c/product/887504-REG/Canon_kj13x6b_krsd_KJ13x6_KRS_HDgc_13x.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this compact 13x lens covers a general-purpose wide-to-telephoto range for newsgathering and budget HD production. It forgoes a built-in extender to stay light and simple, with internal focus and Shuttle Shot programmable zoom positions. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this compact 13x lens covers a general-purpose wide-to-telephoto range for newsgathering and budget HD production. It forgoes a built-in extender to stay light and simple, with internal focus and Shuttle Shot programmable zoom positions. Discontinued.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1029,7 +1177,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this lightweight 16x lens covers a standard ENG range for newsgathering and budget HD production. It stays compact for sustained handheld and shoulder use, with a built-in 2x extender and digital drive. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this lightweight 16x lens covers a standard ENG range for newsgathering and budget HD production. It stays compact for sustained handheld and shoulder use, with a built-in 2x extender and digital drive. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.3,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj17ex7-7b",
@@ -1057,7 +1209,11 @@
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://asia.canon/en/business/kj17ex7-7b-irse-iase-s/main/specification"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this standard 17x lens is a light, general-purpose ENG workhorse for newsgathering, reality TV and budget HD production, with reduced focus breathing and a fast f/1.9 maximum aperture for low light. It carries a built-in 2x extender, internal focus and Shuttle Shot programmable zoom positions."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this standard 17x lens is a light, general-purpose ENG workhorse for newsgathering, reality TV and budget HD production, with reduced focus breathing and a fast f/1.9 maximum aperture for low light. It carries a built-in 2x extender, internal focus and Shuttle Shot programmable zoom positions.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.3,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1085,7 +1241,11 @@
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://asia.canon/en/business/kj20x8-2b-irsd/main/specification"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this 20x lens pairs Canon's widest starting angle in the affordable 20x class with a long telephoto reach doubled by its built-in 2x extender, for ENG, corporate, education and event work. It holds a fast f/1.9 aperture across much of the range, with internal focus and Shuttle Shot programmable zoom positions."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this 20x lens pairs Canon's widest starting angle in the affordable 20x class with a long telephoto reach doubled by its built-in 2x extender, for ENG, corporate, education and event work. It holds a fast f/1.9 aperture across much of the range, with internal focus and Shuttle Shot programmable zoom positions.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj20x8-5b",
@@ -1111,7 +1271,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this 20x telephoto lens balances performance and portability in a very light, compact body, with internal focus and Shuttle Shot programmable zoom positions. It covers a standard-to-telephoto range for cost-effective HD newsgathering and field production, with a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this 20x telephoto lens balances performance and portability in a very light, compact body, with internal focus and Shuttle Shot programmable zoom positions. It covers a standard-to-telephoto range for cost-effective HD newsgathering and field production, with a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1137,7 +1301,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this telephoto 21x lens extends a standard wide end to a long reach for HD newsgathering and field work, while staying light for shoulder use. It carries a built-in 2x extender and digital drive. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this telephoto 21x lens extends a standard wide end to a long reach for HD newsgathering and field work, while staying light for shoulder use. It carries a built-in 2x extender and digital drive. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.55,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-kj22ex7-6b",
@@ -1167,7 +1335,11 @@
         "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii",
         "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this telephoto 22x lens covers a generous range while still offering a modest wide angle, giving a flexible framing range for outdoor HD newsgathering and many production applications. It balances size, weight and optical performance, with a built-in 2x extender and digital drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Canon's affordable HDgc KJ line, this telephoto 22x lens covers a generous range while still offering a modest wide angle, giving a flexible framing range for outdoor HD newsgathering and many production applications. It balances size, weight and optical performance, with a built-in 2x extender and digital drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1200,7 +1372,11 @@
         "https://3dbroadcastsales.com/products/canon-uhd-digisuper-111-uj111x8-3b-box-lens",
         "https://asia.canon/en/business/uhd-digisuper-111-4k-premium/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD premium box lens from Canon's UHD-DIGISUPER (UJ) line, this 111x field optic uses fluorite and UD glass with Canon's Air Sphere Coating to suppress flare and ghosting across an exceptionally long zoom. It holds beyond-4K resolution and HDR to the edge of the frame, with image stabilisation, a built-in 2x extender and a 16-bit encoder for virtual production."
+      "description": "A 2/3-inch 4K UHD premium box lens from Canon's UHD-DIGISUPER (UJ) line, this 111x field optic uses fluorite and UD glass with Canon's Air Sphere Coating to suppress flare and ghosting across an exceptionally long zoom. It holds beyond-4K resolution and HDR to the edge of the frame, with image stabilisation, a built-in 2x extender and a 16-bit encoder for virtual production.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.65,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-uj122x8-2b",
@@ -1233,7 +1409,11 @@
         "https://www.bhphotovideo.com/c/product/1777903-REG/canon_uj122x8_2b_ie_d_uhd_digisuper.html",
         "https://asia.canon/en/business/uhd-digisuper-122-4k-premium/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD premium box lens from Canon's UHD-DIGISUPER (UJ) line, this 122x field optic offered the longest focal range in its class at launch, generous fluorite and UD glass holding 4K HDR quality across the zoom while a built-in 2x extender pushes reach further still. Advanced image stabilisation steadies the long end, and a 16-bit encoder with a 20-pin connector feeds accurate metadata to virtual production systems."
+      "description": "A 2/3-inch 4K UHD premium box lens from Canon's UHD-DIGISUPER (UJ) line, this 122x field optic offered the longest focal range in its class at launch, generous fluorite and UD glass holding 4K HDR quality across the zoom while a built-in 2x extender pushes reach further still. Advanced image stabilisation steadies the long end, and a 16-bit encoder with a 20-pin connector feeds accurate metadata to virtual production systems.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 5.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1262,36 +1442,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
       ],
-      "description": "The autofocus version of Canon's flagship 122x UHD-DIGISUPER box lens, adding precise, customisable autofocus that has become important for 4K productions while keeping the optics of the standard UJ122x8.2B. It pairs fluorite and UD glass and advanced image stabilisation with a built-in 2x extender for extreme reach, and outputs accurate lens metadata over a 16-bit encoder and 20-pin connector for virtual production."
-    },
-    {
-      "id": "canon-uj25ex7-6b",
-      "lensType": "broadcast",
-      "manufacturerUrl": null,
-      "weightG": 1810,
-      "lengthMm": 225.4,
-      "frontDiameterMm": null,
-      "closeFocusM": 0.6,
-      "introductionYear": null,
-      "imageCircleMm": 11.0,
-      "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
-      "hasMacro": false,
-      "hasServoZoom": true,
-      "hasServoFocus": true,
-      "servoConnector": "20pin",
-      "formFactor": "box",
-      "sources": [
-        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
-      ],
-      "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
-      },
-      "webSources": [
-        "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
-      ],
-      "description": "A 2/3-inch 4K UHD studio box lens from Canon's UHD-DIGISUPER (UJ) line, this wide 25x lens covers a standard studio range with the series' fluorite and UD glass for beyond-4K, center-to-edge sharpness and HDR. It carries a built-in 2x extender and a 16-bit encoder for virtual studio systems, and shares the size, controls and accessories of Canon's HD box lenses for easy integration."
+      "description": "The autofocus version of Canon's flagship 122x UHD-DIGISUPER box lens, adding precise, customisable autofocus that has become important for 4K productions while keeping the optics of the standard UJ122x8.2B. It pairs fluorite and UD glass and advanced image stabilisation with a built-in 2x extender for extreme reach, and outputs accurate lens metadata over a 16-bit encoder and 20-pin connector for virtual production.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 5.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-uj27x6-5b",
@@ -1321,7 +1476,11 @@
         "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
         "https://asia.canon/en/business/uhd-digisuper-27/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD studio and field box lens from Canon's UHD-DIGISUPER (UJ) line, this wide-standard 27x lens pairs fluorite and UD glass with Canon's Constant Angle Focusing System to suppress focus breathing, holding a pin-sharp image through focus and zoom. Bright and compact, it supports HDR, carries a built-in 2x extender and a 20-pin virtual-studio connector, and fits both studio and heavy field workflows."
+      "description": "A 2/3-inch 4K UHD studio and field box lens from Canon's UHD-DIGISUPER (UJ) line, this wide-standard 27x lens pairs fluorite and UD glass with Canon's Constant Angle Focusing System to suppress focus breathing, holding a pin-sharp image through focus and zoom. Bright and compact, it supports HDR, carries a built-in 2x extender and a 20-pin virtual-studio connector, and fits both studio and heavy field workflows.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 2.2,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-uj66x9b",
@@ -1349,7 +1508,11 @@
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
         "https://asia.canon/en/pro-imaging/uhd-digisuper-66/main/product"
       ],
-      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this 66x sports lens covers a wide arena with a single optic, holding beyond-4K resolution and contrast from center to edge with HDR support. It carries a built-in 2x extender and a 16-bit encoder for virtual production, and matches the size and connectors of Canon's HD field lenses for drop-in integration."
+      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this 66x sports lens covers a wide arena with a single optic, holding beyond-4K resolution and contrast from center to edge with HDR support. It carries a built-in 2x extender and a 16-bit encoder for virtual production, and matches the size and connectors of Canon's HD field lenses for drop-in integration.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-uj86x9-3b",
@@ -1379,7 +1542,11 @@
         "https://www.bhphotovideo.com/c/product/1314025-REG/canon_uj86x9_3b_p01_dss_uhd_digisuper_86_broadcast.html",
         "https://asia.canon/en/business/uhd-digisuper-86-4k-premium/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this high-ratio 86x lens holds class-leading beyond-4K performance to the edge of the frame, with image stabilisation that keeps that quality steady through pans and vibration. It supports HDR and virtual systems via a 16-bit encoder, carries a built-in 2x extender, and shares connectors and protocols with Canon's HD broadcast lenses."
+      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this high-ratio 86x lens holds class-leading beyond-4K performance to the edge of the frame, with image stabilisation that keeps that quality steady through pans and vibration. It supports HDR and virtual systems via a 16-bit encoder, carries a built-in 2x extender, and shares connectors and protocols with Canon's HD broadcast lenses.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-uj90x9b",
@@ -1407,7 +1574,11 @@
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
         "https://asia.canon/en/business/uhd-digisuper-90/main/specification"
       ],
-      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this versatile 90x lens covers large sports arenas from a single position while sustaining 4K resolution even with image stabilisation engaged. It carries a built-in 2x extender and a 16-bit encoder for virtual systems, and matches HD field lenses in size and accessories so it slots into existing setups."
+      "description": "A 2/3-inch 4K UHD field box lens from Canon's UHD-DIGISUPER (UJ) line, this versatile 90x lens covers large sports arenas from a single position while sustaining 4K resolution even with image stabilisation engaged. It carries a built-in 2x extender and a 16-bit encoder for virtual systems, and matches HD field lenses in size and accessories so it slots into existing setups.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1433,7 +1604,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ],
-      "description": "The flagship of Canon's HD DIGISUPER field-box line, the 2/3-inch XJ100x9.3B reaches a 100x zoom range for the most demanding stadium and live-event coverage. It carries a built-in optical Shift-IS image stabilizer, the Power Optical System with X-Element and focus-breathing correction, plus sealing against dust, rain and radio interference, with an internal filter and a built-in 2x extender."
+      "description": "The flagship of Canon's HD DIGISUPER field-box line, the 2/3-inch XJ100x9.3B reaches a 100x zoom range for the most demanding stadium and live-event coverage. It carries a built-in optical Shift-IS image stabilizer, the Power Optical System with X-Element and focus-breathing correction, plus sealing against dust, rain and radio interference, with an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj22x7-3b",
@@ -1466,7 +1641,11 @@
         "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html",
         "http://hk.canon/en/business/digisuper-22-xs/main/specification"
       ],
-      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ22x7.3B is the compact, comparatively lightweight member of the group, built for studio and indoor production where a full-size box lens would be unwieldy. It offers a wide standard zoom range with full digital servo zoom and focus, an internal filter system and a built-in 2x extender."
+      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ22x7.3B is the compact, comparatively lightweight member of the group, built for studio and indoor production where a full-size box lens would be unwieldy. It offers a wide standard zoom range with full digital servo zoom and focus, an internal filter system and a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj23x7b",
@@ -1499,7 +1678,11 @@
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
-      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ23x7B pairs a wide standard zoom range with the steadiness of a full-size studio box for indoor and studio productions. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender."
+      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ23x7B pairs a wide standard zoom range with the steadiness of a full-size studio box for indoor and studio productions. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender.",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 1.95,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj25x6-8b",
@@ -1530,7 +1713,11 @@
         "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
         "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
       ],
-      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ25x6.8B offers a wide-to-standard zoom range for studio and indoor production. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender. Discontinued."
+      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ25x6.8B offers a wide-to-standard zoom range for studio and indoor production. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender. Discontinued.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 2.1,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj27x6-5b",
@@ -1563,7 +1750,11 @@
         "https://www.bhphotovideo.com/c/product/887254-REG/Canon_xj27x6_5b_lo_DIGISUPER_27_HD_Studio.html",
         "http://hk.canon/en/business/digisuper-27/main/specification"
       ],
-      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ27x6.5B is a wide-angle studio box that opens onto a broad field of view for tighter studio sets and indoor venues. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender."
+      "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ27x6.5B is a wide-angle studio box that opens onto a broad field of view for tighter studio sets and indoor venues. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 2.2,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj60x9b",
@@ -1593,7 +1784,11 @@
         "https://www.bhphotovideo.com/c/product/887586-REG/Canon_xj60x9b_ie_d_lo_XJ60x9BIE_D_LO_DIGISUPER.html",
         "https://asia.canon/en/business/digisuper-60-xs/main/specification"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ60x9B is built for stadium sports and outside-broadcast coverage, reaching well into telephoto from a stage-friendly wide end. Like the rest of the field-box range it uses Canon's Power Optical System with focus-breathing correction and supports virtual-production encoder outputs, with an internal filter system and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ60x9B is built for stadium sports and outside-broadcast coverage, reaching well into telephoto from a stage-friendly wide end. Like the rest of the field-box range it uses Canon's Power Optical System with focus-breathing correction and supports virtual-production encoder outputs, with an internal filter system and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj72x9-3b",
@@ -1622,7 +1817,11 @@
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ72x9.3B lifts the magnification for long-range stadium and live-event coverage. It shares the field-box family's Power Optical System and focus-breathing correction, with virtual-production encoder support, an internal filter system and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ72x9.3B lifts the magnification for long-range stadium and live-event coverage. It shares the field-box family's Power Optical System and focus-breathing correction, with virtual-production encoder support, an internal filter system and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.45,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1650,7 +1849,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ75x9.3B is a high-magnification long-throw lens for stadium sports and outside broadcast. It carries a built-in optical image stabilizer to steady the long telephoto end, alongside the family's Power Optical System, focus-breathing correction and virtual-production encoder support, with an internal filter and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ75x9.3B is a high-magnification long-throw lens for stadium sports and outside broadcast. It carries a built-in optical image stabilizer to steady the long telephoto end, alongside the family's Power Optical System, focus-breathing correction and virtual-production encoder support, with an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj76x9b",
@@ -1678,7 +1881,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "http://hk.canon/en/business/digisuper-76/main/specification"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ76x9B pairs a notably wide 9mm wide end with a high-magnification telephoto reach, letting a single lens cover a full stadium view or a tight detail. It shares the field-box family's Power Optical System and focus-breathing correction, with virtual-production encoder support, an internal filter and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ76x9B pairs a notably wide 9mm wide end with a high-magnification telephoto reach, letting a single lens cover a full stadium view or a tight detail. It shares the field-box family's Power Optical System and focus-breathing correction, with virtual-production encoder support, an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.45,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-xj80x8-8b",
@@ -1706,7 +1913,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "http://hk.canon/en/business/digisuper-80/main/specification"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ80x8.8B is a high-magnification long-throw lens for stadium sports and outside-broadcast coverage. It carries a built-in optical image stabilizer for the long telephoto end, alongside the field-box family's Power Optical System with X-Element and focus-breathing correction, an internal filter and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ80x8.8B is a high-magnification long-throw lens for stadium sports and outside-broadcast coverage. It carries a built-in optical image stabilizer for the long telephoto end, alongside the field-box family's Power Optical System with X-Element and focus-breathing correction, an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.55,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj86x13-5b",
@@ -1734,7 +1945,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x13.5B is the long-throw telephoto companion to the wider XJ86x9.3B, trading wide coverage for extreme reach into deep super-telephoto. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x13.5B is the long-throw telephoto companion to the wider XJ86x9.3B, trading wide coverage for extreme reach into deep super-telephoto. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": 5.8,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj86x9-3b",
@@ -1764,7 +1979,11 @@
         "https://alliedbroadcastgroup.com/product/canon-xj86x9-3b-ie-ii-9-3-800mm-digisuper-hd-telephoto-field-lens-w-semi-servo-controls-sled-additional/",
         "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B became one of the most widely used long field lenses in HD outside-broadcast fleets, pairing a wide-for-its-class start with high-magnification reach for stadium sports. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender; the XJ86x13.5B is its longer-throw companion."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B became one of the most widely used long field lenses in HD outside-broadcast fleets, pairing a wide-for-its-class start with high-magnification reach for stadium sports. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender; the XJ86x13.5B is its longer-throw companion.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1792,7 +2011,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B AF adds Canon's phase-detection autofocus to the popular XJ86x9.3B while keeping the same optics, easing subject tracking in fast live coverage. It shares the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B AF adds Canon's phase-detection autofocus to the popular XJ86x9.3B while keeping the same optics, easing subject tracking in fast live coverage. It shares the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj95x12-4b",
@@ -1820,7 +2043,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ95x12.4B is an ultra-long-throw telephoto box built for the longest reaches in stadium and live-event coverage, the tele-biased member of the DIGISUPER 95 pair. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ95x12.4B is an ultra-long-throw telephoto box built for the longest reaches in stadium and live-event coverage, the tele-biased member of the DIGISUPER 95 pair. It uses the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued.",
+      "maxApertureWide": 2.5,
+      "maxApertureTele": 6.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-xj95x8-6b",
@@ -1848,7 +2075,11 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
       ],
-      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ95x8.6B pairs a wider start with very high magnification for stadium sports and outside broadcast, the field-biased member of the DIGISUPER 95 pair. It carries a built-in optical image stabilizer alongside the family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender."
+      "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ95x8.6B pairs a wider start with very high magnification for stadium sports and outside broadcast, the field-biased member of the DIGISUPER 95 pair. It carries a built-in optical image stabilizer alongside the family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.1,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ha13x4-5",
@@ -1874,7 +2105,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's HA series, the company's Premier-grade HD ENG and EFP line and the HD predecessor to its 4K UA lenses. This wide-angle 13x lens is built for newsgathering and documentary field work, staying compact and light for handheld and shoulder use, with a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's HA series, the company's Premier-grade HD ENG and EFP line and the HD predecessor to its 4K UA lenses. This wide-angle 13x lens is built for newsgathering and documentary field work, staying compact and light for handheld and shoulder use, with a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -1900,7 +2135,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this ultra-wide 14x lens covers a very wide starting angle for newsgathering, documentary and sports field work where tight interiors and establishing shots matter. It stays compact and light for handheld and shoulder use, with a built-in extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this ultra-wide 14x lens covers a very wide starting angle for newsgathering, documentary and sports field work where tight interiors and establishing shots matter. It stays compact and light for handheld and shoulder use, with a built-in extender and digital servo drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -1926,7 +2165,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 16x lens pairs a wide starting angle with a useful telephoto reach for general newsgathering and field production. It stays light for handheld and shoulder use, with a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 16x lens pairs a wide starting angle with a useful telephoto reach for general newsgathering and field production. It stays light for handheld and shoulder use, with a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -1952,7 +2195,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this wide-range 18x lens holds a bright f/1.8 across most of its range and suits both sideline sports and studio or interview work. Its digital servo zoom and focus support full servo studio control, robotics and tower cams as well as handheld use, with a built-in 2x extender and a short close-focus distance for tight detail."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this wide-range 18x lens holds a bright f/1.8 across most of its range and suits both sideline sports and studio or interview work. Its digital servo zoom and focus support full servo studio control, robotics and tower cams as well as handheld use, with a built-in 2x extender and a short close-focus distance for tight detail.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -1978,7 +2225,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this standard-range 18x lens is a light, general-purpose ENG workhorse for newsgathering and field production. It stays compact for sustained handheld and shoulder use, with a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this standard-range 18x lens is a light, general-purpose ENG workhorse for newsgathering and field production. It stays compact for sustained handheld and shoulder use, with a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -2004,7 +2255,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 19x lens covers a standard-to-telephoto range for newsgathering and field work. It carries digital servo zoom and focus for handheld and full servo studio use, with a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 19x lens covers a standard-to-telephoto range for newsgathering and field work. It carries digital servo zoom and focus for handheld and full servo studio use, with a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -2030,7 +2285,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens extends a standard wide end to a long reach for sports and EFP field work. It carries digital servo zoom and focus for handheld and full servo studio control, with a built-in 2x extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens extends a standard wide end to a long reach for sports and EFP field work. It carries digital servo zoom and focus for handheld and full servo studio control, with a built-in 2x extender.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -2056,7 +2315,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens covers a standard-to-long range for newsgathering and field production while staying relatively light for shoulder use. It carries a built-in 2x extender and digital servo drive. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 22x lens covers a standard-to-long range for newsgathering and field production while staying relatively light for shoulder use. It carries a built-in 2x extender and digital servo drive. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.5,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -2082,7 +2345,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 23x lens reaches a long telephoto end from a standard wide for sports and EFP field work, while remaining portable enough for shoulder use. It carries a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this 23x lens reaches a long telephoto end from a standard wide for sports and EFP field work, while remaining portable enough for shoulder use. It carries a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.65,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -2108,7 +2375,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 25x lens reaches well into long-lens territory for sports, wildlife and documentary field work at distance, while staying light enough for handheld and shoulder use on a support. It carries a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this telephoto 25x lens reaches well into long-lens territory for sports, wildlife and documentary field work at distance, while staying light enough for handheld and shoulder use on a support. It carries a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -2134,7 +2405,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this super-telephoto 25x lens trades a wide angle of view for reach, with a narrow wide end opening onto a long telephoto for sports and wildlife coverage at distance. It carries a built-in 2x extender and digital servo drive."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's Premier-grade HA line, this super-telephoto 25x lens trades a wide angle of view for reach, with a narrow wide end opening onto a long telephoto for sports and wildlife coverage at distance. It carries a built-in 2x extender and digital servo drive.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha27x6-5",
@@ -2162,7 +2437,11 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
       ],
-      "description": "A 2/3-inch HD studio and field box lens from Fujinon's HA line, this 27x box zoom is built for fixed studio and field positions rather than handheld use, pairing a wide standard range with an internal filter system. It carries a built-in 2x extender and full digital servo zoom and focus for studio and robotic control."
+      "description": "A 2/3-inch HD studio and field box lens from Fujinon's HA line, this 27x box zoom is built for fixed studio and field positions rather than handheld use, pairing a wide standard range with an internal filter system. It carries a built-in 2x extender and full digital servo zoom and focus for studio and robotic control.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 2.2,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -2188,7 +2467,14 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this long-throw 42x lens reaches deep into telephoto territory for sports and outside-broadcast field work, while staying portable enough for shoulder and supported use. It carries a built-in 2x extender and digital servo zoom and focus."
+      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this long-throw 42x lens reaches deep into telephoto territory for sports and outside-broadcast field work, while staying portable enough for shoulder and supported use. It carries a built-in 2x extender and digital servo zoom and focus.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 5.2,
+      "apertureType": "f",
+      "hasIS": false,
+      "fieldNotes": {
+        "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
+      }
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -2214,7 +2500,14 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this 42x lens pairs a usefully wide start with a long telephoto reach for sports and field work, the wider-angle companion to the longer-throw HA42x13.5. It carries a built-in 2x extender and digital servo zoom and focus."
+      "description": "A 2/3-inch HD portable super-telephoto zoom from Fujinon's HA line, this 42x lens pairs a usefully wide start with a long telephoto reach for sports and field work, the wider-angle companion to the longer-throw HA42x13.5. It carries a built-in 2x extender and digital servo zoom and focus.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "hasIS": false,
+      "fieldNotes": {
+        "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
+      }
     },
     {
       "id": "fujinon-la16x8",
@@ -2240,7 +2533,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "The first lens in Fujinon's LA series of compact, affordable 4K broadcast zooms, a lightweight 16x for 2/3-inch cameras introduced in 2019. Its small, light body eases shoulder-mounted and remote-rig work, and it holds 4K optical performance across the zoom with HT-EBC coating for high transmittance and accurate colour. It has no built-in extender, keeping size and weight down."
+      "description": "The first lens in Fujinon's LA series of compact, affordable 4K broadcast zooms, a lightweight 16x for 2/3-inch cameras introduced in 2019. Its small, light body eases shoulder-mounted and remote-rig work, and it holds 4K optical performance across the zoom with HT-EBC coating for high transmittance and accurate colour. It has no built-in extender, keeping size and weight down.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-la30x7-8",
@@ -2266,34 +2563,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A compact, lightweight 4K broadcast zoom from Fujinon's affordable LA line, this portable 30x lens offers a class-leading zoom range for 2/3-inch cameras while staying light enough to ease shoulder-mounted work. A rear-focus mechanism keeps focus breathing minimal and operation quiet under camera autofocus, variable zoom speed spans fast sports moves to slow creative pulls, and a 16-bit encoder drive supports virtual and remote production. HT-EBC coating holds colour and transmittance across the range."
-    },
-    {
-      "id": "fujinon-la30x7-8brm-xb2",
-      "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
-      "weightG": 1700,
-      "lengthMm": 190.0,
-      "frontDiameterMm": 100,
-      "closeFocusM": 0.8,
-      "introductionYear": 2025,
-      "imageCircleMm": 11.0,
-      "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
-      "hasMacro": true,
-      "hasServoZoom": true,
-      "hasServoFocus": false,
-      "servoConnector": "20pin",
-      "formFactor": "portable",
-      "sources": [
-        "https://asset.fujifilm.com/www/au/files/2025-09/2dcc3885de26654c4322767dc7598f11/la30_a4_en_250815.pdf"
-      ],
-      "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
-      ],
-      "fieldNotes": null,
-      "description": "The XB2 version of Fujinon's compact 30x LA-series 4K broadcast zoom, sharing the base lens's portable body, rear-focus mechanism and class-leading range while adding an expansion connector for virtual and remote production. It holds 4K across the zoom with HT-EBC coating, runs variable zoom speeds for sports and creative work, and feeds accurate lens data through 16-bit encoders."
+      "description": "A compact, lightweight 4K broadcast zoom from Fujinon's affordable LA line, this portable 30x lens offers a class-leading zoom range for 2/3-inch cameras while staying light enough to ease shoulder-mounted work. A rear-focus mechanism keeps focus breathing minimal and operation quiet under camera autofocus, variable zoom speed spans fast sports moves to slow creative pulls, and a 16-bit encoder drive supports virtual and remote production. HT-EBC coating holds colour and transmittance across the range.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 3.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -2319,7 +2593,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A flagship 4K box lens from Fujinon's UA Premier line, launched as the world's highest zoom ratio at 107x and built to cover an entire field of play from wide to super-telephoto without giving up image quality or HDR range. OS-TECH optical image stabilisation steadies long shots, a floating focus holds sharpness across the zoom, and a 9-blade iris renders natural bokeh; a built-in 2x extender adds further reach."
+      "description": "A flagship 4K box lens from Fujinon's UA Premier line, launched as the world's highest zoom ratio at 107x and built to cover an entire field of play from wide to super-telephoto without giving up image quality or HDR range. OS-TECH optical image stabilisation steadies long shots, a floating focus holds sharpness across the zoom, and a 9-blade iris renders natural bokeh; a built-in 2x extender adds further reach.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -2345,7 +2623,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "The autofocus version of Fujinon's flagship 107x 4K box lens, adding an autofocus system usable on air, a 0.7-second quick-zoom for focus checks, zoom and focus presets, self-diagnostics and automatic breathing compensation. Optically identical to the standard UA107x8.4, it pairs OS-TECH stabilisation and floating focus with a built-in 2x extender and lens-data output for virtual and compositing systems."
+      "description": "The autofocus version of Fujinon's flagship 107x 4K box lens, adding an autofocus system usable on air, a 0.7-second quick-zoom for focus checks, zoom and focus presets, self-diagnostics and automatic breathing compensation. Optically identical to the standard UA107x8.4, it pairs OS-TECH stabilisation and floating focus with a built-in 2x extender and lens-data output for virtual and compositing systems.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua125x8",
@@ -2371,7 +2653,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "The most powerful box lens in Fujinon's UA Premier line, its 125x range built around an integrated doubler to reach extreme telephoto for live sports and large shows on 2/3-inch 4K cameras. It carries the Premier box hallmarks of 4K HDR imaging, image stabilisation and a 16-bit encoder, holding resolution and contrast across an exceptionally long zoom."
+      "description": "The most powerful box lens in Fujinon's UA Premier line, its 125x range built around an integrated doubler to reach extreme telephoto for live sports and large shows on 2/3-inch 4K cameras. It carries the Premier box hallmarks of 4K HDR imaging, image stabilisation and a 16-bit encoder, holding resolution and contrast across an exceptionally long zoom.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 5.0,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -2397,7 +2683,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "An ultra-wide 13x zoom from Fujinon's UA 4K Premier broadcast line for 2/3-inch cameras. Large-diameter aspherical elements hold center-to-corner 4K resolution across the zoom range while keeping distortion in check, and Fujinon's HT-EBC coating lifts colour and transmittance. It supports HDR, carries a built-in 2x extender, and uses a digital servo drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "An ultra-wide 13x zoom from Fujinon's UA 4K Premier broadcast line for 2/3-inch cameras. Large-diameter aspherical elements hold center-to-corner 4K resolution across the zoom range while keeping distortion in check, and Fujinon's HT-EBC coating lifts colour and transmittance. It supports HDR, carries a built-in 2x extender, and uses a digital servo drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -2423,7 +2713,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A compact ultra-wide 14x zoom from Fujinon's UA 4K Premier line, short enough in the body to work close to the action with a real sense of depth in live sports and on-location production. It resolves 4K across the zoom range with HT-EBC coating and HDR support, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
+      "description": "A compact ultra-wide 14x zoom from Fujinon's UA 4K Premier line, short enough in the body to work close to the action with a real sense of depth in live sports and on-location production. It resolves 4K across the zoom range with HT-EBC coating and HDR support, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua16x4berd",
@@ -2450,7 +2744,11 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
       "fieldNotes": null,
-      "description": "An ultra-wide 16x zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive unit and 16-bit encoders that feed accurate lens data to virtual and AR production systems. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch controllers."
+      "description": "An ultra-wide 16x zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive unit and 16-bit encoders that feed accurate lens data to virtual and AR production systems. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -2476,7 +2774,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A lightweight wide-angle 18x zoom from Fujinon's UA 4K Premier line, built for high-mobility work such as news gathering and on-location production where a wide starting angle and low weight matter. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
+      "description": "A lightweight wide-angle 18x zoom from Fujinon's UA 4K Premier line, built for high-mobility work such as news gathering and on-location production where a wide starting angle and low weight matter. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -2502,7 +2804,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "Fujinon's standard 4K HDR workhorse in the UA Premier line, an 18x zoom that spans broadcast news gathering through studio use on 2/3-inch cameras. It resolves 4K center-to-corner across the zoom range with HT-EBC coating and HDR support, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "Fujinon's standard 4K HDR workhorse in the UA Premier line, an 18x zoom that spans broadcast news gathering through studio use on 2/3-inch cameras. It resolves 4K center-to-corner across the zoom range with HT-EBC coating and HDR support, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua22x4-8",
@@ -2528,7 +2834,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A recent ultra-wide 22x ENG zoom from Fujinon's UA 4K Premier line, pairing a wide starting angle with a long reach for versatile field work. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers."
+      "description": "A recent ultra-wide 22x ENG zoom from Fujinon's UA 4K Premier line, pairing a wide starting angle with a long reach for versatile field work. It resolves 4K across the zoom range with HDR support and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.15,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua22x8",
@@ -2554,7 +2864,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A compact, lightweight portable 22x zoom from Fujinon's UA 4K Premier line, well suited to live sport, indoor and outdoor program production, and news reporting. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris."
+      "description": "A compact, lightweight portable 22x zoom from Fujinon's UA 4K Premier line, well suited to live sport, indoor and outdoor program production, and news reporting. It resolves 4K across the zoom range with HDR and HT-EBC coating, pairs a built-in 2x extender with a digital servo drive, and renders natural bokeh from its 9-blade iris.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.55,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -2580,7 +2894,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 23x wide-to-telephoto ENG zoom from Fujinon's UA 4K Premier line, compact and light with a fast aperture for natural bokeh. Its BERD drive carries 16-bit encoders for virtual production, and an updated ergonomic handle with smooth gearing aids precise servo control. It resolves 4K across the zoom range with HDR and HT-EBC coating and carries a built-in 2x extender."
+      "description": "A 23x wide-to-telephoto ENG zoom from Fujinon's UA 4K Premier line, compact and light with a fast aperture for natural bokeh. Its BERD drive carries 16-bit encoders for virtual production, and an updated ergonomic handle with smooth gearing aids precise servo control. It resolves 4K across the zoom range with HDR and HT-EBC coating and carries a built-in 2x extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.65,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -2606,7 +2924,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A standard-to-telephoto 24x zoom from Fujinon's UA 4K Premier line for 2/3-inch broadcast cameras, extending a standard wide end to a longer reach for ENG and field production. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch controllers."
+      "description": "A standard-to-telephoto 24x zoom from Fujinon's UA 4K Premier line for 2/3-inch broadcast cameras, extending a standard wide end to a longer reach for ENG and field production. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo drive compatible with standard 2/3-inch controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.85,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -2632,7 +2954,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "An ultra-wide 27x studio zoom from Fujinon's UA 4K Premier line, built in a studio form with a 16-bit encoder and precision-servo compatibility for repeatable digital control from paint boxes and studio systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, carries a 2x extender, and renders natural bokeh from its 9-blade iris."
+      "description": "An ultra-wide 27x studio zoom from Fujinon's UA 4K Premier line, built in a studio form with a 16-bit encoder and precision-servo compatibility for repeatable digital control from paint boxes and studio systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, carries a 2x extender, and renders natural bokeh from its 9-blade iris.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 2.2,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua30x7-3berd",
@@ -2661,7 +2987,11 @@
       "fieldNotes": {
         "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
       },
-      "description": "A 30x ENG and field zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive and 16-bit encoders that feed lens data to virtual studio and AR tracking systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch broadcast controllers."
+      "description": "A 30x ENG and field zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive and 16-bit encoders that feed lens data to virtual studio and AR tracking systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch broadcast controllers.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -2687,7 +3017,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, trading the wider sibling's starting angle for greater telephoto reach while keeping OS-TECH optical image stabilisation for steady work away from a tripod. It resolves 4K across the zoom range with HDR and HT-EBC coating, and carries a built-in 2x extender for extended reach."
+      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, trading the wider sibling's starting angle for greater telephoto reach while keeping OS-TECH optical image stabilisation for steady work away from a tripod. It resolves 4K across the zoom range with HDR and HT-EBC coating, and carries a built-in 2x extender for extended reach.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 5.5,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -2713,7 +3047,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, billed as the widest-angle lens in its class for its reach and carrying OS-TECH optical image stabilisation for steady handheld and unstable-platform work. With a fast aperture and a 9-blade iris it suits 4K sports, nature documentary and news, resolving 4K across the zoom with HDR and HT-EBC coating and a built-in 2x extender."
+      "description": "A portable long-throw 46x zoom from Fujinon's UA 4K Premier line, billed as the widest-angle lens in its class for its reach and carrying OS-TECH optical image stabilisation for steady handheld and unstable-platform work. With a fast aperture and a 9-blade iris it suits 4K sports, nature documentary and news, resolving 4K across the zoom with HDR and HT-EBC coating and a built-in 2x extender.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.9,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -2739,7 +3077,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "An economical 4K box lens from Fujinon's UA Premier line, its 70x range running from a wide venue view straight into a distant subject for sports, concerts and house-of-worship live production. A floating focus system holds high resolution across the zoom, with HDR and HT-EBC coating and a built-in 2x extender; it is a substantial, mount-bound optic rather than a shoulder lens."
+      "description": "An economical 4K box lens from Fujinon's UA Premier line, its 70x range running from a wide venue view straight into a distant subject for sports, concerts and house-of-worship live production. A floating focus system holds high resolution across the zoom, with HDR and HT-EBC coating and a built-in 2x extender; it is a substantial, mount-bound optic rather than a shoulder lens.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.05,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-ua80x9",
@@ -2765,7 +3107,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "An iconic 4K sports box lens from Fujinon's UA Premier line, its 80x range built to cover a full field of action. It carries optical image stabilisation, a 16-bit encoder for virtual production, and both 1.2x and 2x extenders for extra reach, resolving 4K across the zoom with HDR, HT-EBC coating and a 9-blade iris for natural bokeh."
+      "description": "An iconic 4K sports box lens from Fujinon's UA Premier line, its 80x range built to cover a full field of action. It carries optical image stabilisation, a 16-bit encoder for virtual production, and both 1.2x and 2x extenders for extra reach, resolving 4K across the zoom with HDR, HT-EBC coating and a 9-blade iris for natural bokeh.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-ua94x8-7besm",
@@ -2792,7 +3138,11 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
       ],
       "fieldNotes": null,
-      "description": "A high-ratio 94x 4K box lens in Fujinon's UA Premier line, a studio and field optic listed as under development in Fujinon's product guide. In line with the Premier box range it is built for 4K HDR with image stabilisation, a 16-bit encoder and a built-in extender, aimed at the long reach that live sports and large-venue events demand."
+      "description": "A high-ratio 94x 4K box lens in Fujinon's UA Premier line, a studio and field optic listed as under development in Fujinon's product guide. In line with the Premier box range it is built for 4K HDR with image stabilisation, a 16-bit encoder and a built-in extender, aimed at the long reach that live sports and large-venue events demand.",
+      "maxApertureWide": "unknown",
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -2820,7 +3170,11 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
       ],
-      "description": "The Fujinon XA101x8.9 is among the highest-magnification lenses in the HD eXceed field-box line, a 2/3-inch super-telephoto built for the longest reaches in stadium and live-event coverage. It shares the range's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
+      "description": "The Fujinon XA101x8.9 is among the highest-magnification lenses in the HD eXceed field-box line, a 2/3-inch super-telephoto built for the longest reaches in stadium and live-event coverage. It shares the range's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -2846,7 +3200,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the company's cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production, with a built-in 2x extender, servo zoom and internal focus to keep framing steady through focus pulls. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the company's cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production, with a built-in 2x extender, servo zoom and internal focus to keep framing steady through focus pulls. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -2872,7 +3230,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production and forgoes a built-in extender to stay lighter and simpler, with servo zoom and internal focus for steady framing. Discontinued."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, the cost-effective standard HD ENG line. This 17x lens covers a standard wide-to-telephoto range for newsgathering and field production and forgoes a built-in extender to stay lighter and simpler, with servo zoom and internal focus for steady framing. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -2898,7 +3260,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, this 20x lens is one of the most widely used standard ENG zooms on 2/3-inch cameras, covering a versatile wide-to-telephoto range for newsgathering, sports, documentary and studio work. It holds a fast f/1.8 across most of its range for low light, with servo zoom, internal focus to suppress breathing, and Fujinon's QuickZoom for an instant focus check at the telephoto end. This base variant carries no optical extender."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series, this 20x lens is one of the most widely used standard ENG zooms on 2/3-inch cameras, covering a versatile wide-to-telephoto range for newsgathering, sports, documentary and studio work. It holds a fast f/1.8 across most of its range for low light, with servo zoom, internal focus to suppress breathing, and Fujinon's QuickZoom for an instant focus check at the telephoto end. This base variant carries no optical extender.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa20sx8-5bemd",
@@ -2924,7 +3290,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of the extender-equipped 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a wide-to-telephoto range doubled by its built-in 2x extender, with internal focus to keep framing steady."
+      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of the extender-equipped 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a wide-to-telephoto range doubled by its built-in 2x extender, with internal focus to keep framing steady.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -2950,7 +3320,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series and the extender-equipped version of Fujinon's widely used 20x standard ENG zoom. It covers a versatile wide-to-telephoto range doubled by its built-in 2x extender, with a fast f/1.8 across most of the range, an ergonomic servo zoom grip, internal focus and Fujinon's QuickZoom for instant telephoto focus checks. Suited to newsgathering, sports, live production and studio work."
+      "description": "A 2/3-inch HD portable broadcast zoom from Fujinon's XA eXceed series and the extender-equipped version of Fujinon's widely used 20x standard ENG zoom. It covers a versatile wide-to-telephoto range doubled by its built-in 2x extender, with a fast f/1.8 across most of the range, an ergonomic servo zoom grip, internal focus and Fujinon's QuickZoom for instant telephoto focus checks. Suited to newsgathering, sports, live production and studio work.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa20sx8-5bmd",
@@ -2976,7 +3350,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of Fujinon's 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a versatile wide-to-telephoto range and forgoes a built-in extender to stay lighter."
+      "description": "A 2/3-inch HD broadcast zoom from Fujinon's XA eXceed series, the motor-drive remote-control version of Fujinon's 20x standard ENG zoom, sharing its optics. Built for remote and robotic operation rather than a handheld servo grip, it suits fixed and remotely controlled rigs at venues, studios and sports facilities. It covers a versatile wide-to-telephoto range and forgoes a built-in extender to stay lighter.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.7,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa22x7",
@@ -3002,7 +3380,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD studio box lens from Fujinon's XA eXceed series, this 22x box zoom is built for fixed studio and field positions rather than handheld use, pairing a standard wide-to-telephoto range with an internal filter system and full digital servo zoom and focus for studio and remote control. Discontinued."
+      "description": "A 2/3-inch HD studio box lens from Fujinon's XA eXceed series, this 22x box zoom is built for fixed studio and field positions rather than handheld use, pairing a standard wide-to-telephoto range with an internal filter system and full digital servo zoom and focus for studio and remote control. Discontinued.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -3028,7 +3410,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed line, the XA55x9.5 sits at the wide-zoom-ratio end of the Digipower box-tele range and is built for the telephoto reach that live sports, concerts and stage productions need. It comes with Fujinon's OS-TECH optical image stabilization as standard to steady the long end against wind and unstable platforms, plus a built-in 2x extender, EBC coating and an anti-fogging design for dependable outdoor use."
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed line, the XA55x9.5 sits at the wide-zoom-ratio end of the Digipower box-tele range and is built for the telephoto reach that live sports, concerts and stage productions need. It comes with Fujinon's OS-TECH optical image stabilization as standard to steady the long end against wind and unstable platforms, plus a built-in 2x extender, EBC coating and an anti-fogging design for dependable outdoor use.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -3054,7 +3440,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA66x9.3 lifts the magnification a step up for stadium and large-venue coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA66x9.3 lifts the magnification a step up for stadium and large-venue coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -3080,7 +3470,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA72x9.3 is aimed at sports and studio productions that need to pull in distant action. It holds a fast f/1.7 aperture well into its zoom range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. Discontinued."
+      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA72x9.3 is aimed at sports and studio productions that need to pull in distant action. It holds a fast f/1.7 aperture well into its zoom range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -3106,7 +3500,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "Fujinon positions the XA77x9.5 as the price/performance benchmark of its HD eXceed field-box line, a 2/3-inch long-throw lens for large venues and sporting events. Standard OS-TECH optical stabilization, an anti-fogging design and EBC coating keep it steady and clean in the field, with a built-in 2x extender and 16-bit encoder output for virtual-production and remote work."
+      "description": "Fujinon positions the XA77x9.5 as the price/performance benchmark of its HD eXceed field-box line, a 2/3-inch long-throw lens for large venues and sporting events. Standard OS-TECH optical stabilization, an anti-fogging design and EBC coating keep it steady and clean in the field, with a built-in 2x extender and 16-bit encoder output for virtual-production and remote work.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -3132,7 +3530,14 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA87x9.3 reaches deep into super-telephoto territory for stadium and long-range event coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued."
+      "description": "A 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA87x9.3 reaches deep into super-telephoto territory for stadium and long-range event coverage. It shares the line's standard OS-TECH optical stabilization, built-in 2x extender, EBC coating and anti-fogging build. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.1,
+      "apertureType": "f",
+      "hasIS": false,
+      "fieldNotes": {
+        "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
+      }
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -3158,7 +3563,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA88x8.8 is built for long-range sports and big-venue event coverage. Like its siblings it pairs standard OS-TECH optical stabilization with a built-in 2x extender, EBC coating and an anti-fogging design. Discontinued."
+      "description": "A high-magnification 2/3-inch HD field box lens from Fujinon's eXceed Digipower range, the XA88x8.8 is built for long-range sports and big-venue event coverage. Like its siblings it pairs standard OS-TECH optical stabilization with a built-in 2x extender, EBC coating and an anti-fogging design. Discontinued.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -3184,7 +3593,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "Marketed as the Digipower 99, the Fujinon XA99x8.4 is one of the highest-magnification 2/3-inch HD field box lenses in the eXceed line, built for EFP and long-range sports coverage. It holds a fast f/1.7 aperture across much of its range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. End of life."
+      "description": "Marketed as the Digipower 99, the Fujinon XA99x8.4 is one of the highest-magnification 2/3-inch HD field box lenses in the eXceed line, built for EFP and long-range sports coverage. It holds a fast f/1.7 aperture across much of its range and carries the family's standard OS-TECH optical stabilization, built-in 2x extender and EBC coating. End of life.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 4.15,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "fujinon-za12x4-5",
@@ -3210,7 +3623,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A super-wide-angle lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras. Its wide 12x range suits news, documentary and live sport, and improved control of chromatic aberration and distortion keeps the image clean. A DIGI POWER digital servo grip with 16-bit encoders supports manual, studio, robotic and remote control."
+      "description": "A super-wide-angle lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras. Its wide 12x range suits news, documentary and live sport, and improved control of chromatic aberration and distortion keeps the image clean. A DIGI POWER digital servo grip with 16-bit encoders supports manual, studio, robotic and remote control.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-za17x7-6",
@@ -3236,7 +3653,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "A standard-range 17x lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras, a general-purpose news and field lens. It pairs solid HD optical performance with a DIGI POWER digital servo and 16-bit encoders for virtual systems, and a built-in 2x extender adds reach."
+      "description": "A standard-range 17x lens from Fujinon's value-priced ZA Select line of HD ENG/EFP zooms for 2/3-inch cameras, a general-purpose news and field lens. It pairs solid HD optical performance with a DIGI POWER digital servo and 16-bit encoders for virtual systems, and a built-in 2x extender adds reach.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.3,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "fujinon-za22x7-6",
@@ -3262,7 +3683,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
-      "description": "The high-power member of Fujinon's value-priced ZA Select line of HD ENG/EFP zooms, a 22x lens for 2/3-inch cameras with a fast aperture and an ergonomic digital grip. It suits news, documentary and live sport, with inner focus, quick zoom and a zoom limit, a built-in 2x extender for reach, and 16-bit encoders for virtual systems."
+      "description": "The high-power member of Fujinon's value-priced ZA Select line of HD ENG/EFP zooms, a 22x lens for 2/3-inch cameras with a fast aperture and an ergonomic digital grip. It suits news, documentary and live sport, with inner focus, quick zoom and a zoom limit, a built-in 2x extender for reach, and 16-bit encoders for virtual systems.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.5,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "nikon-s13x9",
@@ -3288,7 +3713,11 @@
       "webSources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
       ],
-      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, a standard-definition-era series of ENG zooms for professional video cameras. The S13x9 covers a standard zoom range with a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and now uncommon."
+      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, a standard-definition-era series of ENG zooms for professional video cameras. The S13x9 covers a standard zoom range with a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and now uncommon.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "nikon-s15x8-5b",
@@ -3314,7 +3743,11 @@
       "webSources": [
         "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
       ],
-      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, the S15x8.5B uses Nikon's ED low-dispersion glass and a fast maximum aperture, a parfocal standard zoom well regarded for optical quality that rivals entry-level HD glass. It carries a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and sought-after on the used market."
+      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, the S15x8.5B uses Nikon's ED low-dispersion glass and a fast maximum aperture, a parfocal standard zoom well regarded for optical quality that rivals entry-level HD glass. It carries a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and sought-after on the used market.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "nikon-s19x8",
@@ -3340,7 +3773,11 @@
       "webSources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
       ],
-      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, the S19x8 pairs Nikon's ED low-dispersion glass with a longer telephoto reach for field and sports work. It carries a built-in 2x extender; like the rest of the line it is a standard-definition-era design, long discontinued and now uncommon."
+      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, the S19x8 pairs Nikon's ED low-dispersion glass with a longer telephoto reach for field and sports work. It carries a built-in 2x extender; like the rest of the line it is a standard-definition-era design, long discontinued and now uncommon.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "nikon-s9x5-5b",
@@ -3366,7 +3803,11 @@
       "webSources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
       ],
-      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, a standard-definition-era series of ENG zooms for professional video cameras. The S9x5.5B is the wide-angle member, with a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and now uncommon."
+      "description": "A 2/3-inch B4-mount broadcast zoom from Nikon's TV-Nikkor line, a standard-definition-era series of ENG zooms for professional video cameras. The S9x5.5B is the wide-angle member, with a built-in 2x extender and full servo zoom; like the rest of the line it is long discontinued and now uncommon.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "zeiss-digizoom-17-112",
@@ -3394,7 +3835,11 @@
         "https://www.bhphotovideo.com/c/product/674640-REG/Zeiss_1531_502_DigiZoom_17_112mm_T1_9.html",
         "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
       ],
-      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, the telephoto companion to the 6-24mm and designed to match the DigiPrime primes for 2/3-inch digital cinematography. It holds a constant T1.9 aperture across its range, with manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued."
+      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, the telephoto companion to the 6-24mm and designed to match the DigiPrime primes for 2/3-inch digital cinematography. It holds a constant T1.9 aperture across its range, with manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-digizoom-6-24",
@@ -3422,7 +3867,11 @@
         "https://www.bhphotovideo.com/c/product/674636-REG/Zeiss_1262_604_DigiZoom_6_24mm_T1_9.html",
         "https://visualproducts.com/product/zeiss-digizoom-6-24mm-17-112mm-set-in-b4-mount/"
       ],
-      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, designed to match the DigiPrime primes as part of Zeiss's lens system for 2/3-inch digital cinematography. The 6-24mm is the wide-angle zoom, with a constant T1.9 aperture, manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued."
+      "description": "A 2/3-inch B4-mount cine-style zoom from Zeiss's DigiZoom line, designed to match the DigiPrime primes as part of Zeiss's lens system for 2/3-inch digital cinematography. The 6-24mm is the wide-angle zoom, with a constant T1.9 aperture, manual cine-pitch gears and matte-box filtering rather than broadcast servo control; now discontinued.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

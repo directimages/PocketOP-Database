@@ -1,5 +1,5 @@
 {
-  "version": "1.31.1",
+  "version": "1.32.0",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -8,8 +8,8 @@
       "series": "T",
       "generation": "HD",
       "focalLengthMin": 5.3,
-      "focalLengthMax": 63.6,
-      "zoomRatio": 12.0,
+      "focalLengthMax": 64.0,
+      "zoomRatio": 12.08,
       "extenderFactor": 2.0,
       "sensorFormat": "twoThirdsInch",
       "mount": "B4",
@@ -58,7 +58,7 @@
     {
       "id": "angenieux-t26x7-8b",
       "manufacturer": "Angénieux",
-      "model": "T26x7.8BESMD AIF HR",
+      "model": "T26x7.8BESMD HD",
       "series": "T",
       "generation": "HD",
       "focalLengthMin": 7.8,
@@ -829,24 +829,6 @@
       "addedDate": null
     },
     {
-      "id": "canon-uj25ex7-6b",
-      "manufacturer": "Canon",
-      "model": "UJ25ex7.6B",
-      "series": "UJ",
-      "generation": "4K UHD",
-      "focalLengthMin": 7.6,
-      "focalLengthMax": 190.0,
-      "zoomRatio": 25.0,
-      "extenderFactor": 2.0,
-      "sensorFormat": "twoThirdsInch",
-      "mount": "B4",
-      "isPTZ": false,
-      "isFree": false,
-      "notes": "Studio wide box.",
-      "isCustom": false,
-      "addedDate": null
-    },
-    {
       "id": "canon-uj27x6-5b",
       "manufacturer": "Canon",
       "model": "UJ27x6.5B",
@@ -1475,24 +1457,6 @@
       "notes": "4K compact remote lens. No optical extender. 16-bit absolute encoders for virtual production. Shipping Oct 2025. HFOV 63.2° wide, 2.3° tele.",
       "isCustom": false,
       "addedDate": null
-    },
-    {
-      "id": "fujinon-la30x7-8brm-xb2",
-      "manufacturer": "Fujinon",
-      "model": "LA30x7.8BRM-XB2",
-      "series": "LA",
-      "generation": "4K UHD",
-      "focalLengthMin": 7.8,
-      "focalLengthMax": 234.0,
-      "zoomRatio": 30.0,
-      "extenderFactor": 1.0,
-      "sensorFormat": "twoThirdsInch",
-      "mount": "B4",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "4K portable broadcast zoom. New drive unit with 16-bit encoders for virtual and remote production. XB2 variant adds expansion connector for virtual/remote production.",
-      "addedDate": "2026-06-09"
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -2163,7 +2127,7 @@
     {
       "id": "nikon-s13x9",
       "manufacturer": "Nikon",
-      "model": "S13x9-EMS",
+      "model": "S13x9B1-EMS-20",
       "series": "TV-Nikkor",
       "generation": "SD",
       "focalLengthMin": 9.0,
@@ -2174,7 +2138,7 @@
       "mount": "B4",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Approximate model designation. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Discontinued. HFOV ~56.1° wide, ~4.7° tele [CALC].",
       "isCustom": false,
       "addedDate": null
     },
@@ -2199,7 +2163,7 @@
     {
       "id": "nikon-s19x8",
       "manufacturer": "Nikon",
-      "model": "ED S19x8",
+      "model": "S19x8B",
       "series": "TV-Nikkor",
       "generation": "SD",
       "focalLengthMin": 8.0,
@@ -2228,7 +2192,7 @@
       "mount": "B4",
       "isPTZ": false,
       "isFree": false,
-      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. Focal range estimated. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
+      "notes": "Nikon TV-Nikkor B4-mount broadcast zoom. SD era. 2x extender likely. Discontinued. HFOV ~82.2° wide, ~11.1° tele [CALC].",
       "isCustom": false,
       "addedDate": null
     },
@@ -2240,7 +2204,7 @@
       "generation": "HD",
       "focalLengthMin": 17.0,
       "focalLengthMax": 112.0,
-      "zoomRatio": 6.5,
+      "zoomRatio": 6.59,
       "extenderFactor": 1.0,
       "sensorFormat": "twoThirdsInch",
       "mount": "B4",
@@ -2269,5 +2233,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-06-20"
+  "updatedAt": "2026-07-23"
 }

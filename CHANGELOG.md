@@ -3,6 +3,12 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.33.0 — 2026-07-23
+
+- Broadcast core datafixes (6): angenieux-t12x5-3b focalLengthMax 63.6 -> 64.0, zoomRatio 12.0 -> 12.08 (64.0/5.3); angenieux-t26x7-8b model "T26x7.8BESMD AIF HR" -> "T26x7.8BESMD HD"; nikon-s13x9 model "S13x9-EMS" -> "S13x9B1-EMS-20", notes dropped "Approximate model designation."; nikon-s19x8 model "ED S19x8" -> "S19x8B"; nikon-s9x5-5b notes "Focal range estimated. 2x extender likely." -> "2x extender likely." (focal range now barrel-confirmed); zeiss-digizoom-17-112 zoomRatio 6.5 -> 6.59 (112/17)
+- Two broadcast entries removed: canon-uj25ex7-6b (confirmed phantom; canon-cj25ex7-6b is the canonical entry), fujinon-la30x7-8brm-xb2 (confirmed duplicate; XB2 semi-servo-kit variant of fujinon-la30x7-8, which stays). Broadcast entry count 126 -> 124
+- broadcast_lenses.json split bumped to v1.32.0 (same datafixes and deletions)
+
 ### v1.32.1 - 2026-06-20
 
 - canon-hj15ex8-5b: extenderFactor corrected 2.0 -> 1.0. No built-in extender (Kay-verified vs Canon, B&H, Adorama, AbelCine; the 4K twin canon-cj15ex8-5b was already 1.0). Single-field core correction
@@ -123,6 +129,12 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.53.0 — 2026-07-23
+
+- Broadcast aperture/IS batch: maxApertureWide, maxApertureTele, apertureType and hasIS populated for all 124 broadcast lenses via build/apply_fields.py. First population of these fields for broadcast; schema-registered and gated, now filled. Values Kay-supplied and verified (broadcast aperture/IS B5 consolidation). 499 fields applied to 124 ids across 5 shards, zero orphans (pre-flight verified against db-v10)
+- fieldNotes.hasIS added on three Fujinon entries: fujinon-ha42x9-7, fujinon-ha42x13-5 (OS-TECH optical image stabilization offered on the U48/G48 factory variants; standard S48/F48 have none), fujinon-xa87x9-3 (available with Fujinon's internal image stabilization as a factory option)
+- Two entries removed to match the core deletions: canon-uj25ex7-6b, fujinon-la30x7-8brm-xb2
+
 ### v1.52.0 - 2026-06-20
 
 - Broadcast description population (Fase 1): 126 user-facing description fields applied across broadcast_details_angenieux / canon / fujinon / nikon / zeiss via build/apply_descriptions.py. Additive field population only; prose imported verbatim from the staged pass blocks, no other field touched. The legacy lens-details union strips description by the freeze, so it stays byte-identical and is not bumped
@@ -152,6 +164,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.51.0 — 2026-07-23
+
+- Legacy union rebuild aggregating the broadcast_lens_details v1.53.0 aperture/IS batch above. maxApertureWide/maxApertureTele/apertureType/hasIS are outside the legacy whitelist and do not surface here; the three fieldNotes.hasIS additions do (fieldNotes is whitelisted). Two entries removed (canon-uj25ex7-6b, fujinon-la30x7-8brm-xb2)
+
 ### v1.50.0 — 2026-06-19
 
 - Legacy union rebuild aggregating the broadcast_lens_details v1.51.0 Canon CJ25ex7.6B sidecar import above. No cine change. One new entry (`canon-cj25ex7-6b`)
