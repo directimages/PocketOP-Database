@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
+  "version": "1.35.0",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -5509,7 +5509,7 @@
       "addedDate": null
     },
     {
-      "id": "dzofilm-tango-18-90mm-t2-9-e",
+      "id": "dzofilm-tango-18-90mm-t2-9-pl",
       "manufacturer": "DZOFilm",
       "model": "Tango 18-90mm T2.9",
       "series": "Tango",
@@ -5519,7 +5519,7 @@
       "zoomRatio": 5.0,
       "extenderFactor": 1.0,
       "sensorFormat": "superThirtyFive",
-      "mount": "E",
+      "mount": "PL",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
@@ -6445,24 +6445,6 @@
       "addedDate": null
     },
     {
-      "id": "fujinon-mk18-55mm-t2-9",
-      "manufacturer": "Fujinon",
-      "model": "MK 18-55mm T2.9",
-      "series": "MK",
-      "generation": "4K UHD",
-      "focalLengthMin": 18.0,
-      "focalLengthMax": 55.0,
-      "zoomRatio": 3.06,
-      "extenderFactor": 1.0,
-      "sensorFormat": "superThirtyFive",
-      "mount": "EF",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "Compact cine zoom for cinema cameras, EF mount. Also available in MFT mount. Super 35 coverage. Popular on BMPCC 6K. Source: fujifilm.com.",
-      "addedDate": null
-    },
-    {
       "id": "fujinon-mk18-55mm-t2-9-e",
       "manufacturer": "Fujinon",
       "model": "MK 18-55mm T2.9",
@@ -6478,24 +6460,6 @@
       "isFree": false,
       "isCustom": false,
       "notes": "Compact cine zoom for cinema cameras, EF mount. Also available in MFT mount. Super 35 coverage. Popular on BMPCC 6K. Source: fujifilm.com.",
-      "addedDate": null
-    },
-    {
-      "id": "fujinon-mk50-135mm-t2-9",
-      "manufacturer": "Fujinon",
-      "model": "MK 50-135mm T2.9",
-      "series": "MK",
-      "generation": "4K UHD",
-      "focalLengthMin": 50.0,
-      "focalLengthMax": 135.0,
-      "zoomRatio": 2.7,
-      "extenderFactor": 1.0,
-      "sensorFormat": "superThirtyFive",
-      "mount": "EF",
-      "isPTZ": false,
-      "isFree": false,
-      "isCustom": false,
-      "notes": "Compact telephoto cine zoom, EF mount. Also available in MFT mount. Super 35 coverage. Popular on BMPCC 6K. Source: fujifilm.com.",
       "addedDate": null
     },
     {
