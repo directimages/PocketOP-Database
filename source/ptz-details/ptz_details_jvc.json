@@ -6,14 +6,11 @@
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
-        "RS-422",
-        "RTMP",
-        "RTSP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -39,6 +36,19 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz100be/"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -48,16 +58,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -83,6 +88,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -92,17 +112,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -122,6 +136,22 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -131,17 +161,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -162,6 +186,22 @@
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
         "https://proflixsales.com/ky-pz400nbu.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -171,17 +211,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -201,6 +236,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -210,17 +260,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -240,6 +285,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -251,18 +311,12 @@
         "RS-422",
         "RS-485",
         "VISCA",
-        "Pelco-D",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB-C",
-        "IP"
+        "USB-C"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -284,6 +338,22 @@
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
         "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html",
         "https://www.fullcompass.com/prod/jvc-ky-pz540"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     }
   ]

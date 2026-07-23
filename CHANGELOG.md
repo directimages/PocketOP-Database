@@ -605,6 +605,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+### v1.22.0 — 2026-07-23
+
+- PTZ blok-2 batch 1: aperture, introductionYear, autoTracking plus note, hasIS/hasND/ndDetail op 136 details; connectiviteit-reshape (videoOutputs fysiek-only, controlProtocols zuiver control, streamingProtocols en trackingDataOut nieuw) op 135.
+
 ### v1.21.0 — 2026-06-17
 
 - Removed panasonic-aw-ue4 detail entry (paired with the core removal above; out of scope per POS-D30). Full entry preserved verbatim in TIM/Private/incomplete_data.md. PTZ detail count 137 → 136.

@@ -9,15 +9,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 255,
@@ -41,7 +37,21 @@
       ],
       "fieldNotes": {
         "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
-      }
+      },
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ]
     },
     {
       "id": "datavideo-ptc-150",
@@ -52,15 +62,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 50,
@@ -84,7 +90,21 @@
       ],
       "fieldNotes": {
         "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
-      }
+      },
+      "introductionYear": 2015,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ]
     },
     {
       "id": "datavideo-ptc-150t",
@@ -95,15 +115,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 50,
@@ -124,6 +140,20 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-150T",
         "https://datavideo.com/global/product/ptc-150"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -135,16 +165,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -166,6 +191,21 @@
         "https://www.datavideo.com/product/PTC-280",
         "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html",
         "https://www.manualslib.com/manual/2181902/Datavideo-Ptc-280.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -177,16 +217,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -207,6 +242,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-285",
         "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
       ]
     },
     {
@@ -218,16 +268,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -248,6 +293,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-285T",
         "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
       ]
     },
     {
@@ -259,16 +319,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -289,6 +344,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-300",
         "https://datavideo.com/in/product/PTC-305/export"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -300,16 +370,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -330,6 +395,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-305",
         "https://datavideo.com/in/product/PTC-305/export"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -341,16 +421,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -371,6 +446,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-305T",
         "https://datavideo.com/global/product/PTC-305/export"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

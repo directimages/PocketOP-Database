@@ -7,13 +7,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -34,6 +31,19 @@
       "sources": [
         "https://birddog.tv/p100-overview/p100-techspecs/",
         "https://www.lensrentals.com/rent/birddog-eyes-p100-ndi-ptz-camera"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "RTSP"
       ]
     },
     {
@@ -43,19 +53,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -75,6 +78,25 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p110p120-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -84,19 +106,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -116,6 +131,25 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p110p120-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -125,16 +159,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -155,6 +184,21 @@
       "sources": [
         "https://birddog.tv/p200-overview/",
         "https://birddog.tv/p200-overview/p200-techspecs/"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -164,16 +208,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -193,6 +232,24 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p240-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -202,15 +259,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -230,6 +283,23 @@
       "hasWallMount": true,
       "sources": [
         "https://birddog.tv/p400-overview/p400-techspecs/"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "RTSP"
       ]
     },
     {
@@ -239,16 +309,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
         "6G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -269,6 +335,23 @@
       "sources": [
         "https://birddog.tv/p4k-overview/",
         "https://birddog.tv/p4k-overview/p4k-techspecs/"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "RTSP"
       ]
     },
     {
@@ -277,16 +360,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -308,6 +386,21 @@
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/",
         "https://videoguys.com/products/birddog-x1-20x-hd-ptz-camera-black"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -316,16 +409,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -346,6 +434,21 @@
       "sources": [
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.3,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -354,16 +457,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -385,6 +483,21 @@
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/",
         "https://videoguys.com/products/birddog-3x-x1-ultra-ptz-cameras-and-kbd-keyboard-bundle-black"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.68,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

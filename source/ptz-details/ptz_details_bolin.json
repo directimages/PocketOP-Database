@@ -12,8 +12,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -34,6 +33,18 @@
       "sources": [
         "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -49,8 +60,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -71,6 +81,18 @@
       "sources": [
         "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -86,8 +108,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -108,6 +129,18 @@
       "sources": [
         "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1759514-REG/bolin_technology_b6_420_blue_line_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -118,16 +151,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -148,6 +176,21 @@
       "sources": [
         "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -158,17 +201,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -189,6 +227,21 @@
       "sources": [
         "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -199,16 +252,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -228,6 +276,21 @@
       "hasWallMount": null,
       "sources": [
         "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -238,17 +301,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -269,6 +327,21 @@
       "sources": [
         "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830652-REG/bolin_technology_n2_220x_ndi_hx3_ptz.html"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -279,17 +352,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -311,6 +378,27 @@
         "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz",
         "https://www.bhphotovideo.com/c/product/1830656-REG/bolin_technology_r9_230h_indoor_fhd_ptz.html",
         "https://av.company/avcpdf/Bolin/Bolin-R9-230H-Indoor-Datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes), switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -321,16 +409,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -352,6 +435,26 @@
         "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830658-REG/bolin_technology_r9_418findoor_1_sensor_4k.html",
         "https://dotworkz.com/wp-content/uploads/2025/10/Bolin-R9-418F.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -362,18 +465,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI Full",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -395,6 +491,28 @@
         "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830660-REG/bolin_technology_r9_418n4k_ndi_6_ptz.html",
         "https://netchange.nl/wp-content/uploads/2024/05/R9-418N-Indoor-PTZ-Camera-04252024-1-1.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -402,17 +520,12 @@
       "manufacturerUrl": "https://bolintechnology.com/",
       "controlProtocols": [
         "VISCA IP",
-        "ONVIF",
-        "NDI Full",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "12G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 128,
@@ -433,6 +546,24 @@
       "sources": [
         "https://bolintechnology.com/",
         "https://www.sportsvideo.org/2026/04/18/nab-2026-bolin-technology-introduces-range-ptzr-camera-r9-l420n-ptz-and-kbd-plus-controller/"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 7.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Gyro-based 3-axis image stabilization (mechanical gimbal: pan, tilt, roll)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

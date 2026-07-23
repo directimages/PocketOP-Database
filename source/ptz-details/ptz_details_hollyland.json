@@ -4,17 +4,12 @@
       "id": "hollyland-astra-p1",
       "manufacturerUrl": "https://hollyland.com/product/astra-p1",
       "controlProtocols": [
-        "NDI|HX3",
         "VISCA",
-        "Pelco-D",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "hasPoE": true,
       "poeClass": "PoE+",
@@ -36,6 +31,21 @@
       "sources": [
         "https://hollyland.com/product/astra-p1",
         "https://download.hollyland.com/User_manual/Astra%20P1/%5BEnglish%5D%20Astra%20P1%20-%20Quick%20Guide.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.61,
+      "maxApertureTele": 5.19,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

@@ -12,7 +12,6 @@
         "3G-SDI",
         "HD-SDI",
         "HDMI",
-        "IP",
         "Composite"
       ],
       "poeClass": "PoE+",
@@ -43,6 +42,21 @@
         "https://www.manualslib.com/manual/884474/Panasonic-Aw-He130w.html?page=122",
         "https://www.willoughbys.com/Panasonic_AW-HE130_HD_Integrated_PTZ_Camera_White_370494.html",
         "https://www.manualpdf.in/panasonic/aw-he130/specifications"
+      ],
+      "introductionYear": 2014,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/8, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -50,16 +64,13 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "SRT"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -85,6 +96,24 @@
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
         "https://eu.connect.panasonic.com/dk/en/download-specifications/6541"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -98,7 +127,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -127,6 +155,21 @@
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
         "https://ap.connect.panasonic.com/ph/en/aw-he20",
         "https://www.manualslib.com/manual/2918240/Panasonic-Aw-He20kp.html?page=119"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -139,7 +182,6 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -167,6 +209,21 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
+      ],
+      "introductionYear": 2017,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.3,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -179,8 +236,7 @@
       ],
       "videoOutputs": [
         "HD-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -208,6 +264,21 @@
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
         "https://manuals.co.uk/panasonic/aw-he40s/specifications"
+      ],
+      "introductionYear": 2014,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -221,7 +292,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -249,6 +319,21 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, backed by a four-axis hybrid stabilizer."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -256,18 +341,12 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -292,6 +371,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, with electronic roll-axis correction added on top. Neither changes the framing in normal use."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -299,15 +399,13 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -332,6 +430,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
+      ],
+      "introductionYear": 2018,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -339,20 +455,14 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "NDI High Bandwidth",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -377,6 +487,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -384,20 +515,14 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "SRT",
-        "RTMP",
-        "SMPTE ST 2110"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -422,6 +547,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization with an optional hybrid mode that adds roll correction. Selectable in the menu."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Built-in on-camera auto-framing: subject recognition runs on the camera's own processor, operated through Panasonic's Media Production Suite. Panasonic's paid AW-SF100 or AW-SF200 software is available as an upgrade for advanced multi-person tracking.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP",
+        "SMPTE ST 2110"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -430,14 +576,11 @@
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422",
-        "RS-232",
-        "SRT",
-        "RTMP"
+        "RS-232"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -464,6 +607,22 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -471,13 +630,10 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -503,6 +659,22 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.9,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -510,14 +682,10 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -543,6 +711,23 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -550,15 +735,11 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -584,6 +765,23 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -591,17 +789,11 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -626,6 +818,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization, with separate modes for a locked-off shot and for pan/tilt moves."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     }
   ]

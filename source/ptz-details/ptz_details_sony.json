@@ -5,14 +5,10 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
       "controlProtocols": [
         "VISCA IP",
-        "S700PTP",
-        "RTSP",
-        "SRT",
-        "NDI|HX"
+        "S700PTP"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -39,6 +35,20 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
         "https://helpguide.sony.net/rc/brc-am7/v1/en/contents/specifications.html"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": "electronic variable ND, 1/4 to 1/128",
+      "autoTrackingNote": "Built-in on-camera AI auto-framing and tracking, running on the camera itself with no external appliance or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -51,8 +61,7 @@
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -79,6 +88,18 @@
       "hasWallMount": true,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -117,21 +138,31 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
-      ]
+      ],
+      "introductionYear": 2012,
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "On-board image stabilization for steadier images under movement or vibration."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null
     },
     {
       "id": "sony-brc-x1000",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "FreeD"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x4 dual link)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -159,6 +190,21 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
         "https://www.fullcompass.com/prod/525830-sony-brc-x1000-1-4k-hd-ptz-camera-with-12x-optical-zoom"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "IP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -166,16 +212,11 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -203,6 +244,24 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
         "https://www.manualslib.com/manual/1664613/Sony-Brc-X400.html"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -213,8 +272,7 @@
         "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 256,
@@ -241,6 +299,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
+      ],
+      "introductionYear": 2013,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -252,8 +325,7 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -281,6 +353,21 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
         "https://www.manua.ls/sony/srg-360she/manual"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -288,12 +375,10 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "RTSP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -320,6 +405,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "RTSP"
       ]
     },
     {
@@ -327,16 +427,11 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -363,6 +458,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

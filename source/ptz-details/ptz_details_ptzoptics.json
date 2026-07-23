@@ -9,17 +9,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -40,6 +35,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -51,18 +61,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -83,6 +87,22 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -93,14 +113,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -121,6 +138,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://files.bzbexpress.com/files/attachments/12812/ptzoptics-pt12x-sdi-wh-g2-datasheet.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -131,17 +161,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -163,6 +188,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -174,17 +214,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -205,6 +240,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -216,18 +266,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -248,6 +292,22 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -258,14 +318,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -286,6 +343,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT20X-SDI-xx-G2/PT20X-SDI-xx-G2%20User%20Manual.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -296,17 +366,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -328,6 +393,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -339,17 +419,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -370,6 +445,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -386,8 +476,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -408,6 +497,18 @@
       "sources": [
         "https://ptzoptics.com/link-4k/",
         "https://ptzoptics.com/wp-content/uploads/2023/09/PT30X-LINK-xx.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -418,14 +519,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -446,6 +544,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT30X-SDI-xx-G2/PT30X-SDI-xx-G2%20Data%20Sheet.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -456,17 +567,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -488,6 +594,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

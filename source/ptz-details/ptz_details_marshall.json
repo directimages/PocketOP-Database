@@ -8,14 +8,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -37,6 +34,19 @@
         "https://marshall-usa.com/cameras/CV605-U3-U3W/",
         "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf",
         "https://www.manua.ls/marshall-electronics/cv605-u3w/manual"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -50,8 +60,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "HDBaseT",
-        "IP"
+        "HDBaseT"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -73,6 +82,18 @@
         "https://marshall-usa.com/cameras/CV612HT-4K/",
         "https://www.manua.ls/marshall-electronics/cv612ht-4k/manual",
         "https://www.digibroadcast.com/video-c61/studio-cameras-camera-heads-c76/marshall-cv612ht-4k-uhd-hdbaset-hdmi-ptz-camera-black-p33493"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -83,15 +104,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -112,6 +129,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV620-BI-WI/",
         "https://www.manua.ls/marshall-electronics/cv620-ip/manual"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -122,15 +153,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -157,6 +184,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV620-BK4-WH4/",
         "https://www.manua.ls/marshall-electronics/cv620-ip/manual"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -167,16 +208,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -196,6 +233,20 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV625-TB-TW/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -206,19 +257,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "NDI HX2",
-        "NDI HX3"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP",
-        "NDI"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -238,6 +282,23 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV625-TBN-TWN/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -248,15 +309,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -277,6 +334,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV630-BI-WI/",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -287,16 +358,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -318,6 +384,23 @@
         "https://marshall-usa.com/cameras/CV630-IP/",
         "https://marshall-usa.com/pdf/CV630-IP_Manual.pdf",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -328,16 +411,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI|HX2",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -359,6 +437,21 @@
         "https://marshall-usa.com/cameras/CV630-NDI-NDIW/",
         "https://marshall-usa.com/pdf/CV630-NDI-manual.pdf",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -369,21 +462,13 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "NDI|HX3",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -404,6 +489,26 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV730-BHN-WHN/",
         "https://marshall-usa.com/pdf/CV730-cutsheet.pdf"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -414,17 +519,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -452,6 +552,23 @@
         "https://marshall-usa.com/cameras/CV730/",
         "https://marshall-usa.com/pdf/CV730-cutsheet.pdf",
         "https://www.fullcompass.com/prod/624414-marshall-electronics-cv730-hn-uhd60-ptz-30x-camera-full-ndi"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     }
   ]

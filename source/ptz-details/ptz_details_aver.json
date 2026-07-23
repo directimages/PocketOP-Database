@@ -8,14 +8,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "CGI",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -37,6 +34,19 @@
       "sources": [
         "https://presentation.aver.com/DownloadFile.ashx?n=2810&t=ModelBrochure",
         "https://charmex.net/downloads/ptc310-_3544_4.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -46,16 +56,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -77,6 +82,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz231",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz231-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -86,17 +106,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -118,6 +132,22 @@
       "sources": [
         "https://presentation.aver.com/model/ptz310unv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310unv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -128,17 +158,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -159,6 +184,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz310uv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310uv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -169,18 +209,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI Full",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -201,6 +235,22 @@
       "sources": [
         "https://presentation.aver.com/model/ptz330unv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz330unv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -211,17 +261,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -242,6 +287,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz330uv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz330uv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -251,15 +311,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -281,6 +337,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr211",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr211-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -290,15 +360,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -320,6 +386,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr315",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -329,15 +409,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -359,6 +435,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr315n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315n-datasheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -368,15 +458,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -398,6 +484,20 @@
       "sources": [
         "https://www.averusa.com/products/ptz-camera/tr335",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -409,16 +509,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -440,6 +535,21 @@
       "sources": [
         "https://presentation.aver.com/model/tr335n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335n-datasheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -451,17 +561,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -482,6 +586,22 @@
       "hasWallMount": null,
       "sources": [
         "https://cors-web.aver.com/Contents/Model/tr535/resources/en/AVer-TR535-Brochure.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -493,16 +613,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -524,6 +639,21 @@
       "sources": [
         "https://presentation.aver.com/model/tr535n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr535n-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -535,17 +665,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT",
-        "HLS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -567,6 +691,22 @@
       "sources": [
         "https://presentation.aver.com/model/tr615",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr615-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "HLS"
       ]
     }
   ]

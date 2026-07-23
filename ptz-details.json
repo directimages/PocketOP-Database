@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
-  "updatedAt": "2026-06-17",
+  "version": "1.22.0",
+  "updatedAt": "2026-07-23",
   "cameras": [
     {
       "id": "aver-ptc310uv2",
@@ -10,14 +10,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "CGI",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -48,16 +45,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -88,17 +80,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -130,17 +116,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -171,18 +152,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI Full",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -213,17 +188,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -253,15 +223,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -292,15 +258,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -331,15 +293,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -370,15 +328,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -411,16 +365,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -453,17 +402,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -495,16 +438,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -537,17 +475,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT",
-        "HLS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -578,13 +510,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -614,19 +543,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -655,19 +577,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -696,16 +611,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -735,16 +645,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -764,7 +669,10 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p240-overview/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "birddog-p400",
@@ -773,15 +681,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -801,7 +705,10 @@
       "hasWallMount": true,
       "sources": [
         "https://birddog.tv/p400-overview/p400-techspecs/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "birddog-p4k",
@@ -810,16 +717,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
         "6G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -840,7 +743,10 @@
       "sources": [
         "https://birddog.tv/p4k-overview/",
         "https://birddog.tv/p4k-overview/p4k-techspecs/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "birddog-x1",
@@ -848,16 +754,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -887,16 +788,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -925,16 +821,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -970,8 +861,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1007,8 +897,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1044,8 +933,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1076,16 +964,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1116,17 +999,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1157,16 +1035,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1196,17 +1069,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1237,17 +1105,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1269,7 +1131,10 @@
         "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz",
         "https://www.bhphotovideo.com/c/product/1830656-REG/bolin_technology_r9_230h_indoor_fhd_ptz.html",
         "https://av.company/avcpdf/Bolin/Bolin-R9-230H-Indoor-Datasheet.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes), switchable on or off."
+      }
     },
     {
       "id": "bolin-r9-418f",
@@ -1279,16 +1144,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -1310,7 +1170,10 @@
         "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830658-REG/bolin_technology_r9_418findoor_1_sensor_4k.html",
         "https://dotworkz.com/wp-content/uploads/2025/10/Bolin-R9-418F.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      }
     },
     {
       "id": "bolin-r9-418n",
@@ -1320,18 +1183,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI Full",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -1353,24 +1209,22 @@
         "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830660-REG/bolin_technology_r9_418n4k_ndi_6_ptz.html",
         "https://netchange.nl/wp-content/uploads/2024/05/R9-418N-Indoor-PTZ-Camera-04252024-1-1.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      }
     },
     {
       "id": "bolin-range",
       "manufacturerUrl": "https://bolintechnology.com/",
       "controlProtocols": [
         "VISCA IP",
-        "ONVIF",
-        "NDI Full",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "12G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 128,
@@ -1391,23 +1245,21 @@
       "sources": [
         "https://bolintechnology.com/",
         "https://www.sportsvideo.org/2026/04/18/nab-2026-bolin-technology-introduces-range-ptzr-camera-r9-l420n-ptz-and-kbd-plus-controller/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Gyro-based 3-axis image stabilization (mechanical gimbal: pan, tilt, roll)."
+      }
     },
     {
       "id": "canon-cr-n100",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT"
+        "Standard IP"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB-C"
       ],
       "poeClass": "PoE+",
@@ -1435,25 +1287,22 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-n300",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -1481,25 +1330,22 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-n350",
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n350",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1527,26 +1373,23 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n350"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-n400",
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n400",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1574,25 +1417,22 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n400"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-n500",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -1619,26 +1459,23 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-n700",
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1665,7 +1502,10 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      }
     },
     {
       "id": "canon-cr-x300",
@@ -1673,18 +1513,12 @@
       "controlProtocols": [
         "Canon XC",
         "Canon NU",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1712,7 +1546,10 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-x300"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
+      }
     },
     {
       "id": "datavideo-ptc-140",
@@ -1723,15 +1560,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 255,
@@ -1766,15 +1599,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 50,
@@ -1809,15 +1638,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 50,
@@ -1849,16 +1674,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1891,16 +1711,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1932,16 +1747,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1973,16 +1783,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2014,16 +1819,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2055,16 +1855,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2095,15 +1890,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2133,16 +1924,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2172,16 +1958,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2211,16 +1993,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2250,17 +2028,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2290,17 +2063,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2330,16 +2098,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2370,17 +2134,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2412,17 +2171,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2452,17 +2206,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2492,17 +2241,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2532,17 +2276,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2568,17 +2307,12 @@
       "id": "hollyland-astra-p1",
       "manufacturerUrl": "https://hollyland.com/product/astra-p1",
       "controlProtocols": [
-        "NDI|HX3",
         "VISCA",
-        "Pelco-D",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "hasPoE": true,
       "poeClass": "PoE+",
@@ -2608,14 +2342,11 @@
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
-        "RS-422",
-        "RTMP",
-        "RTSP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -2650,16 +2381,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2694,17 +2420,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2733,17 +2453,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2773,17 +2487,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2812,17 +2521,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2853,18 +2557,12 @@
         "RS-422",
         "RS-485",
         "VISCA",
-        "Pelco-D",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB-C",
-        "IP"
+        "USB-C"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2896,15 +2594,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -2941,15 +2635,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -2980,15 +2670,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -3020,15 +2706,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3059,16 +2741,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3106,17 +2783,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3148,17 +2819,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3189,19 +2855,13 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3232,15 +2892,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3271,14 +2926,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3307,14 +2958,11 @@
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
-        "VISCA RS-422",
-        "RTSP",
-        "RTMP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -3345,14 +2993,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3387,8 +3032,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "HDBaseT",
-        "IP"
+        "HDBaseT"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3420,15 +3064,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3459,15 +3099,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3504,16 +3140,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3543,19 +3175,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "NDI HX2",
-        "NDI HX3"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP",
-        "NDI"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3585,15 +3210,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3624,16 +3245,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3665,16 +3281,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI|HX2",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3706,21 +3317,13 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "NDI|HX3",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3751,17 +3354,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3799,16 +3397,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3840,16 +3434,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3881,16 +3471,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3922,15 +3508,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3961,15 +3544,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4000,15 +3580,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4040,16 +3617,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4085,7 +3658,6 @@
         "3G-SDI",
         "HD-SDI",
         "HDMI",
-        "IP",
         "Composite"
       ],
       "poeClass": "PoE+",
@@ -4116,23 +3688,23 @@
         "https://www.manualslib.com/manual/884474/Panasonic-Aw-He130w.html?page=122",
         "https://www.willoughbys.com/Panasonic_AW-HE130_HD_Integrated_PTZ_Camera_White_370494.html",
         "https://www.manualpdf.in/panasonic/aw-he130/specifications"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-he145",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "SRT"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4158,7 +3730,10 @@
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
         "https://eu.connect.panasonic.com/dk/en/download-specifications/6541"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-he20",
@@ -4171,7 +3746,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4200,7 +3774,10 @@
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
         "https://ap.connect.panasonic.com/ph/en/aw-he20",
         "https://www.manualslib.com/manual/2918240/Panasonic-Aw-He20kp.html?page=119"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      }
     },
     {
       "id": "panasonic-aw-he38",
@@ -4212,7 +3789,6 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4240,7 +3816,10 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      }
     },
     {
       "id": "panasonic-aw-he40",
@@ -4252,8 +3831,7 @@
       ],
       "videoOutputs": [
         "HD-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -4281,7 +3859,10 @@
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
         "https://manuals.co.uk/panasonic/aw-he40s/specifications"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      }
     },
     {
       "id": "panasonic-aw-he42",
@@ -4294,7 +3875,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4322,25 +3902,22 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, backed by a four-axis hybrid stabilizer."
+      }
     },
     {
       "id": "panasonic-aw-ue100",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4365,22 +3942,23 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, with electronic roll-axis correction added on top. Neither changes the framing in normal use."
+      }
     },
     {
       "id": "panasonic-aw-ue150",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4405,27 +3983,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-ue150a",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "NDI High Bandwidth",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4450,27 +4025,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-ue160",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "SRT",
-        "RTMP",
-        "SMPTE ST 2110"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4495,7 +4067,10 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization with an optional hybrid mode that adds roll correction. Selectable in the menu."
+      }
     },
     {
       "id": "panasonic-aw-ue20",
@@ -4503,14 +4078,11 @@
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422",
-        "RS-232",
-        "SRT",
-        "RTMP"
+        "RS-232"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4537,20 +4109,20 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      }
     },
     {
       "id": "panasonic-aw-ue30",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4576,21 +4148,20 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-ue40",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4616,22 +4187,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-ue50",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4657,24 +4227,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      }
     },
     {
       "id": "panasonic-aw-ue80",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4699,7 +4266,10 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization, with separate modes for a locked-off shot and for pan/tilt moves."
+      }
     },
     {
       "id": "ptzoptics-pt12x-4k-g3",
@@ -4710,17 +4280,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4752,18 +4317,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4794,14 +4353,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4832,17 +4388,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4875,17 +4426,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4917,18 +4463,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4959,14 +4499,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4997,17 +4534,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5040,17 +4572,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -5087,8 +4614,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -5119,14 +4645,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5157,17 +4680,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5196,14 +4714,10 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
       "controlProtocols": [
         "VISCA IP",
-        "S700PTP",
-        "RTSP",
-        "SRT",
-        "NDI|HX"
+        "S700PTP"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -5242,8 +4756,7 @@
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5308,21 +4821,22 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "On-board image stabilization for steadier images under movement or vibration."
+      }
     },
     {
       "id": "sony-brc-x1000",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "FreeD"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x4 dual link)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5357,16 +4871,11 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5394,7 +4903,10 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
         "https://www.manualslib.com/manual/1664613/Sony-Brc-X400.html"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "sony-srg-300h",
@@ -5404,8 +4916,7 @@
         "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 256,
@@ -5432,7 +4943,10 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "sony-srg-360she",
@@ -5443,8 +4957,7 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -5472,19 +4985,20 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
         "https://www.manua.ls/sony/srg-360she/manual"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "sony-srg-x120",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "RTSP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5511,23 +5025,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     },
     {
       "id": "sony-srg-x400",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5554,7 +5066,10 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
-      ]
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      }
     }
   ]
 }

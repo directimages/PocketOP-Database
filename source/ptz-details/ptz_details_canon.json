@@ -5,16 +5,11 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT"
+        "Standard IP"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB-C"
       ],
       "poeClass": "PoE+",
@@ -42,6 +37,25 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -49,18 +63,12 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -88,6 +96,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized filter wheel: clear plus graduated 3-stop (1/8) ND",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -95,18 +125,12 @@
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n350",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -134,6 +158,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n350"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -141,19 +187,13 @@
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n400",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -181,6 +221,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n400"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -188,18 +250,12 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -226,6 +282,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -233,19 +311,13 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -272,6 +344,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -280,18 +374,12 @@
       "controlProtocols": [
         "Canon XC",
         "Canon NU",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -319,6 +407,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-x300"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "unknown",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
+      "fieldNotes": {
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
+      },
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     }
   ]

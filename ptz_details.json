@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
-  "updatedAt": "2026-06-17",
+  "version": "1.22.0",
+  "updatedAt": "2026-07-23",
   "cameras": [
     {
       "id": "aver-ptc310uv2",
@@ -10,14 +10,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "CGI",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -39,6 +36,19 @@
       "sources": [
         "https://presentation.aver.com/DownloadFile.ashx?n=2810&t=ModelBrochure",
         "https://charmex.net/downloads/ptc310-_3544_4.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -48,16 +58,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -79,6 +84,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz231",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz231-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -88,17 +108,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -120,6 +134,22 @@
       "sources": [
         "https://presentation.aver.com/model/ptz310unv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310unv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -130,17 +160,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -161,6 +186,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz310uv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310uv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -171,18 +211,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI Full",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -203,6 +237,22 @@
       "sources": [
         "https://presentation.aver.com/model/ptz330unv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz330unv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -213,17 +263,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "NDI|HX3",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -244,6 +289,21 @@
       "sources": [
         "https://presentation.aver.com/model/ptz330uv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz330uv2-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -253,15 +313,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -283,6 +339,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr211",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr211-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -292,15 +362,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -322,6 +388,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr315",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -331,15 +411,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -361,6 +437,20 @@
       "sources": [
         "https://presentation.aver.com/model/tr315n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315n-datasheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -370,15 +460,11 @@
         "VISCA IP",
         "VISCA RS-232",
         "Pelco-D",
-        "CGI",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "CGI"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -400,6 +486,20 @@
       "sources": [
         "https://www.averusa.com/products/ptz-camera/tr335",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -411,16 +511,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -442,6 +537,21 @@
       "sources": [
         "https://presentation.aver.com/model/tr335n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335n-datasheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -453,17 +563,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -484,6 +588,22 @@
       "hasWallMount": null,
       "sources": [
         "https://cors-web.aver.com/Contents/Model/tr535/resources/en/AVer-TR535-Brochure.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -495,16 +615,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -526,6 +641,21 @@
       "sources": [
         "https://presentation.aver.com/model/tr535n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr535n-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -537,17 +667,11 @@
         "Pelco-D",
         "Pelco-P",
         "CGI",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT",
-        "HLS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE++",
@@ -569,6 +693,22 @@
       "sources": [
         "https://presentation.aver.com/model/tr615",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr615-datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking with Presenter, Zone and Hybrid modes plus human detection. No external PC or operator is needed to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "HLS"
       ]
     },
     {
@@ -578,13 +718,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -605,6 +742,19 @@
       "sources": [
         "https://birddog.tv/p100-overview/p100-techspecs/",
         "https://www.lensrentals.com/rent/birddog-eyes-p100-ndi-ptz-camera"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "RTSP"
       ]
     },
     {
@@ -614,19 +764,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -646,6 +789,25 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p110p120-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -655,19 +817,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "NDI|HX3",
-        "SRT",
-        "FreeD",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -687,6 +842,25 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p110p120-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -696,16 +870,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -726,6 +895,21 @@
       "sources": [
         "https://birddog.tv/p200-overview/",
         "https://birddog.tv/p200-overview/p200-techspecs/"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -735,16 +919,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX2",
-        "SRT",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -764,6 +943,24 @@
       "hasWallMount": null,
       "sources": [
         "https://birddog.tv/p240-overview/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -773,15 +970,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -801,6 +994,23 @@
       "hasWallMount": true,
       "sources": [
         "https://birddog.tv/p400-overview/p400-techspecs/"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "RTSP"
       ]
     },
     {
@@ -810,16 +1020,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "VISCA IP",
-        "Pelco-D",
-        "NDI Full",
-        "NDI|HX",
-        "RTSP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "6G-SDI",
         "6G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -840,6 +1046,23 @@
       "sources": [
         "https://birddog.tv/p4k-overview/",
         "https://birddog.tv/p4k-overview/p4k-techspecs/"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It runs in BirdDog's separate Cam Control application on a connected Windows computer.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "RTSP"
       ]
     },
     {
@@ -848,16 +1071,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -879,6 +1097,21 @@
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/",
         "https://videoguys.com/products/birddog-x1-20x-hd-ptz-camera-black"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -887,16 +1120,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -917,6 +1145,21 @@
       "sources": [
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.3,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -925,16 +1168,11 @@
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
-        "Pelco-D",
-        "NDI|HX2",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB-C UVC",
-        "IP"
+        "USB-C UVC"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -956,6 +1194,21 @@
         "https://birddog.tv/x1-techspecs/",
         "https://birddog.tv/cameras-show/",
         "https://videoguys.com/products/birddog-3x-x1-ultra-ptz-cameras-and-kbd-keyboard-bundle-black"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.68,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI tracking: you select a subject in frame and the camera follows it in real time, with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -970,8 +1223,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -992,6 +1244,18 @@
       "sources": [
         "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -1007,8 +1271,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1029,6 +1292,18 @@
       "sources": [
         "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -1044,8 +1319,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1066,6 +1340,18 @@
       "sources": [
         "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1759514-REG/bolin_technology_b6_420_blue_line_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -1076,16 +1362,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1106,6 +1387,21 @@
       "sources": [
         "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -1116,17 +1412,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "Dante AV-H",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1147,6 +1438,21 @@
       "sources": [
         "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -1157,16 +1463,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1186,6 +1487,21 @@
       "hasWallMount": null,
       "sources": [
         "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.63,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -1196,17 +1512,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1227,6 +1538,21 @@
       "sources": [
         "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830652-REG/bolin_technology_n2_220x_ndi_hx3_ptz.html"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -1237,17 +1563,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1269,6 +1589,27 @@
         "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz",
         "https://www.bhphotovideo.com/c/product/1830656-REG/bolin_technology_r9_230h_indoor_fhd_ptz.html",
         "https://av.company/avcpdf/Bolin/Bolin-R9-230H-Indoor-Datasheet.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes), switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1279,16 +1620,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -1310,6 +1646,26 @@
         "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830658-REG/bolin_technology_r9_418findoor_1_sensor_4k.html",
         "https://dotworkz.com/wp-content/uploads/2025/10/Bolin-R9-418F.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1320,18 +1676,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI Full",
-        "NDI|HX3",
-        "FreeD",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "6G-SDI",
-        "IP"
+        "6G-SDI"
       ],
       "poeClass": "PoE++",
       "presetCount": 255,
@@ -1353,6 +1702,28 @@
         "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera",
         "https://www.bhphotovideo.com/c/product/1830660-REG/bolin_technology_r9_418n4k_ndi_6_ptz.html",
         "https://netchange.nl/wp-content/uploads/2024/05/R9-418N-Indoor-PTZ-Camera-04252024-1-1.pdf"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization, switchable on or off."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1360,17 +1731,12 @@
       "manufacturerUrl": "https://bolintechnology.com/",
       "controlProtocols": [
         "VISCA IP",
-        "ONVIF",
-        "NDI Full",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "12G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 128,
@@ -1391,6 +1757,24 @@
       "sources": [
         "https://bolintechnology.com/",
         "https://www.sportsvideo.org/2026/04/18/nab-2026-bolin-technology-introduces-range-ptzr-camera-r9-l420n-ptz-and-kbd-plus-controller/"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 7.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Gyro-based 3-axis image stabilization (mechanical gimbal: pan, tilt, roll)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -1398,16 +1782,11 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT"
+        "Standard IP"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB-C"
       ],
       "poeClass": "PoE+",
@@ -1435,6 +1814,25 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -1442,18 +1840,12 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -1481,6 +1873,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized filter wheel: clear plus graduated 3-stop (1/8) ND",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1488,18 +1902,12 @@
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n350",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1527,6 +1935,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n350"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1534,19 +1964,13 @@
       "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n400",
       "controlProtocols": [
         "Canon XC",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1574,6 +1998,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-n400"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1581,18 +2027,12 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -1619,6 +2059,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1626,19 +2088,13 @@
       "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
       "controlProtocols": [
         "Canon XC",
-        "RTSP/RTP",
-        "NDI|HX2",
-        "RTMP/RTMPS",
         "Standard Serial",
-        "Standard IP",
-        "SRT",
-        "FreeD"
+        "Standard IP"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1665,6 +2121,28 @@
       "hasWallMount": true,
       "sources": [
         "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Optical image stabilization, lens-based"
+      },
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1673,18 +2151,12 @@
       "controlProtocols": [
         "Canon XC",
         "Canon NU",
-        "NDI|HX2",
-        "RTSP/RTP",
-        "RTMP/RTMPS",
-        "SRT",
-        "FreeD",
         "Standard Serial",
         "Standard IP"
       ],
       "videoOutputs": [
         "6G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -1712,6 +2184,28 @@
       "hasWallMount": null,
       "sources": [
         "https://www.usa.canon.com/shop/p/cr-x300"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "unknown",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
+      "fieldNotes": {
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
+      },
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -1723,15 +2217,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 255,
@@ -1755,7 +2245,21 @@
       ],
       "fieldNotes": {
         "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
-      }
+      },
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ]
     },
     {
       "id": "datavideo-ptc-150",
@@ -1766,15 +2270,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 50,
@@ -1798,7 +2298,21 @@
       ],
       "fieldNotes": {
         "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
-      }
+      },
+      "introductionYear": 2015,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ]
     },
     {
       "id": "datavideo-ptc-150t",
@@ -1809,15 +2323,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 50,
@@ -1838,6 +2348,20 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-150T",
         "https://datavideo.com/global/product/ptc-150"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -1849,16 +2373,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1880,6 +2399,21 @@
         "https://www.datavideo.com/product/PTC-280",
         "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html",
         "https://www.manualslib.com/manual/2181902/Datavideo-Ptc-280.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -1891,16 +2425,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1921,6 +2450,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-285",
         "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
       ]
     },
     {
@@ -1932,16 +2476,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMPS"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -1962,6 +2501,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-285T",
         "https://www.bhphotovideo.com/c/product/1734454-REG/datavideo_ptc_285t_12x_4k_tracking_ptz.html"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMPS"
       ]
     },
     {
@@ -1973,16 +2527,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2003,6 +2552,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-300",
         "https://datavideo.com/in/product/PTC-305/export"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2014,16 +2578,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2044,6 +2603,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-305",
         "https://datavideo.com/in/product/PTC-305/export"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2055,16 +2629,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2085,6 +2654,21 @@
       "sources": [
         "https://www.datavideo.com/product/PTC-305T",
         "https://datavideo.com/global/product/PTC-305/export"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2095,15 +2679,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2123,6 +2703,20 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2133,16 +2727,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2162,6 +2751,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/FMK20UH-NDI.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2172,16 +2776,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2201,6 +2801,20 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2211,16 +2825,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2240,6 +2850,20 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2250,17 +2874,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2280,6 +2899,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2290,17 +2924,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2320,6 +2949,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2330,16 +2974,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2360,6 +3000,20 @@
       "sources": [
         "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html",
         "https://www.fomako.net/uploads/20230823/e2b9ad5c55b3164c5e06383b05d47dd3.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2370,17 +3024,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2402,6 +3051,21 @@
         "https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html",
         "https://www.fomako.net/uploads/20230823/e2b9ad5c55b3164c5e06383b05d47dd3.pdf",
         "https://www.amazon.com/FoMaKo-Auto-Tracking-Education-Conference-K820N/dp/B0BJNHLK7C"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2412,17 +3076,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2442,6 +3101,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.bhphotovideo.com/c/product/1941145-REG/fomako_kn20_ndi_ptz_camera.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.9,
+      "apertureType": "f",
+      "autoTracking": "unknown",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2452,17 +3126,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2482,6 +3151,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.68,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera tracking, without AI-based subject recognition.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2492,17 +3176,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2522,6 +3201,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2532,17 +3226,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2562,23 +3251,33 @@
       "hasWallMount": null,
       "sources": [
         "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
       "id": "hollyland-astra-p1",
       "manufacturerUrl": "https://hollyland.com/product/astra-p1",
       "controlProtocols": [
-        "NDI|HX3",
         "VISCA",
-        "Pelco-D",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "hasPoE": true,
       "poeClass": "PoE+",
@@ -2600,6 +3299,21 @@
       "sources": [
         "https://hollyland.com/product/astra-p1",
         "https://download.hollyland.com/User_manual/Astra%20P1/%5BEnglish%5D%20Astra%20P1%20-%20Quick%20Guide.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.61,
+      "maxApertureTele": 5.19,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2608,14 +3322,11 @@
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
-        "RS-422",
-        "RTMP",
-        "RTSP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -2641,6 +3352,19 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz100be/"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2650,16 +3374,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2685,6 +3404,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2694,17 +3428,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -2724,6 +3452,22 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2733,17 +3477,11 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "NDI|HX",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2764,6 +3502,22 @@
       "sources": [
         "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
         "https://proflixsales.com/ky-pz400nbu.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2773,17 +3527,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2803,6 +3552,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2812,17 +3576,12 @@
         "JVC IP",
         "RS-232C",
         "RS-485",
-        "Pelco-D",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2842,6 +3601,21 @@
       "hasWallMount": null,
       "sources": [
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2853,18 +3627,12 @@
         "RS-422",
         "RS-485",
         "VISCA",
-        "Pelco-D",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "RTMPS"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB-C",
-        "IP"
+        "USB-C"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -2886,6 +3654,22 @@
         "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
         "https://www.bhphotovideo.com/c/product/1814549-REG/jvc_ky_pz540nb_ky_pz540n_4k_hdmi_ip.html",
         "https://www.fullcompass.com/prod/jvc-ky-pz540"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ]
     },
     {
@@ -2896,15 +3680,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -2931,6 +3711,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50P",
         "https://www.manua.ls/lumens/vc-a50p/manual"
+      ],
+      "introductionYear": 2017,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2941,15 +3735,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -2970,6 +3760,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
         "https://www.manua.ls/lumens/vc-a50p/manual"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -2980,15 +3784,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -3010,6 +3810,20 @@
         "https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera",
         "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN",
         "https://www.amazon.com/Lumens-VC-A51PW-Flexible-Support-Ethernet/dp/B09P8XBQCZ"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3020,15 +3834,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3049,6 +3859,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A53",
         "https://univesointegration.com/wp-content/uploads/2024/05/vc53.pdf"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3059,16 +3883,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3096,6 +3915,23 @@
         "https://www.mylumens.com/en/Products_detail/37/VC-A61P",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3106,17 +3942,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3138,6 +3968,24 @@
         "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3148,17 +3996,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3179,6 +4022,23 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3189,19 +4049,13 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3222,6 +4076,24 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3232,15 +4104,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -3261,6 +4128,21 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3271,14 +4153,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3299,6 +4177,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
         "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3307,14 +4199,11 @@
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
-        "VISCA RS-422",
-        "RTSP",
-        "RTMP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -3335,6 +4224,19 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
         "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Dedicated dual-lens auto-tracking camera: a PTZ lens plus a wide panoramic lens, with on-camera facial-detection tracking and automatic switching between the two views. All tracking runs in the camera itself, with no external processor, dongle or PC application. Offers Stage, Everywhere and Partition tracking modes.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3345,14 +4247,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3374,6 +4273,19 @@
         "https://marshall-usa.com/cameras/CV605-U3-U3W/",
         "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf",
         "https://www.manua.ls/marshall-electronics/cv605-u3w/manual"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3387,8 +4299,7 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "HDBaseT",
-        "IP"
+        "HDBaseT"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -3410,6 +4321,18 @@
         "https://marshall-usa.com/cameras/CV612HT-4K/",
         "https://www.manua.ls/marshall-electronics/cv612ht-4k/manual",
         "https://www.digibroadcast.com/video-c61/studio-cameras-camera-heads-c76/marshall-cv612ht-4k-uhd-hdbaset-hdmi-ptz-camera-black-p33493"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -3420,15 +4343,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3449,6 +4368,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV620-BI-WI/",
         "https://www.manua.ls/marshall-electronics/cv620-ip/manual"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3459,15 +4392,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3494,6 +4423,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV620-BK4-WH4/",
         "https://www.manua.ls/marshall-electronics/cv620-ip/manual"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3504,16 +4447,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3533,6 +4472,20 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV625-TB-TW/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3543,19 +4496,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP",
-        "NDI HX2",
-        "NDI HX3"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP",
-        "NDI"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3575,6 +4521,23 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV625-TBN-TWN/"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3585,15 +4548,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3614,6 +4573,20 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV630-BI-WI/",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3624,16 +4597,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3655,6 +4623,23 @@
         "https://marshall-usa.com/cameras/CV630-IP/",
         "https://marshall-usa.com/pdf/CV630-IP_Manual.pdf",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3665,16 +4650,11 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI|HX2",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -3696,6 +4676,21 @@
         "https://marshall-usa.com/cameras/CV630-NDI-NDIW/",
         "https://marshall-usa.com/pdf/CV630-NDI-manual.pdf",
         "https://marshall-usa.com/pdf/CV630-IP-cutsheet.pdf"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3706,21 +4701,13 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "NDI|HX3",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3741,6 +4728,26 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV730-BHN-WHN/",
         "https://marshall-usa.com/pdf/CV730-cutsheet.pdf"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3751,17 +4758,12 @@
         "VISCA RS-422",
         "VISCA IP",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -3789,6 +4791,23 @@
         "https://marshall-usa.com/cameras/CV730/",
         "https://marshall-usa.com/pdf/CV730-cutsheet.pdf",
         "https://www.fullcompass.com/prod/624414-marshall-electronics-cv730-hn-uhd60-ptz-30x-camera-full-ndi"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -3799,16 +4818,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3830,6 +4845,20 @@
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
         "https://en.minrrayav.com/Products/262.html",
         "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3840,16 +4869,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3871,6 +4896,20 @@
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
         "https://en.minrrayav.com/Products/262.html",
         "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-usb-and-hdmi-output/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 5.19,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3881,16 +4920,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3912,6 +4947,20 @@
         "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
         "https://en.minrrayav.com/Products/262.html",
         "https://gtrdirect.ca/product/minrray-uv430c-ptz-camera-25x-optical-zoom-hdmi-output/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.35,
+      "maxApertureTele": 4.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3922,15 +4971,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3951,6 +4997,19 @@
       "sources": [
         "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
         "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -3961,15 +5020,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -3990,6 +5046,19 @@
       "sources": [
         "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
         "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4000,15 +5069,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4030,6 +5096,19 @@
         "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html",
         "https://en.minrrayav.com/Products/339.html",
         "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4040,16 +5119,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4071,6 +5146,20 @@
         "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
         "https://en.minrrayav.com/Products/339.html",
         "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4085,7 +5174,6 @@
         "3G-SDI",
         "HD-SDI",
         "HDMI",
-        "IP",
         "Composite"
       ],
       "poeClass": "PoE+",
@@ -4116,6 +5204,21 @@
         "https://www.manualslib.com/manual/884474/Panasonic-Aw-He130w.html?page=122",
         "https://www.willoughbys.com/Panasonic_AW-HE130_HD_Integrated_PTZ_Camera_White_370494.html",
         "https://www.manualpdf.in/panasonic/aw-he130/specifications"
+      ],
+      "introductionYear": 2014,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/8, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -4123,16 +5226,13 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "SRT"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4158,6 +5258,24 @@
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
         "https://eu.connect.panasonic.com/dk/en/download-specifications/6541"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4171,7 +5289,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4200,6 +5317,21 @@
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
         "https://ap.connect.panasonic.com/ph/en/aw-he20",
         "https://www.manualslib.com/manual/2918240/Panasonic-Aw-He20kp.html?page=119"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -4212,7 +5344,6 @@
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4240,6 +5371,21 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
+      ],
+      "introductionYear": 2017,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.3,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -4252,8 +5398,7 @@
       ],
       "videoOutputs": [
         "HD-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -4281,6 +5426,21 @@
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
         "https://manuals.co.uk/panasonic/aw-he40s/specifications"
+      ],
+      "introductionYear": 2014,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -4294,7 +5454,6 @@
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4322,6 +5481,21 @@
       "hasWallMount": true,
       "sources": [
         "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, backed by a four-axis hybrid stabilizer."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -4329,18 +5503,12 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4365,6 +5533,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization, with electronic roll-axis correction added on top. Neither changes the framing in normal use."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4372,15 +5561,13 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4405,6 +5592,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
+      ],
+      "introductionYear": 2018,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "IP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4412,20 +5617,14 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "NDI High Bandwidth",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4450,6 +5649,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4457,20 +5677,14 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI|HX2",
-        "SRT",
-        "RTMP",
-        "SMPTE ST 2110"
+        "RS-422"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "3G-SDI (x2)",
         "HDMI",
-        "Fiber",
-        "IP"
+        "Fiber"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4495,6 +5709,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization with an optional hybrid mode that adds roll correction. Selectable in the menu."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Built-in on-camera auto-framing: subject recognition runs on the camera's own processor, operated through Panasonic's Media Production Suite. Panasonic's paid AW-SF100 or AW-SF200 software is available as an upgrade for advanced multi-person tracking.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP",
+        "SMPTE ST 2110"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4503,14 +5738,11 @@
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422",
-        "RS-232",
-        "SRT",
-        "RTMP"
+        "RS-232"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4537,6 +5769,22 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Electronic stabilization; crops the sensor slightly when enabled."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -4544,13 +5792,10 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4576,6 +5821,22 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.9,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
+      "streamingProtocols": [
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -4583,14 +5844,10 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4616,6 +5873,23 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -4623,15 +5897,11 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "IP",
         "USB"
       ],
       "poeClass": "PoE+",
@@ -4657,6 +5927,23 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Optical stabilization; no change to the field of view."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
       ]
     },
     {
@@ -4664,17 +5951,11 @@
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
       "controlProtocols": [
         "Panasonic AW IP",
-        "RS-422",
-        "FreeD",
-        "NDI High Bandwidth",
-        "NDI|HX2",
-        "SRT",
-        "RTMP"
+        "RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -4699,6 +5980,27 @@
       "hasWallMount": null,
       "sources": [
         "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Two-axis optical stabilization, with separate modes for a locked-off shot and for pan/tilt moves."
+      },
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Free built-in AI auto-tracking added by firmware. It follows a single subject on the camera itself, with no external PC or server required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -4710,17 +6012,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4741,6 +6038,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4752,18 +6064,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4784,6 +6090,22 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -4794,14 +6116,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4822,6 +6141,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://files.bzbexpress.com/files/attachments/12812/ptzoptics-pt12x-sdi-wh-g2-datasheet.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4832,17 +6164,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4864,6 +6191,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4875,17 +6217,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4906,6 +6243,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4917,18 +6269,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "Dante AV-H",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -4949,6 +6295,22 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "Dante AV-H"
       ]
     },
     {
@@ -4959,14 +6321,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -4987,6 +6346,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT20X-SDI-xx-G2/PT20X-SDI-xx-G2%20User%20Manual.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -4997,17 +6369,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5029,6 +6396,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -5040,17 +6422,12 @@
         "VISCA RS-485",
         "VISCA IP",
         "Pelco-D",
-        "Pelco-P",
-        "NDI|HX3",
-        "SRT",
-        "RTSP",
-        "RTMP"
+        "Pelco-P"
       ],
       "videoOutputs": [
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -5071,6 +6448,21 @@
       "sources": [
         "https://ptzoptics.com/move-4k/",
         "https://www.fullcompass.com/prod/616295-ptzoptics-pt30x-4k-g3-move-4k-ptz-camera-with-30x-optical-zoom"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -5087,8 +6479,7 @@
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE+",
       "presetCount": 255,
@@ -5109,6 +6500,18 @@
       "sources": [
         "https://ptzoptics.com/link-4k/",
         "https://ptzoptics.com/wp-content/uploads/2023/09/PT30X-LINK-xx.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -5119,14 +6522,11 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "RTSP",
-        "RTMP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
-        "3G-SDI",
-        "IP"
+        "3G-SDI"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5147,6 +6547,19 @@
       "sources": [
         "https://ptzoptics.com/sdi/",
         "https://f.hubspotusercontent20.net/hubfs/418770/PTZOptics%20Documentation/PT30X-SDI-xx-G2/PT30X-SDI-xx-G2%20Data%20Sheet.pdf"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -5157,17 +6570,12 @@
         "VISCA RS-232",
         "Pelco-D",
         "Pelco-P",
-        "ONVIF",
-        "NDI|HX3",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "ONVIF"
       ],
       "videoOutputs": [
         "HDMI",
         "3G-SDI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE",
       "presetCount": 255,
@@ -5189,6 +6597,21 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -5196,14 +6619,10 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
       "controlProtocols": [
         "VISCA IP",
-        "S700PTP",
-        "RTSP",
-        "SRT",
-        "NDI|HX"
+        "S700PTP"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE++",
       "presetCount": 100,
@@ -5230,6 +6649,20 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
         "https://helpguide.sony.net/rc/brc-am7/v1/en/contents/specifications.html"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": "electronic variable ND, 1/4 to 1/128",
+      "autoTrackingNote": "Built-in on-camera AI auto-framing and tracking, running on the camera itself with no external appliance or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP"
       ]
     },
     {
@@ -5242,8 +6675,7 @@
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x2)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5270,6 +6702,18 @@
       "hasWallMount": true,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -5308,21 +6752,31 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
-      ]
+      ],
+      "introductionYear": 2012,
+      "maxApertureWide": 1.9,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "On-board image stabilization for steadier images under movement or vibration."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null
     },
     {
       "id": "sony-brc-x1000",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "FreeD"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
         "3G-SDI (x4 dual link)",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5350,6 +6804,21 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
         "https://www.fullcompass.com/prod/525830-sony-brc-x1000-1-4k-hd-ptz-camera-with-12x-optical-zoom"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": false,
+      "hasND": true,
+      "ndDetail": "1/4, 1/16, 1/64",
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "IP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -5357,16 +6826,11 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5394,6 +6858,24 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
         "https://www.manualslib.com/manual/1664613/Sony-Brc-X400.html"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": null,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -5404,8 +6886,7 @@
         "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "none",
       "presetCount": 256,
@@ -5432,6 +6913,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
+      ],
+      "introductionYear": 2013,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -5443,8 +6939,7 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -5472,6 +6967,21 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
         "https://www.manua.ls/sony/srg-360she/manual"
+      ],
+      "introductionYear": 2016,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "IP"
       ]
     },
     {
@@ -5479,12 +6989,10 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "RTSP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5511,6 +7019,21 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "RTSP"
       ]
     },
     {
@@ -5518,16 +7041,11 @@
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
       "controlProtocols": [
         "VISCA IP",
-        "VISCA RS-422",
-        "NDI|HX",
-        "RTSP",
-        "RTMP",
-        "SRT"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 100,
@@ -5554,6 +7072,24 @@
       "hasWallMount": null,
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in image stabilization, switchable on or off."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     }
   ]

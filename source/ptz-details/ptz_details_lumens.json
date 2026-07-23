@@ -8,15 +8,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -43,6 +39,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50P",
         "https://www.manua.ls/lumens/vc-a50p/manual"
+      ],
+      "introductionYear": 2017,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -53,15 +63,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -82,6 +88,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
         "https://www.manua.ls/lumens/vc-a50p/manual"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -92,15 +112,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -122,6 +138,20 @@
         "https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera",
         "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN",
         "https://www.amazon.com/Lumens-VC-A51PW-Flexible-Support-Ethernet/dp/B09P8XBQCZ"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -132,15 +162,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -161,6 +187,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A53",
         "https://univesointegration.com/wp-content/uploads/2024/05/vc53.pdf"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -171,16 +211,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -208,6 +243,23 @@
         "https://www.mylumens.com/en/Products_detail/37/VC-A61P",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -218,17 +270,11 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -250,6 +296,24 @@
         "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -260,17 +324,12 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -291,6 +350,23 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -301,19 +377,13 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "FreeD",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
         "12G-SDI",
         "3G-SDI",
         "HDMI",
-        "USB",
-        "IP"
+        "USB"
       ],
       "poeClass": "PoE++",
       "presetCount": 256,
@@ -334,6 +404,24 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
       ]
     },
     {
@@ -344,15 +432,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "NDI|HX",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 256,
@@ -373,6 +456,21 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera",
         "https://www.manua.ls/lumens/vc-a71p/manual"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -383,14 +481,10 @@
         "VISCA RS-232",
         "VISCA RS-422",
         "Pelco-D",
-        "ONVIF",
-        "SRT",
-        "RTMP",
-        "RTSP"
+        "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE",
       "presetCount": 128,
@@ -411,6 +505,20 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
         "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
       ]
     },
     {
@@ -419,14 +527,11 @@
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
-        "VISCA RS-422",
-        "RTSP",
-        "RTMP"
+        "VISCA RS-422"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI",
-        "IP"
+        "HDMI"
       ],
       "poeClass": "PoE+",
       "presetCount": 128,
@@ -447,6 +552,19 @@
       "sources": [
         "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
         "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Dedicated dual-lens auto-tracking camera: a PTZ lens plus a wide panoramic lens, with on-camera facial-detection tracking and automatic switching between the two views. All tracking runs in the camera itself, with no external processor, dongle or PC application. Offers Stage, Everywhere and Partition tracking modes.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
       ]
     }
   ]
