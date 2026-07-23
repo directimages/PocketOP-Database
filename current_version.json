@@ -1,17 +1,17 @@
 {
-  "latest": "db-v14",
-  "updatedAt": "2026-07-23T14:40:53Z",
+  "latest": "db-v15",
+  "updatedAt": "2026-07-23T18:48:52Z",
   "files": {
     "broadcast_lenses.json": {
       "version": "1.32.0",
       "entries": 124
     },
     "cine_lenses.json": {
-      "version": "1.30.0",
+      "version": "1.31.0",
       "entries": 603
     },
     "lenses.json": {
-      "version": "1.33.0",
+      "version": "1.34.0",
       "entries": 727
     },
     "broadcast_lens_details.json": {
@@ -19,11 +19,11 @@
       "entries": 124
     },
     "cine_lens_details.json": {
-      "version": "1.51.0",
+      "version": "1.52.0",
       "entries": 603
     },
     "lens-details.json": {
-      "version": "1.53.0",
+      "version": "1.54.0",
       "entries": 727
     },
     "ptz_cameras.json": {

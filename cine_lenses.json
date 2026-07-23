@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
+  "version": "1.31.0",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -3370,7 +3370,7 @@
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 100mm T1.6",
+      "model": "S8/i FF 100mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 100.0,
@@ -3388,7 +3388,7 @@
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 135mm T2.0",
+      "model": "S8/i FF 135mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 135.0,
@@ -3406,7 +3406,7 @@
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 18mm T1.6",
+      "model": "S8/i FF 18mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 18.0,
@@ -3424,7 +3424,7 @@
     {
       "id": "cooke-s8i-ff-25mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 25mm T1.6",
+      "model": "S8/i FF 25mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 25.0,
@@ -3442,7 +3442,7 @@
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 32mm T1.6",
+      "model": "S8/i FF 32mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 32.0,
@@ -3460,7 +3460,7 @@
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 40mm T1.6",
+      "model": "S8/i FF 40mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 40.0,
@@ -3478,7 +3478,7 @@
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 50mm T1.6",
+      "model": "S8/i FF 50mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 50.0,
@@ -3496,7 +3496,7 @@
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 75mm T1.6",
+      "model": "S8/i FF 75mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 75.0,
@@ -4792,7 +4792,7 @@
     {
       "id": "dzofilm-vespid-retro-35mm-t2-1",
       "manufacturer": "DZOFilm",
-      "model": "Vespid Retro 35mm T2.8",
+      "model": "Vespid Retro 35mm T2.1",
       "series": "Vespid Retro",
       "generation": "Cinema",
       "focalLengthMin": 35.0,
@@ -4828,7 +4828,7 @@
     {
       "id": "dzofilm-vespid-retro-75mm-t2-1",
       "manufacturer": "DZOFilm",
-      "model": "Vespid Retro 75mm T2.8",
+      "model": "Vespid Retro 75mm T2.1",
       "series": "Vespid Retro",
       "generation": "Cinema",
       "focalLengthMin": 75.0,
@@ -4900,7 +4900,7 @@
     {
       "id": "fujinon-hk5-3x75-t2-8",
       "manufacturer": "Fujinon",
-      "model": "HK5.3×75 T2.8",
+      "model": "HK5.3×75 T2.8-3.8",
       "series": "HK Premier",
       "generation": "Cinema",
       "focalLengthMin": 75.0,
@@ -5116,7 +5116,7 @@
     {
       "id": "fujinon-xk20-120mm",
       "manufacturer": "Fujinon",
-      "model": "XK20-120mm T3.5-T3.85",
+      "model": "XK20-120mm T3.5",
       "series": "XK",
       "generation": "4K UHD",
       "focalLengthMin": 20.0,
@@ -5710,7 +5710,7 @@
     {
       "id": "laowa-ultima-25-600mm-t4-s35",
       "manufacturer": "Laowa",
-      "model": "Ultima 25-600mm T4 S35",
+      "model": "Ultima 25-600mm T4.2 S35",
       "series": "Ultima",
       "generation": "Cinema",
       "focalLengthMin": 25.0,
@@ -8788,7 +8788,7 @@
     {
       "id": "tokina-vista-p-180mm-t1-5",
       "manufacturer": "Tokina",
-      "model": "Vista-P 180mm T1.5",
+      "model": "Vista-P 180mm T1.9",
       "series": "Vista-P",
       "generation": "Cinema",
       "focalLengthMin": 180.0,
@@ -8806,7 +8806,7 @@
     {
       "id": "tokina-vista-p-180mm-t1-5-e",
       "manufacturer": "Tokina",
-      "model": "Vista-P 180mm T1.5",
+      "model": "Vista-P 180mm T1.9",
       "series": "Vista-P",
       "generation": "Cinema",
       "focalLengthMin": 180.0,
@@ -8824,7 +8824,7 @@
     {
       "id": "tokina-vista-p-180mm-t1-5-ef",
       "manufacturer": "Tokina",
-      "model": "Vista-P 180mm T1.5",
+      "model": "Vista-P 180mm T1.9",
       "series": "Vista-P",
       "generation": "Cinema",
       "focalLengthMin": 180.0,
@@ -8842,7 +8842,7 @@
     {
       "id": "tokina-vista-p-180mm-t1-5-lpl",
       "manufacturer": "Tokina",
-      "model": "Vista-P 180mm T1.5",
+      "model": "Vista-P 180mm T1.9",
       "series": "Vista-P",
       "generation": "Cinema",
       "focalLengthMin": 180.0,
@@ -9857,7 +9857,7 @@
       "focalLengthMax": 18.0,
       "zoomRatio": 1.0,
       "extenderFactor": 1.0,
-      "sensorFormat": "fullFrame",
+      "sensorFormat": "superThirtyFive",
       "mount": "PL",
       "isPTZ": false,
       "isFree": false,
@@ -10856,5 +10856,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-06-11"
+  "updatedAt": "2026-07-23"
 }
