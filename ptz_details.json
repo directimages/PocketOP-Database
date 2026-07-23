@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
+  "version": "1.23.0",
   "updatedAt": "2026-07-23",
   "cameras": [
     {
@@ -49,7 +49,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. Aimed at lecture capture, worship and corporate streaming without a camera operator."
     },
     {
       "id": "aver-ptz231",
@@ -99,7 +100,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An HD PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, carrying NDI|HX and SmartShoot AI that auto-frames a presenter across preset zones without an operator. Built for conference rooms, event spaces and worship streaming that need reach at 1080p."
     },
     {
       "id": "aver-ptz310unv2",
@@ -150,7 +152,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms running an NDI-based workflow, with 4K capture and no dedicated operator."
     },
     {
       "id": "aver-ptz310uv2",
@@ -201,7 +204,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms that want 4K without a dedicated operator."
     },
     {
       "id": "aver-ptz330unv2",
@@ -253,7 +257,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K on an NDI-based production network."
     },
     {
       "id": "aver-ptz330uv2",
@@ -304,7 +309,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K."
     },
     {
       "id": "aver-tr211",
@@ -353,7 +359,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An entry-level Full HD AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. A cost-effective tracking camera for lectures, sermons and training at 1080p."
     },
     {
       "id": "aver-tr315",
@@ -402,7 +409,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms."
     },
     {
       "id": "aver-tr315n",
@@ -451,7 +459,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms on an NDI backbone."
     },
     {
       "id": "aver-tr335",
@@ -500,7 +509,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters."
     },
     {
       "id": "aver-tr335n",
@@ -552,7 +562,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters, on an NDI-based workflow."
     },
     {
       "id": "aver-tr535",
@@ -604,7 +615,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, so it tracks and frames presenters across a whole stage using Wide Area, Stage and Segment modes. Built for multi-presenter productions in larger venues and broadcast."
     },
     {
       "id": "aver-tr535n",
@@ -656,7 +668,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, tracking and framing presenters across a whole stage using Wide Area, Stage and Segment modes, and built as the native-NDI edition with full NDI for IP production. Built for multi-presenter productions in larger venues and broadcast on an NDI backbone."
     },
     {
       "id": "aver-tr615",
@@ -709,7 +722,8 @@
         "RTSP",
         "RTMP",
         "HLS"
-      ]
+      ],
+      "description": "AVer's broadcast-grade flagship auto-tracking PTZ, built around a 1-inch Sony Exmor RS sensor with a 19x zoom and four tracking modes including voice. It integrates like a production camera, with dual 12G-SDI, NDI|HX3, Genlock, FreeD and XLR audio plus a Dante AV-H upgrade path, for live events, worship, corporate and broadcast."
     },
     {
       "id": "birddog-p100",
@@ -755,7 +769,8 @@
       "streamingProtocols": [
         "NDI",
         "RTSP"
-      ]
+      ],
+      "description": "An entry-level full NDI PTZ built on BirdDog's custom NDI silicon and a Sony sensor, with a 10x zoom and Full HD output over NDI, SDI, HDMI and USB. A flexible, professional starting point for boardrooms, worship and live sports streaming."
     },
     {
       "id": "birddog-p110",
@@ -808,7 +823,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "An entry-level Full HD full NDI PTZ built on BirdDog's custom NDI silicon with a 10x wide-angle zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Suited to boardrooms, worship and education where wide coverage matters more than reach."
     },
     {
       "id": "birddog-p120",
@@ -861,7 +877,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Full HD full NDI PTZ on BirdDog's custom NDI silicon with a 20x zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Built for worship, education and live events that need extra reach on an NDI network."
     },
     {
       "id": "birddog-p200",
@@ -910,7 +927,8 @@
         "NDI|HX2",
         "SRT",
         "RTSP"
-      ]
+      ],
+      "description": "BirdDog's long-reach Full HD full NDI PTZ, pairing a Sony Exmor R sensor with a powerful 30x zoom for capturing action from across a venue. A favourite for sports, worship and live events on an NDI network, with simultaneous NDI, SDI and HDMI output."
     },
     {
       "id": "birddog-p240",
@@ -961,7 +979,8 @@
         "NDI|HX2",
         "SRT",
         "RTSP"
-      ]
+      ],
+      "description": "A Full HD full NDI PTZ built on a larger 1/2.5-inch sensor with a 20x optical zoom (40x with Super Resolution Zoom in HD) and built-in, switchable image stabilization for steadier shots. With XLR audio and NDI, SDI and HDMI output, it suits worship, sports and live production."
     },
     {
       "id": "birddog-p400",
@@ -1011,7 +1030,8 @@
         "NDI",
         "NDI|HX",
         "RTSP"
-      ]
+      ],
+      "description": "A 4K full NDI PTZ pairing a 1/2.5-inch Sony sensor with BirdDog's custom NDI silicon and a 20x zoom, debuting 10-bit 4:2:2 NDI for professional colour and shading. With built-in image stabilization and free colour-matching tools, it suits broadcast, live events and high-end worship."
     },
     {
       "id": "birddog-p4k",
@@ -1063,7 +1083,8 @@
         "NDI",
         "NDI|HX",
         "RTSP"
-      ]
+      ],
+      "description": "A flagship 4K full NDI PTZ built around a large 1-inch Sony sensor with a 12x zoom, built-in ND filters and switchable image stabilization for clean, cinematic images in demanding light. Outputs full NDI, HDMI and 6G-SDI, for broadcast, live production and high-end worship."
     },
     {
       "id": "birddog-x1",
@@ -1112,7 +1133,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ in BirdDog's X-series with a 12x zoom, NDI|HX3 and built-in Wi-Fi, adding AI tracking, a halo tally and an E-Ink identification display, plus an integrated NDI|HX decoder for confidence monitoring or teleprompting. Built for streamlined live production, worship and corporate on an NDI network."
     },
     {
       "id": "birddog-x1-30x",
@@ -1160,7 +1182,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ in BirdDog's X-series with a long 30x zoom, NDI|HX3 and built-in Wi-Fi, plus AI tracking, a halo tally, an E-Ink display and an integrated NDI|HX decoder for confidence feeds. Built for larger venues, worship and sports on an NDI network."
     },
     {
       "id": "birddog-x1-ultra",
@@ -1209,7 +1232,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K member of BirdDog's X-series, a 4K30 PTZ with a 12x zoom and a 1/2.8-inch Sony sensor, carrying NDI|HX3, Wi-Fi, AI auto-framing, a halo tally, an E-Ink display and an integrated NDI|HX decoder. Built for accessible 4K live production, worship and corporate streaming."
     },
     {
       "id": "bolin-b2-210",
@@ -1256,7 +1280,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach."
     },
     {
       "id": "bolin-b2-220",
@@ -1304,7 +1329,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget."
     },
     {
       "id": "bolin-b6-420",
@@ -1352,7 +1378,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues."
     },
     {
       "id": "bolin-d2-210h",
@@ -1402,7 +1429,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with Dante AV-H video and audio over IP alongside HDMI and USB. Built for conference rooms and Pro AV installations already running a Dante network."
     },
     {
       "id": "bolin-d2-220h",
@@ -1453,7 +1481,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with Dante AV-H over IP and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on a Dante backbone."
     },
     {
       "id": "bolin-n2-210x",
@@ -1502,7 +1531,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with certified NDI|HX3 alongside HDMI, USB and IP. Built for conference rooms, studios and worship spaces on an NDI network."
     },
     {
       "id": "bolin-n2-220x",
@@ -1553,7 +1583,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with certified NDI|HX3 and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on an NDI backbone."
     },
     {
       "id": "bolin-r9-230h",
@@ -1610,7 +1641,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line Full HD PTZ built for low light and high motion, pairing a 1/1.8-inch Sony image block with a 30x zoom and Super Image Stabilization Plus for steady shots in sports, concerts and dim venues. It carries broadcast features including dual 3G-SDI, optical SDI, Genlock, FreeD and XLR audio, and is certified for medical spaces."
     },
     {
       "id": "bolin-r9-418f",
@@ -1666,7 +1698,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, for broadcast studios, theatres, worship and corporate production. It outputs dual 6G-SDI, HDMI and optical SDI with an SFP+ slot for 12G fiber, plus FreeD tracking and XLR audio, and is certified for medical use."
     },
     {
       "id": "bolin-r9-418n",
@@ -1724,7 +1757,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, foregrounding NDI High Bandwidth and NDI|HX3 with NDI Embedded Bridge for remote and multi-venue production. Alongside NDI it carries dual 6G-SDI, HDMI, optical SDI, FreeD tracking and XLR audio for broadcast, live events and worship."
     },
     {
       "id": "bolin-range",
@@ -1775,7 +1809,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "Bolin's all-weather 4K60 PTZ, built to go where standard PTZ cameras cannot, with a 1/1.8-inch sensor, a 25x zoom and gyro stabilization across pan, tilt and roll plus a 270-degree roll axis for horizon correction and creative angles. Weatherproof and fast-moving, with built-in subject tracking and simultaneous 12G-SDI, HDMI, USB-C and NDI output, for sports, arenas, touring, outdoor events and worship."
     },
     {
       "id": "canon-cr-n100",
@@ -1833,7 +1868,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A compact 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science, a built-in ND filter and a USB-C UVC output for use as a standalone webcam. With NDI|HX and RTMP streaming plus auto-tracking via Canon's RA-AT001 app, it suits conferencing, keynotes and lecture streaming."
     },
     {
       "id": "canon-cr-n300",
@@ -1895,7 +1931,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, pairing Canon colour science and a built-in ND filter with hybrid autofocus and face detection. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and broadcast."
     },
     {
       "id": "canon-cr-n350",
@@ -1957,7 +1994,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science and a built-in ND filter with SRT and FreeD as standard. With NDI|HX streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and live production."
     },
     {
       "id": "canon-cr-n400",
@@ -2020,7 +2058,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, adding broadcast connectivity with 12G-SDI, Genlock and dual XLR audio to Canon colour science and a built-in ND filter. With NDI|HX, SRT and FreeD plus auto-tracking via the RA-AT001 app, it suits broadcast, live events and worship."
     },
     {
       "id": "canon-cr-n500",
@@ -2081,7 +2120,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ built around a large 1-inch sensor with a 15x optically stabilized zoom, Dual Pixel autofocus and Canon colour science, with a built-in ND filter for control in bright light. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits broadcast, worship, sports and high-end live production."
     },
     {
       "id": "canon-cr-n700",
@@ -2143,7 +2183,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Canon's flagship 4K60 broadcast PTZ, pairing a 1-inch sensor and DIGIC DV7 processing with 4:2:2 10-bit output, a 15x optically stabilized zoom, Dual Pixel autofocus and Canon Log 3. With 12G-SDI, dual XLR, Genlock, a built-in ND filter, NDI|HX and SRT plus auto-tracking and Auto Loop via Canon's apps, it is built for broadcast and high-end live production."
     },
     {
       "id": "canon-cr-x300",
@@ -2206,7 +2247,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A rugged outdoor 4K PTZ with a 1/2.3-inch sensor and a 20x zoom stabilized by four-axis optical IS with a powered mode for telephoto, plus a built-in ND filter and Canon colour science. Weatherproof and broadcast-ready with 4:2:2 10-bit SDI and HDMI output and auto-tracking via the RA-AT001 app, it suits sports venues, news and outdoor production."
     },
     {
       "id": "datavideo-ptc-140",
@@ -2259,7 +2301,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom and a Sony CMOS sensor, outputting over HDMI, 3G-SDI and IP for live production and lecture capture. An affordable, straightforward camera for hybrid events, education and Pro AV, part of Datavideo's end-to-end production ecosystem."
     },
     {
       "id": "datavideo-ptc-150",
@@ -2312,7 +2355,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a long 30x zoom and a Sony CMOS sensor, outputting HDMI, 3G-SDI and IP for reach in larger rooms and venues. A dependable live-production camera for events, education and worship."
     },
     {
       "id": "datavideo-ptc-150t",
@@ -2362,7 +2406,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a long 30x zoom built around HDBaseT, carrying video, control, power and tally over a single cable for clean long-run installs. Suited to larger venues and Pro AV setups that standardise on HDBaseT."
     },
     {
       "id": "datavideo-ptc-280",
@@ -2414,7 +2459,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and a wide field of view, outputting UHD over HDMI, 3G-SDI and IP for live production and event capture. A compact 4K camera for hybrid events, education and worship."
     },
     {
       "id": "datavideo-ptc-285",
@@ -2465,7 +2511,8 @@
         "SRT",
         "RTSP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking that follows a chosen presenter with full-body, half-body or close-up framing. Outputs UHD over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live events."
     },
     {
       "id": "datavideo-ptc-285t",
@@ -2516,7 +2563,8 @@
         "SRT",
         "RTSP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking, built around HDBaseT so video, control, power and tally run over a single cable. Follows a chosen presenter with full, half or close-up framing, for hands-free lecture capture, worship and Pro AV installs."
     },
     {
       "id": "datavideo-ptc-300",
@@ -2567,7 +2615,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 20x zoom and a 1/1.8-inch Sony sensor, capturing UHD up to 60fps over HDMI, 3G-SDI and IP. A broadcast-grade camera for live production, events and larger venues in Datavideo's production ecosystem."
     },
     {
       "id": "datavideo-ptc-305",
@@ -2618,7 +2667,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and a 1/1.8-inch sensor, adding built-in AI auto-tracking that follows a chosen subject with full-body, half-body or close-up framing. Captures UHD up to 60fps over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live broadcast."
     },
     {
       "id": "datavideo-ptc-305t",
@@ -2669,7 +2719,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and built-in AI auto-tracking, built around HDBaseT for video, control, power and tally over a single cable. Captures UHD up to 60fps and follows a chosen subject with full, half or close-up framing, for hands-free lecture capture, worship and larger venues."
     },
     {
       "id": "fomako-fmk12uh",
@@ -2717,7 +2768,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A compact Full HD NDI PTZ with a 12x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget wide-room option for church, education and live streaming."
     },
     {
       "id": "fomako-fmk20uh",
@@ -2766,7 +2818,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ with a 20x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget option for church, education and live streaming that needs more reach."
     },
     {
       "id": "fomako-k20",
@@ -2815,7 +2868,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD PTZ with a 20x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value option for church, education and streaming that can move to NDI later."
     },
     {
       "id": "fomako-k30",
@@ -2864,7 +2918,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD PTZ with a long 30x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value reach option for church, education and streaming that can add NDI later."
     },
     {
       "id": "fomako-k30ns",
@@ -2914,7 +2969,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ with a long 30x zoom, NDI 6 and NDI|HX3 support and Gen 3 AI auto-tracking, outputting 4K over SDI, HDMI, USB and IP. Fomako's long-reach 4K option for church, education and live production."
     },
     {
       "id": "fomako-k600n",
@@ -2964,7 +3020,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ with a 20x zoom and a 1/1.8-inch UHD sensor, NDI|HX3 certified with 4K60 output and Gen 3 AI auto-tracking across SDI, HDMI, USB and IP. Built for church, live studio and larger-venue streaming in 4K."
     },
     {
       "id": "fomako-k820",
@@ -3014,7 +3071,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/1.8-inch UHD sensor and a 20x zoom, an onboard LCD and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Aimed at church, studio and large-venue production, with NDI available as an upgrade."
     },
     {
       "id": "fomako-k820n",
@@ -3066,7 +3124,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ built on a 1/1.8-inch UHD sensor with a 20x zoom, an onboard LCD, NDI|HX3 with the license included and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Built for 4K church streaming, studio recording and large events on an NDI backbone."
     },
     {
       "id": "fomako-kn20",
@@ -3116,7 +3175,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD NDI PTZ with a 20x zoom and built-in NDI that needs no extra license, plus AI auto-tracking to follow a presenter hands-free. Built for church, education and live-streaming setups on a budget, with simultaneous SDI, HDMI, USB and IP output."
     },
     {
       "id": "fomako-kn20a",
@@ -3166,7 +3226,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 20x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 20x line, aimed at church, education and multi-camera live streaming."
     },
     {
       "id": "fomako-kn30",
@@ -3216,7 +3277,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD NDI PTZ with a long 30x zoom and built-in NDI that needs no extra license, plus AI auto-tracking for hands-free presenter following. Built for church, education and streaming in larger rooms, with SDI, HDMI, USB and IP output."
     },
     {
       "id": "fomako-kn30a",
@@ -3266,7 +3328,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 30x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 30x line, for church, education and multi-camera streaming in larger venues."
     },
     {
       "id": "hollyland-astra-p1",
@@ -3314,7 +3377,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "Hollyland's first PTZ camera and its move beyond wireless gear into live production, a 4K60 camera built on a large 1/1.8-inch sensor with a 30x zoom for clean footage in dim halls. It pairs AI auto-tracking, with presenter and multi-zone modes, and face-detection auto-exposure with a free NDI|HX3 licence and single-cable PoE+ operation. Aimed at houses of worship, auditoriums and live events where a small team needs professional, hands-free coverage."
     },
     {
       "id": "jvc-ky-pz100",
@@ -3365,7 +3429,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "JVC's first robotic PTZ, a Full HD camera with a long 30x zoom and a silent Direct Drive motor, plus a built-in IP streaming engine with Wi-Fi and 4G/LTE options and a built-in microSD recorder. Outputs 3G-SDI, HDMI and IP for webcasting, lectures, concerts and worship."
     },
     {
       "id": "jvc-ky-pz200",
@@ -3419,7 +3484,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom, built for remote IP production with SRT streaming and H.265/H.264 encoding plus VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events."
     },
     {
       "id": "jvc-ky-pz200n",
@@ -3468,7 +3534,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom, adding NDI|HX for IP production alongside SRT streaming, H.265/H.264 encoding and VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events on an NDI network."
     },
     {
       "id": "jvc-ky-pz400n",
@@ -3518,7 +3585,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "JVC's first 4K robotic PTZ, a wide-angle 12x camera with NDI|HX and SRT streaming, HEVC encoding and VITC multi-camera synchronisation for reliable remote production. A one-wire PoE camera for education, corporate, live events and sport."
     },
     {
       "id": "jvc-ky-pz510",
@@ -3567,7 +3635,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, adding SMART auto-tracking that follows a presenter automatically. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport."
     },
     {
       "id": "jvc-ky-pz510n",
@@ -3616,7 +3685,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, pairing SMART auto-tracking with NDI|HX3 and NDI 5 for IP production. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport on an NDI network."
     },
     {
       "id": "jvc-ky-pz540n",
@@ -3670,7 +3740,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ built on a 1/1.8-inch sensor with a long 20x optical zoom (40x in HD), pairing advanced SMART auto-tracking with NDI|HX3 and NDI 5. With HEVC encoding and SRT streaming, it is built for sports, large events and long-reach live production."
     },
     {
       "id": "lumens-vc-a50p",
@@ -3725,7 +3796,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom and a 1/2.8-inch sensor, outputting 1080p60 over 3G-SDI, HDMI and IP with low-latency streaming. A dependable choice for lecture recording, video conferencing and live broadcasting in theatres, studios and meeting rooms."
     },
     {
       "id": "lumens-vc-a50s",
@@ -3774,7 +3846,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 1/2.8-inch sensor and a 20x optical zoom, built for SDI and baseband workflows with 3G-SDI, DVI, component and composite output and RS-232 or RS-422 control rather than HDMI or IP. Suited to broadcast and AV chains that run on a traditional baseband signal path, in studios, lecture halls and meeting rooms."
     },
     {
       "id": "lumens-vc-a51p",
@@ -3824,7 +3897,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ built on a 1/2.8-inch Sony sensor with a 20x optical zoom, outputting over 3G-SDI, HDMI and IP with Smart AF that tracks subjects in motion. Aimed at conference production, lecture capture, houses of worship and live events."
     },
     {
       "id": "lumens-vc-a53",
@@ -3873,7 +3947,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 PTZ built on a 1/1.8-inch 9.17MP sensor with a 30x zoom, carrying NDI High Bandwidth and NDI|HX3 alongside 12G-SDI, HDMI and IP output. A high-end option for studios, broadcast and worship on an NDI-based workflow."
     },
     {
       "id": "lumens-vc-a61p",
@@ -3932,7 +4007,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom that shoots wide or reaches deep into a venue, outputting 4K30 and 1080p60 over HDMI, 3G-SDI and Ethernet, with FreeD support for VR and AR sets. A flexible mid-range choice for studios, theatres, conference centres and lecture halls."
     },
     {
       "id": "lumens-vc-a61pn",
@@ -3986,7 +4062,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom and NDI|HX for IP production, alongside HDMI, 3G-SDI and Ethernet output and FreeD tracking. A mid-range 4K choice for studios, theatres and lecture halls on an NDI network."
     },
     {
       "id": "lumens-vc-a71p",
@@ -4039,7 +4116,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Lumens' flagship 4K60 PTZ, built on a large 1/1.8-inch sensor with a 30x zoom and 12G-SDI, HDMI, USB and IP output, plus FreeD for VR and AR sets and Smart AF face detection. Built for broadcast studios, live events, sports and high-end worship and education installations."
     },
     {
       "id": "lumens-vc-a71p-hn",
@@ -4094,7 +4172,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A flagship 4K60 PTZ on a 1/1.8-inch sensor with a 30x zoom, foregrounding full NDI High Bandwidth and NDI|HX3 with dual 12G and 3G-SDI, Genlock and BT.2020 colour for high-end broadcast and TV production. Built to match alongside system cameras in studios, live events and virtual sets."
     },
     {
       "id": "lumens-vc-a71pn",
@@ -4143,7 +4222,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A flagship-class 4K60 PTZ on a 1/1.8-inch sensor with a 30x zoom, adding NDI|HX for IP production alongside 12G-SDI, HDMI, USB and IP output and FreeD tracking. For broadcast, live events and worship on an NDI network."
     },
     {
       "id": "lumens-vc-r30",
@@ -4191,7 +4271,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A cost-effective 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, outputting 4K30 over 3G-SDI, HDMI and Ethernet. A straightforward reach option for education, conferencing and live streaming."
     },
     {
       "id": "lumens-vc-tr1",
@@ -4237,7 +4318,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD auto-tracking camera pairing a 20x PTZ lens with a panoramic wide lens, so it follows and frames a presenter automatically using Lumens' three intelligent tracking modes and smart self-switching. Built for hands-free lecture capture, corporate training, worship and presentations, with HDMI, SDI, USB and IP output."
     },
     {
       "id": "marshall-cv605-u3",
@@ -4286,7 +4368,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A compact 5x HD PTZ with a wide-angle lens and USB-C, HDMI and IP output, sized for huddle rooms and tight spaces where a small footprint matters. A simple, affordable Full HD camera for conferencing and lecture capture."
     },
     {
       "id": "marshall-cv612ht-4k",
@@ -4333,7 +4416,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom built around HDBaseT, carrying uncompressed 4K video, control and power over a single cable, with an HDMI output alongside. Suited to boardrooms, lecture halls and Pro AV setups that standardise on HDBaseT."
     },
     {
       "id": "marshall-cv620-bi",
@@ -4382,7 +4466,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD 20x PTZ built on a 1/2.8-inch Sony sensor, with simultaneous 3G-SDI, HDMI and IP output plus RTSP, RTMP and SRT streaming and ONVIF control. A cost-effective, broadcast-quality IP camera for meeting rooms, classrooms, live events and worship."
     },
     {
       "id": "marshall-cv620-bk4",
@@ -4437,7 +4522,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A fourth-generation Full HD 20x PTZ on a 1/2.8-inch sensor, with simultaneous 3G-SDI and HDMI output and RS-232 or RS-422 control. A broadcast-quality baseband camera for live production, corporate and worship, without IP streaming."
     },
     {
       "id": "marshall-cv625-tb",
@@ -4486,7 +4572,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ with a dual-camera design and a 25x zoom, using AI to track and frame a presenter automatically without an operator. Built for lecture capture, worship, corporate and broadcast where hands-free coverage matters."
     },
     {
       "id": "marshall-cv625-tbn",
@@ -4538,7 +4625,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ with a dual-camera design and a 25x zoom that follows and frames a presenter using AI, with native NDI for IP production. Built for hands-free lecture capture, worship, corporate and broadcast on an NDI network."
     },
     {
       "id": "marshall-cv630-bi",
@@ -4587,7 +4675,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 25x zoom and a 1/2.5-inch sensor, capturing UHD up to 60fps with HEVC IP streaming alongside HDMI, 3G-SDI and USB output. A networked broadcast and Pro AV camera for newscast, corporate, government, worship and education."
     },
     {
       "id": "marshall-cv630-ip",
@@ -4640,7 +4729,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 25x zoom and a 1/2.5-inch sensor, capturing UHD at 30fps with HEVC IP streaming alongside HDMI and 3G-SDI output. Built for networked broadcast and Pro AV production, from newscast and corporate to worship and courtroom."
     },
     {
       "id": "marshall-cv630-ndi",
@@ -4691,7 +4781,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, capturing UHD at 30fps with NDI|HX alongside HDMI and 3G-SDI output. A networked NDI video source for broadcast, newscast, corporate, worship and education."
     },
     {
       "id": "marshall-cv730-bhn",
@@ -4748,7 +4839,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K60 PTZ on a 1/1.8-inch 9.2MP Sony sensor with a long 30x zoom, adding full NDI, NDI|HX3 and NDI|HX2 alongside 12G-SDI, HDMI, USB and IP output. Built for NDI-based broadcast, live events, sportscast and large-venue worship and education."
     },
     {
       "id": "marshall-cv730-bk",
@@ -4808,7 +4900,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K60 PTZ built on a 1/1.8-inch 9.2MP Sony sensor with a long 30x zoom and simultaneous 12G-SDI, HDMI and IP output, plus a built-in tally light. Built for broadcast, live events, sportscast, government, courtroom and large worship and education venues."
     },
     {
       "id": "minrray-uv430e0",
@@ -4859,7 +4952,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a 12x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and conferencing, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv430e2",
@@ -4910,7 +5004,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 25x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and larger-venue production, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv430e3",
@@ -4961,7 +5056,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a very long 31x zoom for reach across large venues and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and broadcast, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv510e0",
@@ -5010,7 +5106,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ built on a 1/2.8-inch sensor with a 12x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. A value option for A/V broadcasting, conferencing and live streaming."
     },
     {
       "id": "minrray-uv510e2",
@@ -5059,7 +5156,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. Suited to A/V broadcasting, conferencing and live production that needs extra reach."
     },
     {
       "id": "minrray-uv950e0",
@@ -5109,7 +5207,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 12x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live streaming."
     },
     {
       "id": "minrray-uv950e2",
@@ -5160,7 +5259,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live production with extra reach."
     },
     {
       "id": "panasonic-aw-he130",
@@ -5219,7 +5319,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations."
     },
     {
       "id": "panasonic-aw-he145",
@@ -5276,7 +5377,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line PTZ with a large 1-inch sensor for strong low-light performance and shallower depth of field, natively Full HD with 4K/30p available over HDMI via firmware. It carries built-in ND and optical stabilization, positioned for high-end production where image quality is the priority."
     },
     {
       "id": "panasonic-aw-he20",
@@ -5332,7 +5434,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor."
     },
     {
       "id": "panasonic-aw-he38",
@@ -5386,7 +5489,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture."
     },
     {
       "id": "panasonic-aw-he40",
@@ -5441,7 +5545,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach."
     },
     {
       "id": "panasonic-aw-he42",
@@ -5496,7 +5601,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production."
     },
     {
       "id": "panasonic-aw-ue100",
@@ -5554,7 +5660,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line 4K PTZ with a 1/2.5-inch sensor and a wide 24x zoom, carrying 12G-SDI, HDMI and IP output with full NDI, NDI|HX and SRT plus FreeD tracking. Built for high-quality live remote and studio production across broadcast, staging, corporate and sports."
     },
     {
       "id": "panasonic-aw-ue150",
@@ -5610,7 +5717,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "An earlier Platinum-line 1-inch 4K PTZ built for high-end broadcast and live production, with the large-sensor image quality and system-camera integration that define Panasonic's top tier. Since succeeded by the UE150A."
     },
     {
       "id": "panasonic-aw-ue150a",
@@ -5670,7 +5778,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line 1-inch 4K PTZ, the 2025 successor to the UE150 with improved optical stabilization, an added optical low-pass filter and high-bandwidth NDI. Aimed at high-end broadcast and live production where image quality is mission-critical."
     },
     {
       "id": "panasonic-aw-ue160",
@@ -5730,7 +5839,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Panasonic's flagship PTZ and the top of its Platinum line, built around a 1-inch 4K MOS sensor with the highest sensitivity in the range and an optical low-pass filter that tames moire against LED walls. It integrates like a system camera, with 12G-SDI, fiber, HDMI and IP output, full NDI, optional SMPTE ST 2110 and FreeD tracking output. Built for high-end broadcast, sports and large-event production."
     },
     {
       "id": "panasonic-aw-ue20",
@@ -5785,7 +5895,8 @@
       "streamingProtocols": [
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A compact Pro Series 4K PTZ with a 12x zoom, aimed at streaming small spaces like meeting rooms, boardrooms and classrooms. It shares its lens block with the Full HD HE20, the difference being the 4K sensor."
     },
     {
       "id": "panasonic-aw-ue30",
@@ -5837,7 +5948,8 @@
       "streamingProtocols": [
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Zoom-certified Pro Series 4K/30p PTZ with a 20x zoom, built for streaming smaller spaces such as meeting rooms, boardrooms and classrooms. A straightforward entry into 4K remote capture."
     },
     {
       "id": "panasonic-aw-ue40",
@@ -5890,7 +6002,8 @@
         "NDI|HX2",
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Premium-line 4K/30p PTZ, the quiet and compact sibling of the UE50, with the same SRT streaming and optical stabilization. Suited to lectures, corporate events and worship services."
     },
     {
       "id": "panasonic-aw-ue50",
@@ -5944,7 +6057,8 @@
         "NDI|HX2",
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Premium-line 4K/30p PTZ in a compact, ultra-quiet body with SRT streaming and optical stabilization, easy to install discreetly. Geared toward streaming lectures, corporate events and worship services."
     },
     {
       "id": "panasonic-aw-ue80",
@@ -6001,7 +6115,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Premium-line 4K/60p PTZ with a 24x zoom and professional IP connectivity, including high-bandwidth NDI, NDI|HX and SRT, plus FreeD support for AR and VR workflows. It adds entry-level built-in AI auto-tracking that follows a single presenter without extra hardware, aimed at lectures, corporate events and worship services. Note that in NDI|HX mode the UE80 outputs Full HD only; 4K runs over SDI, HDMI or full-bandwidth NDI."
     },
     {
       "id": "ptzoptics-pt12x-4k-g3",
@@ -6053,7 +6168,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 12x zoom favours wider rooms and medium throws."
     },
     {
       "id": "ptzoptics-pt12x-link-4k",
@@ -6106,7 +6222,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
@@ -6154,7 +6271,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 12x zoom favours wider rooms and medium throws, the everyday reach in the SDI-G2 line."
     },
     {
       "id": "ptzoptics-pt12x-se-g3",
@@ -6206,7 +6324,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 12x zoom favours wider rooms and medium throws."
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
@@ -6258,7 +6377,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
@@ -6311,7 +6431,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
@@ -6359,7 +6480,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 20x zoom suits mid to large venues, trading some wide coverage for extra reach."
     },
     {
       "id": "ptzoptics-pt20x-se-g3",
@@ -6411,7 +6533,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
     },
     {
       "id": "ptzoptics-pt30x-4k-g3",
@@ -6463,7 +6586,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
     },
     {
       "id": "ptzoptics-pt30x-link-4k",
@@ -6512,7 +6636,8 @@
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt30x-sdi-g2",
@@ -6560,7 +6685,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject. Note it cannot run 1080p60 over SDI/HDMI and the IP stream simultaneously; one output must drop to 1080p30 or lower."
     },
     {
       "id": "ptzoptics-pt30x-se-g3",
@@ -6612,7 +6738,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
     },
     {
       "id": "sony-brc-am7",
@@ -6663,7 +6790,8 @@
         "NDI|HX",
         "SRT",
         "RTSP"
-      ]
+      ],
+      "description": "Sony's premium 4K AI auto-framing PTZ, pairing a 20x zoom and 4K60 imaging with advanced AI that tracks and frames subjects automatically, from a single presenter to a group or ball-sports action. With an electronic variable ND filter, S-Cinetone and S-Log3, it targets high-end sports, events and productions run with fewer operators."
     },
     {
       "id": "sony-brc-h800",
@@ -6714,7 +6842,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A Full HD IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, pairing shallow depth of field with 1080p output. The HD counterpart to Sony's 1-inch 4K line, for broadcast and high-end live production."
     },
     {
       "id": "sony-brc-h900",
@@ -6764,7 +6893,8 @@
       },
       "hasND": false,
       "ndDetail": null,
-      "autoTrackingNote": null
+      "autoTrackingNote": null,
+      "description": "A Full HD robotic studio PTZ built on a three-chip 1/2-inch Exmor CMOS block with a 14x zoom and on-board image stabilization, delivering broadcast-grade colour for unattended studio positions. With dual tally lamps and HD-SDI output, it suits newsrooms, remote studios, worship and courtrooms."
     },
     {
       "id": "sony-brc-x1000",
@@ -6819,7 +6949,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A premium 4K IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, delivering shallow depth of field and clean images in demanding light. A high-end broadcast and live-production camera where image quality leads."
     },
     {
       "id": "sony-brc-x400",
@@ -6876,7 +7007,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K IP PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom and Sony's colour science, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With genlock, a tally lamp and built-in image stabilization, it suits broadcast studios, sports, arenas, worship and lecture halls."
     },
     {
       "id": "sony-srg-300h",
@@ -6928,7 +7060,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom, HDMI and IP output and built-in image stabilization, plus Sony's View-DR wide dynamic range for tricky lighting. Built for corporate boardrooms, lecture theatres, worship and videoconferencing."
     },
     {
       "id": "sony-srg-360she",
@@ -6982,7 +7115,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom and triple simultaneous output over 3G-SDI, HDMI and IP, plus built-in image stabilization and a tally lamp. Built for lecture capture, auditoriums, faith centres, corporate and telemedicine, and capable enough for broadcast."
     },
     {
       "id": "sony-srg-x120",
@@ -7034,7 +7168,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
       "streamingProtocols": [
         "RTSP"
-      ]
+      ],
+      "description": "A compact PTZ on a 1/2.5-inch Exmor R sensor with a 12x optical zoom, shipping in Full HD and upgradeable to 4K, with NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync and built-in image stabilization, it suits classrooms, meeting spaces and medical environments."
     },
     {
       "id": "sony-srg-x400",
@@ -7090,7 +7225,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync, Picture Freeze and built-in image stabilization, it suits classrooms, meeting spaces, faith centres, lecture halls and medical settings."
     }
   ]
 }

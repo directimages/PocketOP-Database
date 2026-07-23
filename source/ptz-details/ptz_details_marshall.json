@@ -47,7 +47,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A compact 5x HD PTZ with a wide-angle lens and USB-C, HDMI and IP output, sized for huddle rooms and tight spaces where a small footprint matters. A simple, affordable Full HD camera for conferencing and lecture capture."
     },
     {
       "id": "marshall-cv612ht-4k",
@@ -94,7 +95,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom built around HDBaseT, carrying uncompressed 4K video, control and power over a single cable, with an HDMI output alongside. Suited to boardrooms, lecture halls and Pro AV setups that standardise on HDBaseT."
     },
     {
       "id": "marshall-cv620-bi",
@@ -143,7 +145,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD 20x PTZ built on a 1/2.8-inch Sony sensor, with simultaneous 3G-SDI, HDMI and IP output plus RTSP, RTMP and SRT streaming and ONVIF control. A cost-effective, broadcast-quality IP camera for meeting rooms, classrooms, live events and worship."
     },
     {
       "id": "marshall-cv620-bk4",
@@ -198,7 +201,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A fourth-generation Full HD 20x PTZ on a 1/2.8-inch sensor, with simultaneous 3G-SDI and HDMI output and RS-232 or RS-422 control. A broadcast-quality baseband camera for live production, corporate and worship, without IP streaming."
     },
     {
       "id": "marshall-cv625-tb",
@@ -247,7 +251,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ with a dual-camera design and a 25x zoom, using AI to track and frame a presenter automatically without an operator. Built for lecture capture, worship, corporate and broadcast where hands-free coverage matters."
     },
     {
       "id": "marshall-cv625-tbn",
@@ -299,7 +304,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ with a dual-camera design and a 25x zoom that follows and frames a presenter using AI, with native NDI for IP production. Built for hands-free lecture capture, worship, corporate and broadcast on an NDI network."
     },
     {
       "id": "marshall-cv630-bi",
@@ -348,7 +354,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 25x zoom and a 1/2.5-inch sensor, capturing UHD up to 60fps with HEVC IP streaming alongside HDMI, 3G-SDI and USB output. A networked broadcast and Pro AV camera for newscast, corporate, government, worship and education."
     },
     {
       "id": "marshall-cv630-ip",
@@ -401,7 +408,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 25x zoom and a 1/2.5-inch sensor, capturing UHD at 30fps with HEVC IP streaming alongside HDMI and 3G-SDI output. Built for networked broadcast and Pro AV production, from newscast and corporate to worship and courtroom."
     },
     {
       "id": "marshall-cv630-ndi",
@@ -452,7 +460,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, capturing UHD at 30fps with NDI|HX alongside HDMI and 3G-SDI output. A networked NDI video source for broadcast, newscast, corporate, worship and education."
     },
     {
       "id": "marshall-cv730-bhn",
@@ -509,7 +518,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K60 PTZ on a 1/1.8-inch 9.2MP Sony sensor with a long 30x zoom, adding full NDI, NDI|HX3 and NDI|HX2 alongside 12G-SDI, HDMI, USB and IP output. Built for NDI-based broadcast, live events, sportscast and large-venue worship and education."
     },
     {
       "id": "marshall-cv730-bk",
@@ -569,7 +579,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K60 PTZ built on a 1/1.8-inch 9.2MP Sony sensor with a long 30x zoom and simultaneous 12G-SDI, HDMI and IP output, plus a built-in tally light. Built for broadcast, live events, sportscast, government, courtroom and large worship and education venues."
     }
   ]
 }

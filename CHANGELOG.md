@@ -660,6 +660,12 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+### v1.23.0 — 2026-07-23
+
+- Imported user-facing descriptions onto all 136 PTZ camera detail entries, closing the descriptions campaign (broadcast and cine already live). Prose staged per manufacturer, applied via build/apply_descriptions.py (every key id-validated against existing detail entries before any write)
+- ptz_details 1.23.0; released as db-v17
+- Assembled ptz_details.json carries 136 descriptions; the legacy hyphen alias ptz-details.json strips the field (legacy whitelist) and is otherwise unchanged. ptz_cameras.json untouched
+
 ### v1.22.0 — 2026-07-23
 
 - PTZ blok-2 batch 1: aperture, introductionYear, autoTracking plus note, hasIS/hasND/ndDetail op 136 details; connectiviteit-reshape (videoOutputs fysiek-only, controlProtocols zuiver control, streamingProtocols en trackingDataOut nieuw) op 135.

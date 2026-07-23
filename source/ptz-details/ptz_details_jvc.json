@@ -49,7 +49,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "JVC's first robotic PTZ, a Full HD camera with a long 30x zoom and a silent Direct Drive motor, plus a built-in IP streaming engine with Wi-Fi and 4G/LTE options and a built-in microSD recorder. Outputs 3G-SDI, HDMI and IP for webcasting, lectures, concerts and worship."
     },
     {
       "id": "jvc-ky-pz200",
@@ -103,7 +104,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom, built for remote IP production with SRT streaming and H.265/H.264 encoding plus VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events."
     },
     {
       "id": "jvc-ky-pz200n",
@@ -152,7 +154,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom, adding NDI|HX for IP production alongside SRT streaming, H.265/H.264 encoding and VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events on an NDI network."
     },
     {
       "id": "jvc-ky-pz400n",
@@ -202,7 +205,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "JVC's first 4K robotic PTZ, a wide-angle 12x camera with NDI|HX and SRT streaming, HEVC encoding and VITC multi-camera synchronisation for reliable remote production. A one-wire PoE camera for education, corporate, live events and sport."
     },
     {
       "id": "jvc-ky-pz510",
@@ -251,7 +255,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, adding SMART auto-tracking that follows a presenter automatically. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport."
     },
     {
       "id": "jvc-ky-pz510n",
@@ -300,7 +305,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, pairing SMART auto-tracking with NDI|HX3 and NDI 5 for IP production. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport on an NDI network."
     },
     {
       "id": "jvc-ky-pz540n",
@@ -354,7 +360,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K60 auto-tracking PTZ built on a 1/1.8-inch sensor with a long 20x optical zoom (40x in HD), pairing advanced SMART auto-tracking with NDI|HX3 and NDI 5. With HEVC encoding and SRT streaming, it is built for sports, large events and long-reach live production."
     }
   ]
 }

@@ -46,7 +46,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "Hollyland's first PTZ camera and its move beyond wireless gear into live production, a 4K60 camera built on a large 1/1.8-inch sensor with a 30x zoom for clean footage in dim halls. It pairs AI auto-tracking, with presenter and multi-zone modes, and face-detection auto-exposure with a free NDI|HX3 licence and single-cable PoE+ operation. Aimed at houses of worship, auditoriums and live events where a small team needs professional, hands-free coverage."
     }
   ]
 }

@@ -46,7 +46,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A compact Full HD NDI PTZ with a 12x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget wide-room option for church, education and live streaming."
     },
     {
       "id": "fomako-fmk20uh",
@@ -95,7 +96,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ with a 20x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget option for church, education and live streaming that needs more reach."
     },
     {
       "id": "fomako-k20",
@@ -144,7 +146,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD PTZ with a 20x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value option for church, education and streaming that can move to NDI later."
     },
     {
       "id": "fomako-k30",
@@ -193,7 +196,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD PTZ with a long 30x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value reach option for church, education and streaming that can add NDI later."
     },
     {
       "id": "fomako-k30ns",
@@ -243,7 +247,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ with a long 30x zoom, NDI 6 and NDI|HX3 support and Gen 3 AI auto-tracking, outputting 4K over SDI, HDMI, USB and IP. Fomako's long-reach 4K option for church, education and live production."
     },
     {
       "id": "fomako-k600n",
@@ -293,7 +298,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ with a 20x zoom and a 1/1.8-inch UHD sensor, NDI|HX3 certified with 4K60 output and Gen 3 AI auto-tracking across SDI, HDMI, USB and IP. Built for church, live studio and larger-venue streaming in 4K."
     },
     {
       "id": "fomako-k820",
@@ -343,7 +349,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/1.8-inch UHD sensor and a 20x zoom, an onboard LCD and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Aimed at church, studio and large-venue production, with NDI available as an upgrade."
     },
     {
       "id": "fomako-k820n",
@@ -395,7 +402,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K NDI PTZ built on a 1/1.8-inch UHD sensor with a 20x zoom, an onboard LCD, NDI|HX3 with the license included and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Built for 4K church streaming, studio recording and large events on an NDI backbone."
     },
     {
       "id": "fomako-kn20",
@@ -445,7 +453,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD NDI PTZ with a 20x zoom and built-in NDI that needs no extra license, plus AI auto-tracking to follow a presenter hands-free. Built for church, education and live-streaming setups on a budget, with simultaneous SDI, HDMI, USB and IP output."
     },
     {
       "id": "fomako-kn20a",
@@ -495,7 +504,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 20x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 20x line, aimed at church, education and multi-camera live streaming."
     },
     {
       "id": "fomako-kn30",
@@ -545,7 +555,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An affordable Full HD NDI PTZ with a long 30x zoom and built-in NDI that needs no extra license, plus AI auto-tracking for hands-free presenter following. Built for church, education and streaming in larger rooms, with SDI, HDMI, USB and IP output."
     },
     {
       "id": "fomako-kn30a",
@@ -595,7 +606,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 30x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 30x line, for church, education and multi-camera streaming in larger venues."
     }
   ]
 }

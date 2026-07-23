@@ -57,7 +57,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations."
     },
     {
       "id": "panasonic-aw-he145",
@@ -114,7 +115,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line PTZ with a large 1-inch sensor for strong low-light performance and shallower depth of field, natively Full HD with 4K/30p available over HDMI via firmware. It carries built-in ND and optical stabilization, positioned for high-end production where image quality is the priority."
     },
     {
       "id": "panasonic-aw-he20",
@@ -170,7 +172,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor."
     },
     {
       "id": "panasonic-aw-he38",
@@ -224,7 +227,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture."
     },
     {
       "id": "panasonic-aw-he40",
@@ -279,7 +283,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach."
     },
     {
       "id": "panasonic-aw-he42",
@@ -334,7 +339,8 @@
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production."
     },
     {
       "id": "panasonic-aw-ue100",
@@ -392,7 +398,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line 4K PTZ with a 1/2.5-inch sensor and a wide 24x zoom, carrying 12G-SDI, HDMI and IP output with full NDI, NDI|HX and SRT plus FreeD tracking. Built for high-quality live remote and studio production across broadcast, staging, corporate and sports."
     },
     {
       "id": "panasonic-aw-ue150",
@@ -448,7 +455,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "An earlier Platinum-line 1-inch 4K PTZ built for high-end broadcast and live production, with the large-sensor image quality and system-camera integration that define Panasonic's top tier. Since succeeded by the UE150A."
     },
     {
       "id": "panasonic-aw-ue150a",
@@ -508,7 +516,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Platinum-line 1-inch 4K PTZ, the 2025 successor to the UE150 with improved optical stabilization, an added optical low-pass filter and high-bandwidth NDI. Aimed at high-end broadcast and live production where image quality is mission-critical."
     },
     {
       "id": "panasonic-aw-ue160",
@@ -568,7 +577,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Panasonic's flagship PTZ and the top of its Platinum line, built around a 1-inch 4K MOS sensor with the highest sensitivity in the range and an optical low-pass filter that tames moire against LED walls. It integrates like a system camera, with 12G-SDI, fiber, HDMI and IP output, full NDI, optional SMPTE ST 2110 and FreeD tracking output. Built for high-end broadcast, sports and large-event production."
     },
     {
       "id": "panasonic-aw-ue20",
@@ -623,7 +633,8 @@
       "streamingProtocols": [
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A compact Pro Series 4K PTZ with a 12x zoom, aimed at streaming small spaces like meeting rooms, boardrooms and classrooms. It shares its lens block with the Full HD HE20, the difference being the 4K sensor."
     },
     {
       "id": "panasonic-aw-ue30",
@@ -675,7 +686,8 @@
       "streamingProtocols": [
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Zoom-certified Pro Series 4K/30p PTZ with a 20x zoom, built for streaming smaller spaces such as meeting rooms, boardrooms and classrooms. A straightforward entry into 4K remote capture."
     },
     {
       "id": "panasonic-aw-ue40",
@@ -728,7 +740,8 @@
         "NDI|HX2",
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Premium-line 4K/30p PTZ, the quiet and compact sibling of the UE50, with the same SRT streaming and optical stabilization. Suited to lectures, corporate events and worship services."
     },
     {
       "id": "panasonic-aw-ue50",
@@ -782,7 +795,8 @@
         "NDI|HX2",
         "SRT",
         "RTMP"
-      ]
+      ],
+      "description": "A Premium-line 4K/30p PTZ in a compact, ultra-quiet body with SRT streaming and optical stabilization, easy to install discreetly. Geared toward streaming lectures, corporate events and worship services."
     },
     {
       "id": "panasonic-aw-ue80",
@@ -839,7 +853,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Premium-line 4K/60p PTZ with a 24x zoom and professional IP connectivity, including high-bandwidth NDI, NDI|HX and SRT, plus FreeD support for AR and VR workflows. It adds entry-level built-in AI auto-tracking that follows a single presenter without extra hardware, aimed at lectures, corporate events and worship services. Note that in NDI|HX mode the UE80 outputs Full HD only; 4K runs over SDI, HDMI or full-bandwidth NDI."
     }
   ]
 }

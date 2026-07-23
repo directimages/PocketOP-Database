@@ -56,7 +56,8 @@
         "RTSP",
         "RTMP",
         "RTMPS"
-      ]
+      ],
+      "description": "A compact 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science, a built-in ND filter and a USB-C UVC output for use as a standalone webcam. With NDI|HX and RTMP streaming plus auto-tracking via Canon's RA-AT001 app, it suits conferencing, keynotes and lecture streaming."
     },
     {
       "id": "canon-cr-n300",
@@ -118,7 +119,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, pairing Canon colour science and a built-in ND filter with hybrid autofocus and face detection. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and broadcast."
     },
     {
       "id": "canon-cr-n350",
@@ -180,7 +182,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science and a built-in ND filter with SRT and FreeD as standard. With NDI|HX streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and live production."
     },
     {
       "id": "canon-cr-n400",
@@ -243,7 +246,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, adding broadcast connectivity with 12G-SDI, Genlock and dual XLR audio to Canon colour science and a built-in ND filter. With NDI|HX, SRT and FreeD plus auto-tracking via the RA-AT001 app, it suits broadcast, live events and worship."
     },
     {
       "id": "canon-cr-n500",
@@ -304,7 +308,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ built around a large 1-inch sensor with a 15x optically stabilized zoom, Dual Pixel autofocus and Canon colour science, with a built-in ND filter for control in bright light. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits broadcast, worship, sports and high-end live production."
     },
     {
       "id": "canon-cr-n700",
@@ -366,7 +371,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Canon's flagship 4K60 broadcast PTZ, pairing a 1-inch sensor and DIGIC DV7 processing with 4:2:2 10-bit output, a 15x optically stabilized zoom, Dual Pixel autofocus and Canon Log 3. With 12G-SDI, dual XLR, Genlock, a built-in ND filter, NDI|HX and SRT plus auto-tracking and Auto Loop via Canon's apps, it is built for broadcast and high-end live production."
     },
     {
       "id": "canon-cr-x300",
@@ -429,7 +435,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A rugged outdoor 4K PTZ with a 1/2.3-inch sensor and a 20x zoom stabilized by four-axis optical IS with a powered mode for telephoto, plus a built-in ND filter and Canon colour science. Weatherproof and broadcast-ready with 4:2:2 10-bit SDI and HDMI output and auto-tracking via the RA-AT001 app, it suits sports venues, news and outdoor production."
     }
   ]
 }

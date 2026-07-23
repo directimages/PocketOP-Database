@@ -50,7 +50,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 12x zoom favours wider rooms and medium throws."
     },
     {
       "id": "ptzoptics-pt12x-link-4k",
@@ -103,7 +104,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
@@ -151,7 +153,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 12x zoom favours wider rooms and medium throws, the everyday reach in the SDI-G2 line."
     },
     {
       "id": "ptzoptics-pt12x-se-g3",
@@ -203,7 +206,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 12x zoom favours wider rooms and medium throws."
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
@@ -255,7 +259,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
@@ -308,7 +313,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
@@ -356,7 +362,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 20x zoom suits mid to large venues, trading some wide coverage for extra reach."
     },
     {
       "id": "ptzoptics-pt20x-se-g3",
@@ -408,7 +415,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
     },
     {
       "id": "ptzoptics-pt30x-4k-g3",
@@ -460,7 +468,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
     },
     {
       "id": "ptzoptics-pt30x-link-4k",
@@ -509,7 +518,8 @@
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
     },
     {
       "id": "ptzoptics-pt30x-sdi-g2",
@@ -557,7 +567,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject. Note it cannot run 1080p60 over SDI/HDMI and the IP stream simultaneously; one output must drop to 1080p30 or lower."
     },
     {
       "id": "ptzoptics-pt30x-se-g3",
@@ -609,7 +620,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
     }
   ]
 }

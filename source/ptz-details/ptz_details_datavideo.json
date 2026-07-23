@@ -51,7 +51,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom and a Sony CMOS sensor, outputting over HDMI, 3G-SDI and IP for live production and lecture capture. An affordable, straightforward camera for hybrid events, education and Pro AV, part of Datavideo's end-to-end production ecosystem."
     },
     {
       "id": "datavideo-ptc-150",
@@ -104,7 +105,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a long 30x zoom and a Sony CMOS sensor, outputting HDMI, 3G-SDI and IP for reach in larger rooms and venues. A dependable live-production camera for events, education and worship."
     },
     {
       "id": "datavideo-ptc-150t",
@@ -154,7 +156,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a long 30x zoom built around HDBaseT, carrying video, control, power and tally over a single cable for clean long-run installs. Suited to larger venues and Pro AV setups that standardise on HDBaseT."
     },
     {
       "id": "datavideo-ptc-280",
@@ -206,7 +209,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and a wide field of view, outputting UHD over HDMI, 3G-SDI and IP for live production and event capture. A compact 4K camera for hybrid events, education and worship."
     },
     {
       "id": "datavideo-ptc-285",
@@ -257,7 +261,8 @@
         "SRT",
         "RTSP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking that follows a chosen presenter with full-body, half-body or close-up framing. Outputs UHD over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live events."
     },
     {
       "id": "datavideo-ptc-285t",
@@ -308,7 +313,8 @@
         "SRT",
         "RTSP",
         "RTMPS"
-      ]
+      ],
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking, built around HDBaseT so video, control, power and tally run over a single cable. Follows a chosen presenter with full, half or close-up framing, for hands-free lecture capture, worship and Pro AV installs."
     },
     {
       "id": "datavideo-ptc-300",
@@ -359,7 +365,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K PTZ with a 20x zoom and a 1/1.8-inch Sony sensor, capturing UHD up to 60fps over HDMI, 3G-SDI and IP. A broadcast-grade camera for live production, events and larger venues in Datavideo's production ecosystem."
     },
     {
       "id": "datavideo-ptc-305",
@@ -410,7 +417,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and a 1/1.8-inch sensor, adding built-in AI auto-tracking that follows a chosen subject with full-body, half-body or close-up framing. Captures UHD up to 60fps over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live broadcast."
     },
     {
       "id": "datavideo-ptc-305t",
@@ -461,7 +469,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and built-in AI auto-tracking, built around HDBaseT for video, control, power and tally over a single cable. Captures UHD up to 60fps and follows a chosen subject with full, half or close-up framing, for hands-free lecture capture, worship and larger venues."
     }
   ]
 }

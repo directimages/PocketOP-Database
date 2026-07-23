@@ -47,7 +47,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. Aimed at lecture capture, worship and corporate streaming without a camera operator."
     },
     {
       "id": "aver-ptz231",
@@ -97,7 +98,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An HD PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, carrying NDI|HX and SmartShoot AI that auto-frames a presenter across preset zones without an operator. Built for conference rooms, event spaces and worship streaming that need reach at 1080p."
     },
     {
       "id": "aver-ptz310unv2",
@@ -148,7 +150,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms running an NDI-based workflow, with 4K capture and no dedicated operator."
     },
     {
       "id": "aver-ptz310uv2",
@@ -199,7 +202,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms that want 4K without a dedicated operator."
     },
     {
       "id": "aver-ptz330unv2",
@@ -251,7 +255,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K on an NDI-based production network."
     },
     {
       "id": "aver-ptz330uv2",
@@ -302,7 +307,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K."
     },
     {
       "id": "aver-tr211",
@@ -351,7 +357,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "An entry-level Full HD AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. A cost-effective tracking camera for lectures, sermons and training at 1080p."
     },
     {
       "id": "aver-tr315",
@@ -400,7 +407,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms."
     },
     {
       "id": "aver-tr315n",
@@ -449,7 +457,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms on an NDI backbone."
     },
     {
       "id": "aver-tr335",
@@ -498,7 +507,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters."
     },
     {
       "id": "aver-tr335n",
@@ -550,7 +560,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters, on an NDI-based workflow."
     },
     {
       "id": "aver-tr535",
@@ -602,7 +613,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, so it tracks and frames presenters across a whole stage using Wide Area, Stage and Segment modes. Built for multi-presenter productions in larger venues and broadcast."
     },
     {
       "id": "aver-tr535n",
@@ -654,7 +666,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, tracking and framing presenters across a whole stage using Wide Area, Stage and Segment modes, and built as the native-NDI edition with full NDI for IP production. Built for multi-presenter productions in larger venues and broadcast on an NDI backbone."
     },
     {
       "id": "aver-tr615",
@@ -707,7 +720,8 @@
         "RTSP",
         "RTMP",
         "HLS"
-      ]
+      ],
+      "description": "AVer's broadcast-grade flagship auto-tracking PTZ, built around a 1-inch Sony Exmor RS sensor with a 19x zoom and four tracking modes including voice. It integrates like a production camera, with dual 12G-SDI, NDI|HX3, Genlock, FreeD and XLR audio plus a Dante AV-H upgrade path, for live events, worship, corporate and broadcast."
     }
   ]
 }

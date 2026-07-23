@@ -53,7 +53,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 20x zoom and a 1/2.8-inch sensor, outputting 1080p60 over 3G-SDI, HDMI and IP with low-latency streaming. A dependable choice for lecture recording, video conferencing and live broadcasting in theatres, studios and meeting rooms."
     },
     {
       "id": "lumens-vc-a50s",
@@ -102,7 +103,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ with a 1/2.8-inch sensor and a 20x optical zoom, built for SDI and baseband workflows with 3G-SDI, DVI, component and composite output and RS-232 or RS-422 control rather than HDMI or IP. Suited to broadcast and AV chains that run on a traditional baseband signal path, in studios, lecture halls and meeting rooms."
     },
     {
       "id": "lumens-vc-a51p",
@@ -152,7 +154,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ built on a 1/2.8-inch Sony sensor with a 20x optical zoom, outputting over 3G-SDI, HDMI and IP with Smart AF that tracks subjects in motion. Aimed at conference production, lecture capture, houses of worship and live events."
     },
     {
       "id": "lumens-vc-a53",
@@ -201,7 +204,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K60 PTZ built on a 1/1.8-inch 9.17MP sensor with a 30x zoom, carrying NDI High Bandwidth and NDI|HX3 alongside 12G-SDI, HDMI and IP output. A high-end option for studios, broadcast and worship on an NDI-based workflow."
     },
     {
       "id": "lumens-vc-a61p",
@@ -260,7 +264,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom that shoots wide or reaches deep into a venue, outputting 4K30 and 1080p60 over HDMI, 3G-SDI and Ethernet, with FreeD support for VR and AR sets. A flexible mid-range choice for studios, theatres, conference centres and lecture halls."
     },
     {
       "id": "lumens-vc-a61pn",
@@ -314,7 +319,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A 4K PTZ with a 30x zoom and NDI|HX for IP production, alongside HDMI, 3G-SDI and Ethernet output and FreeD tracking. A mid-range 4K choice for studios, theatres and lecture halls on an NDI network."
     },
     {
       "id": "lumens-vc-a71p",
@@ -367,7 +373,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "Lumens' flagship 4K60 PTZ, built on a large 1/1.8-inch sensor with a 30x zoom and 12G-SDI, HDMI, USB and IP output, plus FreeD for VR and AR sets and Smart AF face detection. Built for broadcast studios, live events, sports and high-end worship and education installations."
     },
     {
       "id": "lumens-vc-a71p-hn",
@@ -422,7 +429,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A flagship 4K60 PTZ on a 1/1.8-inch sensor with a 30x zoom, foregrounding full NDI High Bandwidth and NDI|HX3 with dual 12G and 3G-SDI, Genlock and BT.2020 colour for high-end broadcast and TV production. Built to match alongside system cameras in studios, live events and virtual sets."
     },
     {
       "id": "lumens-vc-a71pn",
@@ -471,7 +479,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A flagship-class 4K60 PTZ on a 1/1.8-inch sensor with a 30x zoom, adding NDI|HX for IP production alongside 12G-SDI, HDMI, USB and IP output and FreeD tracking. For broadcast, live events and worship on an NDI network."
     },
     {
       "id": "lumens-vc-r30",
@@ -519,7 +528,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A cost-effective 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, outputting 4K30 over 3G-SDI, HDMI and Ethernet. A straightforward reach option for education, conferencing and live streaming."
     },
     {
       "id": "lumens-vc-tr1",
@@ -565,7 +575,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD auto-tracking camera pairing a 20x PTZ lens with a panoramic wide lens, so it follows and frames a presenter automatically using Lumens' three intelligent tracking modes and smart self-switching. Built for hands-free lecture capture, corporate training, worship and presentations, with HDMI, SDI, USB and IP output."
     }
   ]
 }

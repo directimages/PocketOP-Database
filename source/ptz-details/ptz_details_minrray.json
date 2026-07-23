@@ -49,7 +49,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a 12x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and conferencing, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv430e2",
@@ -100,7 +101,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a long 25x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and larger-venue production, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv430e3",
@@ -151,7 +153,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A 4K AI PTZ with a very long 31x zoom for reach across large venues and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and broadcast, with NDI|HX3 and Dante AV-H available as options."
     },
     {
       "id": "minrray-uv510e0",
@@ -200,7 +203,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ built on a 1/2.8-inch sensor with a 12x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. A value option for A/V broadcasting, conferencing and live streaming."
     },
     {
       "id": "minrray-uv510e2",
@@ -249,7 +253,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. Suited to A/V broadcasting, conferencing and live production that needs extra reach."
     },
     {
       "id": "minrray-uv950e0",
@@ -299,7 +304,8 @@
       "streamingProtocols": [
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 12x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live streaming."
     },
     {
       "id": "minrray-uv950e2",
@@ -350,7 +356,8 @@
         "NDI|HX3",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live production with extra reach."
     }
   ]
 }

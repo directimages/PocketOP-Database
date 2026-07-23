@@ -45,7 +45,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach."
     },
     {
       "id": "bolin-b2-220",
@@ -93,7 +94,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget."
     },
     {
       "id": "bolin-b6-420",
@@ -141,7 +143,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [
         "IP"
-      ]
+      ],
+      "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues."
     },
     {
       "id": "bolin-d2-210h",
@@ -191,7 +194,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with Dante AV-H video and audio over IP alongside HDMI and USB. Built for conference rooms and Pro AV installations already running a Dante network."
     },
     {
       "id": "bolin-d2-220h",
@@ -242,7 +246,8 @@
         "RTSP",
         "RTMP",
         "Dante AV-H"
-      ]
+      ],
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with Dante AV-H over IP and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on a Dante backbone."
     },
     {
       "id": "bolin-n2-210x",
@@ -291,7 +296,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with certified NDI|HX3 alongside HDMI, USB and IP. Built for conference rooms, studios and worship spaces on an NDI network."
     },
     {
       "id": "bolin-n2-220x",
@@ -342,7 +348,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with certified NDI|HX3 and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on an NDI backbone."
     },
     {
       "id": "bolin-r9-230h",
@@ -399,7 +406,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line Full HD PTZ built for low light and high motion, pairing a 1/1.8-inch Sony image block with a 30x zoom and Super Image Stabilization Plus for steady shots in sports, concerts and dim venues. It carries broadcast features including dual 3G-SDI, optical SDI, Genlock, FreeD and XLR audio, and is certified for medical spaces."
     },
     {
       "id": "bolin-r9-418f",
@@ -455,7 +463,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, for broadcast studios, theatres, worship and corporate production. It outputs dual 6G-SDI, HDMI and optical SDI with an SFP+ slot for 12G fiber, plus FreeD tracking and XLR audio, and is certified for medical use."
     },
     {
       "id": "bolin-r9-418n",
@@ -513,7 +522,8 @@
       ],
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, foregrounding NDI High Bandwidth and NDI|HX3 with NDI Embedded Bridge for remote and multi-venue production. Alongside NDI it carries dual 6G-SDI, HDMI, optical SDI, FreeD tracking and XLR audio for broadcast, live events and worship."
     },
     {
       "id": "bolin-range",
@@ -564,7 +574,8 @@
         "SRT",
         "RTSP",
         "RTMP"
-      ]
+      ],
+      "description": "Bolin's all-weather 4K60 PTZ, built to go where standard PTZ cameras cannot, with a 1/1.8-inch sensor, a 25x zoom and gyro stabilization across pan, tilt and roll plus a 270-degree roll axis for horizon correction and creative angles. Weatherproof and fast-moving, with built-in subject tracking and simultaneous 12G-SDI, HDMI, USB-C and NDI output, for sports, arenas, touring, outdoor events and worship."
     }
   ]
 }
