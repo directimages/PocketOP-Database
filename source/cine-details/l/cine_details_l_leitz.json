@@ -31,7 +31,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "The longest lens in the Leitz HEKTOR set, a T2.1 full-frame telephoto for mirrorless cameras, compressing portraits and details with the line's playful, subject-centric character. It renders a slightly softer centre with subtle fall-off toward the edges and a gentle Petzval swirl, in warm natural Leitz tones with colourful flares and contrast held across the frame. The nine-blade iris stays circular at every stop. Fully manual, compact and light, with an 80mm front, 77mm filter thread, matched gears, 120-degree focus rotation and a swappable mirrorless mount."
     },
     {
       "id": "leitz-hektor-18mm-t2-1-l",
@@ -64,7 +65,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "The widest lens in the Leitz HEKTOR set, a T2.1 full-frame wide for mirrorless cameras, designed and built in Wetzlar by the team behind the Summilux-C and HUGO. Its character-first look draws on a century of Leica and cine optics: a slightly softer centre resolution falling off toward the edges, a gentle Petzval swirl that pulls the eye to the subject, warm natural Leitz tones and colourful flares with contrast held across the frame. The nine-blade iris stays round through every stop. Fully manual and compact, with an 80mm front, matched gears, 120-degree focus rotation and a user-swappable mirrorless mount."
     },
     {
       "id": "leitz-hektor-25mm-t2-1-l",
@@ -97,7 +99,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "A wide T2.1 full-frame prime in the Leitz HEKTOR set for mirrorless cameras, built in Wetzlar with the line's character-first philosophy. It renders a slightly softer centre with subtle fall-off toward the edges and a gentle Petzval swirl that keeps the subject the star, in warm natural Leitz tones with colourful flares and steady contrast. The nine-blade iris stays circular at every stop for consistent out-of-focus rendering. Fully manual, compact and light, with an 80mm front, 77mm filter thread, matched gears, 120-degree focus rotation and a swappable mirrorless mount."
     },
     {
       "id": "leitz-hektor-35mm-t2-1-l",
@@ -130,7 +133,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "A standard-wide T2.1 full-frame prime in the Leitz HEKTOR set for mirrorless cameras, a natural coverage focal length carrying the line's playful, subject-centric look. Drawing on classic Leica and cine optics, it pairs a slightly softer centre and subtle edge fall-off with a gentle Petzval swirl, warm natural tones and colourful flares while holding contrast across the frame. The nine-blade iris stays round through all stops. Fully manual, compact and light, with an 80mm front, 77mm filter thread, matched gears, 120-degree focus rotation and a swappable mirrorless mount."
     },
     {
       "id": "leitz-hektor-50mm-t2-1-l",
@@ -163,7 +167,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "A normal T2.1 full-frame prime in the Leitz HEKTOR set for mirrorless cameras, the classic everyday focal length of the line. Built in the spherical-only style of earlier decades, it renders a slightly softer centre with subtle fall-off toward the edges and a gentle Petzval swirl that draws the viewer to the subject, in warm natural Leitz tones with colourful flares and contrast held across the frame. The nine-blade iris stays circular at every stop. Fully manual, compact and light, with an 80mm front, 77mm filter thread, matched gears, 120-degree focus rotation and a swappable mirrorless mount."
     },
     {
       "id": "leitz-hektor-73mm-t2-1-l",
@@ -196,7 +201,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hektor/"
-      ]
+      ],
+      "description": "A short-telephoto T2.1 full-frame prime in the Leitz HEKTOR set for mirrorless cameras, an unconventional 73mm portrait length with the line's character-first look. It combines a slightly softer centre and subtle edge fall-off with a gentle Petzval swirl that lifts a face out of the background, warm natural Leitz tones and colourful flares with steady contrast. The nine-blade iris stays round through all stops for consistent bokeh. Fully manual, compact and light, with an 80mm front, 77mm filter thread, matched gears, 120-degree focus rotation and a swappable mirrorless mount."
     },
     {
       "id": "leitz-hugo-135mm-t1-5-l",
@@ -231,7 +237,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "The longest lens in the Leitz HUGO set, a T1.9 full-frame telephoto that brings Leica M reach into a cine housing for compressed portraits and distant subjects. It keeps the HUGO signature of rich colours, artful flares and a rounded image field, with a sharp centre and a gentle fall-off toward the edges that isolates the subject. Sharp without harshness, with lower contrast and a natural roll-off. It shares the set's 95mm front, 0.8 gears, 270-degree focus rotation, improved close focus and swappable LPL or L mount."
     },
     {
       "id": "leitz-hugo-18mm-t1-5-l",
@@ -266,7 +273,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "The widest lens in the Leitz HUGO set, a T1.5 full-frame wide built around Leica M optics in a true cine housing. It carries the HUGO signature of rich colours, artful flares and a rounded image field, where a gentle fall-off of light and focus toward the corners pulls the eye to the centre of the frame. Wide open it stays sharp without harshness, with lower contrast and a natural fall-off. Compact and light, it suits gimbals, drones and handheld work, with a 95mm front, 0.8 gears, long 270-degree focus rotation and greatly improved close focus over the M 0.8 lenses it succeeds."
     },
     {
       "id": "leitz-hugo-21mm-t1-5-l",
@@ -301,7 +309,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A wide T1.5 full-frame prime in the Leitz HUGO set, bringing classic Leica M wide-angle optics into a cine housing. It renders the HUGO character of rich colours, artful flares and a rounded image field, with a gentle corner fall-off that draws the viewer into the frame. Sharp wide open but never harsh, with lower contrast and a natural roll-off. Compact and light for gimbal and handheld work, it shares the set's 95mm front, 0.8 gears, 270-degree focus rotation and much closer focus than its M 0.8 predecessor."
     },
     {
       "id": "leitz-hugo-24mm-t1-5-l",
@@ -336,7 +345,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A wide-angle T1.5 full-frame prime in the Leitz HUGO set, built on Leica M glass in a cine housing. It carries the line's rich colours, artful flares and rounded image field, where the corners gently fall away in light and focus and the subject jumps forward. Wide open it is sharp without feeling harsh, with the lower contrast and smooth fall-off the M optics are loved for. Compact and light, with a 95mm front, 0.8 gears, 270-degree focus throw and greatly enhanced close focus, in swappable LPL or L mount."
     },
     {
       "id": "leitz-hugo-28mm-t1-5-l",
@@ -371,7 +381,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A moderate wide T1.5 full-frame prime in the Leitz HUGO set, a classic Leica M focal length in a cine housing, natural for street-flavoured and documentary-style framing. It renders rich colours and artful flares with the rounded image field the line is known for: a sharp centre with a gradual fall-off toward the edges that adds dimensionality. Sharp wide open, never harsh, with lower contrast and smooth roll-off. Compact and light, with the shared 95mm front, 0.8 gears, 270-degree focus rotation and much closer focus than the M 0.8."
     },
     {
       "id": "leitz-hugo-35mm-t1-5-l",
@@ -406,7 +417,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A standard-wide T1.5 full-frame prime in the Leitz HUGO set, built on the Leica M 35mm optics that generations of photographers reached for first. In its cine housing it keeps the HUGO character: rich colours, artful flares and a rounded image field with gentle corner fall-off that leads the eye to the subject. Wide open it stays sharp without harshness, with lower contrast and natural fall-off. Compact and light for gimbal and handheld work, with a 95mm front, 0.8 gears, 270-degree focus rotation and greatly improved close focus."
     },
     {
       "id": "leitz-hugo-40mm-t1-5-l",
@@ -441,7 +453,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "The newest lens in the Leitz HUGO set, a T1.5 full-frame 40mm sitting between the 35 and 50, a focal length cinematographers kept requesting. No 40mm exists in Leica's M line, so this one was designed for HUGO with support from Leica Camera's designers to match the family look: rich colours, artful flares and a rounded image field with a sharp centre and gentle fall-off toward the edges. Wide open it is sharp without harshness, with lower contrast and smooth roll-off. Compact and light, with the shared 95mm front, 0.8 gears and 270-degree focus rotation."
     },
     {
       "id": "leitz-hugo-50mm-t1-0-l",
@@ -476,7 +489,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "The fastest lens in the Leitz HUGO set, a full-frame 50mm at T1.0 using the glass of Leica's legendary 50mm f/0.95 Noctilux-M. It brings that iconic ultra-shallow rendering into a cine housing: a razor-thin plane of focus, dreamy fall-off and the HUGO signature of rich colours, artful flares and a rounded image field. Even at this extreme speed it stays sharp at the centre without harshness. Compact for what it is, with the set's 95mm front, 0.8 gears, 270-degree focus rotation and swappable LPL or L mount."
     },
     {
       "id": "leitz-hugo-50mm-t1-5-l",
@@ -511,7 +525,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A normal T1.5 full-frame prime in the Leitz HUGO set, built on classic Leica M 50mm optics in a cine housing, the everyday standard of the line. It renders the HUGO character of rich colours, artful flares and a rounded image field, with a sharp centre and a gentle fall-off toward the corners that gives faces and subjects a dimensional pop. Wide open it is sharp without harshness, with lower contrast and natural roll-off. Compact and light, with a 95mm front, 0.8 gears, 270-degree focus rotation and greatly improved close focus."
     },
     {
       "id": "leitz-hugo-66mm-t2-1-l",
@@ -546,7 +561,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "One of the more unusual lenses in the Leitz HUGO set: a T2.1 full-frame 66mm from the HUGO II line whose optical design revives the fabled Leica ELCAN 'Spy Lens' of the 1960s and 70s, one of the rarest lenses Leica ever produced. It offers a distinctive in-between focal length with the HUGO character of rich colours, artful flares and a rounded image field, in a smaller, lighter housing than the T1.5 lenses. Sharp without harshness, with lower contrast and a natural fall-off. It shares the set's 95mm front, 0.8 gears, 270-degree focus rotation and swappable LPL or L mount."
     },
     {
       "id": "leitz-hugo-75mm-t1-5-l",
@@ -581,7 +597,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A short-telephoto T1.5 full-frame prime in the Leitz HUGO set, bringing Leica M portrait optics into a cine housing. It renders the HUGO signature of rich colours, artful flares and a rounded image field, with the corner fall-off in light and focus that lifts a face out of the background. Wide open it stays sharp without harshness, with lower contrast and a smooth, flattering roll-off. Compact and light for its speed, with a 95mm front, 0.8 gears, 270-degree focus rotation and greatly improved close focus over the M 0.8."
     },
     {
       "id": "leitz-hugo-75mm-t2-1-l",
@@ -616,7 +633,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A short-telephoto T2.1 full-frame prime from the HUGO II line, the smaller and lighter counterpart to the 75mm T1.5 with a slightly different look of its own. It keeps the HUGO character of rich colours, artful flares and a rounded image field with gentle corner fall-off, sharp without harshness and with a natural roll-off. The reduced size and weight make it an easy pick for gimbal and handheld work. It shares the set's 95mm front, 0.8 gears, 270-degree focus rotation and swappable LPL or L mount."
     },
     {
       "id": "leitz-hugo-90mm-t1-5-l",
@@ -651,7 +669,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A telephoto T1.5 full-frame prime in the Leitz HUGO set, built on Leica M optics in a cine housing and the longest of the T1.5 line's classic portrait lengths. It renders rich colours, artful flares and a rounded image field, with the fall-off toward the corners that isolates a subject and pulls it forward. Wide open it is sharp without harshness, with lower contrast and a smooth, flattering roll-off. With a 95mm front, 0.8 gears, 270-degree focus rotation and greatly improved close focus, it stays compact for a fast telephoto."
     },
     {
       "id": "leitz-hugo-90mm-t2-1-l",
@@ -686,7 +705,8 @@
       },
       "webSources": [
         "https://www.leitz-cine.com/product/hugo/"
-      ]
+      ],
+      "description": "A telephoto T2.1 full-frame prime from the HUGO II line, the compact counterpart to the 90mm T1.5 with its own subtly different rendering. It carries the HUGO character of rich colours, artful flares and a rounded image field with gentle corner fall-off, staying sharp without harshness and rolling off naturally. Its smaller size and weight suit gimbal, drone and handheld work. It shares the set's 95mm front, 0.8 gears, 270-degree focus rotation and swappable LPL or L mount."
     }
   ]
 }

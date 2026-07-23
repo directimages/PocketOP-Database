@@ -37,7 +37,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/18_35_2/"
-      ]
+      ],
+      "description": "A Super 35 cine zoom in Sigma's High Speed Zoom line, covering the core wide-to-normal range at a constant T2 with no ramping. Built on the optics of Sigma's 18-35mm F1.8 Art, it resolves cleanly for 6K to 8K work with minimal flare and ghosting. The 9-blade clickless iris renders round highlights, focus travels 180 degrees on an internal focus design, and the 95mm front and shared gear positions match its 50-100mm companion for fast changes. The sealed housing is dust- and splash-resistant, and color is matched across the line for easy intercutting."
     },
     {
       "id": "sigma-cine-50-100mm-t2-0",
@@ -76,7 +77,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/50_100_2/"
-      ]
+      ],
+      "description": "The telephoto companion in Sigma's High Speed Zoom line, a Super 35 cine zoom that holds a constant T2 across 50-100mm with no ramping. Its optics come from the 50-100mm F1.8 Art and resolve for 6K to 8K capture, with the same 9-blade clickless iris for round out-of-focus highlights. Gear positions, the 95mm front and color match the 18-35mm so the pair swaps quickly and intercuts cleanly. The internal focus design gives 180 degrees of focus travel, and the sealed housing is dust- and splash-resistant."
     },
     {
       "id": "sigma-ff-prime-105mm-t1-5",
@@ -115,7 +117,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/105_15/"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in Sigma's FF High Speed Prime line, one of the later additions to the set, and unusually fast for its reach at T1.5. It carries the line's Art-derived optics, sharp and clean for 6K to 8K work, with a 9-blade iris that renders round, smooth highlights for isolation and portraiture. The sealed all-metal housing is dust- and splash-resistant. Gear positions, the 95mm front and color are standardized across the set, with Cooke /i metadata on the PL mount."
     },
     {
       "id": "sigma-ff-prime-135mm-t2-0",
@@ -154,7 +157,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/135_2/"
-      ]
+      ],
+      "description": "The longest lens in Sigma's FF High Speed Prime line, a full-frame telephoto at T2 where the core of the set runs T1.5. The Art-based optics stay sharp with well-controlled flare, ready for 6K to 8K capture, and the 9-blade iris keeps bokeh round for tight portraits and isolation. Focus travels 180 degrees for precise long-distance pulls, and the sealed metal body is dust- and splash-resistant. It shares gear positions, the 95mm front and color with the rest of the line, and the PL mount carries Cooke /i metadata."
     },
     {
       "id": "sigma-ff-prime-14mm-t2-0",
@@ -193,7 +197,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/14_2/"
-      ]
+      ],
+      "description": "The widest lens in Sigma's FF High Speed Prime line, a full-frame ultra-wide that opens to T2 where the core of the set runs T1.5. Built on the optics of Sigma's Art still lenses, it resolves cleanly for 6K to 8K work in a housing that stays compact for its speed. The 9-blade iris keeps out-of-focus highlights round to the edge of frame, and the sealed all-metal body is dust- and splash-resistant. Gear positions, the 95mm front and color are standardized across the line, and the PL mount carries Cooke /i metadata."
     },
     {
       "id": "sigma-ff-prime-20mm-t1-5",
@@ -232,7 +237,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/20_15/"
-      ]
+      ],
+      "description": "A fast wide-angle in Sigma's FF High Speed Prime line, a full-frame prime at T1.5. It shares the Art-derived optics of the set, sharp with well-controlled flare for a clean modern look, and resolves for 6K to 8K capture. The 9-blade iris renders round highlights even wide open, and the sealed metal housing shrugs off dust and splash. Gear positions, the 95mm front and color match the rest of the line, with Cooke /i metadata on the PL mount."
     },
     {
       "id": "sigma-ff-prime-24mm-t1-5",
@@ -271,7 +277,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/24_15/"
-      ]
+      ],
+      "description": "A wide-angle full-frame prime in Sigma's FF High Speed Prime line, fast at T1.5. The Art-based optics deliver a sharp, contrasty image with minimal flare, ready for 6K to 8K work, while smooth bokeh from the 9-blade iris keeps the rendering characterful rather than clinical. Focus travels 180 degrees for precise pulls, and the sealed metal body is dust- and splash-resistant. It shares gear positions, the 95mm front and color with the rest of the set, and the PL mount carries Cooke /i metadata."
     },
     {
       "id": "sigma-ff-prime-28mm-t1-5",
@@ -310,7 +317,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/28_15/"
-      ]
+      ],
+      "description": "A wide full-frame prime in Sigma's FF High Speed Prime line, one of the focal lengths added to round out the set, fast at T1.5. It matches the Art-derived optical character of the line, sharp and clean with well-controlled flare, and resolves for 6K to 8K capture. The 9-blade iris keeps out-of-focus highlights round, and the sealed all-metal housing is dust- and splash-resistant. Gear positions, the 95mm front and color are standardized across the set, with Cooke /i metadata on the PL mount."
     },
     {
       "id": "sigma-ff-prime-35mm-t1-5",
@@ -349,7 +357,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/35_15/"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Sigma's FF High Speed Prime line, fast at T1.5 and a natural documentary and reportage focal length. The Art-based optics are sharp with minimal flare and ghosting, ready for 6K to 8K work, and the 9-blade iris renders round, smooth bokeh. Focus travels 180 degrees, and the sealed metal body is dust- and splash-resistant. It shares gear positions, the 95mm front and color with the rest of the line, and the PL mount carries Cooke /i metadata."
     },
     {
       "id": "sigma-ff-prime-40mm-t1-5",
@@ -388,7 +397,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/40_15/"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in Sigma's FF High Speed Prime line, fast at T1.5 and sitting between the 35mm and 50mm. It carries the set's Art-derived optics, sharp and clean for 6K to 8K capture, with a 9-blade iris that keeps highlights round even wide open. The sealed all-metal housing is dust- and splash-resistant with luminous, laser-engraved markings. Gear positions, the 95mm front and color match the rest of the line, with Cooke /i metadata on the PL mount."
     },
     {
       "id": "sigma-ff-prime-50mm-t1-5",
@@ -427,7 +437,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/50_15/"
-      ]
+      ],
+      "description": "The standard focal length in Sigma's FF High Speed Prime line, a full-frame prime fast at T1.5. Its Art-based optics deliver a sharp, modern look with well-controlled flare, resolving cleanly for 6K to 8K work, while the 9-blade iris renders smooth, round bokeh. Focus travels 180 degrees for precise pulls, and the sealed metal body is dust- and splash-resistant. Gear positions, the 95mm front and color are standardized across the set, and the PL mount carries Cooke /i metadata."
     },
     {
       "id": "sigma-ff-prime-65mm-t1-5",
@@ -466,7 +477,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/65_15/"
-      ]
+      ],
+      "description": "A long-normal full-frame prime in Sigma's FF High Speed Prime line, fast at T1.5 and well suited to tighter coverage and portraits. It shares the line's Art-derived optics, sharp with minimal flare, ready for 6K to 8K capture, and its 9-blade iris keeps out-of-focus highlights round to the edge of frame. The sealed all-metal housing is dust- and splash-resistant. Gear positions, the 95mm front and color match the rest of the set, with Cooke /i metadata on the PL mount."
     },
     {
       "id": "sigma-ff-prime-85mm-t1-5",
@@ -505,7 +517,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/85_15/"
-      ]
+      ],
+      "description": "The classic portrait focal length in Sigma's FF High Speed Prime line, a full-frame prime fast at T1.5. The Art-based optics are sharp with smooth bokeh from the 9-blade iris, a combination that suits close work, and the lens resolves for 6K to 8K capture. Focus travels 180 degrees, and the sealed metal body is dust- and splash-resistant with luminous markings. It shares gear positions, the 95mm front and color with the rest of the line, and the PL mount carries Cooke /i metadata."
     }
   ]
 }

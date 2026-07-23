@@ -21,7 +21,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "A longer portrait and detail prime in Meike's budget full-frame cine line, reaching for tighter framing and compression. It shares the set's consistent color rendering, soft bokeh and matched handling across the range."
     },
     {
       "id": "meike-ff-cine-135mm-t2-4",
@@ -44,7 +45,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "The longest lens in Meike's full-frame Prime Cine set, built for portraiture, detail and compressed perspectives. It rounds out the range with the line's uniform color, soft bokeh and affordable, solidly-made construction."
     },
     {
       "id": "meike-ff-cine-16mm-t2-5",
@@ -67,7 +69,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "The ultra-wide anchor of Meike's affordable full-frame Prime Cine set, opening up landscapes, interiors and establishing shots. Like the rest of the line it is a solid, well-built value lens with a rounded iris for soft, near-circular bokeh and color that stays consistent across the focal range."
     },
     {
       "id": "meike-ff-cine-24mm-t2-1",
@@ -90,7 +93,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "A wide-angle prime in Meike's budget-friendly full-frame cine line, useful for environmental coverage and handheld work. It shares the set's uniform color balance, soft rounded bokeh and matched cine gearing, offering cinema-house handling at a fraction of the cost."
     },
     {
       "id": "meike-ff-cine-35mm-t2-1",
@@ -113,7 +117,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "A wide-normal workhorse in Meike's full-frame Prime Cine set, at home on interviews, documentary and run-and-gun narrative. It carries the line's consistent color, soft bokeh and solid mechanical build at an accessible price."
     },
     {
       "id": "meike-ff-cine-50mm-t2-1",
@@ -136,7 +141,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "The standard prime in Meike's affordable full-frame cine line, a natural choice for dialogue and everyday coverage. It renders soft, rounded bokeh with color matched to the rest of the set and the same cine-standard gearing throughout."
     },
     {
       "id": "meike-ff-cine-85mm-t2-1",
@@ -159,7 +165,8 @@
       "sources": {},
       "webSources": [
         "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      ],
+      "description": "A short-telephoto portrait length in Meike's full-frame Prime Cine set, flattering for faces with smooth background separation. It keeps the line's uniform color and rounded bokeh, a popular value pick for interviews and close work."
     }
   ]
 }

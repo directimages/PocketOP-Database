@@ -35,7 +35,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in Zeiss's Compact Prime CP.2 line at T2.1. It uses the CP.2 interchangeable mount (PL, EF, F, E, MFT) across cine and DSLR bodies, with a 14-blade iris for round bokeh and the T* coating for flare control. Focus and iris are manual, on a long rotation."
     },
     {
       "id": "zeiss-cp2-135mm-t2-1",
@@ -72,7 +73,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "The longest prime in Zeiss's Compact Prime CP.2 line, a full-frame telephoto at T2.1. It shares the CP.2 interchangeable mount (PL, EF, F, E, MFT) for flexible use across cine and DSLR cameras, with a 14-blade iris for round bokeh well suited to tight portraits and isolation. The T* coating suppresses flare, and focus and iris are manual on a long throw."
     },
     {
       "id": "zeiss-cp2-15mm-t2-9",
@@ -109,7 +111,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "The widest lens in Zeiss's Compact Prime CP.2 line, a full-frame cine prime at T2.9. Like the rest of the CP.2 set it uses an interchangeable mount that swaps between PL, EF, F, E and MFT, so a single lens serves both cine and stills bodies without adapters. A 14-blade iris keeps out-of-focus highlights round across the aperture range, and the T* coating with internal light traps holds flare down. Focus and iris are manual, on a long focus rotation."
     },
     {
       "id": "zeiss-cp2-18mm-t3-6",
@@ -146,7 +149,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "An ultra-wide prime in Zeiss's Compact Prime CP.2 line at T3.6, the slowest of the set and, unlike the others, covering an APS-H rather than a full-frame image circle. It carries the CP.2 interchangeable mount (PL, EF, F, E, MFT) for use across cine and DSLR bodies, with a 14-blade iris for round bokeh and the T* coating for flare control. Focus and iris are manual, on a long focus rotation."
     },
     {
       "id": "zeiss-cp2-21mm-t2-9",
@@ -183,7 +187,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "A wide-angle full-frame prime in Zeiss's Compact Prime CP.2 line at T2.9. It shares the CP.2 interchangeable mount that swaps between PL, EF, F, E and MFT, letting one set cover cine and DSLR cameras without adapters. The 14-blade iris stays round across the T-stop range for smooth bokeh, and the T* coating suppresses flare, with manual focus and iris on a long throw."
     },
     {
       "id": "zeiss-cp2-25mm-t2-9",
@@ -220,7 +225,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "A wide full-frame prime in Zeiss's Compact Prime CP.2 line at T2.9. Like the rest of the CP.2 set it uses the interchangeable mount (PL, EF, F, E, MFT), so a single lens works across cine and stills bodies. A 14-blade iris keeps out-of-focus highlights round, the T* coating controls flare, and focus and iris are manual on a long focus rotation."
     },
     {
       "id": "zeiss-cp2-28mm-t2-1",
@@ -257,7 +263,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's Compact Prime CP.2 line, at the line's common T2.1. It carries the CP.2 interchangeable mount (PL, EF, F, E, MFT) for flexible use across cine and DSLR cameras. The 14-blade iris stays round through the aperture range for smooth bokeh, and the T* coating with internal light traps keeps flare in check. Focus and iris are manual, on a long rotation."
     },
     {
       "id": "zeiss-cp2-35mm-t2-1",
@@ -294,7 +301,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's Compact Prime CP.2 line at T2.1. It shares the CP.2 interchangeable mount that swaps between PL, EF, F, E and MFT, so one set covers cine and stills without adapters. A 14-blade iris gives round, smooth bokeh and the T* coating suppresses flare, with manual focus and iris on a long throw."
     },
     {
       "id": "zeiss-cp2-50mm-macro-t2-1",
@@ -331,7 +339,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "The close-focus option in Zeiss's Compact Prime CP.2 line, a full-frame T2.1 normal based on the Makro-Planar design that focuses down to roughly 24cm. It shares the CP.2 interchangeable mount (PL, EF, F, E, MFT), though it uses a different front diameter than the rest of the set. A 14-blade iris keeps bokeh round, the T* coating controls flare, and focus and iris are manual on a long throw."
     },
     {
       "id": "zeiss-cp2-50mm-t2-1",
@@ -368,7 +377,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "The standard full-frame prime in Zeiss's Compact Prime CP.2 line at T2.1. Like the rest of the set it uses the interchangeable mount (PL, EF, F, E, MFT) for use across cine and DSLR bodies. The 14-blade iris stays round across the aperture range for smooth bokeh, the T* coating controls flare, and focus and iris are manual on a long rotation."
     },
     {
       "id": "zeiss-cp2-85mm-t2-1",
@@ -405,7 +415,8 @@
       "webSources": [
         "https://www.zsyst.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "The portrait length in Zeiss's Compact Prime CP.2 line, a full-frame prime at T2.1. It carries the CP.2 interchangeable mount (PL, EF, F, E, MFT) for cine and DSLR use, with a 14-blade iris that keeps out-of-focus highlights round for smooth portrait bokeh. The T* coating suppresses flare, and focus and iris are manual on a long focus rotation."
     },
     {
       "id": "zeiss-cp3-100mm-t2-1",
@@ -443,7 +454,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in Zeiss's CP.3 line at T2.1. It uses the compact CP.3 housing with a 95mm front, a 14-blade iris for round bokeh, and the interchangeable mount (PL, EF, F, E, MFT) with an eXtended Data option. Focus is manual on a smooth 300-degree rotation, with minimal breathing and the clean Zeiss look."
     },
     {
       "id": "zeiss-cp3-135mm-t2-1",
@@ -481,7 +493,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "The longest prime in Zeiss's CP.3 line, a full-frame telephoto at T2.1. It shares the compact housing, 95mm front and 14-blade iris for round bokeh well suited to tight portraits, with the interchangeable mount (PL, EF, F, E, MFT) and an eXtended Data option for lens metadata. A smooth 300-degree focus throw and minimal breathing complete the set."
     },
     {
       "id": "zeiss-cp3-15mm-t2-9",
@@ -519,7 +532,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "The widest lens in Zeiss's CP.3 line, a compact full-frame prime at T2.9. The CP.3 set is the third-generation Compact Prime, smaller and lighter than the CP.2 while still covering full frame, with a 14-blade iris that keeps out-of-focus highlights round through the T-stop range. All ten share a 95mm front and matched gear positions, and the interchangeable mount swaps between PL, EF, F, E and MFT, with an eXtended Data option that transmits lens metadata over Cooke /i and Zeiss datasets. Focus is manual on a smooth 300-degree rotation."
     },
     {
       "id": "zeiss-cp3-18mm-t2-9",
@@ -557,7 +571,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "An ultra-wide full-frame prime in Zeiss's CP.3 line at T2.9, and unlike the CP.2 18mm it covers full frame. It shares the CP.3 compact housing, 95mm front and 14-blade iris for round bokeh, with the interchangeable mount (PL, EF, F, E, MFT) and an eXtended Data option for lens metadata. New coatings lift contrast, focus is manual on a smooth 300-degree throw, and breathing stays minimal."
     },
     {
       "id": "zeiss-cp3-21mm-t2-9",
@@ -595,7 +610,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "A wide-angle full-frame prime in Zeiss's CP.3 line at T2.9. Like the rest of the set it uses the compact CP.3 housing with a 95mm front, a 14-blade iris for round out-of-focus highlights, and the interchangeable mount (PL, EF, F, E, MFT) with an eXtended Data option. Focus is manual on a smooth 300-degree rotation, and the clean Zeiss rendering keeps breathing minimal."
     },
     {
       "id": "zeiss-cp3-25mm-t2-1",
@@ -633,7 +649,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "A wide full-frame prime in Zeiss's CP.3 line at the set's common T2.1. It shares the compact CP.3 housing, 95mm front and 14-blade iris for round bokeh, with the interchangeable mount (PL, EF, F, E, MFT) and an eXtended Data option that carries lens metadata over Cooke /i and Zeiss datasets. Improved mechanics give a smooth 300-degree focus throw, and breathing stays minimal."
     },
     {
       "id": "zeiss-cp3-28mm-t2-1",
@@ -671,7 +688,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's CP.3 line at T2.1. Like the rest of the set it uses the compact housing with a 95mm front, a 14-blade iris for round highlights and the interchangeable mount (PL, EF, F, E, MFT) with an eXtended Data option. Focus is manual on a smooth 300-degree rotation, with new coatings for contrast and minimal breathing."
     },
     {
       "id": "zeiss-cp3-35mm-t2-1",
@@ -709,7 +727,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's CP.3 line at T2.1, a common reportage focal length. It shares the CP.3 compact housing, 95mm front and 14-blade iris for round bokeh, with the interchangeable mount (PL, EF, F, E, MFT) and an eXtended Data option for lens metadata. Smoother mechanics give a 300-degree focus throw, and breathing stays minimal."
     },
     {
       "id": "zeiss-cp3-50mm-t2-1",
@@ -747,7 +766,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "The standard full-frame prime in Zeiss's CP.3 line at T2.1. It uses the compact CP.3 housing with a 95mm front, a 14-blade iris for round out-of-focus highlights, and the interchangeable mount (PL, EF, F, E, MFT) with an eXtended Data option that transmits lens metadata. Focus is manual on a smooth 300-degree rotation, with the clean Zeiss rendering and minimal breathing."
     },
     {
       "id": "zeiss-cp3-85mm-t2-1",
@@ -785,7 +805,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
-      ]
+      ],
+      "description": "The portrait length in Zeiss's CP.3 line, a full-frame prime at T2.1. It shares the compact housing, 95mm front and 14-blade iris that keeps portrait bokeh round, with the interchangeable mount (PL, EF, F, E, MFT) and an eXtended Data option for lens metadata. A smooth 300-degree focus throw and minimal breathing round it out."
     },
     {
       "id": "zeiss-cz2-15-30mm-t2-9",
@@ -820,7 +841,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
-      ]
+      ],
+      "description": "The wide zoom in Zeiss's Compact Zoom CZ.2 line, a full-frame cine zoom holding a constant T2.9 across a 15-30mm range. Like the rest of the CZ.2 set it is parfocal, keeping focus through the zoom, and covers full frame for large-sensor cameras. It uses Zeiss's interchangeable mount so a single lens serves cine and DSLR bodies, with the clean Zeiss rendering and eXtended Data metadata. A useful wide-to-normal range for run-and-gun and documentary work."
     },
     {
       "id": "zeiss-cz2-28-80mm-t2-9",
@@ -855,7 +877,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
-      ]
+      ],
+      "description": "The standard zoom in Zeiss's Compact Zoom CZ.2 line, a full-frame parfocal cine zoom at a constant T2.9 across 28-80mm. It holds focus through the zoom and covers full frame, on Zeiss's interchangeable mount for use across cine and DSLR bodies. The clean Zeiss rendering and eXtended Data metadata match the rest of the CZ.2 set, making the 28-80 a versatile everyday zoom."
     },
     {
       "id": "zeiss-cz2-70-200mm-t2-9",
@@ -890,7 +913,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
-      ]
+      ],
+      "description": "The telephoto zoom in Zeiss's Compact Zoom CZ.2 line, a full-frame parfocal cine zoom at a constant T2.9 across 70-200mm. It keeps focus through the zoom and covers full frame, on the interchangeable mount shared across the CZ.2 set. With Zeiss rendering and eXtended Data, it handles the long end for interviews, wildlife and coverage where reach and shallow depth of field matter."
     },
     {
       "id": "zeiss-lwz-2-15-5-45mm-t2-6",
@@ -926,7 +950,8 @@
       "webSources": [
         "https://www.photocinerent.com",
         "https://www.lensrentals.com"
-      ]
+      ],
+      "description": "Zeiss's Lightweight Zoom LWZ.2, a compact Super 35 cine zoom covering 15.5-45mm at a constant T2.6. Built light for documentary, ENG and gimbal work, it is parfocal, holding focus through the zoom, on a PL mount. It offers a useful wide-to-normal range with the Zeiss rendering in a package sized for run-and-gun shooting."
     },
     {
       "id": "zeiss-lwz3-21-100mm",
@@ -963,7 +988,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/lightweight-zoom-lwz-3.html"
-      ]
+      ],
+      "description": "Zeiss's Lightweight Zoom LWZ.3, a compact Super 35 cine zoom with a wide 21-100mm range, nearly 5x. Its aperture ramps across the zoom, from T2.9 at the wide end to T3.9 at full telephoto, and it is parfocal, holding focus through the range on a PL mount. Light enough for documentary, ENG and gimbal setups, it trades a little speed at the long end for reach and portability."
     },
     {
       "id": "zeiss-supreme-prime-100mm-t1-5",
@@ -999,7 +1025,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. It keeps the line's internal focus design for minimal breathing and a non-rotating front, with the same 16-blade iris for round out-of-focus highlights. Color and rendering stay matched to the other Supremes, and the gears sit in the standard positions for fast lens changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-135mm-t1-5",
@@ -1035,7 +1062,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in Zeiss's Supreme Prime line, still fast at T1.5. The internal focus design keeps breathing minimal and the front non-rotating, and the 16-blade iris renders round bokeh well suited to tight portraits and isolation. It is color-matched to the rest of the set, with shared gear positions for rapid changes. The field-interchangeable mount ships in PL and carries metadata over Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-150mm-t1-8",
@@ -1071,7 +1099,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A long telephoto full-frame prime in Zeiss's Supreme Prime line, opening to T1.8, a touch slower than the T1.5 core of the set. It keeps the line's internal focus design for minimal breathing and a non-rotating front, with the same 16-blade iris for round out-of-focus highlights. Color and rendering stay matched to the other Supremes, with shared gears for fast lens changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-15mm-t1-8",
@@ -1107,7 +1136,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "The widest focal length in Zeiss's Supreme Prime line, a full-frame cine prime that opens to a fast T1.8. An internal focus design keeps breathing minimal and the front non-rotating, and a 16-blade iris renders round out-of-focus highlights. It is color-matched to the rest of the Supreme set and shares the same gear positions, so it drops in without re-rigging, and it carries lens metadata over Cooke /i and Zeiss eXtended Data. The wide optics use a larger front than the middle of the set, and the mount is a field-interchangeable PL."
     },
     {
       "id": "zeiss-supreme-prime-18mm-t1-5",
@@ -1143,7 +1173,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "An ultra-wide full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. Like the rest of the set it uses an internal focus design for minimal breathing and a non-rotating front, with a 16-blade iris that keeps out-of-focus highlights round. Color and handling are matched across the Supreme lenses, with shared gear positions and metadata over Cooke /i and Zeiss eXtended Data. The wide optics carry a larger front than the mid range, and the mount is a field-interchangeable PL."
     },
     {
       "id": "zeiss-supreme-prime-200mm-t2-2",
@@ -1179,7 +1210,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "The longest lens in Zeiss's Supreme Prime line, a full-frame telephoto prime at T2.2, a touch slower than the T1.5 core of the set. It keeps the line's internal focus design for minimal breathing and a non-rotating front, with the same 16-blade iris for round bokeh. Color and rendering stay matched to the other Supremes, and the focus and iris gears sit in the standard positions for fast changes. The mount is field-interchangeable and ships in PL."
     },
     {
       "id": "zeiss-supreme-prime-21mm-t1-5",
@@ -1215,7 +1247,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A wide-angle full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. The internal focus design gives minimal focus breathing and a non-rotating front, and the 16-blade iris keeps bokeh highlights circular. It matches the color and handling of the rest of the set, sharing 0.8-MOD gears and gear positions for quick lens changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-25mm-t1-5",
@@ -1251,7 +1284,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. The internal focus design gives minimal focus breathing and a non-rotating front, and the 16-blade iris keeps bokeh highlights circular. Sharp but with a smooth focus roll-off, it matches the color and handling of the rest of the set, sharing 0.8-MOD gears and a common 95mm front for quick lens changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-29mm-t1-5",
@@ -1287,7 +1321,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's Supreme Prime line, fast at T1.5 and sitting between the 25mm and 35mm. It uses the line's internal focus design for minimal breathing and a non-rotating front, with a 16-blade iris for round out-of-focus highlights. Color and rendering are matched to the other Supremes, with shared gears and front diameter for fast changes on set. The field-interchangeable mount ships in PL and carries metadata over Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-35mm-t1-5",
@@ -1323,7 +1358,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in Zeiss's Supreme Prime line and a common reportage focal length, fast at T1.5. The internal focus design keeps breathing minimal and the front non-rotating, and the 16-blade iris renders round bokeh. It shares the color, gear positions and 95mm front of the rest of the set for rapid lens changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-40mm-t1-5",
@@ -1359,7 +1395,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. It keeps the line's internal focus design for minimal breathing and a non-rotating front, with a 16-blade iris for round out-of-focus highlights and a smooth focus roll-off. Color and handling are matched across the Supreme set, sharing gears and the 95mm front so lenses swap quickly. The field-interchangeable mount ships in PL and carries metadata over Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-50mm-t1-5",
@@ -1395,7 +1432,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "The standard full-frame prime in Zeiss's Supreme Prime line, fast at T1.5. It uses the line's internal focus design for minimal breathing and a non-rotating front, with a 16-blade iris for round out-of-focus highlights and a sharp but gentle rendering. Color and handling are matched across the Supreme set, sharing gear positions and the 95mm front so lenses swap quickly on set. The field-interchangeable mount ships in PL and carries metadata over Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-65mm-t1-5",
@@ -1431,7 +1469,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in Zeiss's Supreme Prime line, fast at T1.5 and well suited to portraits. The internal focus design keeps breathing minimal and the front non-rotating, and the 16-blade iris keeps out-of-focus highlights round. It is color-matched to the rest of the set, with shared gears and front diameter for fast changes. The field-interchangeable mount ships in PL and passes metadata via Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-85mm-t1-5",
@@ -1467,7 +1506,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
-      ]
+      ],
+      "description": "The classic portrait focal length in Zeiss's Supreme Prime line, a full-frame prime fast at T1.5. Its internal focus design gives minimal breathing and a non-rotating front, and the 16-blade iris renders round, smooth bokeh that suits close work. Color and handling stay matched to the other Supremes, with shared gear positions and the 95mm front for quick changes. The field-interchangeable mount ships in PL and carries metadata over Cooke /i and Zeiss eXtended Data."
     },
     {
       "id": "zeiss-supreme-prime-radiance-135mm-t1-5",
@@ -1505,7 +1545,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"
-      ]
+      ],
+      "description": "The long end of Zeiss's Supreme Prime Radiance line, a full-frame telephoto prime still fast at T1.5. Like the rest of the Radiance set it is a Supreme Prime with the T* blue coating for controlled, planned flares and a slightly warmer look, while retaining the Supreme optics: 46.3mm full-frame coverage, a 16-blade iris for smooth bokeh, a 300-degree focus rotation and eXtended Data. With the 18mm it carries the line's larger 114mm front rather than the 95mm used across the middle of the range, and it suits large-format portraiture and isolation."
     },
     {
       "id": "zeiss-supreme-prime-radiance-18mm-t1-5",
@@ -1543,7 +1584,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"
-      ]
+      ],
+      "description": "The wide end of Zeiss's Supreme Prime Radiance line, a full-frame cine prime at a fast T1.5. The Radiance lenses are the Supreme Primes rebuilt with the T* blue coating, which lets a cinematographer create controlled, repeatable flares under directed light while keeping contrast and transmission intact, with a slightly warmer rendering than the standard Supremes. It keeps the Supreme optics otherwise: 46.3mm full-frame coverage, a 16-blade iris for smooth bokeh, a 300-degree focus rotation and eXtended Data metadata. Along with the 135mm it uses a larger 114mm front, the two exceptions to the line's 95mm standard."
     },
     {
       "id": "zeiss-supreme-zoom-radiance-15-30mm-t2-9",
@@ -1579,7 +1621,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
-      ]
+      ],
+      "description": "The wide zoom in Zeiss's Supreme Zoom Radiance line, a full-frame parfocal cine zoom at a constant T2.9 across 15-30mm. These are the only zooms built to match the Supreme Prime Radiance look: the T* blue coating produces controlled, reproducible blue flares under directed light and a slightly warmer rendition, while normal lighting renders cleanly. The flare shape even shifts as you zoom, and the lens holds focus through the range. It carries the Radiance line's 114mm front, matched gear positions and eXtended Data metadata."
     },
     {
       "id": "zeiss-supreme-zoom-radiance-28-80mm-t2-9",
@@ -1615,7 +1658,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
-      ]
+      ],
+      "description": "The standard zoom in Zeiss's Supreme Zoom Radiance line, a full-frame parfocal cine zoom at a constant T2.9 across 28-80mm. Like the set it uses the T* blue coating for controlled, planned flares and a warmer look, rendering normally under regular light, and it holds focus through the zoom. It matches the Supreme Prime Radiance and Supreme Primes for gear position and look, with a 114mm front and eXtended Data. It is the lightest of the three Radiance zooms."
     },
     {
       "id": "zeiss-supreme-zoom-radiance-70-200mm-t2-9",
@@ -1651,7 +1695,8 @@
       },
       "webSources": [
         "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
-      ]
+      ],
+      "description": "The telephoto zoom in Zeiss's Supreme Zoom Radiance line, a full-frame parfocal cine zoom at a constant T2.9 across 70-200mm. It shares the T* blue coating for controlled blue flares and a warmer rendition, rendering cleanly under normal light, and holds focus through the zoom. Matched to the Supreme Prime Radiance and Supreme Primes in gear position and look, it carries the 114mm front and eXtended Data, and is the heaviest of the three Radiance zooms."
     }
   ]
 }

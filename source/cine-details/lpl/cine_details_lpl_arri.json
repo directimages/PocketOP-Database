@@ -32,7 +32,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in ARRI's Signature Prime line, still opening to a fast T1.8. It renders the warm Signature look with creamy bokeh and a smooth focus fall-off that suits tight portraits and isolation. Breathing and distortion stay low even at this length, and colour and handling match the rest of the set. It uses the LPL mount with LDS-2 metadata and the shared magnetic rear filter holder."
     },
     {
       "id": "arri-signature-prime-12mm-t1-8",
@@ -66,7 +67,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "The widest lens in ARRI's Signature Prime line, a full-frame large-format prime that opens to a fast T1.8. Even at this extreme wide angle it holds distortion remarkably low and keeps focus breathing minimal, in keeping with the set's clean but organic rendering. It carries the warm skin tones, creamy bokeh and smooth focus fall-off shared across the Signatures, on the LPL mount with LDS-2 metadata. The lightweight magnesium housing and the magnetic rear filter holder let you drop in nets or diffusion without breaking the look."
     },
     {
       "id": "arri-signature-prime-150mm-t1-8",
@@ -100,7 +102,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A long-telephoto full-frame prime in ARRI's Signature Prime line and the longest to hold the fast T1.8 aperture. It keeps the warm, organic rendering, creamy bokeh and smooth focus fall-off of the set, with minimal breathing for clean pulls. Colour and gear positions stay matched to the other Signatures for consistent work across focal lengths. The LPL mount passes LDS-2 metadata, with the magnetic rear filter holder common to the line."
     },
     {
       "id": "arri-signature-prime-15mm-t1-8",
@@ -134,7 +137,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "An ultra-wide full-frame prime in ARRI's Signature Prime line, fast at T1.8. Like the rest of the set it renders a warm, gently softened image with natural skin tones and creamy bokeh, holding distortion and breathing low across the frame. Colour and handling are matched to the other Signatures, with the focus and iris gears in the standard positions for quick changes. It rides the LPL mount with LDS-2 metadata and the magnetic rear filter holder shared across the line."
     },
     {
       "id": "arri-signature-prime-18mm-t1-8",
@@ -168,7 +172,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A wide-angle full-frame prime in ARRI's Signature Prime line, fast at T1.8. It keeps the line's low distortion, minimal breathing and smooth focus fall-off, with the warm, organic look that flatters skin tones. Bokeh stays creamy and any flare is kept soft and controlled rather than harsh. The lightweight magnesium housing, LPL mount with LDS-2 metadata and magnetic rear filter holder are common to the whole set."
     },
     {
       "id": "arri-signature-prime-200mm-t1-8",
@@ -202,7 +207,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A super-telephoto full-frame prime in ARRI's Signature Prime line, opening to T2.5, a touch slower than the T1.8 core of the set. Despite the reach it keeps the warm, organic Signature rendering, creamy bokeh and smooth focus fall-off, with breathing and distortion held low. It stays matched in colour and handling to the rest of the set, with focus and iris gears in the standard positions. It rides the LPL mount with LDS-2 metadata and the shared magnetic rear filter holder."
     },
     {
       "id": "arri-signature-prime-21mm-t1-8",
@@ -236,7 +242,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A wide full-frame prime in ARRI's Signature Prime line, fast at T1.8. The optics keep distortion and focus breathing low while rendering the set's warm, emotionally engaging image with natural skin tones. Out-of-focus areas stay creamy and the focus rolls off smoothly, giving the subject presence in the frame. It matches the colour, gear positions and 300-degree focus of the other Signatures, on the LPL mount with LDS-2 metadata."
     },
     {
       "id": "arri-signature-prime-25mm-t1-8",
@@ -270,7 +277,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A wide full-frame prime in ARRI's Signature Prime line, fast at T1.8. It carries the line's warm rendering, natural skin tones and creamy bokeh, with smooth focus fall-off and minimal breathing. Sharp without turning clinical, it stays matched in colour and handling to the rest of the set for consistent cutting across focal lengths. The LPL mount passes LDS-2 metadata and the magnetic rear filter holder is shared across the line."
     },
     {
       "id": "arri-signature-prime-280mm-t1-8",
@@ -304,7 +312,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "The longest lens in ARRI's Signature Prime line, a super-telephoto full-frame prime at T2.8, slower than the T1.8 core of the set. It carries the warm, organic Signature look with creamy bokeh and a smooth focus fall-off that isolates distant subjects cleanly. Breathing and distortion stay controlled at this reach, and the rendering is matched to the rest of the set. The LPL mount passes LDS-2 metadata, and the magnetic rear filter holder is shared across the line."
     },
     {
       "id": "arri-signature-prime-29mm-t1-8",
@@ -338,7 +347,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A wide full-frame prime in ARRI's Signature Prime line, fast at T1.8 and sitting between the 25mm and 35mm. It keeps the organic Signature look, warm and forgiving on skin, with creamy bokeh and a smooth focus roll-off. Distortion and breathing stay low, and the rendering is matched to the other Signatures for a consistent set. It uses the LPL mount with LDS-2 metadata and the shared magnetic rear filter holder."
     },
     {
       "id": "arri-signature-prime-35mm-t1-8",
@@ -372,7 +382,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A moderate wide-angle full-frame prime in ARRI's Signature Prime line and a common storytelling focal length, fast at T1.8. It renders the warm, organic Signature look with natural skin tones, creamy bokeh and a smooth focus fall-off that lifts the subject off the background. Distortion and breathing are minimal, and colour and gear positions match the rest of the set. The LPL mount carries LDS-2 metadata, with the magnetic rear filter holder shared across the line."
     },
     {
       "id": "arri-signature-prime-40mm-t1-8",
@@ -406,7 +417,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in ARRI's Signature Prime line, fast at T1.8. It keeps the line's warm rendering and flattering skin tones, with creamy bokeh, soft controlled flare and minimal breathing. The image stays clean and low in distortion while holding the organic character that defines the set. Colour, gears and 300-degree focus match the other Signatures, on the LPL mount with LDS-2 metadata."
     },
     {
       "id": "arri-signature-prime-47mm-t1-8",
@@ -440,7 +452,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "The normal full-frame focal length in ARRI's Signature Prime line, fast at T1.8. It renders the warm, organic Signature look with natural skin tones and creamy bokeh, and rolls focus off smoothly for strong subject separation. Distortion and breathing are minimal, and the lens stays matched in colour and handling to the rest of the set. It uses the LPL mount with LDS-2 metadata and the shared magnetic rear filter holder."
     },
     {
       "id": "arri-signature-prime-58mm-t1-8",
@@ -474,7 +487,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A fast normal-to-short-tele full-frame prime in ARRI's Signature Prime line, opening to T1.8 for shallow depth of field. It carries the warm Signature rendering and flattering skin tones, with silky bokeh and a smooth focus fall-off well suited to close work. Breathing and distortion stay low, and the look is matched across the set for consistent cutting. The LPL mount passes LDS-2 metadata, and the magnetic rear filter holder is common to the line."
     },
     {
       "id": "arri-signature-prime-75mm-t1-8",
@@ -508,7 +522,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A short-telephoto full-frame prime in ARRI's Signature Prime line, fast at T1.8 and a natural portrait length. Its warm rendering and smooth, creamy bokeh flatter skin, while the smooth focus fall-off gives the subject clear presence. Breathing and distortion are minimal, and colour and gear positions match the rest of the Signatures. It rides the LPL mount with LDS-2 metadata and the shared magnetic rear filter holder."
     },
     {
       "id": "arri-signature-prime-95mm-t1-8",
@@ -542,7 +557,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
-      ]
+      ],
+      "description": "A telephoto portrait prime in ARRI's Signature Prime line, still fast at T1.8. It keeps the warm, organic Signature look with flattering skin tones and creamy, rounded bokeh, ideal for isolating a subject. Focus rolls off smoothly with minimal breathing, and the rendering stays matched to the rest of the set. The LPL mount carries LDS-2 metadata, and the magnetic rear filter holder is shared across the line."
     },
     {
       "id": "arri-signature-zoom-16-32",
@@ -578,7 +594,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
-      ]
+      ],
+      "description": "A very wide full-frame zoom in the ARRI Signature line, holding a constant T2.8 from wide to long with no ramping. Built to match the Signature Primes, it carries the same organic, gently softened large-format rendering, with natural skin tones, smooth focus fall-off and rounded bokeh, so it intercuts seamlessly with the primes. Its optical design is unusually sharp for a wide zoom while keeping distortion and breathing close to nothing even at the wide end. Compact and light for its coverage, it sits on the LPL mount with the LDS-2 lens data system and covers sensors from Super 35 up to large format."
     },
     {
       "id": "arri-signature-zoom-24-75",
@@ -614,7 +631,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
-      ]
+      ],
+      "description": "The all-round standard full-frame zoom in the ARRI Signature line, holding a constant T2.8 across the range with no ramping. It is the versatile mid-range choice, covering most everyday shooting needs, and shares its front diameter with the Signature Primes. Like the rest of the set it renders the organic Signature look with natural skin tones and rounded bokeh, stays close to distortion-free and breathes little, so it cuts together cleanly with the primes. On the LPL mount with the LDS-2 lens data system, it covers Super 35 up to large format."
     },
     {
       "id": "arri-signature-zoom-45-135",
@@ -650,7 +668,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
-      ]
+      ],
+      "description": "A compact telephoto-leaning full-frame zoom in the ARRI Signature line, holding a constant T2.8 across the range with no ramping. Light and well-balanced for handheld and stabilizer work, it shares its front diameter with the Signature Primes and matches their organic large-format look, with natural skin tones, smooth focus fall-off and rounded bokeh. Distortion and breathing stay low across the range, letting it intercut with the primes. It sits on the LPL mount with the LDS-2 lens data system and covers Super 35 up to large format."
     },
     {
       "id": "arri-signature-zoom-65-300",
@@ -686,7 +705,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
-      ]
+      ],
+      "description": "A long-range full-frame zoom in the ARRI Signature line, covering an unusually wide focal range while holding a constant T2.8 with no ramping. Despite the reach it stays relatively light for its class and keeps the organic Signature look, with natural skin tones, rounded bokeh and low breathing, so it intercuts with the primes and the shorter zooms. A dedicated 1.7x extender, shared with the 280mm Signature Prime, pushes its reach further while preserving the same character. On the LPL mount with the LDS-2 lens data system, it covers Super 35 up to large format."
     }
   ]
 }

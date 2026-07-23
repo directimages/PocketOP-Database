@@ -37,7 +37,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
-      ]
+      ],
+      "description": "The wide zoom of Fujinon's Premier HK Super 35 family, a 3.1x covering 14.5 to 45mm at a constant T2.0. Part of the gold-band 4K+ Premier line, it is matched to its three siblings for focus, iris, zoom, colour and contrast, with minimal breathing and a 280-degree focus rotation. Its speed and edge-to-edge consistency rival primes, aimed at high-end feature and commercial work. It shares the 136mm front and handling of the rest of the HK set for seamless swaps."
     },
     {
       "id": "fujinon-hk4-7x18-t2-0",
@@ -76,7 +77,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
-      ]
+      ],
+      "description": "The all-purpose Premier HK zoom, a 4.7x holding a constant T2.0 over the most-used 18 to 85mm range on Super 35. A gold-band 4K+ Premier lens, it is colour- and contrast-matched to the other three HK zooms, with minimal breathing and prime-level resolution across the range. It covers the workhorse focal lengths for dramatic studio and location scenes in a single lens, with front diameter, gearing and focus throw matched to the family."
     },
     {
       "id": "fujinon-hk5-3x75-t2-8",
@@ -115,7 +117,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
-      ]
+      ],
+      "description": "The super-telephoto Premier HK, a 5.3x Super 35 zoom that holds T2.8 from 75 to 270mm and ramps to T3.8 at 400mm, the fastest long reach in the gold-band Premier line. It is built for sports, wildlife, action and compression work where a long, fast lens saves lens changes. It stays colour- and contrast-matched to the shorter HK zooms with a 9-blade iris and minimal breathing. Its speed and reach in a manageable body make it a distinctive tool at the long end."
     },
     {
       "id": "fujinon-hk7-5x24-t2-6",
@@ -154,7 +157,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
-      ]
+      ],
+      "description": "The general-purpose long member of the Premier HK family, a 7.5x Super 35 zoom at a constant T2.6 across 24 to 180mm. It carries the gold-band Premier line's matched colour, contrast and minimal-breathing behaviour, with prime-grade resolution from centre to corner. Its wide-to-long reach at a fixed T-stop makes it a versatile single-lens option on feature and high-end broadcast sets, sharing the 136mm front and handling of the HK set."
     },
     {
       "id": "fujinon-hzk14-100mm-t2-9",
@@ -184,7 +188,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk14-100"
-      ]
+      ],
+      "description": "The wide, compact member of Fujinon's Duvo hybrid line, a 7.1x Super 35 zoom that opens to T2.9 from 14mm and holds to 75mm before ramping to T3.9 at 100mm; a built-in 1.5x expander shifts it to 21-150mm for full-frame coverage. It pairs a Premista-style cinematic look with broadcast operation through an ENG-style drive, plus breathing compensation and illumination correction. The smallest and lightest Duvo, aimed at handheld and multi-camera live production."
     },
     {
       "id": "fujinon-hzk24-300mm-t2-9",
@@ -218,7 +223,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk24-300"
-      ]
+      ],
+      "description": "The versatile long Duvo, a 12.5x Super 35 zoom that opens to T2.9 and ramps to T4.2 at 300mm, with a built-in 1.5x expander extending it to 36-450mm for full-frame. Effectively the Super 35 equivalent of a 2/3-inch ENG lens, it brings a Fujinon cinematic look to broadcast handling with an ENG-style servo drive, breathing and chromatic-aberration correction, and eXtended Data output. Shoulder-mountable at a manageable weight, it targets sports, live events and documentary and intercuts with the wider Duvo and the Premista and Cabrio families."
     },
     {
       "id": "fujinon-hzk25-1000mm-f2-8",
@@ -255,7 +261,8 @@
         "https://www.ducloslenses.com/products/25-1000-duvo",
         "https://www.newsshooter.com/2023/03/22/fujinon-duvo-hzk25-1000mm-f2-8-f5-0-pl-mount-cinema-box-lens-now-shipping/",
         "https://ymcinema.com/2023/03/23/fujifilm-ships-its-flagship-fujinon-duvo-25-1000-cinema-box-lens-price-250000/"
-      ]
+      ],
+      "description": "The Duvo box lens, a 40x Super 35 super-telephoto that runs from a fast f/2.8 at 25mm, holding to 465mm before ramping to f/5.0 at 1000mm; a built-in 1.5x expander reaches 37.5-1500mm with full-frame coverage. Fujinon rates it in f-stops in keeping with its broadcast box-lens design, and it is the only Duvo with optical image stabilization, using a ceramic-ball roller system against vibration. It adds breathing, illumination and chromatic-aberration correction and works with existing box-lens accessories for multi-camera live production. The longest reach available for large-sensor cine cameras, built for sports and concert broadcast."
     },
     {
       "id": "fujinon-premista19-45mm-t2-9",
@@ -285,7 +292,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
-      ]
+      ],
+      "description": "The wide anchor of Fujifilm's Premista trio, the brand's first large-format cine zooms, holding a constant T2.9 across 19 to 45mm. It covers a large image circle that reaches full-frame and beyond, with a 13-blade iris for rounded bokeh and low distortion into the corners. Focus breathing is well controlled and its colour is matched to the 28-100mm and 80-250mm so the three intercut without a grading shift. A common wide-to-normal companion on large-format cinema and high-end broadcast rigs."
     },
     {
       "id": "fujinon-premista28-100mm-t2-9",
@@ -315,7 +323,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
-      ]
+      ],
+      "description": "The standard-range Premista, holding a constant T2.9 across the full 28 to 100mm span on large-format sensors. The 13-blade iris and controlled breathing give it prime-like rendering through the zoom, replacing a bag of primes on set, with matched colour and consistent contrast from centre to edge. It shares ring positions, front diameter and weight with its 19-45mm and 80-250mm siblings for fast swaps. A workhorse on full-frame cinema and premium broadcast productions."
     },
     {
       "id": "fujinon-premista80-250mm-t2-9",
@@ -345,7 +354,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
-      ]
+      ],
+      "description": "The telephoto Premista, running a constant T2.9 from 80 to 200mm before ramping gently to T3.5 by 250mm, still under a full stop. It carries the same 13-blade iris, large-format coverage and matched colour as the rest of the line, cutting cleanly against the 28-100mm. Breathing stays minimal through the long end and its optical quality rivals primes across the range. A go-to for crane, aerial and long-lens large-format work where lens changes are impractical."
     },
     {
       "id": "fujinon-xk20-120mm",
@@ -373,7 +383,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/xk"
-      ]
+      ],
+      "description": "Fujinon's affordable Super 35 Cabrio, a 6x zoom holding a constant T3.5 with no ramp across the full 20 to 120mm range. It covers the Super 35 format with a 9-blade iris and a detachable ENG-style servo grip, doubling as a manual PL cine lens or a run-and-gun broadcast zoom. Colour-matched to the HK, ZK and MK lenses, it trades a slightly slower stop for a wide focal range at a low price. A common single-lens choice for 4K documentary and event work."
     },
     {
       "id": "fujinon-zk14-35mm-t2-9",
@@ -403,7 +414,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
-      ]
+      ],
+      "description": "The wide-angle member of Fujinon's Super 35 Cabrio family, a 2.5x zoom holding a constant T2.9 across 14 to 35mm. It pairs a cine build with a detachable ENG-style servo grip, switching between broadcast handling and manual cine operation, with a 9-blade iris. Breathing is well controlled and the rendering is colour-matched to the other Cabrios so a mixed set intercuts cleanly. A go-to fast, light wide zoom for documentary and event work."
     },
     {
       "id": "fujinon-zk19-90mm-t2-9",
@@ -431,7 +443,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
-      ]
+      ],
+      "description": "The workhorse Cabrio, a 4.7x Super 35 zoom at a constant T2.9 over the frequently used 19 to 90mm range. Its detachable servo grip lets it work as a broadcast ENG lens or a manual cine zoom, with a 9-blade iris and low breathing for clean focus pulls. Colour and contrast are matched to the wider 14-35mm and the long Cabrios. Long a default single-lens choice for documentary, sports and small cine crews."
     },
     {
       "id": "fujinon-zk25-300mm",
@@ -462,7 +475,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
-      ]
+      ],
+      "description": "The long-range Cabrio, a 12x Super 35 zoom that holds T3.5 from 25 to 273mm and loses under half a stop to T3.85 by 300mm, keeping the ramp barely noticeable through a continuous move. It uses the same detachable ENG servo interface and 9-blade iris as the rest of the line, colour-matched so it intercuts with the other Cabrios. Its wide-to-long reach without a lens change suits live events, wildlife and sports where reach and fast handling both matter."
     },
     {
       "id": "fujinon-zk85-300mm",
@@ -490,7 +504,8 @@
       },
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
-      ]
+      ],
+      "description": "The telephoto Cabrio, a 3.5x Super 35 zoom that opens to T2.9 from 85 to 215mm and ramps to T4.0 at 300mm. It blends Fujifilm broadcast and cine technology in a lightweight body with a detachable servo drive and a 9-blade iris, colour-matched to the other Cabrios. Controlled breathing keeps long-lens focus work clean. A common fast-telephoto partner to the 19-90mm on documentary and event rigs."
     }
   ]
 }

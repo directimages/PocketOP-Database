@@ -36,7 +36,8 @@
       },
       "webSources": [
         "https://www.cameranordic.com"
-      ]
+      ],
+      "description": "A wide-to-normal Super 35 zoom in the Cooke S4/i family, holding a constant fast T-stop across the range through a variable vignetting stop that prevents ramping. It carries the warm Cooke Look with smooth bokeh and negligible focus breathing, plus an unusually close focus, matching the character of the S4/i primes. /i Technology metadata and color matching let it intercut seamlessly with an S4/i set."
     },
     {
       "id": "cooke-minis4i-100mm-t2-8",
@@ -73,7 +74,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A telephoto Super 35 prime in the miniS4/i set, used for tight portraits and detail in a compact form. It renders with the warm Cooke Look, controlled flare and rounded creamy bokeh from an eight-leaf iris. Color-matched and /i-enabled, it intercuts with the wider Cooke range."
     },
     {
       "id": "cooke-minis4i-135mm-t2-8",
@@ -110,7 +112,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "The longest prime in Cooke's miniS4/i set, a compact telephoto for tight portraits and detail with pleasant subject isolation. It carries the warm Cooke Look with flattering skin tones and smooth out-of-focus rendering. /i Technology metadata and color matching keep it consistent with the S4/i and wider Cooke range."
     },
     {
       "id": "cooke-minis4i-18mm-t2-8",
@@ -147,7 +150,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "The widest prime in Cooke's miniS4/i set, a compact Super 35 wide-angle for establishing shots and interiors. A lightweight companion to the S4/i primes with the same optical quality, it carries the warm Cooke Look with controlled flare and distortion and smooth rounded bokeh from an eight-leaf iris. /i Technology metadata and color matching let it intercut with the S4/i and wider Cooke range, with optional uncoated optics for a more vintage look."
     },
     {
       "id": "cooke-minis4i-25mm-t2-8",
@@ -184,7 +188,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A wide Super 35 prime in the miniS4/i set, a flexible focal length in a compact, lightweight body. It shares the warm Cooke Look and optical quality of the S4/i primes, with controlled flare and smooth rounded bokeh from an eight-leaf iris. /i Technology metadata and color matching keep it intercuttable with the wider Cooke range."
     },
     {
       "id": "cooke-minis4i-32mm-t2-8",
@@ -221,7 +226,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A near-normal Super 35 prime in the miniS4/i set, close to natural perspective in a compact housing. It carries the warm Cooke Look with flattering skin tones, controlled distortion and smooth out-of-focus rendering. Color-matched and /i-enabled, it slots cleanly into an S4/i or miniS4/i set."
     },
     {
       "id": "cooke-minis4i-40mm-t2-8",
@@ -258,7 +264,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A normal Super 35 prime in the miniS4/i set, a natural-perspective focal length in a lightweight body. It delivers the warm Cooke Look with controlled flare and smooth rounded bokeh from an eight-leaf iris. /i Technology metadata keeps it color-matched to the wider Cooke range."
     },
     {
       "id": "cooke-minis4i-50mm-t2-8",
@@ -295,7 +302,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A standard Super 35 prime in the miniS4/i set, a staple focal length in a compact, lightweight form. It renders with the warm Cooke Look, flattering skin tones and smooth rounded bokeh, matching the optical quality of the full-size S4/i. /i Technology and color matching make it intercuttable across a Cooke set."
     },
     {
       "id": "cooke-minis4i-65mm-t2-8",
@@ -332,7 +340,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A short telephoto Super 35 prime in the miniS4/i set, favoured for portraits and tighter coverage in a compact body. It carries the warm Cooke Look with flattering skin tones and creamy rounded bokeh from an eight-leaf iris. Color-matched and /i-enabled, it intercuts with the S4/i and wider Cooke range."
     },
     {
       "id": "cooke-minis4i-75mm-t2-8",
@@ -369,7 +378,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
-      ]
+      ],
+      "description": "A portrait-length Super 35 prime in the miniS4/i set, well suited to close-ups in a lightweight housing. It delivers the warm Cooke Look with smooth focus falloff and creamy bokeh, matching the optical quality of the S4/i primes. /i Technology metadata keeps it color-matched across a Cooke set."
     },
     {
       "id": "cooke-panchro-i-classic-ff-100mm-t2-6",
@@ -406,7 +416,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in the Panchro/i Classic FF set, used for tight portraits and detail with the vintage Speed Panchro character. The warm Cooke Look brings gentle imagery, flattering skin tones and pleasing flares, holding distortion in check wide open. /i Technology metadata with distortion and shading maps keeps it color-matched and VFX-ready."
     },
     {
       "id": "cooke-panchro-i-classic-ff-135mm-t2-8",
@@ -443,7 +454,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in the Panchro/i Classic FF set, favoured for tight portraiture and detail with the Speed Panchro look. It renders warm and gentle with strong tonal separation and organic flares through a nine-leaf iris. Rehoused classic glass with /i Technology metadata keeps it color-matched to the wider Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-152mm-t3-0",
@@ -480,7 +492,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "The longest prime in Cooke's Panchro/i Classic FF set, a long telephoto reaching distant subjects with the vintage Speed Panchro character. The warm Cooke Look gives it gentle rendering, flattering skin tones and pleasing flares, with controlled distortion wide open. /i Technology metadata keeps it color-matched across the modern Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-18mm-t2-2",
@@ -517,7 +530,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "The widest prime in Cooke's Panchro/i Classic FF set, giving the vintage Speed Panchro look for establishing shots and interiors reimagined for large-format capture. It carries the warm Cooke Look with gentle imagery, strong tonal separation and pleasing flares, controlling distortion and spherical aberration wide open through a nine-leaf iris. Rehoused classic optics with /i Technology metadata, including calibrated distortion and shading maps for VFX and virtual production, keep it color-matched across the modern Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-21mm-t2-2",
@@ -554,7 +568,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A wide full-frame prime in the Panchro/i Classic FF set, suited to environmental coverage and interiors with the vintage Speed Panchro character. The warm Cooke Look brings gentle rendering, flattering skin tones and beautiful flares, holding distortion in check through a nine-leaf iris. Rehoused classic glass with /i Technology metadata keeps it color-matched to the wider Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-25mm-t2-2",
@@ -591,7 +606,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A wide full-frame prime in the Panchro/i Classic FF set, a flexible focal length carrying the 1920s Speed Panchro look reimagined for full frame. It renders warm and gentle with strong tonal separation and pleasing flares, holding distortion and spherical aberration in check wide open. /i Technology metadata with calibrated distortion and shading maps makes it VFX-friendly and color-matched across the line."
     },
     {
       "id": "cooke-panchro-i-classic-ff-27mm-t2-2",
@@ -628,7 +644,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A wide-normal full-frame prime in the Panchro/i Classic FF set, bridging the wider and standard focal lengths with vintage Speed Panchro character. The warm Cooke Look gives it gentle imagery, flattering skin tones and organic flares through a nine-leaf iris. Rehoused classic optics with /i Technology keep it color-matched to the modern Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-32mm-t2-2",
@@ -665,7 +682,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in the Panchro/i Classic FF set, close to natural perspective with the coveted Speed Panchro look. It renders warm and gentle with great tonal separation and pleasing flares, controlling distortion wide open. /i Technology metadata, including distortion and shading maps, keeps it color-matched and VFX-ready across the line."
     },
     {
       "id": "cooke-panchro-i-classic-ff-40mm-t2-2",
@@ -702,7 +720,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A normal full-frame prime in the Panchro/i Classic FF set, a natural-perspective focal length carrying the vintage Speed Panchro character. The warm Cooke Look brings gentle imagery, flattering skin tones and beautiful flares through a nine-leaf iris. Rehoused classic glass with /i Technology metadata keeps it color-matched across the modern Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-50mm-t2-2",
@@ -739,7 +758,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A standard full-frame prime in the Panchro/i Classic FF set, a staple focal length showing the 1920s Speed Panchro look reimagined for full frame. It renders warm and gentle with strong tonal separation, flattering skin tones and pleasing flares, holding distortion in check wide open. /i Technology metadata with calibrated distortion and shading maps keeps it color-matched and VFX-friendly."
     },
     {
       "id": "cooke-panchro-i-classic-ff-65mm-macro-t2-4",
@@ -776,7 +796,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A macro full-frame prime in the Panchro/i Classic FF set, focusing to at least 1:1 for close detail while carrying the vintage Speed Panchro look. The warm Cooke Look gives it gentle rendering, flattering skin tones and pleasing flares through a nine-leaf iris, with controlled distortion into the macro range. Rehoused classic optics with /i Technology metadata keep it color-matched to the wider Cooke range."
     },
     {
       "id": "cooke-panchro-i-classic-ff-75mm-t2-2",
@@ -813,7 +834,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
-      ]
+      ],
+      "description": "A portrait-length full-frame prime in the Panchro/i Classic FF set, well suited to close-ups where the Speed Panchro look flatters faces. It renders warm and gentle with strong tonal separation, pleasing flares and smooth out-of-focus areas through a nine-leaf iris. /i Technology metadata keeps it color-matched across the modern Cooke range."
     },
     {
       "id": "cooke-s4i-100mm-t2-0",
@@ -850,7 +872,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A telephoto Super 35 prime in the S4/i set, used for tight portraits, close details and compressed perspective. It renders with the trademark Cooke warmth, gentle contrast and rounded, creamy bokeh, with controlled flare. /i Technology and color matching keep it intercuttable with the wider Cooke range."
     },
     {
       "id": "cooke-s4i-135mm-t2-0",
@@ -887,7 +910,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A telephoto Super 35 prime in the S4/i line, suited to tight portraiture and detail work where perspective compression matters. The Cooke Look gives it flattering skin tones, smooth roll-off and creamy out-of-focus rendering. Color-matched and /i-enabled, it fits cleanly into an S4/i set."
     },
     {
       "id": "cooke-s4i-14mm-t2-0",
@@ -924,7 +948,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "An ultra-wide prime in Cooke's Super 35 S4/i set, suited to expansive establishing shots and tight interiors that call for a broad field of view. It renders the warm, gently contrasted Cooke Look, keeping flare, distortion and veiling glare controlled even at full aperture, with smooth rounded bokeh behind the focal plane. The Academy Award-winning cam-style focus and /i Technology metadata keep it color-matched and intercuttable across the modern Cooke range."
     },
     {
       "id": "cooke-s4i-150mm-t2-0",
@@ -961,7 +986,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A long telephoto Super 35 prime in the S4/i set, reaching for distant subjects with strong background compression. It carries the warm Cooke rendering, gentle contrast and smooth rounded bokeh characteristic of the line. /i Technology metadata and color matching keep it consistent with the rest of the primes."
     },
     {
       "id": "cooke-s4i-16mm-t2-0",
@@ -998,7 +1024,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A very wide Super 35 prime in the S4/i set, a natural choice for landscapes, architecture and interiors where the perspective needs to open up. It carries the warm Cooke rendering with organic roll-off, well-managed flare and creamy out-of-focus areas that hold up wide open. Its /i Technology contacts pass focus, aperture and depth-of-field data, and the color match lets it cut seamlessly with the rest of the S4/i primes."
     },
     {
       "id": "cooke-s4i-180mm-t2-0",
@@ -1035,7 +1062,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A long telephoto Super 35 prime in the S4/i set, used to isolate distant subjects with pronounced perspective compression and shallow depth. It delivers the warm, low-contrast Cooke Look with smooth focus falloff and creamy rounded bokeh. Cam-style focus and /i metadata make it precise to pull and color-matched across the line."
     },
     {
       "id": "cooke-s4i-18mm-t2-0",
@@ -1072,7 +1100,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A wide Super 35 prime in the S4/i line, used for establishing frames, group coverage and interiors with room to breathe. The Cooke Look gives it gentle contrast, flattering tonal transitions and soft rounded bokeh, with spherical aberration controlled to hold sharpness across the aperture range. Cam-style focus and /i metadata make it a dependable, color-matched member of the set."
     },
     {
       "id": "cooke-s4i-21mm-t2-0",
@@ -1109,7 +1138,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A wide-normal Super 35 prime in the S4/i set, versatile for handheld coverage, dialogue and environmental shots. It shares the warm, low-contrast Cooke rendering, controlled flare and smooth creamy bokeh that define the line. /i Technology metadata and color matching keep it consistent with the wider Cooke family for multi-lens shoots."
     },
     {
       "id": "cooke-s4i-25mm-t2-0",
@@ -1146,7 +1176,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A moderate wide Super 35 prime in the S4/i set, a common workhorse focal length for coverage and moving-camera work. Its rendering is classic Cooke: warm, gently contrasted, with organic flare control and rounded, creamy bokeh. The Academy Award-winning cam focus and /i metadata make it precise to pull and easy to intercut with the rest of the primes."
     },
     {
       "id": "cooke-s4i-27mm-t2-0",
@@ -1183,7 +1214,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A wide-normal Super 35 prime in the S4/i line, sitting between the wider and standard focal lengths for flexible framing. It delivers the trademark Cooke warmth and smooth tonal roll-off, with controlled veiling glare and pleasing out-of-focus rendering. Color-matched and /i-enabled, it slots cleanly into an S4/i set."
     },
     {
       "id": "cooke-s4i-32mm-t2-0",
@@ -1220,7 +1252,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A near-normal Super 35 prime in the S4/i set, well suited to natural-perspective coverage and dialogue. The Cooke Look brings gentle contrast, flattering skin tones and soft rounded bokeh, holding up wide open thanks to controlled spherical aberration. /i Technology metadata and color matching keep it consistent across the line."
     },
     {
       "id": "cooke-s4i-35mm-t2-0",
@@ -1257,7 +1290,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A workhorse Super 35 prime in the S4/i set, one of the most-used focal lengths for storytelling and handheld coverage. It renders with the warm, low-contrast Cooke character, well-managed flare and smooth creamy bokeh even at full aperture. Cam-style focus and /i metadata make it precise and dependable, color-matched to the rest of the Cooke range."
     },
     {
       "id": "cooke-s4i-40mm-t2-0",
@@ -1294,7 +1328,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A normal Super 35 prime in the S4/i line, close to natural perspective and a natural fit for dialogue and general coverage. The Cooke Look gives it gentle contrast, organic flare and rounded, creamy out-of-focus areas. /i Technology and color matching keep it intercuttable with the wider Cooke family."
     },
     {
       "id": "cooke-s4i-50mm-t2-0",
@@ -1331,7 +1366,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A standard Super 35 prime in the S4/i set, a staple focal length for narrative coverage and close work. Its rendering carries the warm Cooke character, flattering tonal transitions and smooth rounded bokeh, with distortion and flare kept in check. The Academy Award-winning cam focus and /i metadata make it accurate to pull and color-matched across the line."
     },
     {
       "id": "cooke-s4i-65mm-t2-0",
@@ -1368,7 +1404,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A short telephoto Super 35 prime in the S4/i set, favoured for portraits and tighter coverage with pleasant subject separation. It delivers the gentle Cooke contrast, warm skin tones and creamy rounded bokeh the line is known for. /i Technology metadata and color matching keep it consistent with the rest of the primes."
     },
     {
       "id": "cooke-s4i-75mm-t2-0",
@@ -1405,7 +1442,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
-      ]
+      ],
+      "description": "A portrait-length Super 35 prime in the S4/i line, well suited to close-ups and isolating a subject from its background. The Cooke Look brings warm rendering, smooth focus falloff and soft creamy bokeh, holding up wide open. Cam-style focus and /i metadata make it precise and color-matched for multi-lens sets."
     },
     {
       "id": "cooke-s7i-100mm-t2-0",
@@ -1442,7 +1480,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in the S7/i Full Frame Plus set, used for tight portraits, detail and compressed perspective. It delivers the trademark Cooke warmth, gentle contrast and rounded creamy bokeh with organic flare. Covering full frame and beyond, with /i metadata and color matching, it slots cleanly into a large-format Cooke set."
     },
     {
       "id": "cooke-s7i-135mm-t2-0",
@@ -1479,7 +1518,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in the S7/i set, favoured for tight portraiture and detail with strong subject isolation. The Cooke Look gives it flattering skin tones, smooth roll-off and creamy out-of-focus rendering, with minimal breathing on the long throw. Its large image circle, /i metadata and color match keep it consistent across the line."
     },
     {
       "id": "cooke-s7i-180mm-t2-0",
@@ -1516,7 +1556,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A long telephoto full-frame prime in the S7/i Full Frame Plus set, reaching distant subjects with pronounced compression and shallow depth on large-format sensors. It carries the warm, gently contrasted Cooke Look with smooth focus falloff and creamy rounded bokeh. The generous image circle, /i Technology metadata and color matching to the wider Cooke range keep it intercuttable across a full-frame set."
     },
     {
       "id": "cooke-s7i-18mm-t2-0",
@@ -1553,7 +1594,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A wide full-frame prime in Cooke's S7/i Full Frame Plus set, covering large-format sensors up to and beyond full frame for expansive establishing work and interiors. It renders the warm Cooke Look with gentle contrast, flattering skin tones and organic flare, on an image circle large enough for VistaVision and 8K sensors. A long, smooth focus throw, /i Technology metadata and color matching to the S4/i and wider Cooke range keep it consistent across a set."
     },
     {
       "id": "cooke-s7i-25mm-t2-0",
@@ -1590,7 +1632,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A moderate wide full-frame prime in the S7/i set, a flexible focal length for coverage and moving-camera work on large-format cameras. It carries the trademark Cooke warmth, smooth tonal roll-off and rounded creamy bokeh, with organic, well-managed flare. Its generous image circle, /i metadata and color match make it intercuttable across full-frame Cooke sets."
     },
     {
       "id": "cooke-s7i-32mm-t2-0",
@@ -1627,7 +1670,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in the S7/i Full Frame Plus set, close to natural perspective for dialogue and general coverage. The Cooke Look gives it gentle contrast, natural color and soft rounded bokeh, with minimal breathing on the long focus throw. Color-matched and /i-enabled, it covers full frame and beyond for large-format work."
     },
     {
       "id": "cooke-s7i-40mm-t2-0",
@@ -1664,7 +1708,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A normal full-frame prime in the S7/i set, a natural-perspective focal length for narrative coverage. It renders with warm Cooke character, gentle contrast and creamy rounded bokeh, holding organic flare and flattering skin tones. The large image circle, /i metadata and color matching keep it consistent with the rest of the line."
     },
     {
       "id": "cooke-s7i-50mm-t2-0",
@@ -1701,7 +1746,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A standard full-frame prime in the S7/i Full Frame Plus set, a staple focal length for storytelling and close work on large-format cameras. Its rendering carries the warm Cooke Look, smooth focus falloff and rounded creamy bokeh, with minimal breathing. /i Technology metadata and color matching make it accurate to pull and intercuttable across the range."
     },
     {
       "id": "cooke-s7i-75mm-t2-0",
@@ -1738,7 +1784,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
-      ]
+      ],
+      "description": "A portrait-length full-frame prime in the S7/i set, suited to close-ups and separating a subject from its background on large formats. The Cooke Look brings warm skin tones, gentle contrast and soft creamy bokeh, with a long smooth focus throw and minimal breathing. Its generous image circle, /i metadata and color match keep it consistent across full-frame Cooke sets."
     },
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
@@ -1761,7 +1808,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A telephoto full-frame prime in Cooke's S8/i set, favoured for close-ups and subject separation. Opening wide for a razor-thin depth of field and low-light work, it carries the warm Cooke Look with creamy rounded bokeh and minimal colour fringing from its all-spherical design. Optimised contrast and gentle falloff give an organic, dimensional image. Consistent front diameter and gears, /i Technology and Cooke colour matching keep it intercuttable across the S8/i primes."
     },
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
@@ -1784,7 +1832,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "The longest prime in our S8/i Full Frame Plus set, a long telephoto for tight portraits and detail with strong subject isolation. It opens wide for a razor-thin depth of field, rendering the warm Cooke Look with creamy bokeh, flattering skin tones and minimal fringing from its all-spherical optics. Controlled contrast and smooth falloff keep the image organic and filmic. Shared front diameter and gear positions, /i Technology metadata and colour matching keep it consistent with the rest of the S8/i set."
     },
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
@@ -1807,7 +1856,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "The widest prime in Cooke's S8/i Full Frame Plus set, a fast wide-angle for establishing shots and interiors on full-frame sensors. As the fastest of Cooke's spherical full-frame primes, it opens right up for an extra stop in low light while holding the warm, organic Cooke Look. The all-spherical design gives clean, smooth bokeh and minimal colour fringing with a strong sense of depth. A consistent front diameter and gear positions across the set, /i Technology metadata and Cooke colour matching let it swap and intercut cleanly with the rest of the S8/i primes."
     },
     {
       "id": "cooke-s8i-ff-25mm-t1-6",
@@ -1830,7 +1880,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A wide full-frame prime in Cooke's S8/i set, a flexible focal length for landscapes, interiors and wider coverage. It carries the warm Cooke Look with an all-spherical rendering, clean smooth bokeh and minimal fringing, opening wide for an extra stop in dim conditions. Optimised contrast and gentle falloff give an organic, filmic feel rather than a clinical one. Shared front diameter and gear positions, /i Technology metadata and colour matching keep it intercuttable across the S8/i set."
     },
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
@@ -1853,7 +1904,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A wide-to-normal full-frame prime in Cooke's S8/i set, close to a versatile everyday angle of view. It renders with the warm Cooke Look, flattering skin tones and smooth out-of-focus falloff from an all-spherical design, opening wide for low-light work. Clean bokeh and minimal colour fringing keep the image organic and dimensional. Consistent front diameter and gears, /i Technology and colour matching let it slot seamlessly into an S8/i set."
     },
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
@@ -1876,7 +1928,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A normal-lens full-frame prime in Cooke's S8/i set, a natural-perspective focal length for general coverage. It delivers the warm Cooke Look with smooth rounded bokeh and minimal fringing from its all-spherical optics, opening wide for an extra stop of exposure. Optimised contrast gives a filmic, dimensional image with flattering skin tones. Shared front diameter and gear positions, /i Technology metadata and Cooke colour matching make it intercut cleanly with the rest of the set."
     },
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
@@ -1899,7 +1952,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A standard full-frame prime in Cooke's S8/i set, a staple focal length near natural perspective. It renders with the warm, organic Cooke Look, flattering skin tones and creamy rounded bokeh, opening wide for shallow depth of field and low light. The all-spherical design keeps colour fringing minimal and contrast controlled for a filmic feel. Consistent front diameter and gears, /i Technology and colour matching keep it intercuttable across the S8/i primes."
     },
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
@@ -1922,7 +1976,8 @@
       "sources": {},
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
-      ]
+      ],
+      "description": "A portrait-length full-frame prime in Cooke's S8/i set, well suited to close-ups with a warm, long-lens feel. It gives smooth focus falloff and creamy bokeh from its all-spherical optics, opening wide for shallow depth of field and an extra stop in dim conditions. Flattering skin tones and controlled contrast keep the look organic rather than clinical. Shared front diameter and gear positions, /i Technology metadata and colour matching let it intercut cleanly across the set."
     },
     {
       "id": "cooke-varotal-18-100mm-t3-0",
@@ -1960,7 +2015,8 @@
       },
       "webSources": [
         "https://www.alangordon.com"
-      ]
+      ],
+      "description": "A classic Super 35 cine zoom from Cooke, spanning wide to telephoto with the vintage Cooke Look. It renders with lower contrast, gently lifted blacks and an organic, filmic softness that avoids a clinical feel, with warm, flattering skin tones and smooth focus falloff. Parfocal with an unusually close focus, it holds its aperture across the range and remains a versatile single-lens workhorse."
     },
     {
       "id": "cooke-varotal-25-250mm-t3-7",
@@ -1998,7 +2054,8 @@
       },
       "webSources": [
         "https://www.cinelenswiki.com"
-      ]
+      ],
+      "description": "The long-range classic Super 35 cine zoom in Cooke's vintage Varotal family, a 10:1 range reaching from wide to a long telephoto. It carries the warm vintage Cooke Look with softness and expressive roll-off, giving elegant compression for portraits and long-lens work. Parfocal and holding its aperture across the range, it delivers a textured, filmic image rather than a clinical modern one."
     },
     {
       "id": "cooke-varotal-ff-19-40mm-t2-9",
@@ -2036,7 +2093,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
-      ]
+      ],
+      "description": "The wide-angle zoom in Cooke's modern Varotal/i FF full-frame set, holding a constant T-stop across the range as a zoomable prime. Matched in resolution, color and fall-off to the S7/i and S8/i FF primes, it renders the warm Cooke Look with natural, gentle skin tones and minimal focus breathing through a nine-blade iris. /i Technology metadata, including calibrated shading and distortion maps, keeps it intercuttable across a full-frame Cooke set."
     },
     {
       "id": "cooke-varotal-ff-30-95mm-t2-9",
@@ -2074,7 +2132,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
-      ]
+      ],
+      "description": "The standard-range zoom in Cooke's Varotal/i FF full-frame set, covering wide to short telephoto with a constant T-stop. Built as a zoomable prime matched to the S7/i and S8/i FF primes, it carries the warm Cooke Look with flattering skin tones, minimal breathing and smooth rendering from a nine-blade iris. /i Technology metadata and color matching let it intercut seamlessly with full-frame Cooke primes."
     },
     {
       "id": "cooke-varotal-ff-85-215mm-t2-9",
@@ -2112,7 +2171,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
-      ]
+      ],
+      "description": "The telephoto zoom in Cooke's Varotal/i FF full-frame set, reaching into long-lens territory with a constant T-stop. Matched to the S7/i and S8/i FF primes in resolution, color and fall-off, it renders the warm Cooke Look with natural skin tones, elegant compression and minimal focus breathing. /i Technology metadata keeps it color-matched across a full-frame Cooke set."
     }
   ]
 }

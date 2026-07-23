@@ -31,7 +31,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "The longest prime in Cooke's SP3 full-frame set, a compact telephoto for tight portraits and detail with pleasant subject isolation. It carries the classic Cooke Look from the Speed Panchro design, warm and dimensional with gentle edge fall-off and smooth nine-blade bokeh. Slightly larger at the front than the rest of the series, it stays color-matched to the SP3 primes and to Panchro/i Classic FF for consistent rendering."
     },
     {
       "id": "cooke-sp3-18mm-t2-4-l",
@@ -65,7 +66,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "The widest prime in Cooke's SP3 full-frame set, a compact wide-angle for establishing shots, interiors and handheld or gimbal work. Based on the classic Speed Panchro design, it carries the warm Cooke Look with a gentle fall-off toward the frame edge, flattering rendering and a nine-bladed iris for smooth out-of-focus areas. Color-matched across the SP3 series and to the Panchro/i Classic FF primes, with user-changeable mirrorless mounts, it suits a lightweight B or C camera alongside a larger Cooke set."
     },
     {
       "id": "cooke-sp3-25mm-t2-4-l",
@@ -98,7 +100,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "A wide full-frame prime in the SP3 set, versatile for environmental coverage and handheld shooting on compact mirrorless bodies. It delivers the classic Cooke Look derived from the Speed Panchro design, with warm rendering, gentle edge fall-off and smooth nine-blade bokeh. Color-matched to the rest of the SP3 primes and to Panchro/i Classic FF, it changes mounts by the user across mirrorless cameras."
     },
     {
       "id": "cooke-sp3-32mm-t2-4-l",
@@ -131,7 +134,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "A near-normal full-frame prime in the SP3 set, a documentary and interview favourite for its compact size and natural perspective. The Speed Panchro-based design gives it the warm Cooke Look, flattering skin tones and a gentle roll-off toward the edges, with a nine-bladed iris for pleasing out-of-focus rendering. It is color-matched across the SP3 series and to Panchro/i Classic FF, with user-changeable mirrorless mounts."
     },
     {
       "id": "cooke-sp3-50mm-t2-4-l",
@@ -164,7 +168,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "A standard full-frame prime in the SP3 set, a natural-perspective focal length for narrative and handheld coverage on mirrorless cameras. It renders with the classic Cooke Look from the Speed Panchro lineage: warm and dimensional, with gentle edge fall-off and smooth nine-blade bokeh. Compact and color-matched to the SP3 series and Panchro/i Classic FF, it makes a light B or C camera companion."
     },
     {
       "id": "cooke-sp3-75mm-t2-4-l",
@@ -197,7 +202,8 @@
       },
       "webSources": [
         "https://cookeoptics.com/lens/sp3/"
-      ]
+      ],
+      "description": "A portrait-length full-frame prime in the SP3 set, well suited to close-ups and separating a subject on compact mirrorless bodies. The Speed Panchro-based optics give it the warm Cooke Look, flattering skin tones and gentle fall-off, with a nine-bladed iris for creamy out-of-focus areas. Color-matched across the SP3 series and to Panchro/i Classic FF, with user-changeable mounts."
     }
   ]
 }

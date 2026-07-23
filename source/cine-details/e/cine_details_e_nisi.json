@@ -21,7 +21,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "The longest lens in NiSi's Athena Prime range, reaching into portraiture, detail and compression work. Larger than its siblings and not weight-matched to them, it still carries the set's clean, neutral look, soft bokeh and controlled breathing at an accessible price."
     },
     {
       "id": "nisi-athena-14mm-t2-4",
@@ -44,7 +45,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "The widest lens in NiSi's Athena Prime range, this ultra-wide gives the set its reach into landscapes, architecture and tight interiors. Like the rest of the line it renders a clean, neutral full-frame image with soft bokeh, strong micro-contrast and very low chromatic aberration, bringing modern cine-house character to an accessible price point."
     },
     {
       "id": "nisi-athena-18mm-t2-2",
@@ -67,7 +69,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "A wide-angle entry in NiSi's affordable Athena Prime line, well suited to environmental and establishing work. It shares the set's clean, neutral rendering, soft bokeh and controlled focus breathing, matched in size and gearing to its siblings for quick swaps on a gimbal."
     },
     {
       "id": "nisi-athena-25mm-t1-9",
@@ -90,7 +93,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "A wide-normal focal length in NiSi's Athena Prime set, versatile for interiors, group work and handheld coverage. It carries the line's neutral full-frame look, soft bokeh and low chromatic aberration, with the bright maximum aperture shared across the core primes."
     },
     {
       "id": "nisi-athena-35mm-t1-9",
@@ -113,7 +117,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "A classic wide-normal workhorse in NiSi's Athena Prime line, equally at home on interviews, documentary and narrative work. It renders the set's clean, neutral full-frame image with soft bokeh and strong micro-contrast, and stays matched to its siblings for consistent handling."
     },
     {
       "id": "nisi-athena-40mm-t1-9",
@@ -136,7 +141,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "A natural, near-normal perspective in NiSi's Athena Prime set, a comfortable general-purpose length sitting between the wide and standard primes. It shares the line's neutral rendering, soft bokeh and minimized focus breathing at the range's accessible price."
     },
     {
       "id": "nisi-athena-50mm-t1-9",
@@ -159,7 +165,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "The standard prime in NiSi's Athena Prime line, a go-to normal length for dialogue and everyday coverage. It gives the set's clean, neutral full-frame look with soft bokeh and very low chromatic aberration, matched in size and gearing to the rest of the range."
     },
     {
       "id": "nisi-athena-85mm-t1-9",
@@ -182,7 +189,8 @@
       "sources": {},
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
-      ]
+      ],
+      "description": "A short-telephoto portrait lens in NiSi's Athena Prime set, flattering for faces and close-ups with soft, well-separated bokeh. It keeps the line's neutral, low-aberration rendering and matched handling for fast changes on set."
     }
   ]
 }

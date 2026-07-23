@@ -37,7 +37,8 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-16mm-t1-2-s35-cine-lens"
-      ]
+      ],
+      "description": "The super-wide in Sirui's affordable Super35 Night Walker line, a fast, distortion-controlled prime for wide interiors, landscapes and night skies. Like the rest of the set it opens to an ultrafast T1.2 for low-light run-and-gun work, with soft bokeh from a 13-blade iris and a look, size and color matched across the family."
     },
     {
       "id": "sirui-nightwalker-24mm-t1-2-s35-l",
@@ -76,7 +77,8 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-24mm-t1-2-s35-cine-lens"
-      ]
+      ],
+      "description": "A wide-angle prime in Sirui's budget Super35 Night Walker set, useful for environmental coverage and handheld work. It shares the line's ultrafast T1.2 aperture, soft bokeh and unified handling, aimed at solo filmmakers who want to shoot in low light without extra fill."
     },
     {
       "id": "sirui-nightwalker-35mm-t1-2-s35-l",
@@ -115,7 +117,8 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-35mm-t1-2-s35-cine-lens"
-      ]
+      ],
+      "description": "A wide-normal workhorse in Sirui's Super35 Night Walker line, at home on documentary, interviews and run-and-gun narrative. Its ultrafast T1.2 aperture and soft bokeh match the rest of the affordable set in look, size and color."
     },
     {
       "id": "sirui-nightwalker-55mm-t1-2-s35-l",
@@ -154,7 +157,8 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-55mm-t1-2-s35-cine-lens"
-      ]
+      ],
+      "description": "A normal-to-short-portrait prime in Sirui's Super35 Night Walker set, a versatile length for scenes, portraits and still-life work. It keeps the line's ultrafast T1.2 aperture, soft bokeh and matched handling at an accessible price."
     },
     {
       "id": "sirui-nightwalker-75mm-t1-2-s35-l",
@@ -193,7 +197,8 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-75mm-t1-2-s35-cine-lens"
-      ]
+      ],
+      "description": "The telephoto of Sirui's Super35 Night Walker line, a portrait length for faces, emotion and detail with smooth background separation. It shares the set's ultrafast T1.2 aperture, soft bokeh and consistent look for fast lens changes."
     }
   ]
 }

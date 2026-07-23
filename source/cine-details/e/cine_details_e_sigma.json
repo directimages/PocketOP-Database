@@ -40,7 +40,8 @@
       ],
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "description": "The long-range zoom in Sigma's AF Cine Line, a full-frame 3.75x that holds a constant T3 from wide to portrait reach. Built on the optics of the 28-105mm F2.8 Art, it pairs linear-motor autofocus with a manual switch, a limited-rotation focus ring, 0.8 pitch gears and a clickless aperture ring. The 12-blade iris renders soft, round highlights, the zoom barrel is manual, and the 95mm front fits standard matte boxes. Power and lens metadata run through the E-mount contacts, making it an all-purpose zoom for documentary and run-and-gun work."
     },
     {
       "id": "sigma-af-cine-28-45mm-t2-ff-e",
@@ -82,7 +83,8 @@
       ],
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "description": "The first lens in Sigma's AF Cine Line, a full-frame zoom that holds a constant T2 and adds high-speed autofocus from an HLA linear motor, switchable to manual. It carries the optics of the 28-45mm F1.8 Art into a cine housing with a limited-rotation focus ring, 0.8 pitch gears and a clickless aperture ring. The 11-blade iris keeps out-of-focus highlights soft and round, and the 95mm front fits standard matte boxes. Power and lens metadata run through the E-mount contacts, which suits gimbal, documentary and solo work where autofocus is an asset."
     },
     {
       "id": "sigma-cine-24-35mm-t2-2-ff-e",
@@ -121,7 +123,8 @@
       },
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/"
-      ]
+      ],
+      "description": "Sigma's full-frame cine zoom in the classic line, a short wide zoom that holds a constant T2.2 with no ramping. It shares the optics of the 24-35mm F2 Art and behaves like a variable prime, standing in for a 24mm and a 35mm in one housing, with negligible focus breathing. The 9-blade clickless iris renders round highlights, focus travels 180 degrees, and the 95mm front and standardized gears match the rest of Sigma's cine line. This E-mount version can be converted to EF by a Sigma service center, and its contacts pass lens metadata to the camera."
     }
   ]
 }

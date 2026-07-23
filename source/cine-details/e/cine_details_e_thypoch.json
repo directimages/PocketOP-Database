@@ -21,7 +21,8 @@
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
-      ]
+      ],
+      "description": "The wide end of Thypoch's ultracompact Simera-C full-frame cine set, derived from the company's Simera rangefinder-style photo primes but built around a rounded 16-blade iris for smoother, onion-ring-free bokeh. It pairs an environmental wide perspective with a bright constant aperture and a moderately high-contrast rendering, and its tiny size makes the set one of the few that fit gimbals like the DJI Ronin 4D for low-angle, over-the-shoulder and tight-interior work."
     },
     {
       "id": "thypoch-simera-c-28mm-t1-5",
@@ -44,7 +45,8 @@
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
-      ]
+      ],
+      "description": "A mild wide-angle in Thypoch's ultracompact Simera-C full-frame cine line, natural for reportage-style framing and environmental coverage. It shares the set's bright constant aperture, rounded 16-blade bokeh and moderately high-contrast look in a feather-light body suited to gimbals and tight spaces."
     },
     {
       "id": "thypoch-simera-c-35mm-t1-5",
@@ -67,7 +69,8 @@
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
-      ]
+      ],
+      "description": "A classic wide-normal storytelling length in Thypoch's Simera-C full-frame cine set. It carries the line's bright constant aperture, creamy 16-blade bokeh and compact, gimbal-friendly build, matched in look and handling to its siblings for quick swaps."
     },
     {
       "id": "thypoch-simera-c-50mm-t1-5",
@@ -90,7 +93,8 @@
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
-      ]
+      ],
+      "description": "The normal-perspective workhorse of Thypoch's ultracompact Simera-C cine line, a neutral standard length for dialogue and coverage. It shares the set's bright constant aperture, smooth rounded bokeh and moderately high-contrast rendering in a very small full-frame body."
     },
     {
       "id": "thypoch-simera-c-75mm-t1-5",
@@ -113,7 +117,8 @@
       "sources": {},
       "webSources": [
         "https://thypoch.com/en/simera-c/"
-      ]
+      ],
+      "description": "The short-telephoto portrait length in Thypoch's Simera-C full-frame cine set, flattering for faces and close coverage with strong subject separation. It keeps the line's bright constant aperture and creamy 16-blade bokeh in a slightly larger but still compact body, matched to the rest of the set."
     }
   ]
 }

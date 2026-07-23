@@ -114,6 +114,10 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.50.0 — 2026-07-23
+
+- Cine descriptions backfill (batch 2 of 4): description field written on 601 of 603 live cine entries. No other field changed. Two entries intentionally left without a description in this pass (fujinon-mk18-55mm-t2-9, fujinon-mk50-135mm-t2-9), pending a separate batch
+
 ### v1.49.0 — 2026-06-18
 
 - fieldNotes-contract compliance pass (no core change; cine detail output only). Stripped internal references, source citations and process notes from user-facing fieldNotes per reference/fieldnotes-contract.md. Rides db-v8.
@@ -164,6 +168,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.52.0 — 2026-07-23
+
+- Legacy union rebuild aggregating the cine_lens_details v1.50.0 description backfill above (601 cine entries). No lens core change
+
 ### v1.51.0 — 2026-07-23
 
 - Legacy union rebuild aggregating the broadcast_lens_details v1.53.0 aperture/IS batch above. maxApertureWide/maxApertureTele/apertureType/hasIS are outside the legacy whitelist and do not surface here; the three fieldNotes.hasIS additions do (fieldNotes is whitelisted). Two entries removed (canon-uj25ex7-6b, fujinon-la30x7-8brm-xb2)

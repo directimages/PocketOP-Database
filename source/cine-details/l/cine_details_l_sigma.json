@@ -40,7 +40,8 @@
       ],
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "description": "The long-range zoom in Sigma's AF Cine Line, a full-frame 3.75x that holds a constant T3 from wide to portrait reach. Built on the optics of the 28-105mm F2.8 Art, it pairs linear-motor autofocus with a manual switch, a limited-rotation focus ring, 0.8 pitch gears and a clickless aperture ring. The 12-blade iris renders soft, round highlights, the zoom barrel is manual, and the 95mm front fits standard matte boxes. Power and lens metadata run through the L-mount contacts, making it an all-purpose zoom for documentary and run-and-gun work."
     },
     {
       "id": "sigma-af-cine-28-45mm-t2-ff-l",
@@ -82,7 +83,8 @@
       ],
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "description": "The first lens in Sigma's AF Cine Line, a full-frame zoom that holds a constant T2 and adds high-speed autofocus from an HLA linear motor, switchable to manual. It carries the optics of the 28-45mm F1.8 Art into a cine housing with a limited-rotation focus ring, 0.8 pitch gears and a clickless aperture ring. The 11-blade iris keeps out-of-focus highlights soft and round, and the 95mm front fits standard matte boxes. Power and lens metadata run through the L-mount contacts, which suits gimbal, documentary and solo work where autofocus is an asset."
     }
   ]
 }

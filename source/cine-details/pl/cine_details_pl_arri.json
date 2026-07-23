@@ -34,7 +34,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms"
-      ]
+      ],
+      "description": "A lightweight wide-to-standard Super 35 zoom in the ARRI/Fujinon Alura line, holding a constant T2.8 across the range. Compact and affordable for a cine zoom, it gives high resolution and contrast, with a Fujinon EBC multi-layer coating that keeps flare and veiling glare down. Breathing is minimal, especially at the wide end, and a nine-blade iris renders rounded, organic bokeh. Its colour and handling are matched to ARRI's prime lenses, on the PL mount with the integrated Lens Data System."
     },
     {
       "id": "arri-alura-18-80mm-t2-6",
@@ -70,7 +71,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms"
-      ]
+      ],
+      "description": "A wide-angle Super 35 studio zoom in the ARRI/Fujinon Alura line, holding a constant T2.6 across the range and the wider of the two Alura studio zooms. It pairs high resolution and contrast with even illumination and a Fujinon EBC coating that suppresses flare, while extraordinary-dispersion glass keeps chromatic aberration low. Breathing is minimal, especially at the wide end, and the nine-blade iris gives rounded bokeh. Colour and handling are matched to ARRI's primes, on the PL mount with LDS, and it complements the longer 45-250mm."
     },
     {
       "id": "arri-alura-30-80mm-t2-8",
@@ -106,7 +108,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms"
-      ]
+      ],
+      "description": "A lightweight standard-range Super 35 zoom in the ARRI/Fujinon Alura line, holding a constant T2.8 across the range. Small and light for quick handling on set, it shares the line's high resolution and contrast, EBC coating and reduced chromatic aberration. Breathing is minimal, and the nine-blade iris renders rounded, organic bokeh. Its colour and handling match ARRI's primes, on the PL mount with the integrated Lens Data System."
     },
     {
       "id": "arri-alura-45-250mm-t2-6",
@@ -142,7 +145,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms"
-      ]
+      ],
+      "description": "A telephoto Super 35 studio zoom in the ARRI/Fujinon Alura line, holding a constant T2.6 across its whole range with no ramping, and the longer of the two Alura studio zooms. It gives high resolution and contrast with an EBC multi-layer coating against flare, and keeps breathing minimal even at the long end. The nine-blade iris renders rounded bokeh, and colour and handling are matched to ARRI's primes on the PL mount with LDS. It complements the wider 18-80mm."
     },
     {
       "id": "arri-master-prime-100mm-t1-3",
@@ -177,7 +181,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A telephoto Super 35 prime in the ARRI/Zeiss Master Prime set, still opening to the fast constant T1.3. It carries the line's high-resolution, high-contrast rendering with Zeiss colour, and the nine-blade iris gives rounded bokeh with clean subject isolation. Dual floating elements keep focus breathing virtually absent even at this length. Colour and ring positions match across the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-12mm-t1-3",
@@ -212,7 +217,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "The widest lens in ARRI and Zeiss's Master Prime set, a Super 35 prime opening to the line's very fast constant T1.3. It renders the set's clean, high-contrast image with Zeiss colour and skin tones, holding distortion low even at this extreme angle thanks to aspherical elements. Dual floating elements keep focus breathing virtually absent, and a nine-blade iris gives rounded bokeh. It carries the PL mount with the integrated Lens Data System, matched in colour and ring positions to the rest of the Master Primes."
     },
     {
       "id": "arri-master-prime-135mm-t1-3",
@@ -247,7 +253,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A long-telephoto Super 35 prime in the ARRI/Zeiss Master Prime set and one of the last focal lengths added to it, still fast at T1.3. It keeps the sharp, high-contrast rendering and Zeiss skin tones of the set, with the nine-blade iris giving rounded bokeh for strong isolation. Dual floating elements keep focus breathing virtually absent through focus pulls. It is color-matched to the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-14mm-t1-3",
@@ -282,7 +289,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "An ultra-wide Super 35 prime in the ARRI/Zeiss Master Prime set, fast at the constant T1.3. It gives the line's sharp, high-resolution rendering with strong contrast and Zeiss colour, with aspherical elements holding aberration and distortion low across the frame. Dual floating elements leave focus breathing virtually absent, a hallmark of the set, and the nine-blade iris keeps out-of-focus highlights rounded. The PL mount carries LDS metadata, and colour and ring positions match the rest of the set."
     },
     {
       "id": "arri-master-prime-150mm-t1-3",
@@ -317,7 +325,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "The longest lens in the ARRI/Zeiss Master Prime set, a long-telephoto Super 35 prime that still holds the fast constant T1.3. It renders the line's sharp, high-contrast image with Zeiss skin tones, with the nine-blade iris giving rounded bokeh and clean isolation of distant subjects. Dual floating elements keep focus breathing virtually absent even at this reach. It matches the colour and ring positions of the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-16mm-t1-3",
@@ -352,7 +361,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "An ultra-wide Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It keeps the set's clean, high-contrast look with edge-to-edge sharpness even wide open, and the T*XP coating holds flare and veiling glare down. Dual floating elements make focus breathing virtually absent, and the nine-blade iris renders rounded bokeh. It matches the Zeiss colour and ring positions of the rest of the set on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-18mm-t1-3",
@@ -387,7 +397,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A wide-angle Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It renders the line's high-resolution, high-contrast image with Zeiss colour and low distortion, staying sharp into the corners wide open. Dual floating elements keep focus breathing virtually absent for clean pulls, and the nine-blade iris gives rounded bokeh. The PL mount carries LDS metadata, with colour and ring positions matched across the set."
     },
     {
       "id": "arri-master-prime-21mm-t1-3",
@@ -422,7 +433,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A wide-angle Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It carries the set's sharp, clean rendering with high contrast and Zeiss skin tones, with aspherical elements minimising chromatic aberration. The Dual Floating Elements design keeps focus breathing virtually absent, and the nine-blade iris keeps bokeh rounded. It shares the colour, ring positions and PL mount with LDS of the rest of the Master Primes."
     },
     {
       "id": "arri-master-prime-25mm-t1-3",
@@ -457,7 +469,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A wide Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It gives the line's high-resolution, high-contrast image with Zeiss colour, sharp even wide open and at close focus. Dual floating elements keep focus breathing virtually absent, and the nine-blade iris renders rounded, cinematic bokeh. The set is color-matched for consistency, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-27mm-t1-3",
@@ -492,7 +505,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A moderate wide-angle Super 35 prime in the ARRI/Zeiss Master Prime set, sitting just wide of normal and fast at T1.3. It keeps the set's clean, high-contrast rendering with Zeiss colour and skin tones, and holds sharpness to the corners wide open. Dual floating elements leave focus breathing virtually absent, and the nine-blade iris gives rounded bokeh. It matches the colour and ring positions of the rest of the set on the PL mount with LDS."
     },
     {
       "id": "arri-master-prime-32mm-t1-3",
@@ -527,7 +541,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "The normal focal length on Super 35 in the ARRI/Zeiss Master Prime set, fast at T1.3. It renders the line's sharp, high-contrast image with Zeiss colour and natural skin tones, staying clean into the corners wide open. Dual floating elements keep focus breathing virtually absent, and the nine-blade iris gives rounded bokeh with distinct focus fall-off. Colour and ring positions match across the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-35mm-t1-3",
@@ -562,7 +577,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A normal-to-short-telephoto Super 35 prime in the ARRI/Zeiss Master Prime set and a common storytelling length, fast at T1.3. It carries the set's high-resolution, high-contrast rendering with Zeiss colour and low distortion. Dual floating elements keep focus breathing virtually absent, and the nine-blade iris renders rounded bokeh. It is color-matched to the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-40mm-t1-3",
@@ -597,7 +613,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A standard-to-short-telephoto Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It keeps the line's clean, sharp, high-contrast image with Zeiss colour and skin tones. Dual floating elements leave focus breathing virtually absent, and the nine-blade iris gives rounded, cinematic bokeh with a distinct focus fall-off. Colour and ring positions match the rest of the set, on the PL mount with LDS."
     },
     {
       "id": "arri-master-prime-50mm-t1-3",
@@ -632,7 +649,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A short-telephoto Super 35 prime in the ARRI/Zeiss Master Prime set, fast at T1.3 and a natural portrait length. It renders the set's sharp, high-contrast image with Zeiss skin tones, with dual floating elements giving strong close-focus performance while keeping breathing virtually absent. The nine-blade iris renders rounded bokeh with clear subject separation. It is color-matched to the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-65mm-t1-3",
@@ -667,7 +685,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A short-telephoto portrait prime in the ARRI/Zeiss Master Prime set, fast at T1.3. It keeps the line's high-resolution, high-contrast rendering with Zeiss skin tones and rounded, nine-blade bokeh well suited to close work. Dual floating elements keep focus breathing virtually absent and support sharp close focus. Colour and ring positions match the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-prime-75mm-t1-3",
@@ -702,7 +721,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
-      ]
+      ],
+      "description": "A telephoto portrait prime in the ARRI/Zeiss Master Prime set, fast at T1.3. Its sharp, high-contrast rendering and Zeiss skin tones suit tight portraits, with the nine-blade iris giving rounded bokeh and strong subject isolation. Dual floating elements keep focus breathing virtually absent through the pull. It is color-matched to the rest of the set, on the PL mount with integrated LDS."
     },
     {
       "id": "arri-master-zoom-16-5-110mm-t2-6",
@@ -738,7 +758,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-zoom"
-      ]
+      ],
+      "description": "The ARRI/Zeiss Master Zoom, a Super 35 zoom covering a 6.6x range at a constant T2.6 with no ramping, built to match the Master Primes. Its prime-like sharpness, contrast and Zeiss skin tones come close to the primes themselves, and cam-style mechanics keep focus breathing effectively absent with almost no geometric distortion across the range. A radical aspherical front element and the T*XP coating hold aberration and veiling glare down. Originally an ARRI Rental exclusive, it is PL-mounted with integrated LDS and color-matched to the rest of the ARRI/Zeiss set."
     },
     {
       "id": "arri-ultra-prime-100mm-t1-9",
@@ -772,7 +793,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A telephoto Super 35 prime in the ARRI/Zeiss Ultra Prime set, still fast at T1.9. It keeps the line's sharp, high-contrast rendering with Zeiss colour, and the nine-blade iris gives rounded bokeh with clean isolation. Breathing stays minimal even at this length. Compact and light for a telephoto, it is color-matched across the set on the PL mount and optically matched to the Master Primes."
     },
     {
       "id": "arri-ultra-prime-135mm-t1-9",
@@ -806,7 +828,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A long-telephoto Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. Uniquely in the set it uses a ten-blade iris rather than the usual nine, giving especially round bokeh with a distinct focus fall-off, well suited to portraits and isolation. Its sharp, contrasty rendering and Zeiss skin tones match the rest of the set, with minimal breathing through focus pulls. It is PL-mounted and color-matched across the set."
     },
     {
       "id": "arri-ultra-prime-14mm-t1-9",
@@ -840,7 +863,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "An ultra-wide Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at the set's constant T1.9. Compact and light, it gives the line's sharp, high-contrast image with Zeiss colour and skin tones, holding distortion and flare down with the T*XP coating. Breathing is kept minimal so focus pulls stay unobtrusive, and the nine-blade iris renders rounded bokeh. It is the standard-speed, optically matched companion to the Master Primes, on the PL mount and color-matched across the set."
     },
     {
       "id": "arri-ultra-prime-16mm-t1-9",
@@ -874,7 +898,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "An ultra-wide Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. It keeps the line's sharp, contrasty rendering with Zeiss colour and good distortion control, staying crisp across the frame without turning clinical. Breathing is minimal and the nine-blade iris gives rounded bokeh with a smooth focus-to-defocus transition. Lightweight and PL-mounted, it is color-matched to the rest of the set and to the wider ARRI lens range."
     },
     {
       "id": "arri-ultra-prime-180mm-t1-9",
@@ -908,7 +933,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "The longest lens in the ARRI/Zeiss Ultra Prime set, a long-telephoto Super 35 prime that still holds the fast T1.9 aperture, described by ARRI as the best telephoto designed specifically for motion pictures. It gives the line's sharp, high-contrast image with Zeiss skin tones and clean isolation of distant subjects, with the nine-blade iris keeping bokeh rounded. Breathing stays minimal even at this reach. It is PL-mounted, color-matched across the set, and the standard-speed companion to the Master Primes."
     },
     {
       "id": "arri-ultra-prime-20mm-t1-9",
@@ -942,7 +968,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A wide-angle Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. It carries the line's sharp, high-contrast image with Zeiss skin tones and vivid but neutral colour, with the T*XP coating holding flare down. Focus breathing stays minimal and the nine-blade iris keeps bokeh rounded. Compact and light, it is the standard-speed match to the Master Primes on the PL mount, color-matched across the set."
     },
     {
       "id": "arri-ultra-prime-24mm-t1-9",
@@ -976,7 +1003,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A wide-angle Super 35 prime in the ARRI/Zeiss Ultra Prime set and a common establishing length, fast at T1.9. It gives the line's crisp, contrasty rendering with Zeiss colour and controlled distortion, sharp but not overly clinical. Breathing is minimal for clean pulls, and the nine-blade iris renders rounded bokeh. Lightweight and PL-mounted, it is color-matched to the rest of the set and optically matched to the Master Primes."
     },
     {
       "id": "arri-ultra-prime-28mm-t1-9",
@@ -1010,7 +1038,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A moderate wide-angle Super 35 prime in the ARRI/Zeiss Ultra Prime set, sitting just wide of normal and fast at T1.9. It keeps the line's sharp, high-contrast image with Zeiss skin tones and a smooth focus roll-off. Breathing is minimal and the nine-blade iris gives rounded bokeh. Compact and light, it shares the colour, gear positions and PL mount of the rest of the set."
     },
     {
       "id": "arri-ultra-prime-32mm-t1-9",
@@ -1044,7 +1073,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "The normal focal length on Super 35 in the ARRI/Zeiss Ultra Prime set, fast at T1.9. It renders the line's sharp, contrasty image with Zeiss colour and natural skin tones, staying crisp at close focus across the frame. Breathing is minimal and the nine-blade iris gives rounded bokeh with a distinct focus fall-off. It is the standard-speed, optically matched companion to the Master Primes, PL-mounted and color-matched across the set."
     },
     {
       "id": "arri-ultra-prime-40mm-t1-9",
@@ -1078,7 +1108,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A standard-to-short-telephoto Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. It keeps the line's sharp, high-contrast rendering with Zeiss skin tones and neutral colour. Breathing is minimal and the nine-blade iris renders rounded bokeh with a smooth focus roll-off. Compact and light, it is color-matched to the rest of the set on the PL mount and optically matched to the Master Primes."
     },
     {
       "id": "arri-ultra-prime-50mm-t1-9",
@@ -1112,7 +1143,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A short-telephoto Super 35 prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9 and a natural portrait length. It gives the line's crisp, contrasty image with Zeiss skin tones and a smooth focus-to-defocus transition. Breathing is minimal and the nine-blade iris keeps bokeh rounded for clear subject separation. Lightweight and PL-mounted, it is color-matched across the set and to the wider ARRI range."
     },
     {
       "id": "arri-ultra-prime-65mm-t1-9",
@@ -1146,7 +1178,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A short-telephoto portrait prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. Its sharp, high-contrast rendering and Zeiss skin tones suit close work, with the nine-blade iris giving rounded bokeh and good subject isolation. Breathing stays minimal through the pull. Compact and light, it is the standard-speed companion to the Master Primes, PL-mounted and color-matched across the set."
     },
     {
       "id": "arri-ultra-prime-85mm-t1-9",
@@ -1180,7 +1213,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
-      ]
+      ],
+      "description": "A telephoto portrait prime in the ARRI/Zeiss Ultra Prime set, fast at T1.9. It carries the line's crisp, contrasty image with Zeiss skin tones, and the nine-blade iris renders rounded bokeh with strong subject isolation. Breathing is minimal for clean focus pulls. Lightweight and PL-mounted, it is color-matched to the rest of the set and optically matched to the Master Primes."
     },
     {
       "id": "arri-uwz-9-5-18",
@@ -1216,7 +1250,8 @@
       },
       "webSources": [
         "https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom"
-      ]
+      ],
+      "description": "The ARRI/Zeiss Ultra Wide Zoom, a super-wide Super 35 zoom holding a constant T2.9, and the first super-wide zoom made for professional cine work. A near-telecentric design gives extremely low distortion, so straight lines stay straight even at close focus, with uniform illumination and a fixed entrance pupil across the whole range. It can stand in for a set of wide-angle primes and suits plate shots and other VFX work. It covers the ARRI Open Gate area with room to spare, on the PL mount with integrated LDS and color-matched to the rest of the ARRI/Zeiss lenses."
     }
   ]
 }
