@@ -42,7 +42,8 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "irix-cine-15mm-t2-6-l",
@@ -100,7 +101,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterThreadMm": 95,
       "isParfocal": null,
       "hasFocusBreathing": "none",
       "hasFrontRotation": false,

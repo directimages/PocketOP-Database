@@ -39,7 +39,7 @@
     {
       "id": "fujinon-hk5-3x75-t2-8",
       "manufacturer": "Fujinon",
-      "model": "HK5.3×75 T2.8",
+      "model": "HK5.3×75 T2.8-3.8",
       "series": "HK Premier",
       "generation": "Cinema",
       "focalLengthMin": 75.0,
@@ -183,7 +183,7 @@
     {
       "id": "fujinon-xk20-120mm",
       "manufacturer": "Fujinon",
-      "model": "XK20-120mm T3.5-T3.85",
+      "model": "XK20-120mm T3.5",
       "series": "XK",
       "generation": "4K UHD",
       "focalLengthMin": 20.0,

@@ -55,7 +55,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -83,7 +83,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-135mm-t2-8",
@@ -97,7 +100,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -125,7 +128,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-18mm-t2-8",
@@ -181,7 +187,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -209,7 +215,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-32mm-t2-8",
@@ -223,7 +232,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -251,7 +260,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-40mm-t2-8",
@@ -265,7 +277,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -293,7 +305,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-50mm-t2-8",
@@ -307,7 +322,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -335,7 +350,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-65mm-t2-8",
@@ -349,7 +367,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -377,7 +395,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-minis4i-75mm-t2-8",
@@ -391,7 +412,7 @@
       "imageCircleMm": 33.54,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 82,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -419,7 +440,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-100mm-t2-6",
@@ -433,7 +457,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -461,7 +485,10 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-135mm-t2-8",
@@ -475,7 +502,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -503,7 +530,10 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-152mm-t3-0",
@@ -517,7 +547,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -545,7 +575,10 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-18mm-t2-2",
@@ -553,13 +586,13 @@
       "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
       "weightG": 2200,
       "lengthMm": 127,
-      "frontDiameterMm": 125,
+      "frontDiameterMm": 110,
       "closeFocusM": 0.3,
       "introductionYear": 2021,
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -587,7 +620,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-21mm-t2-2",
@@ -601,7 +637,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -629,7 +665,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-25mm-t2-2",
@@ -643,7 +682,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -671,7 +710,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-27mm-t2-2",
@@ -685,7 +727,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -713,7 +755,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-32mm-t2-2",
@@ -727,7 +772,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -755,7 +800,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-40mm-t2-2",
@@ -769,7 +817,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -797,7 +845,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-50mm-t2-2",
@@ -811,7 +862,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -839,7 +890,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-65mm-macro-t2-4",
@@ -853,7 +907,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -881,7 +935,11 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-panchro-i-classic-ff-75mm-t2-2",
@@ -895,7 +953,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -923,7 +981,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-100mm-t2-0",
@@ -937,7 +998,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -965,7 +1026,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-135mm-t2-0",
@@ -979,7 +1043,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1007,7 +1071,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-14mm-t2-0",
@@ -1063,7 +1130,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 120,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1091,7 +1158,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M120 x 1.0 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-16mm-t2-0",
@@ -1105,7 +1175,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1133,7 +1203,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-180mm-t2-0",
@@ -1147,7 +1220,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 131,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1175,7 +1248,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M131 x 1.0 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-18mm-t2-0",
@@ -1189,7 +1265,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1217,7 +1293,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-21mm-t2-0",
@@ -1231,7 +1310,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1259,7 +1338,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-25mm-t2-0",
@@ -1273,7 +1355,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1301,7 +1383,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-27mm-t2-0",
@@ -1315,7 +1400,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1343,7 +1428,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-32mm-t2-0",
@@ -1357,7 +1445,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1385,7 +1473,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-35mm-t2-0",
@@ -1399,7 +1490,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1427,7 +1518,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-40mm-t2-0",
@@ -1441,7 +1535,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1469,7 +1563,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-50mm-t2-0",
@@ -1483,7 +1580,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1511,7 +1608,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-65mm-t2-0",
@@ -1525,7 +1625,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1553,7 +1653,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s4i-75mm-t2-0",
@@ -1567,7 +1670,7 @@
       "imageCircleMm": 30,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1595,7 +1698,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-100mm-t2-0",
@@ -1609,7 +1715,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1637,7 +1743,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-135mm-t2-0",
@@ -1651,7 +1760,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1679,7 +1788,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-180mm-t2-0",
@@ -1693,7 +1805,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1721,7 +1833,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-18mm-t2-0",
@@ -1777,7 +1892,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1805,7 +1920,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-32mm-t2-0",
@@ -1819,7 +1937,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1847,7 +1965,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-40mm-t2-0",
@@ -1861,7 +1982,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1889,7 +2010,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-50mm-t2-0",
@@ -1903,7 +2027,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1931,7 +2055,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s7i-75mm-t2-0",
@@ -1945,7 +2072,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 105,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1973,7 +2100,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
@@ -1987,7 +2117,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2001,7 +2131,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
@@ -2015,7 +2148,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2029,7 +2162,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
@@ -2071,7 +2207,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2085,7 +2221,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
@@ -2099,7 +2238,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2113,7 +2252,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
@@ -2127,7 +2269,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2141,7 +2283,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
@@ -2155,7 +2300,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2169,7 +2314,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
@@ -2183,7 +2331,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 99,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2197,7 +2345,10 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-varotal-18-100mm-t3-0",
@@ -2297,7 +2448,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 112.5,
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2326,7 +2477,10 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-varotal-ff-30-95mm-t2-9",
@@ -2340,7 +2494,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 112.5,
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2369,7 +2523,10 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
+      }
     },
     {
       "id": "cooke-varotal-ff-85-215mm-t2-9",
@@ -2383,7 +2540,7 @@
       "imageCircleMm": 46.3,
       "opticalElements": null,
       "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterThreadMm": 112.5,
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -2412,7 +2569,10 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
+      }
     }
   ]
 }

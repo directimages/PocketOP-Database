@@ -95,8 +95,8 @@
       "introductionYear": 2024,
       "imageCircleMm": 46.5,
       "opticalElements": 15,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "none",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
@@ -179,8 +179,8 @@
       "introductionYear": 2025,
       "imageCircleMm": 46.5,
       "opticalElements": 15,
-      "filterType": "front_thread",
-      "filterThreadMm": 86,
+      "filterType": "none",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
@@ -502,7 +502,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "dzofilm-gnosis-32mm-t2-8",
@@ -544,7 +545,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "dzofilm-gnosis-65mm-t2-8",
@@ -586,7 +588,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "dzofilm-gnosis-90mm-t2-8",
@@ -628,7 +631,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "dzofilm-pictor-12-25mm-t2-8",
@@ -897,8 +901,8 @@
       "introductionYear": 2020,
       "imageCircleMm": 46.5,
       "opticalElements": 14,
-      "filterType": "front_thread",
-      "filterThreadMm": 77,
+      "filterType": "none",
+      "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": false,
@@ -1220,7 +1224,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "dzofilm-vespid-cyber-35mm-t2-1",
@@ -1778,8 +1783,8 @@
       "introductionYear": null,
       "imageCircleMm": 46.5,
       "opticalElements": 11,
-      "filterType": "none",
-      "filterThreadMm": "none",
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -1933,7 +1938,8 @@
       "maxApertureWide": 8.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     }
   ]
 }

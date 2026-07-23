@@ -849,7 +849,7 @@
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 100mm T1.6",
+      "model": "S8/i FF 100mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 100.0,
@@ -867,7 +867,7 @@
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 135mm T2.0",
+      "model": "S8/i FF 135mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 135.0,
@@ -885,7 +885,7 @@
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 18mm T1.6",
+      "model": "S8/i FF 18mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 18.0,
@@ -903,7 +903,7 @@
     {
       "id": "cooke-s8i-ff-25mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 25mm T1.6",
+      "model": "S8/i FF 25mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 25.0,
@@ -921,7 +921,7 @@
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 32mm T1.6",
+      "model": "S8/i FF 32mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 32.0,
@@ -939,7 +939,7 @@
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 40mm T1.6",
+      "model": "S8/i FF 40mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 40.0,
@@ -957,7 +957,7 @@
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 50mm T1.6",
+      "model": "S8/i FF 50mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 50.0,
@@ -975,7 +975,7 @@
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
       "manufacturer": "Cooke",
-      "model": "S8/i FF 75mm T1.6",
+      "model": "S8/i FF 75mm T1.4",
       "series": "S8/i",
       "generation": "Cinema",
       "focalLengthMin": 75.0,

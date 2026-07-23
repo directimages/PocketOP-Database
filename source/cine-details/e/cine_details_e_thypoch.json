@@ -12,7 +12,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 67,
+      "filterThreadMm": 62,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -40,7 +40,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 67,
+      "filterThreadMm": 62,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -68,7 +68,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 67,
+      "filterThreadMm": 62,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -96,7 +96,7 @@
       "imageCircleMm": 43.3,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 67,
+      "filterThreadMm": 62,
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -138,7 +138,10 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "filterThreadMm": "Front filter thread is M67; the lens also has an inner M62 thread."
+      }
     }
   ]
 }

@@ -14,7 +14,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 82,
       "isParfocal": true,
-      "hasFocusBreathing": "minimal",
+      "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
       "gearPitch": 0.8,
@@ -42,7 +42,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
+      }
     },
     {
       "id": "sigma-cine-50-100mm-t2-0",
@@ -58,7 +61,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 82,
       "isParfocal": true,
-      "hasFocusBreathing": "minimal",
+      "hasFocusBreathing": "moderate",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 180,
       "gearPitch": 0.8,
@@ -86,7 +89,10 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
+      }
     },
     {
       "id": "sigma-ff-prime-105mm-t1-5",

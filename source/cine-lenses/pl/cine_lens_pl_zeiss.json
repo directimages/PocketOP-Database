@@ -64,7 +64,7 @@
       "focalLengthMax": 18.0,
       "zoomRatio": 1.0,
       "extenderFactor": 1.0,
-      "sensorFormat": "fullFrame",
+      "sensorFormat": "superThirtyFive",
       "mount": "PL",
       "isPTZ": false,
       "isFree": false,

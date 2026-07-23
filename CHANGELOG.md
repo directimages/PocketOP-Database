@@ -3,6 +3,13 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.34.0 — 2026-07-23
+
+- Cine datafixes batch 4, pass 4a (value corrections/fills only, no entry-set change): 17 cine core model string corrections (8 Cooke S8/i FF, 2 DZOFilm Vespid Retro, 4 Tokina Vista-P 180mm across PL/E/EF/LPL, 1 Laowa Ultima 25-600mm, 2 Fujinon)
+- zeiss-cp2-18mm-t3-6 sensorFormat corrected fullFrame -> superThirtyFive (image circle 30.0mm per POS-D28, versus 43.4mm on every other CP.2; B&H confirms Super 35/Normal 35 coverage, not full frame)
+- cine_lenses.json split bumped to v1.31.0 (same 18 core corrections)
+- Source: reference/cine-batch4a-apply-2026-07-23.md, Kay-verified against live db-v14 (zero orphans, every current value matched the documented "from" side)
+
 ### v1.33.0 — 2026-07-23
 
 - Broadcast core datafixes (6): angenieux-t12x5-3b focalLengthMax 63.6 -> 64.0, zoomRatio 12.0 -> 12.08 (64.0/5.3); angenieux-t26x7-8b model "T26x7.8BESMD AIF HR" -> "T26x7.8BESMD HD"; nikon-s13x9 model "S13x9-EMS" -> "S13x9B1-EMS-20", notes dropped "Approximate model designation."; nikon-s19x8 model "ED S19x8" -> "S19x8B"; nikon-s9x5-5b notes "Focal range estimated. 2x extender likely." -> "2x extender likely." (focal range now barrel-confirmed); zeiss-digizoom-17-112 zoomRatio 6.5 -> 6.59 (112/17)
@@ -114,6 +121,14 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.52.0 — 2026-07-23
+
+- Cine datafixes batch 4, pass 4a: 88 detail-id overwrites/fills via build/apply_fields.py across filterThreadMm/filterType/hasMacro/isParfocal/hasFocusBreathing/fieldNotes/frontDiameterMm. 153 fields applied to 88 ids across 15 shards, zero orphans (pre-flight verified against db-v14)
+- Field counts: filterThreadMm 66, fieldNotes 58 (all merged in, none previously present — POS-D17 merge-per-key), hasMacro 12, filterType 8, hasFocusBreathing 5, isParfocal 3, frontDiameterMm 1
+- Overwrites include: all Cooke Mini S4/i, Panchro/i Classic FF, S4/i, S7/i, S8/i FF and Varotal/i FF filterThreadMm "none" -> published thread size (Varotal/i FF carries the decimal 112.5); dzofilm-arles-14mm/-18mm + dzofilm-vespid-16mm filterType/filterThreadMm -> "none"/"none"; dzofilm-vespid-retro-35mm-t2-1 filterType/filterThreadMm flip -> front_thread/77; sigma-cine-18-35mm-t2-0 + sigma-cine-50-100mm-t2-0 hasFocusBreathing minimal -> moderate; 3 Laowa Ranger S35 hasFocusBreathing none -> minimal; irix-cine-21mm-t1-5-l filterThreadMm 86 -> 95; 4 Thypoch Simera-C filterThreadMm 67 -> 62; 4 Tokina Vista-C 18mm (E/EF/LPL/PL) filterThreadMm null -> 112 + filterType -> front_thread; cooke-panchro-i-classic-ff-18mm-t2-2 frontDiameterMm 125 -> 110
+- Fills (previously absent/null): hasMacro true on 12 entries; isParfocal true on 3 entries
+- Source: reference/cine-batch4a-apply-2026-07-23.md, Kay-verified against live db-v14 (zero orphans, every current value matched the documented "from" side)
+
 ### v1.51.0 — 2026-07-23
 
 - Cine aperture/IS batch (batch 3): maxApertureWide, maxApertureTele, apertureType and hasIS populated for 601 of 603 live cine entries via build/apply_fields.py. First population of these fields for cine; schema-registered and gated, now filled. Values Kay-supplied and verified (cine aperture/IS consolidation, reference/cine-import-map-batch3-aperture-is-2026-07-19.md). 2404 fields applied to 601 ids across 45 shards, zero orphans (pre-flight verified against db-v13)
@@ -173,6 +188,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.54.0 — 2026-07-23
+
+- Legacy union rebuild aggregating the cine_lens_details v1.52.0 pass 4a datafixes above (88 detail ids, 153 fields) and the cine_lenses v1.31.0 core corrections (17 model strings + 1 sensorFormat fix). No entries added or removed
+
 ### v1.53.0 — 2026-07-23
 
 - Legacy union rebuild aggregating the cine_lens_details v1.51.0 aperture/IS batch above. maxApertureWide/maxApertureTele/apertureType/hasIS are outside the legacy whitelist and do not surface here. No lens core change

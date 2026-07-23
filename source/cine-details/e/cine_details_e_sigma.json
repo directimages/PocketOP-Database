@@ -136,7 +136,10 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "fieldNotes": {
+        "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
+      }
     }
   ]
 }

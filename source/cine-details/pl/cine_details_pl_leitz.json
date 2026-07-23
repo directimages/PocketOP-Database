@@ -907,7 +907,8 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "leitz-thalia-65-180mm-t3-6",
@@ -1027,7 +1028,8 @@
       "maxApertureWide": 3.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "leitz-thalia-65-30mm-t2-9",
@@ -1187,7 +1189,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "hasMacro": true
     },
     {
       "id": "leitz-thalia-65-70mm-t2-6",

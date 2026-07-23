@@ -119,7 +119,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 105,
-      "isParfocal": false,
+      "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
@@ -224,7 +224,7 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 105,
-      "isParfocal": false,
+      "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
@@ -487,7 +487,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "hasMacro": true
     },
     {
       "id": "canon-ef-135mm-f2l",
