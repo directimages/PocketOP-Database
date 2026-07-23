@@ -29,7 +29,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-25-250mm-t2-95-3-95-pl"
       ],
-      "description": "A 10x CINE-SERVO telephoto covering 25-250mm, aimed at documentary, wildlife and broadcast work. The aperture holds T2.95 from 25 to 187mm and ramps to T3.95 at 250mm, and a built-in 1.5x extender pushes the reach to 375mm at T4.4-5.9. It stays compact and light for its range, with 4K Super 35 coverage, an eleven-blade iris and a detachable servo drive. It slots between the 17-120 and the 50-1000 in the CINE-SERVO family."
+      "description": "A 10x CINE-SERVO telephoto covering 25-250mm, aimed at documentary, wildlife and broadcast work. The aperture holds T2.95 from 25 to 187mm and ramps to T3.95 at 250mm, and a built-in 1.5x extender pushes the reach to 375mm at T4.4-5.9. It stays compact and light for its range, with 4K Super 35 coverage, an eleven-blade iris and a detachable servo drive. It slots between the 17-120 and the 50-1000 in the CINE-SERVO family.",
+      "maxApertureWide": 2.95,
+      "maxApertureTele": 3.95,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn20x50-ias-h-p1",
@@ -63,7 +67,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl450.html"
       ],
-      "description": "An ultra-telephoto 20x CINE-SERVO reaching 1000mm, or 1500mm with its built-in 1.5x extender, long a staple for sports, wildlife and long-range field production. The aperture holds T5.0 from 50 to 560mm and ramps to T8.9 at 1000mm. Fluorite elements control chromatic aberration across the reach, with an eleven-blade iris and a detachable servo drive for broadcast or cine use. It covers Super 35 at 4K and is notably compact and light for its class."
+      "description": "An ultra-telephoto 20x CINE-SERVO reaching 1000mm, or 1500mm with its built-in 1.5x extender, long a staple for sports, wildlife and long-range field production. The aperture holds T5.0 from 50 to 560mm and ramps to T8.9 at 1000mm. Fluorite elements control chromatic aberration across the reach, with an eleven-blade iris and a detachable servo drive for broadcast or cine use. It covers Super 35 at 4K and is notably compact and light for its class.",
+      "maxApertureWide": 5.0,
+      "maxApertureTele": 8.9,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn30x40-ias-pl",
@@ -104,7 +112,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl"
       ],
-      "description": "The 30x successor to the 50-1000, both wider and longer at nearly the same size and weight, reaching 1800mm with its built-in 1.5x extender. The aperture holds T5.0 to 560mm and ramps to T10.8 at 1200mm. It covers Super 35 natively and full frame with the extender, with 8K-grade optics, an eleven-blade iris and focus-breathing compensation. Built for wildlife, stadium sports and long-range live production, with a removable e-Xs servo drive for broadcast or cine control."
+      "description": "The 30x successor to the 50-1000, both wider and longer at nearly the same size and weight, reaching 1800mm with its built-in 1.5x extender. The aperture holds T5.0 to 560mm and ramps to T10.8 at 1200mm. It covers Super 35 natively and full frame with the extender, with 8K-grade optics, an eleven-blade iris and focus-breathing compensation. Built for wildlife, stadium sports and long-range live production, with a removable e-Xs servo drive for broadcast or cine control.",
+      "maxApertureWide": 5.0,
+      "maxApertureTele": 10.8,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn5x11-ias-t-p1",
@@ -136,7 +148,11 @@
       "webSources": [
         "https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product"
       ],
-      "description": "The widest zoom in Canon's CINE-SERVO line, an ultra-wide 5x reaching about a hundred-degree angle of view at 11mm on Super 35. It is built as an ENG-style servo zoom with a removable e-Xs drive for zoom, focus and iris, and also runs manual for cine setups, with Cooke /i and ZEISS eXtended Data on the PL mount. The aperture ramps gently from T2.95 at the wide end to T3.95 at the long end, and a built-in 1.5x extender both increases reach and enables full-frame coverage over the native Super 35 image circle. An eleven-blade iris, 8K-grade optics and optical focus-breathing correction round it out, and it is the lightest lens in the CINE-SERVO family."
+      "description": "The widest zoom in Canon's CINE-SERVO line, an ultra-wide 5x reaching about a hundred-degree angle of view at 11mm on Super 35. It is built as an ENG-style servo zoom with a removable e-Xs drive for zoom, focus and iris, and also runs manual for cine setups, with Cooke /i and ZEISS eXtended Data on the PL mount. The aperture ramps gently from T2.95 at the wide end to T3.95 at the long end, and a built-in 1.5x extender both increases reach and enables full-frame coverage over the native Super 35 image circle. An eleven-blade iris, 8K-grade optics and optical focus-breathing correction round it out, and it is the lightest lens in the CINE-SERVO family.",
+      "maxApertureWide": 2.95,
+      "maxApertureTele": 3.95,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
@@ -166,7 +182,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl449.html"
       ],
-      "description": "The original CINE-SERVO, a 7x zoom that pairs broadcast ENG handling with cinema optics on Super 35. The aperture holds T2.95 from 17 to 91mm and then ramps to T3.9 at the 120mm end. A detachable servo drive controls zoom, focus and iris, with angle-of-view shift suppression to keep breathing low and an eleven-blade iris for rounded bokeh. It bridges shoulder-mounted broadcast operation and cine-style use at 4K over a Super 35 image circle."
+      "description": "The original CINE-SERVO, a 7x zoom that pairs broadcast ENG handling with cinema optics on Super 35. The aperture holds T2.95 from 17 to 91mm and then ramps to T3.9 at the 120mm end. A detachable servo drive controls zoom, focus and iris, with angle-of-view shift suppression to keep breathing low and an eleven-blade iris for rounded bokeh. It bridges shoulder-mounted broadcast operation and cine-style use at 4K over a Super 35 image circle.",
+      "maxApertureWide": 2.95,
+      "maxApertureTele": 3.9,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn7x17-kas-t-p1",
@@ -195,7 +215,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-17-120mm-t2-95-3-9-pl"
       ],
-      "description": "The 17-120mm CINE-SERVO in its later KAS T generation, sharing the original's optics while adding an enhanced e-Xs servo drive, a native RF option and metadata output for virtual production. The aperture holds T2.95 from 17 to 91mm and then ramps to T3.9 at 120mm. A detachable servo drive controls zoom, focus and iris, with angle-of-view shift suppression to keep breathing low and an eleven-blade iris for rounded bokeh. It covers Super 35 at 4K and bridges broadcast and cine-style operation."
+      "description": "The 17-120mm CINE-SERVO in its later KAS T generation, sharing the original's optics while adding an enhanced e-Xs servo drive, a native RF option and metadata output for virtual production. The aperture holds T2.95 from 17 to 91mm and then ramps to T3.9 at 120mm. A detachable servo drive controls zoom, focus and iris, with angle-of-view shift suppression to keep breathing low and an eleven-blade iris for rounded bokeh. It covers Super 35 at 4K and bridges broadcast and cine-style operation.",
+      "maxApertureWide": 2.95,
+      "maxApertureTele": 3.9,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cn8x15-ias-s-p1",
@@ -226,7 +250,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl520.html"
       ],
-      "description": "An 8x CINE-SERVO that widens the 17-120 concept to 15mm and adds a built-in 1.5x extender. The aperture holds T2.95 from 15 to 90mm and ramps to T3.95 at 120mm, while engaging the extender shifts the range to 22.5-180mm at T4.4-5.9 and enables full-frame coverage over the native Super 35 circle. It was Canon's first CINE-SERVO to support Dual Pixel autofocus on EF, with 8K-grade optics, reduced breathing and an eleven-blade iris. A detachable servo drive handles zoom, focus and iris for broadcast or cine operation."
+      "description": "An 8x CINE-SERVO that widens the 17-120 concept to 15mm and adds a built-in 1.5x extender. The aperture holds T2.95 from 15 to 90mm and ramps to T3.95 at 120mm, while engaging the extender shifts the range to 22.5-180mm at T4.4-5.9 and enables full-frame coverage over the native Super 35 circle. It was Canon's first CINE-SERVO to support Dual Pixel autofocus on EF, with 8K-grade optics, reduced breathing and an eleven-blade iris. A detachable servo drive handles zoom, focus and iris for broadcast or cine operation.",
+      "maxApertureWide": 2.95,
+      "maxApertureTele": 3.95,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne135mm-t2-2-pl",
@@ -266,7 +294,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl447.html"
       ],
-      "description": "The longest prime in Canon's CN-E Cinema Prime set, a full-frame telephoto for tight portraits and detail with strong subject isolation. It renders with Canon's clean, sharp look and rounded bokeh from an eleven-blade iris, holding edge-to-edge brightness across the frame. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for fast, matched swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "The longest prime in Canon's CN-E Cinema Prime set, a full-frame telephoto for tight portraits and detail with strong subject isolation. It renders with Canon's clean, sharp look and rounded bokeh from an eleven-blade iris, holding edge-to-edge brightness across the frame. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for fast, matched swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne14-35mm-t1-7",
@@ -295,7 +327,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s"
       ],
-      "description": "A fast constant-T1.7 Super 35 zoom in Canon's Flex Zoom series, bright enough to intercut with fast primes over a 2.5x range. The T-stop stays constant across the zoom, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS rendering and reduced breathing. With the separate relay kit it converts to the full-frame 20-50mm T2.4 Flex Zoom, and its shared front diameter and gear positions make swaps within the Flex family quick. Available in interchangeable EF and PL mounts."
+      "description": "A fast constant-T1.7 Super 35 zoom in Canon's Flex Zoom series, bright enough to intercut with fast primes over a 2.5x range. The T-stop stays constant across the zoom, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS rendering and reduced breathing. With the separate relay kit it converts to the full-frame 20-50mm T2.4 Flex Zoom, and its shared front diameter and gear positions make swaps within the Flex family quick. Available in interchangeable EF and PL mounts.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne14mm-t3-1-pl",
@@ -335,7 +371,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl446.html"
       ],
-      "description": "The widest prime in Canon's CN-E Cinema Prime set, an ultra wide-angle for expansive establishing shots and tight interiors on full-frame sensors. It renders with Canon's clean, sharp look and edge-to-edge brightness, with natural rounded bokeh from an eleven-blade iris. Manual focus with a long, smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast, geared swaps. Built to 4K-grade standards, it covers full-frame and Super 35 and colour-matches the rest of the CN-E primes."
+      "description": "The widest prime in Canon's CN-E Cinema Prime set, an ultra wide-angle for expansive establishing shots and tight interiors on full-frame sensors. It renders with Canon's clean, sharp look and edge-to-edge brightness, with natural rounded bokeh from an eleven-blade iris. Manual focus with a long, smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast, geared swaps. Built to 4K-grade standards, it covers full-frame and Super 35 and colour-matches the rest of the CN-E primes.",
+      "maxApertureWide": 3.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne15-5-47mm-t2-8",
@@ -363,7 +403,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl445.html"
       ],
-      "description": "A wide-angle Super 35 cinema zoom with a constant T2.8 across its 3x range, matched to the 30-105mm T2.8 as a lightweight two-lens set. Fluorite and large aspherical elements keep it sharp and hold breathing to near zero, and it is parfocal, maintaining focus through the zoom without centre-axis drift. An eleven-blade iris gives smooth rounded bokeh, and the light 4K-grade build suits handheld and documentary work. It shares a 114mm front and 105mm filter thread with its 30-105 sibling."
+      "description": "A wide-angle Super 35 cinema zoom with a constant T2.8 across its 3x range, matched to the 30-105mm T2.8 as a lightweight two-lens set. Fluorite and large aspherical elements keep it sharp and hold breathing to near zero, and it is parfocal, maintaining focus through the zoom without centre-axis drift. An eleven-blade iris gives smooth rounded bokeh, and the light 4K-grade build suits handheld and documentary work. It shares a 114mm front and 105mm filter thread with its 30-105 sibling.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne24mm-t1-5-pl",
@@ -403,7 +447,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl441.html"
       ],
-      "description": "A fast wide-angle prime in Canon's CN-E Cinema Prime set, a flexible focal length for interiors, landscapes and wider coverage. Opening wide for low light and shallow depth of field, it keeps Canon's clean, sharp rendering with natural rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a front diameter, gear positions and form factor shared across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "A fast wide-angle prime in Canon's CN-E Cinema Prime set, a flexible focal length for interiors, landscapes and wider coverage. Opening wide for low light and shallow depth of field, it keeps Canon's clean, sharp rendering with natural rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a front diameter, gear positions and form factor shared across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne30-105mm-t2-8",
@@ -431,7 +479,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl444.html"
       ],
-      "description": "The standard-to-telephoto half of Canon's lightweight Compact Cinema Zoom pair, a constant-T2.8 Super 35 zoom matched to the 15.5-47mm T2.8. It is parfocal with near-perfect geometry and very low breathing, holding focus through the zoom, and fluorite and aspherical elements keep it sharp across 4K. An eleven-blade iris gives smooth rounded bokeh, and it shares the 114mm front and 105mm filter thread with the 15.5-47. Light enough for handheld and run-and-gun work while matching the cine set."
+      "description": "The standard-to-telephoto half of Canon's lightweight Compact Cinema Zoom pair, a constant-T2.8 Super 35 zoom matched to the 15.5-47mm T2.8. It is parfocal with near-perfect geometry and very low breathing, holding focus through the zoom, and fluorite and aspherical elements keep it sharp across 4K. An eleven-blade iris gives smooth rounded bokeh, and it shares the 114mm front and 105mm filter thread with the 15.5-47. Light enough for handheld and run-and-gun work while matching the cine set.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne31-5-95mm-t1-7",
@@ -459,7 +511,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-sp"
       ],
-      "description": "The telephoto companion to the 14-35 in Canon's Flex Zoom series, a fast constant-T1.7 Super 35 zoom that also intercuts with fast primes over a 3x range. The aperture stays constant across the zoom, with an eleven-blade iris and 8K-grade colour-matched optics with reduced breathing. It converts to the full-frame 45-135mm T2.4 Flex Zoom with the relay kit, and shares gears and front diameter with the rest of the Flex Zooms. Available in interchangeable EF and PL mounts."
+      "description": "The telephoto companion to the 14-35 in Canon's Flex Zoom series, a fast constant-T1.7 Super 35 zoom that also intercuts with fast primes over a 3x range. The aperture stays constant across the zoom, with an eleven-blade iris and 8K-grade colour-matched optics with reduced breathing. It converts to the full-frame 45-135mm T2.4 Flex Zoom with the relay kit, and shares gears and front diameter with the rest of the Flex Zooms. Available in interchangeable EF and PL mounts.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne35mm-t1-5-pl",
@@ -499,7 +555,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl448.html"
       ],
-      "description": "A fast wide-to-normal prime in Canon's CN-E Cinema Prime set, close to a versatile everyday angle of view. It opens wide for low-light work while holding Canon's clean, sharp look and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for quick, matched swaps. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set."
+      "description": "A fast wide-to-normal prime in Canon's CN-E Cinema Prime set, close to a versatile everyday angle of view. It opens wide for low-light work while holding Canon's clean, sharp look and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for quick, matched swaps. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne50mm-t1-3-pl",
@@ -539,7 +599,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl442.html"
       ],
-      "description": "The fastest prime in Canon's CN-E Cinema Prime set, a standard focal length near natural perspective. Its bright aperture excels in low light and gives shallow depth of field, with clean, sharp Canon rendering and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "The fastest prime in Canon's CN-E Cinema Prime set, a standard focal length near natural perspective. Its bright aperture excels in low light and gives shallow depth of field, with clean, sharp Canon rendering and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne85mm-t1-3-pl",
@@ -579,7 +643,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl443.html"
       ],
-      "description": "A fast portrait-length prime in Canon's CN-E Cinema Prime set, well suited to close-ups and strong subject separation. Its bright aperture delivers shallow depth of field and low-light headroom, with Canon's clean, sharp look and smooth rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw; shared front diameter, gear positions and form factor let it swap cleanly with the CN-E 24 and 50 and the rest of the set. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set."
+      "description": "A fast portrait-length prime in Canon's CN-E Cinema Prime set, well suited to close-ups and strong subject separation. Its bright aperture delivers shallow depth of field and low-light headroom, with Canon's clean, sharp look and smooth rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw; shared front diameter, gear positions and form factor let it swap cleanly with the CN-E 24 and 50 and the rest of the set. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set.",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

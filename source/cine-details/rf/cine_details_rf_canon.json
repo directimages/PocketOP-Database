@@ -39,7 +39,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf"
       ],
-      "description": "The 30x successor to the 50-1000, both wider and longer at nearly the same size and weight, reaching 1800mm with its built-in 1.5x extender. The aperture holds T5.0 to 560mm and ramps to T10.8 at 1200mm. It covers Super 35 natively and full frame with the extender, with 8K-grade optics, an eleven-blade iris and focus-breathing compensation. The native RF mount adds distortion correction and real-time metadata for virtual production, driven by a removable e-Xs servo unit for broadcast or cine control."
+      "description": "The 30x successor to the 50-1000, both wider and longer at nearly the same size and weight, reaching 1800mm with its built-in 1.5x extender. The aperture holds T5.0 to 560mm and ramps to T10.8 at 1200mm. It covers Super 35 natively and full frame with the extender, with 8K-grade optics, an eleven-blade iris and focus-breathing compensation. The native RF mount adds distortion correction and real-time metadata for virtual production, driven by a removable e-Xs servo unit for broadcast or cine control.",
+      "maxApertureWide": 5.0,
+      "maxApertureTele": 10.8,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne20-50mm-t2-4-ff",
@@ -66,7 +70,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp"
       ],
-      "description": "One of Canon's first full-frame cinema zooms, a constant-T2.4 large-format zoom in the Flex Zoom series. The T-stop stays constant across the range, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS look, and it is parfocal, holding focus through the zoom. It pairs with the 45-135mm T2.4 as a matched full-frame set, sharing front diameter and gears for fast swaps. The Flex design also allows relay-kit reconfiguration between full-frame and Super 35 coverage."
+      "description": "One of Canon's first full-frame cinema zooms, a constant-T2.4 large-format zoom in the Flex Zoom series. The T-stop stays constant across the range, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS look, and it is parfocal, holding focus through the zoom. It pairs with the 45-135mm T2.4 as a matched full-frame set, sharing front diameter and gears for fast swaps. The Flex design also allows relay-kit reconfiguration between full-frame and Super 35 coverage.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne45-135mm-t2-4-ff",
@@ -94,7 +102,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp"
       ],
-      "description": "The telephoto half of Canon's first full-frame cinema zoom pair, a constant-T2.4 large-format Flex Zoom matched to the 20-50mm T2.4. The aperture stays constant across the range, with an eleven-blade iris, 8K-grade colour-matched optics and a parfocal design that holds focus through the zoom. Shared front diameter and gear positions make swaps with the 20-50 quick, and the Flex design allows relay-kit reconfiguration between formats. It suits full-frame narrative and documentary work needing a bright, consistent zoom."
+      "description": "The telephoto half of Canon's first full-frame cinema zoom pair, a constant-T2.4 large-format Flex Zoom matched to the 20-50mm T2.4. The aperture stays constant across the range, with an eleven-blade iris, 8K-grade colour-matched optics and a parfocal design that holds focus through the zoom. Shared front diameter and gear positions make swaps with the 20-50 quick, and the Flex design allows relay-kit reconfiguration between formats. It suits full-frame narrative and documentary work needing a bright, consistent zoom.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

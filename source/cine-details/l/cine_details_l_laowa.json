@@ -38,7 +38,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
       ],
-      "description": "The widest member of Laowa's full-frame Ranger set, a compact constant-T2.9 zoom that reaches an expansive wide angle while holding exposure and focus across the range. Its clean, modern rendering keeps distortion low and contrast crisp, and the parfocal design with near-invisible breathing lets operators reframe and refocus without hunting. Matched in look, gearing and front size to the rest of the Ranger line for fast swaps on run-and-gun and documentary work."
+      "description": "The widest member of Laowa's full-frame Ranger set, a compact constant-T2.9 zoom that reaches an expansive wide angle while holding exposure and focus across the range. Its clean, modern rendering keeps distortion low and contrast crisp, and the parfocal design with near-invisible breathing lets operators reframe and refocus without hunting. Matched in look, gearing and front size to the rest of the Ranger line for fast swaps on run-and-gun and documentary work.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "laowa-ranger-28-75mm-t2-9-ff-l",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
       ],
-      "description": "The standard-range workhorse of Laowa's full-frame Ranger set, a lightweight constant-T2.9 zoom covering the everyday wide-to-short-tele span in a single piece of glass. Rendering is clean and modern with pleasing background separation from the 11-blade iris, focus breathing is kept to a minimum, and the parfocal design holds focus through the zoom. Colour, contrast and front size match the rest of the Ranger line for quick swaps."
+      "description": "The standard-range workhorse of Laowa's full-frame Ranger set, a lightweight constant-T2.9 zoom covering the everyday wide-to-short-tele span in a single piece of glass. Rendering is clean and modern with pleasing background separation from the 11-blade iris, focus breathing is kept to a minimum, and the parfocal design holds focus through the zoom. Colour, contrast and front size match the rest of the Ranger line for quick swaps.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "laowa-ranger-75-180mm-t2-9-ff-l",
@@ -118,7 +126,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
       ],
-      "description": "The telephoto reach of Laowa's full-frame Ranger set, a compact constant-T2.9 zoom that carries from portraits into longer-distance work. It keeps the line's clean modern look, low breathing and parfocal focus hold, with the same gearing and front diameter as its wider siblings so it drops straight into a matched Ranger kit."
+      "description": "The telephoto reach of Laowa's full-frame Ranger set, a compact constant-T2.9 zoom that carries from portraits into longer-distance work. It keeps the line's clean modern look, low breathing and parfocal focus hold, with the same gearing and front diameter as its wider siblings so it drops straight into a matched Ranger kit.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "laowa-ranger-s35-11-18mm-t2-9-l",
@@ -158,7 +170,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
       ],
-      "description": "The wide zoom of Laowa's purpose-built Super 35 Ranger set, a compact constant-T2.9 lens designed as a cine optic rather than a rehoused stills lens. It holds exposure and, once set up, focus across the range, with clean modern rendering, and shares gearing and a matched look with the 17-50 and 50-130 for fast swaps on smaller, run-and-gun rigs."
+      "description": "The wide zoom of Laowa's purpose-built Super 35 Ranger set, a compact constant-T2.9 lens designed as a cine optic rather than a rehoused stills lens. It holds exposure and, once set up, focus across the range, with clean modern rendering, and shares gearing and a matched look with the 17-50 and 50-130 for fast swaps on smaller, run-and-gun rigs.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "laowa-ranger-s35-17-50mm-t2-9-l",
@@ -198,7 +214,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
       ],
-      "description": "The standard-range Super 35 Ranger zoom, a lightweight constant-T2.9 cine lens covering the everyday span in one optic. Purpose-built rather than rehoused, it renders cleanly and modern with parfocal focus hold, matched in look and gearing to the rest of the S35 Ranger set."
+      "description": "The standard-range Super 35 Ranger zoom, a lightweight constant-T2.9 cine lens covering the everyday span in one optic. Purpose-built rather than rehoused, it renders cleanly and modern with parfocal focus hold, matched in look and gearing to the rest of the S35 Ranger set.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "laowa-ranger-s35-50-130mm-t2-9-l",
@@ -238,7 +258,11 @@
       "webSources": [
         "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
       ],
-      "description": "The telephoto Super 35 Ranger zoom, a compact constant-T2.9 lens carrying from mid-range into longer work. It keeps the set's clean modern rendering, parfocal focus hold and matched gearing for quick swaps within the S35 Ranger kit."
+      "description": "The telephoto Super 35 Ranger zoom, a compact constant-T2.9 lens carrying from mid-range into longer work. It keeps the set's clean modern rendering, parfocal focus hold and matched gearing for quick swaps within the S35 Ranger kit.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

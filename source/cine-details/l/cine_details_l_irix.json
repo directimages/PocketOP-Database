@@ -38,7 +38,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-150mm-t3-0-tele/"
       ],
-      "description": "The long telephoto in Irix's full-frame Cine set and a true 1:1 macro, reaching into portraits, compression and close-up detail. It keeps the line's rounded bokeh and Irix character in a weather-sealed body, extending the range well beyond the standard primes."
+      "description": "The long telephoto in Irix's full-frame Cine set and a true 1:1 macro, reaching into portraits, compression and close-up detail. It keeps the line's rounded bokeh and Irix character in a weather-sealed body, extending the range well beyond the standard primes.",
+      "maxApertureWide": 3.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "irix-cine-15mm-t2-6-l",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-15mm-t2-6/"
       ],
-      "description": "The wide end of Irix's full-frame Cine prime line, an ultra-wide for landscapes, architecture and tight interiors with well-controlled distortion. Like the rest of the weather-sealed set it carries the distinctive Irix look: soft highlights, a subtle misting in the out-of-focus areas and rounded bokeh from an 11-blade iris, matched in color and handling to its siblings for quick swaps."
+      "description": "The wide end of Irix's full-frame Cine prime line, an ultra-wide for landscapes, architecture and tight interiors with well-controlled distortion. Like the rest of the weather-sealed set it carries the distinctive Irix look: soft highlights, a subtle misting in the out-of-focus areas and rounded bokeh from an 11-blade iris, matched in color and handling to its siblings for quick swaps.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "irix-cine-21mm-t1-5-l",
@@ -118,7 +126,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-21mm-t1-5/"
       ],
-      "description": "The widest of Irix's fast T1.5 full-frame Cine primes, a low-distortion wide angle popular for tight spaces, events and opening shots. It renders the signature Irix look with shallow depth of field and soft, rounded bokeh, weather-sealed and gear-matched to the rest of the range."
+      "description": "The widest of Irix's fast T1.5 full-frame Cine primes, a low-distortion wide angle popular for tight spaces, events and opening shots. It renders the signature Irix look with shallow depth of field and soft, rounded bokeh, weather-sealed and gear-matched to the rest of the range.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "irix-cine-30mm-t1-5-l",
@@ -158,7 +170,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-30mm-t1-5/"
       ],
-      "description": "A fast, near-normal prime in Irix's full-frame Cine line, a flexible choice for medium shots, interviews and b-roll. It shares the set's Irix look, shallow depth of field and rounded bokeh, weather-sealed and matched in size and gearing to its siblings."
+      "description": "A fast, near-normal prime in Irix's full-frame Cine line, a flexible choice for medium shots, interviews and b-roll. It shares the set's Irix look, shallow depth of field and rounded bokeh, weather-sealed and matched in size and gearing to its siblings.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "irix-cine-45mm-t1-5-l",
@@ -198,7 +214,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-45mm-t1-5/"
       ],
-      "description": "A favorite in Irix's full-frame Cine range and a prime example of the Irix look, well suited to portraits and standard coverage. Its fast T1.5 aperture and soft, rounded bokeh give strong subject separation, in a weather-sealed body matched to the rest of the set."
+      "description": "A favorite in Irix's full-frame Cine range and a prime example of the Irix look, well suited to portraits and standard coverage. Its fast T1.5 aperture and soft, rounded bokeh give strong subject separation, in a weather-sealed body matched to the rest of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "irix-cine-65mm-t1-5-l",
@@ -238,7 +258,11 @@
       "webSources": [
         "https://irixusa.com/lenses/irix-cine-65mm-t1-5/"
       ],
-      "description": "A short-telephoto prime in Irix's full-frame Cine line, flattering for portraits and closer detail with the set's soft, rounded bokeh and shallow depth of field. It stays weather-sealed and gear-matched to its siblings for consistent handling."
+      "description": "A short-telephoto prime in Irix's full-frame Cine line, flattering for portraits and closer detail with the set's soft, rounded bokeh and shallow depth of field. It stays weather-sealed and gear-matched to its siblings for consistent handling.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

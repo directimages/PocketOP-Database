@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.vantagefilm.com/en/lenses"
       ],
-      "description": "Billed by Hawk as the first 35mm ultra-wide spherical zoom, this Super 35 lens reaches an extreme wide angle while holding a fast, constant aperture across its whole range. It gives rental crews a single-lens alternative to a bag of ultra-wide primes, with the clean, high-contrast rendering Vantage builds into its spherical glass. Rental-only through Vantage Film."
+      "description": "Billed by Hawk as the first 35mm ultra-wide spherical zoom, this Super 35 lens reaches an extreme wide angle while holding a fast, constant aperture across its whole range. It gives rental crews a single-lens alternative to a bag of ultra-wide primes, with the clean, high-contrast rendering Vantage builds into its spherical glass. Rental-only through Vantage Film.",
+      "maxApertureWide": 2.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "hawk-telephoto-zoom-100-300mm-t2-2",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://www.vantagefilm.com/en/lenses"
       ],
-      "description": "The fast, shorter configuration of Hawk's spherical telephoto zoom, formed by fitting an optical reducer to the 150-450mm to shift its range down and open up to a brighter, constant aperture. It stays sharp and on-target through long throws, suited to sport, wildlife and other reach-hungry Super 35 work. Rental-only through Vantage Film."
+      "description": "The fast, shorter configuration of Hawk's spherical telephoto zoom, formed by fitting an optical reducer to the 150-450mm to shift its range down and open up to a brighter, constant aperture. It stays sharp and on-target through long throws, suited to sport, wildlife and other reach-hungry Super 35 work. Rental-only through Vantage Film.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "hawk-telephoto-zoom-150-450mm-t2-8",
@@ -118,7 +126,11 @@
       "webSources": [
         "https://www.vantagefilm.com/en/lenses"
       ],
-      "description": "A large, industry-standard spherical telephoto zoom that keeps its aperture constant across a formidable Super 35 range, engineered for stadium, crowd and other extreme-distance shots. Its long barrel is built for centering stability rather than handheld use, and a supplied reducer converts it to the faster, shorter 100-300mm configuration. Rental-only through Vantage Film."
+      "description": "A large, industry-standard spherical telephoto zoom that keeps its aperture constant across a formidable Super 35 range, engineered for stadium, crowd and other extreme-distance shots. Its long barrel is built for centering stability rather than handheld use, and a supplied reducer converts it to the faster, shorter 100-300mm configuration. Rental-only through Vantage Film.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

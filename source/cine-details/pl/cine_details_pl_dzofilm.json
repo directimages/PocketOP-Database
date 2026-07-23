@@ -36,7 +36,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A telephoto large-format prime in the Arles set, well suited to portraits, interviews and tighter coverage. It carries the line's clean, modern sharpness and gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for smooth round bokeh and floating elements holding breathing low. Wide open it softens into a lower-contrast look with shallow, dimensional separation, in the set's consistent housing and gearing."
+      "description": "A telephoto large-format prime in the Arles set, well suited to portraits, interviews and tighter coverage. It carries the line's clean, modern sharpness and gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for smooth round bokeh and floating elements holding breathing low. Wide open it softens into a lower-contrast look with shallow, dimensional separation, in the set's consistent housing and gearing.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-135mm-t1-8",
@@ -74,7 +78,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A telephoto large-format prime in the Arles set, a longer portrait and detail lens with an arrestingly shallow depth of field wide open. It renders with the Arles balance of clean, modern sharpness and a gentle, painterly character, natural colour and a sixteen-blade iris for smooth round bokeh, with floating elements keeping breathing minimal. Opened up it eases into a softer, low-contrast rendering, sharing the set's front and gearing for fast changes."
+      "description": "A telephoto large-format prime in the Arles set, a longer portrait and detail lens with an arrestingly shallow depth of field wide open. It renders with the Arles balance of clean, modern sharpness and a gentle, painterly character, natural colour and a sixteen-blade iris for smooth round bokeh, with floating elements keeping breathing minimal. Opened up it eases into a softer, low-contrast rendering, sharing the set's front and gearing for fast changes.",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-14mm-t1-9",
@@ -112,7 +120,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "The widest lens in DZOFilm's flagship Arles Prime set, an ultra-wide large-format prime that opens up sweeping vistas and tight interiors while keeping wide-angle distortion well controlled. It carries the Arles signature: a clean, modern sharpness paired with a gentle, painterly rendering, natural colour and a sixteen-blade iris for round out-of-focus highlights, with floating elements holding breathing to a minimum, and a nano coating keeping flare and ghosting in check. Its front takes no screw-in filter thread, so it works with a matte box rather than screw-in filters."
+      "description": "The widest lens in DZOFilm's flagship Arles Prime set, an ultra-wide large-format prime that opens up sweeping vistas and tight interiors while keeping wide-angle distortion well controlled. It carries the Arles signature: a clean, modern sharpness paired with a gentle, painterly rendering, natural colour and a sixteen-blade iris for round out-of-focus highlights, with floating elements holding breathing to a minimum, and a nano coating keeping flare and ghosting in check. Its front takes no screw-in filter thread, so it works with a matte box rather than screw-in filters.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-180mm-t2-4",
@@ -150,7 +162,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "The longest lens in the Arles set, a telephoto large-format prime for portraits and compressed, isolated coverage. It carries the line's clean, modern sharpness and gentle, painterly rendering with natural colour, a sixteen-blade iris for smooth natural bokeh and floating elements for minimal breathing. Its reach delivers strong subject separation while holding the Arles look, in the set's consistent housing and gearing."
+      "description": "The longest lens in the Arles set, a telephoto large-format prime for portraits and compressed, isolated coverage. It carries the line's clean, modern sharpness and gentle, painterly rendering with natural colour, a sixteen-blade iris for smooth natural bokeh and floating elements for minimal breathing. Its reach delivers strong subject separation while holding the Arles look, in the set's consistent housing and gearing.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-18mm-t1-4",
@@ -188,7 +204,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "An ultra-wide large-format prime in the Arles set, sitting between the 14mm and 21mm and filling out the wide end of the line. It shares the Arles character: clean, modern sharpness with a gentle, painterly look and natural colour, a sixteen-blade iris for round bokeh, and floating elements that keep breathing minimal. A nano blue coating controls flare and preserves colour fidelity. Its front takes no screw-in filter thread, so it works with a matte box rather than screw-in filters."
+      "description": "An ultra-wide large-format prime in the Arles set, sitting between the 14mm and 21mm and filling out the wide end of the line. It shares the Arles character: clean, modern sharpness with a gentle, painterly look and natural colour, a sixteen-blade iris for round bokeh, and floating elements that keep breathing minimal. A nano blue coating controls flare and preserves colour fidelity. Its front takes no screw-in filter thread, so it works with a matte box rather than screw-in filters.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-21mm-t1-4",
@@ -226,7 +246,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A wide-angle large-format prime in the Arles set, a natural establishing and interior focal length. It carries the line's balance of clean, modern sharpness and a gentle, painterly rendering with natural colour, a sixteen-blade iris for round out-of-focus highlights and floating elements for minimal breathing. Wide open it takes on a softer, low-contrast look with a hint of swirling peripheral bokeh, all in the set's consistent housing and gearing for fast swaps."
+      "description": "A wide-angle large-format prime in the Arles set, a natural establishing and interior focal length. It carries the line's balance of clean, modern sharpness and a gentle, painterly rendering with natural colour, a sixteen-blade iris for round out-of-focus highlights and floating elements for minimal breathing. Wide open it takes on a softer, low-contrast look with a hint of swirling peripheral bokeh, all in the set's consistent housing and gearing for fast swaps.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-25mm-t1-4",
@@ -264,7 +288,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A wide-standard large-format prime and one of the original Arles focal lengths, a natural lens for interiors and establishing work. It shows the Arles balance of clean, modern sharpness and a gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for round bokeh and floating elements that keep breathing minimal. Wide open it softens into a lower-contrast look with gently swirling edges, sharing the set's uniform front and gears."
+      "description": "A wide-standard large-format prime and one of the original Arles focal lengths, a natural lens for interiors and establishing work. It shows the Arles balance of clean, modern sharpness and a gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for round bokeh and floating elements that keep breathing minimal. Wide open it softens into a lower-contrast look with gently swirling edges, sharing the set's uniform front and gears.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-35mm-t1-4",
@@ -302,7 +330,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A versatile standard-wide large-format prime and a workhorse of the Arles set, at home for dialogue, documentary and general coverage. It renders with the line's clean, modern sharpness and a gentle, painterly character, natural colour and a sixteen-blade iris for smooth round bokeh, with floating elements holding breathing low. Opened up it takes on a softer, low-contrast look with a touch of peripheral swirl, in the set's consistent housing and gearing."
+      "description": "A versatile standard-wide large-format prime and a workhorse of the Arles set, at home for dialogue, documentary and general coverage. It renders with the line's clean, modern sharpness and a gentle, painterly character, natural colour and a sixteen-blade iris for smooth round bokeh, with floating elements holding breathing low. Opened up it takes on a softer, low-contrast look with a touch of peripheral swirl, in the set's consistent housing and gearing.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-40mm-t1-4",
@@ -340,7 +372,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A standard large-format prime bridging the 35mm and 50mm in the Arles set, a natural, unobtrusive focal length for narrative and documentary. It carries the Arles balance of clean, modern sharpness with a gentle, painterly rendering and natural colour, a sixteen-blade iris for round bokeh and floating elements for minimal breathing. Wide open it eases into a softer, lower-contrast look, sharing the set's uniform front diameter and gears for quick changes."
+      "description": "A standard large-format prime bridging the 35mm and 50mm in the Arles set, a natural, unobtrusive focal length for narrative and documentary. It carries the Arles balance of clean, modern sharpness with a gentle, painterly rendering and natural colour, a sixteen-blade iris for round bokeh and floating elements for minimal breathing. Wide open it eases into a softer, lower-contrast look, sharing the set's uniform front diameter and gears for quick changes.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-50mm-t1-4",
@@ -378,7 +414,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "The normal large-format prime of the Arles set, a natural-perspective lens for portraits, dialogue and everyday coverage. It shows the line's clean, modern sharpness and gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for smooth round bokeh and floating elements that keep breathing minimal. Wide open it softens into a lower-contrast, faintly swirling look, all in the consistent Arles housing and gearing."
+      "description": "The normal large-format prime of the Arles set, a natural-perspective lens for portraits, dialogue and everyday coverage. It shows the line's clean, modern sharpness and gentle, painterly feel with natural colour and fine skin rendering, a sixteen-blade iris for smooth round bokeh and floating elements that keep breathing minimal. Wide open it softens into a lower-contrast, faintly swirling look, all in the consistent Arles housing and gearing.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-arles-75mm-t1-4",
@@ -416,7 +456,11 @@
       "webSources": [
         "https://dzofilm.com/products/arles-prime"
       ],
-      "description": "A short-telephoto large-format prime in the Arles set, a flattering portrait and close-coverage focal length. It renders with the Arles balance of clean, modern sharpness and a gentle, painterly character, natural colour and fine soft skin, a sixteen-blade iris for smooth natural bokeh and floating elements for minimal breathing. Opened up it takes on a softer, low-contrast rendering with pleasing separation, sharing the set's front diameter and gears."
+      "description": "A short-telephoto large-format prime in the Arles set, a flattering portrait and close-coverage focal length. It renders with the Arles balance of clean, modern sharpness and a gentle, painterly character, natural colour and fine soft skin, a sixteen-blade iris for smooth natural bokeh and floating elements for minimal breathing. Opened up it takes on a softer, low-contrast rendering with pleasing separation, sharing the set's front diameter and gears.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-gnosis-24mm-t2-8",
@@ -454,7 +498,11 @@
       "webSources": [
         "https://dzofilm.com/products/gnosis-macro-prime"
       ],
-      "description": "The widest lens in DZOFilm's full-frame Gnosis Macro set, a wide-angle prime with true built-in macro capability that lets you get extremely close while still taking in the surrounding scene. It renders with crisp, edge-to-edge sharpness from its close-focus distance out to infinity and a clean, natural colour that stays uniform from in-focus to out-of-focus, with a sixteen-blade iris for smooth, naturally soft bokeh. Because it focuses to infinity as well, it doubles as a wide general-purpose prime, not just a macro."
+      "description": "The widest lens in DZOFilm's full-frame Gnosis Macro set, a wide-angle prime with true built-in macro capability that lets you get extremely close while still taking in the surrounding scene. It renders with crisp, edge-to-edge sharpness from its close-focus distance out to infinity and a clean, natural colour that stays uniform from in-focus to out-of-focus, with a sixteen-blade iris for smooth, naturally soft bokeh. Because it focuses to infinity as well, it doubles as a wide general-purpose prime, not just a macro.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-gnosis-32mm-t2-8",
@@ -492,7 +540,11 @@
       "webSources": [
         "https://dzofilm.com/products/gnosis-macro-prime"
       ],
-      "description": "A wide-standard prime in the full-frame Gnosis Macro set, delivering true life-size built-in macro for cinematic close-ups of small subjects, products and detail. It stays crisp and sharp edge to edge from its close-focus distance through to infinity, with clean, natural colour that carries evenly into the out-of-focus areas and a sixteen-blade iris for soft, natural bokeh. It focuses to infinity too, so it works as a standard prime as well as a macro."
+      "description": "A wide-standard prime in the full-frame Gnosis Macro set, delivering true life-size built-in macro for cinematic close-ups of small subjects, products and detail. It stays crisp and sharp edge to edge from its close-focus distance through to infinity, with clean, natural colour that carries evenly into the out-of-focus areas and a sixteen-blade iris for soft, natural bokeh. It focuses to infinity too, so it works as a standard prime as well as a macro.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-gnosis-65mm-t2-8",
@@ -530,7 +582,11 @@
       "webSources": [
         "https://dzofilm.com/products/gnosis-macro-prime"
       ],
-      "description": "A standard prime in the full-frame Gnosis Macro set, offering high built-in macro magnification for tight, detailed close-ups with a natural field of view. It renders sharp and crisp from its close-focus distance out to infinity, with clean, uniform colour from in-focus to out-of-focus and a sixteen-blade iris for smooth, naturally soft bokeh. Able to focus to infinity, it serves equally as a standard prime for everyday coverage."
+      "description": "A standard prime in the full-frame Gnosis Macro set, offering high built-in macro magnification for tight, detailed close-ups with a natural field of view. It renders sharp and crisp from its close-focus distance out to infinity, with clean, uniform colour from in-focus to out-of-focus and a sixteen-blade iris for smooth, naturally soft bokeh. Able to focus to infinity, it serves equally as a standard prime for everyday coverage.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-gnosis-90mm-t2-8",
@@ -568,7 +624,11 @@
       "webSources": [
         "https://dzofilm.com/products/gnosis-macro-prime"
       ],
-      "description": "The longest lens in the full-frame Gnosis Macro set and its highest-magnification option, a short-telephoto prime with strong built-in macro for the tightest close-up detail and a flattering working distance. It holds crisp, edge-to-edge sharpness from close focus through to infinity, with clean, natural colour into the out-of-focus areas and a sixteen-blade iris for smooth, soft bokeh. Focusing to infinity, it also works as a short-telephoto portrait prime."
+      "description": "The longest lens in the full-frame Gnosis Macro set and its highest-magnification option, a short-telephoto prime with strong built-in macro for the tightest close-up detail and a flattering working distance. It holds crisp, edge-to-edge sharpness from close focus through to infinity, with clean, natural colour into the out-of-focus areas and a sixteen-blade iris for smooth, soft bokeh. Focusing to infinity, it also works as a short-telephoto portrait prime.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-pictor-12-25mm-t2-8",
@@ -607,7 +667,11 @@
       "webSources": [
         "https://dzofilm.com/products/pictor-zoom"
       ],
-      "description": "The widest zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom covering the ultra-wide range. Close focusing suits tight spaces, and distortion stays well controlled even wide open. Focus holds through the zoom, internal floating elements keep breathing very low, and a 16-blade iris renders soft, rounded bokeh. Color and handling are matched across the Pictor set, with standard cine gears and an interchangeable PL/EF mount."
+      "description": "The widest zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom covering the ultra-wide range. Close focusing suits tight spaces, and distortion stays well controlled even wide open. Focus holds through the zoom, internal floating elements keep breathing very low, and a 16-blade iris renders soft, rounded bokeh. Color and handling are matched across the Pictor set, with standard cine gears and an interchangeable PL/EF mount.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-pictor-14-30mm-t2-8",
@@ -646,7 +710,11 @@
       "webSources": [
         "https://dzofilm.com/products/pictor-zoom"
       ],
-      "description": "The wide-angle zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom built for run-and-gun and documentary work. Focus holds through the zoom range, internal floating elements keep focus breathing very low, and a 16-blade iris gives soft, rounded bokeh. Color and handling match the rest of the Pictor set, with standard cine gears and an interchangeable PL/EF mount."
+      "description": "The wide-angle zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom built for run-and-gun and documentary work. Focus holds through the zoom range, internal floating elements keep focus breathing very low, and a 16-blade iris gives soft, rounded bokeh. Color and handling match the rest of the Pictor set, with standard cine gears and an interchangeable PL/EF mount.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-pictor-20-55mm-t2-8",
@@ -685,7 +753,11 @@
       "webSources": [
         "https://dzofilm.com/products/pictor-zoom"
       ],
-      "description": "The standard-range zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom suited to run-and-gun and documentary shooting. It holds focus across the zoom, internal floating elements keep breathing very low, and the 16-blade iris renders soft, rounded bokeh. Color and handling are matched to the rest of the set, with standard cine gears and an interchangeable PL/EF mount."
+      "description": "The standard-range zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom suited to run-and-gun and documentary shooting. It holds focus across the zoom, internal floating elements keep breathing very low, and the 16-blade iris renders soft, rounded bokeh. Color and handling are matched to the rest of the set, with standard cine gears and an interchangeable PL/EF mount.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-pictor-50-125mm-t2-8",
@@ -724,7 +796,11 @@
       "webSources": [
         "https://dzofilm.com/products/pictor-zoom"
       ],
-      "description": "The telephoto zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom for run-and-gun and documentary work. Focus holds through the zoom range, internal floating elements keep focus breathing very low, and a 16-blade iris produces soft, rounded bokeh. Matched in color and handling to the rest of the Pictor set, with standard cine gears and an interchangeable PL/EF mount."
+      "description": "The telephoto zoom in DZOFilm's Pictor line, a compact, lightweight Super 35 parfocal cine zoom for run-and-gun and documentary work. Focus holds through the zoom range, internal floating elements keep focus breathing very low, and a 16-blade iris produces soft, rounded bokeh. Matched in color and handling to the rest of the Pictor set, with standard cine gears and an interchangeable PL/EF mount.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-100mm-t2-1",
@@ -762,7 +838,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A telephoto full-frame prime in the original Vespid set, well suited to portraits, interviews and tighter coverage. It carries the line's modern-vintage balance, sharp and clean yet organic with neutral colour and fine skin rendering, and a sixteen-blade iris for smooth round bokeh with controlled focus breathing. Light and compact for its reach, with the family's shared front diameter and gearing."
+      "description": "A telephoto full-frame prime in the original Vespid set, well suited to portraits, interviews and tighter coverage. It carries the line's modern-vintage balance, sharp and clean yet organic with neutral colour and fine skin rendering, and a sixteen-blade iris for smooth round bokeh with controlled focus breathing. Light and compact for its reach, with the family's shared front diameter and gearing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-125mm-t2-1",
@@ -800,7 +880,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "The longest lens in the original Vespid set, a telephoto full-frame prime for portraits and compressed, isolated coverage. It renders with the Vespid balance of modern sharpness and vintage gentleness, neutral colour and fine soft skin, and a sixteen-blade iris for smooth, natural round bokeh with minimal breathing. Light and compact for a lens of its focal length, sharing the set's uniform front and gear positions."
+      "description": "The longest lens in the original Vespid set, a telephoto full-frame prime for portraits and compressed, isolated coverage. It renders with the Vespid balance of modern sharpness and vintage gentleness, neutral colour and fine soft skin, and a sixteen-blade iris for smooth, natural round bokeh with minimal breathing. Light and compact for a lens of its focal length, sharing the set's uniform front and gear positions.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-16mm-t2-8",
@@ -838,7 +922,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "The widest lens in DZOFilm's original Vespid Prime set, an ultra-wide full-frame cine prime that keeps distortion well controlled for its angle of view. It carries the line's modern-vintage balance: an APO design that stays sharp and clean while rendering with a gentle, organic character and neutral colour, with a sixteen-blade iris for round out-of-focus highlights and minimal focus breathing. Lightweight and compact like the rest of the agile-wasp family, it shares the common gear positions that make swaps quick. Its front carries an anti-reflective extinction thread rather than a filter thread, so it works with a matte box rather than screw-in filters."
+      "description": "The widest lens in DZOFilm's original Vespid Prime set, an ultra-wide full-frame cine prime that keeps distortion well controlled for its angle of view. It carries the line's modern-vintage balance: an APO design that stays sharp and clean while rendering with a gentle, organic character and neutral colour, with a sixteen-blade iris for round out-of-focus highlights and minimal focus breathing. Lightweight and compact like the rest of the agile-wasp family, it shares the common gear positions that make swaps quick. Its front carries an anti-reflective extinction thread rather than a filter thread, so it works with a matte box rather than screw-in filters.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-21mm-t2-1",
@@ -876,7 +964,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A wide-angle full-frame prime in DZOFilm's original Vespid set, sitting between the ultra-wide 16mm and the 25mm. It shares the line's modern-vintage balance, an APO design that stays sharp and clean yet renders with a gentle, organic look and neutral colour, with a sixteen-blade iris for natural round bokeh and minimal breathing. Compact and light with the family's uniform front diameter and gear positions for fast changes, plus a detachable rear ND filter."
+      "description": "A wide-angle full-frame prime in DZOFilm's original Vespid set, sitting between the ultra-wide 16mm and the 25mm. It shares the line's modern-vintage balance, an APO design that stays sharp and clean yet renders with a gentle, organic look and neutral colour, with a sixteen-blade iris for natural round bokeh and minimal breathing. Compact and light with the family's uniform front diameter and gear positions for fast changes, plus a detachable rear ND filter.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-25mm-t2-1",
@@ -914,7 +1006,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A wide-standard full-frame prime and one of the original core Vespid focal lengths, a natural establishing and interior lens. It carries the line's balance of modern sharpness and vintage gentleness, an APO design with neutral colour, fine soft skin rendering and a sixteen-blade iris for round bokeh, with minimal focus breathing. Light and compact with shared gears and front diameter for quick swaps across the set."
+      "description": "A wide-standard full-frame prime and one of the original core Vespid focal lengths, a natural establishing and interior lens. It carries the line's balance of modern sharpness and vintage gentleness, an APO design with neutral colour, fine soft skin rendering and a sixteen-blade iris for round bokeh, with minimal focus breathing. Light and compact with shared gears and front diameter for quick swaps across the set.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-35mm-t2-1",
@@ -952,7 +1048,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A versatile standard-wide prime and a workhorse of the original Vespid set, at home for dialogue, documentary and general coverage on full-frame. It renders with the line's modern-vintage balance, sharp and clean yet organic and neutral in colour, with a sixteen-blade iris for natural round bokeh and controlled breathing. Compact and light with the family's uniform front and gear positions."
+      "description": "A versatile standard-wide prime and a workhorse of the original Vespid set, at home for dialogue, documentary and general coverage on full-frame. It renders with the line's modern-vintage balance, sharp and clean yet organic and neutral in colour, with a sixteen-blade iris for natural round bokeh and controlled breathing. Compact and light with the family's uniform front and gear positions.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-40mm-t2-1",
@@ -990,7 +1090,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A standard full-frame prime bridging the 35mm and 50mm in the original Vespid set, a natural, unobtrusive focal length for narrative and documentary work. It carries the Vespid balance of modern sharpness with gentle, organic rendering and neutral colour, a sixteen-blade iris for round bokeh and minimal focus breathing. Light and compact with the shared front diameter and gearing of the set."
+      "description": "A standard full-frame prime bridging the 35mm and 50mm in the original Vespid set, a natural, unobtrusive focal length for narrative and documentary work. It carries the Vespid balance of modern sharpness with gentle, organic rendering and neutral colour, a sixteen-blade iris for round bokeh and minimal focus breathing. Light and compact with the shared front diameter and gearing of the set.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-50mm-t2-1",
@@ -1028,7 +1132,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "The normal full-frame prime of the original Vespid set, a natural-perspective lens for portraits, dialogue and everyday coverage. It shows the line's modern-vintage balance, sharp and clean with an organic feel, neutral colour and fine skin rendering, and a sixteen-blade iris for smooth round bokeh with minimal breathing. Compact and light with the family's uniform front and consistent gear positions."
+      "description": "The normal full-frame prime of the original Vespid set, a natural-perspective lens for portraits, dialogue and everyday coverage. It shows the line's modern-vintage balance, sharp and clean with an organic feel, neutral colour and fine skin rendering, and a sixteen-blade iris for smooth round bokeh with minimal breathing. Compact and light with the family's uniform front and consistent gear positions.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-75mm-t2-1",
@@ -1066,7 +1174,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "A short-telephoto full-frame prime in the original Vespid set, a flattering portrait and close-coverage focal length. It renders with the Vespid balance of modern sharpness and vintage gentleness, neutral colour and fine soft skin, and a sixteen-blade iris that gives smooth, natural round bokeh with well-controlled breathing. Light and compact, sharing the set's front diameter and gearing for fast lens changes."
+      "description": "A short-telephoto full-frame prime in the original Vespid set, a flattering portrait and close-coverage focal length. It renders with the Vespid balance of modern sharpness and vintage gentleness, neutral colour and fine soft skin, and a sixteen-blade iris that gives smooth, natural round bokeh with well-controlled breathing. Light and compact, sharing the set's front diameter and gearing for fast lens changes.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-90mm-macro-t2-8",
@@ -1104,7 +1216,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime"
       ],
-      "description": "The close-focus specialist of the original Vespid set, a full-frame macro prime with true built-in macro capability for tight detail and product work. It keeps the line's modern-vintage balance, an APO design that stays sharp and clean while rendering organically with neutral colour, and a sixteen-blade iris for smooth round bokeh with minimal breathing. Relatively small and light for a macro, it shares the family's front diameter and gear positions, making it easy to slot into the set or onto a gimbal."
+      "description": "The close-focus specialist of the original Vespid set, a full-frame macro prime with true built-in macro capability for tight detail and product work. It keeps the line's modern-vintage balance, an APO design that stays sharp and clean while rendering organically with neutral colour, and a sixteen-blade iris for smooth round bokeh with minimal breathing. Relatively small and light for a macro, it shares the family's front diameter and gear positions, making it easy to slot into the set or onto a gimbal.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-cyber-35mm-t2-1",
@@ -1142,7 +1258,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-cyber"
       ],
-      "description": "The wide-standard lens in DZOFilm's Vespid Cyber set, a full-frame prime that inherits the Vespid Prime optical character and adds a built-in data interface. Its APO design renders with the organic, gently sharp Vespid look and a sixteen-blade iris for round bokeh, while an internal-focus design keeps the front from rotating or changing size and holds breathing low. The Cyber data connection outputs focus and aperture data for VFX and virtual-production workflows and enables autofocus with compatible third-party systems, behind a larger front that matches the rest of the Cyber set."
+      "description": "The wide-standard lens in DZOFilm's Vespid Cyber set, a full-frame prime that inherits the Vespid Prime optical character and adds a built-in data interface. Its APO design renders with the organic, gently sharp Vespid look and a sixteen-blade iris for round bokeh, while an internal-focus design keeps the front from rotating or changing size and holds breathing low. The Cyber data connection outputs focus and aperture data for VFX and virtual-production workflows and enables autofocus with compatible third-party systems, behind a larger front that matches the rest of the Cyber set.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-cyber-50mm-t2-1",
@@ -1180,7 +1300,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-cyber"
       ],
-      "description": "The normal prime of DZOFilm's Vespid Cyber set, a full-frame lens combining the Vespid Prime look with a built-in data interface. It renders with the organic, gently sharp Vespid character and a sixteen-blade iris for smooth round bokeh, and an internal-focus design keeps the front stationary while minimising breathing. The Cyber data connection outputs focus and aperture data for VFX and virtual production and supports autofocus with compatible third-party systems, sharing the set's larger front and handling."
+      "description": "The normal prime of DZOFilm's Vespid Cyber set, a full-frame lens combining the Vespid Prime look with a built-in data interface. It renders with the organic, gently sharp Vespid character and a sixteen-blade iris for smooth round bokeh, and an internal-focus design keeps the front stationary while minimising breathing. The Cyber data connection outputs focus and aperture data for VFX and virtual production and supports autofocus with compatible third-party systems, sharing the set's larger front and handling.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-cyber-75mm-t2-1",
@@ -1218,7 +1342,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-cyber"
       ],
-      "description": "The short-telephoto prime in DZOFilm's Vespid Cyber set, a full-frame portrait lens that pairs the Vespid Prime rendering with a built-in data interface. Its APO optics give the organic, gently sharp Vespid look, with a sixteen-blade iris for smooth round bokeh and an internal-focus design that keeps the front from rotating and holds breathing low. The Cyber data connection outputs focus and aperture data for VFX and virtual-production work and enables autofocus with compatible third-party systems, matching the front diameter and handling of the Cyber set."
+      "description": "The short-telephoto prime in DZOFilm's Vespid Cyber set, a full-frame portrait lens that pairs the Vespid Prime rendering with a built-in data interface. Its APO optics give the organic, gently sharp Vespid look, with a sixteen-blade iris for smooth round bokeh and an internal-focus design that keeps the front from rotating and holds breathing low. The Cyber data connection outputs focus and aperture data for VFX and virtual-production work and enables autofocus with compatible third-party systems, matching the front diameter and handling of the Cyber set.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-105mm-t1-9",
@@ -1256,7 +1384,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "The longest lens in the second-generation Vespid Prime II set, a full-frame short telephoto with a fast constant T1.9 for portraits and tighter, isolated coverage. Gen 2 retains the Vespid look while upgrading the optics for cleaner, purer imagery with rich detail and natural tonality. Floating elements sharpen close focus, and Cooke /i metadata, a ten-blade iris and a compact all-metal PL body round out a set built for modern, metadata-driven workflows."
+      "description": "The longest lens in the second-generation Vespid Prime II set, a full-frame short telephoto with a fast constant T1.9 for portraits and tighter, isolated coverage. Gen 2 retains the Vespid look while upgrading the optics for cleaner, purer imagery with rich detail and natural tonality. Floating elements sharpen close focus, and Cooke /i metadata, a ten-blade iris and a compact all-metal PL body round out a set built for modern, metadata-driven workflows.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-18mm-t1-9",
@@ -1294,7 +1426,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "The ultra-wide of DZOFilm's second-generation Vespid Prime II set, a compact full-frame prime with an expansive field for landscapes, establishing shots and close-quarters work. Gen 2 keeps the signature Vespid look but upgrades the optics: a fast constant T1.9 across the set, new aspherical elements and nano coatings for cleaner, purer imagery with gentler highlight roll-off and natural skin. Floating elements sharpen close focus, and Cooke /i metadata plus a ten-blade iris and all-metal PL body suit gimbals and modern workflows."
+      "description": "The ultra-wide of DZOFilm's second-generation Vespid Prime II set, a compact full-frame prime with an expansive field for landscapes, establishing shots and close-quarters work. Gen 2 keeps the signature Vespid look but upgrades the optics: a fast constant T1.9 across the set, new aspherical elements and nano coatings for cleaner, purer imagery with gentler highlight roll-off and natural skin. Floating elements sharpen close focus, and Cooke /i metadata plus a ten-blade iris and all-metal PL body suit gimbals and modern workflows.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-24mm-t1-9",
@@ -1332,7 +1468,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "A wide-angle prime in the second-generation Vespid Prime II set, full-frame and fast at a constant T1.9. Gen 2 retains the Vespid character while upgrading to new aspherical elements and nano coatings for cleaner shadows, gentler highlights and natural, controlled contrast. Floating elements aid close focus, and it carries Cooke /i metadata, a ten-blade iris and a compact all-metal PL body that balances well on handheld rigs and gimbals."
+      "description": "A wide-angle prime in the second-generation Vespid Prime II set, full-frame and fast at a constant T1.9. Gen 2 retains the Vespid character while upgrading to new aspherical elements and nano coatings for cleaner shadows, gentler highlights and natural, controlled contrast. Floating elements aid close focus, and it carries Cooke /i metadata, a ten-blade iris and a compact all-metal PL body that balances well on handheld rigs and gimbals.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-35mm-t1-9",
@@ -1370,7 +1510,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "The standard-wide workhorse of the second-generation Vespid Prime II set, a full-frame prime with a fast constant T1.9. Gen 2 keeps the Vespid look but sharpens it: upgraded aspherical elements and nano coatings deliver clean, pure imagery with rich detail and gentle highlight roll-off. Floating elements improve close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body make it a natural fit for narrative and gimbal work."
+      "description": "The standard-wide workhorse of the second-generation Vespid Prime II set, a full-frame prime with a fast constant T1.9. Gen 2 keeps the Vespid look but sharpens it: upgraded aspherical elements and nano coatings deliver clean, pure imagery with rich detail and gentle highlight roll-off. Floating elements improve close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body make it a natural fit for narrative and gimbal work.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-50mm-t1-9",
@@ -1408,7 +1552,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "The normal prime of the second-generation Vespid Prime II set, full-frame with a fast constant T1.9 for a natural perspective in portraits and dialogue. Gen 2 upgrades the optics with new aspherical elements and nano coatings for cleaner, purer imagery and natural skin tones while retaining the signature Vespid feel. Floating elements sharpen close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body suit handheld and gimbal shooting."
+      "description": "The normal prime of the second-generation Vespid Prime II set, full-frame with a fast constant T1.9 for a natural perspective in portraits and dialogue. Gen 2 upgrades the optics with new aspherical elements and nano coatings for cleaner, purer imagery and natural skin tones while retaining the signature Vespid feel. Floating elements sharpen close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body suit handheld and gimbal shooting.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-prime-2-85mm-t1-9",
@@ -1446,7 +1594,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-prime2"
       ],
-      "description": "The portrait prime of the second-generation Vespid Prime II set, a full-frame short telephoto with a fast constant T1.9 for shallow, controlled separation. Gen 2 keeps the Vespid character but upgrades to new aspherical elements and nano coatings for clean, pure rendering with gentle highlight roll-off and natural skin. Floating elements aid close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body make it easy to balance on gimbals and handheld rigs."
+      "description": "The portrait prime of the second-generation Vespid Prime II set, a full-frame short telephoto with a fast constant T1.9 for shallow, controlled separation. Gen 2 keeps the Vespid character but upgrades to new aspherical elements and nano coatings for clean, pure rendering with gentle highlight roll-off and natural skin. Floating elements aid close focus, and Cooke /i metadata, a ten-blade iris and a compact PL body make it easy to balance on gimbals and handheld rigs.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-100mm-t2-1",
@@ -1484,7 +1636,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "A telephoto prime in the Vespid Retro set, suited to portraits and tighter coverage with a vintage rendering. Built on the original Vespid optics, its golden coating produces a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a dreamy, art-house feel. A sixteen-blade iris keeps bokeh smooth and round with minimal breathing, in the Retro's silver aluminium housing with the family's shared front and gearing."
+      "description": "A telephoto prime in the Vespid Retro set, suited to portraits and tighter coverage with a vintage rendering. Built on the original Vespid optics, its golden coating produces a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a dreamy, art-house feel. A sixteen-blade iris keeps bokeh smooth and round with minimal breathing, in the Retro's silver aluminium housing with the family's shared front and gearing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-125mm-t2-1",
@@ -1522,7 +1678,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "The longest lens in the Vespid Retro set, a telephoto full-frame prime for portraits and compressed, isolated coverage with a vintage look. It shares the original Vespid optics and mechanics, while a golden coating gives a cool, blue-toned base with warm, controllable amber flares and a softer, art-house sharpness. A sixteen-blade iris delivers smooth round bokeh with minimal breathing, in the Retro's silver housing."
+      "description": "The longest lens in the Vespid Retro set, a telephoto full-frame prime for portraits and compressed, isolated coverage with a vintage look. It shares the original Vespid optics and mechanics, while a golden coating gives a cool, blue-toned base with warm, controllable amber flares and a softer, art-house sharpness. A sixteen-blade iris delivers smooth round bokeh with minimal breathing, in the Retro's silver housing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-16mm-t2-8",
@@ -1559,7 +1719,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "The widest lens in the Vespid Retro set, an ultra-wide full-frame prime that pairs a controlled wide-angle rendering with the Retro line's vintage character. It shares the original Vespid optics and mechanics, but a golden coating gives a cool, blue-toned base image with warm, controllable amber flares and a gentler sharpness for a sun-soaked, art-house feel. A sixteen-blade iris keeps bokeh round and breathing minimal, all in the Retro's distinctive silver housing. Its front carries an extinction thread rather than a filter thread, so it works with a matte box rather than screw-in filters."
+      "description": "The widest lens in the Vespid Retro set, an ultra-wide full-frame prime that pairs a controlled wide-angle rendering with the Retro line's vintage character. It shares the original Vespid optics and mechanics, but a golden coating gives a cool, blue-toned base image with warm, controllable amber flares and a gentler sharpness for a sun-soaked, art-house feel. A sixteen-blade iris keeps bokeh round and breathing minimal, all in the Retro's distinctive silver housing. Its front carries an extinction thread rather than a filter thread, so it works with a matte box rather than screw-in filters.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-25mm-t2-1",
@@ -1597,7 +1761,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "A wide-standard prime in the Vespid Retro set, a natural establishing and interior focal length with a vintage twist. Built on the original Vespid optics and mechanics, its golden coating renders a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a dreamy, art-house look. A sixteen-blade iris gives round bokeh with minimal breathing, in the Retro's silver aluminium housing with the family's shared front and gearing."
+      "description": "A wide-standard prime in the Vespid Retro set, a natural establishing and interior focal length with a vintage twist. Built on the original Vespid optics and mechanics, its golden coating renders a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a dreamy, art-house look. A sixteen-blade iris gives round bokeh with minimal breathing, in the Retro's silver aluminium housing with the family's shared front and gearing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-35mm-t2-1",
@@ -1634,7 +1802,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "A versatile standard-wide prime in the Vespid Retro set, a natural workhorse for dialogue and documentary with a vintage character. It shares the original Vespid optics and mechanics, while a golden coating produces a cool, blue-toned base with warm, controllable amber flares and a softer, art-house sharpness. A sixteen-blade iris keeps bokeh round and breathing minimal, all in the Retro's silver housing with the set's uniform front and gears."
+      "description": "A versatile standard-wide prime in the Vespid Retro set, a natural workhorse for dialogue and documentary with a vintage character. It shares the original Vespid optics and mechanics, while a golden coating produces a cool, blue-toned base with warm, controllable amber flares and a softer, art-house sharpness. A sixteen-blade iris keeps bokeh round and breathing minimal, all in the Retro's silver housing with the set's uniform front and gears.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-50mm-t2-1",
@@ -1672,7 +1844,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "The normal prime of the Vespid Retro set, a natural-perspective lens for portraits and everyday coverage with a vintage rendering. Built on the original Vespid optics, its golden coating gives a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a sun-soaked, dreamy feel. A sixteen-blade iris delivers smooth round bokeh with minimal breathing, in the Retro's silver aluminium housing."
+      "description": "The normal prime of the Vespid Retro set, a natural-perspective lens for portraits and everyday coverage with a vintage rendering. Built on the original Vespid optics, its golden coating gives a cool, blue-toned image with warm, controllable amber flares and gentle sharpness for a sun-soaked, dreamy feel. A sixteen-blade iris delivers smooth round bokeh with minimal breathing, in the Retro's silver aluminium housing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-vespid-retro-75mm-t2-1",
@@ -1710,7 +1886,11 @@
       "webSources": [
         "https://dzofilm.com/products/vespid-retro"
       ],
-      "description": "A short-telephoto prime in the Vespid Retro set, a flattering portrait focal length with the line's vintage character. It shares the original Vespid optics and mechanics, while a golden coating renders a cool, blue-toned base with warm, controllable amber flares and a softer sharpness for an art-house look. A sixteen-blade iris gives smooth, natural round bokeh with controlled breathing, in the Retro's distinctive silver housing."
+      "description": "A short-telephoto prime in the Vespid Retro set, a flattering portrait focal length with the line's vintage character. It shares the original Vespid optics and mechanics, while a golden coating renders a cool, blue-toned base with warm, controllable amber flares and a softer sharpness for an art-house look. A sixteen-blade iris gives smooth, natural round bokeh with controlled breathing, in the Retro's distinctive silver housing.",
+      "maxApertureWide": 2.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-x-tract-18-28mm-t8",
@@ -1749,7 +1929,11 @@
       "webSources": [
         "https://dzofilm.com/products/x-tract-probe-zoom"
       ],
-      "description": "DZOFilm's full-frame X-Tract probe zoom, a specialist macro lens built to reach into narrow, hidden spaces and pull tiny worlds up to cinematic scale. Its slender, spacecraft-styled barrel slips between book pages or into miniature sets, delivering high-magnification macro with crisp, controlled detail and a creamy bokeh that is especially lovely toward the long end. Being a parfocal zoom, it holds focus while you change framing, opening up push-in and vertigo-style moves at macro range, and its rugged, weather-sealed build stands up to demanding close-up and product work."
+      "description": "DZOFilm's full-frame X-Tract probe zoom, a specialist macro lens built to reach into narrow, hidden spaces and pull tiny worlds up to cinematic scale. Its slender, spacecraft-styled barrel slips between book pages or into miniature sets, delivering high-magnification macro with crisp, controlled detail and a creamy bokeh that is especially lovely toward the long end. Being a parfocal zoom, it holds focus while you change framing, opening up push-in and vertigo-style moves at macro range, and its rugged, weather-sealed build stands up to demanding close-up and product work.",
+      "maxApertureWide": 8.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

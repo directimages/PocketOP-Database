@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series"
       ],
-      "description": "The wide-standard MK, an affordable, sub-1kg Super 35 zoom holding a constant T2.9 across 18 to 55mm. Fully manual with geared focus, zoom and iris rings and a clickless iris, it is built for owner-operators on compact cine and mirrorless bodies. It suppresses focus shift and breathing well and is colour-matched to the pricier HK, ZK and XK lenses for mixed sets. A common wide-to-normal choice for handheld and gimbal work, paired with the 50-135mm for a full 18-135mm range."
+      "description": "The wide-standard MK, an affordable, sub-1kg Super 35 zoom holding a constant T2.9 across 18 to 55mm. Fully manual with geared focus, zoom and iris rings and a clickless iris, it is built for owner-operators on compact cine and mirrorless bodies. It suppresses focus shift and breathing well and is colour-matched to the pricier HK, ZK and XK lenses for mixed sets. A common wide-to-normal choice for handheld and gimbal work, paired with the 50-135mm for a full 18-135mm range.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "fujinon-mk50-135mm-t2-9-e",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series"
       ],
-      "description": "The telephoto MK, matching its 18-55mm sibling in size, weight and a constant T2.9, covering 50 to 135mm on Super 35. Fully manual with 0.8-pitch gears and a clickless iris, it holds low distortion and controlled breathing at a low price point. Colour-matched to the wider MK and to Fujinon's HK, ZK and XK lines, it handles close-ups and long-lens work in a compact body. Together with the 18-55mm it forms a light, affordable two-lens cine kit."
+      "description": "The telephoto MK, matching its 18-55mm sibling in size, weight and a constant T2.9, covering 50 to 135mm on Super 35. Fully manual with 0.8-pitch gears and a clickless iris, it holds low distortion and controlled breathing at a low price point. Colour-matched to the wider MK and to Fujinon's HK, ZK and XK lines, it handles close-ups and long-lens work in a compact body. Together with the 18-55mm it forms a light, affordable two-lens cine kit.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

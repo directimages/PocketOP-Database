@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/"
       ],
-      "description": "Sigma's full-frame cine zoom in the classic line, a short wide zoom that holds a constant T2.2 with no ramping. It shares the optics of the 24-35mm F2 Art and behaves like a variable prime, standing in for a 24mm and a 35mm in one housing, with negligible focus breathing. The 9-blade clickless iris renders round highlights, focus travels 180 degrees, and the 95mm front and standardized gears match the rest of Sigma's cine line. This EF version can be converted to E-mount by a Sigma service center."
+      "description": "Sigma's full-frame cine zoom in the classic line, a short wide zoom that holds a constant T2.2 with no ramping. It shares the optics of the 24-35mm F2 Art and behaves like a variable prime, standing in for a 24mm and a 35mm in one housing, with negligible focus breathing. The 9-blade clickless iris renders round highlights, focus travels 180 degrees, and the 95mm front and standardized gears match the rest of Sigma's cine line. This EF version can be converted to E-mount by a Sigma service center.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

@@ -114,6 +114,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.51.0 — 2026-07-23
+
+- Cine aperture/IS batch (batch 3): maxApertureWide, maxApertureTele, apertureType and hasIS populated for 601 of 603 live cine entries via build/apply_fields.py. First population of these fields for cine; schema-registered and gated, now filled. Values Kay-supplied and verified (cine aperture/IS consolidation, reference/cine-import-map-batch3-aperture-is-2026-07-19.md). 2404 fields applied to 601 ids across 45 shards, zero orphans (pre-flight verified against db-v13)
+- Two entries intentionally left without these fields in this pass (fujinon-mk18-55mm-t2-9, fujinon-mk50-135mm-t2-9), the same phantom EF bases already excluded from the batch 2 description backfill; removal is scoped to batch 4
+
 ### v1.50.0 — 2026-07-23
 
 - Cine descriptions backfill (batch 2 of 4): description field written on 601 of 603 live cine entries. No other field changed. Two entries intentionally left without a description in this pass (fujinon-mk18-55mm-t2-9, fujinon-mk50-135mm-t2-9), pending a separate batch
@@ -168,6 +173,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.53.0 — 2026-07-23
+
+- Legacy union rebuild aggregating the cine_lens_details v1.51.0 aperture/IS batch above. maxApertureWide/maxApertureTele/apertureType/hasIS are outside the legacy whitelist and do not surface here. No lens core change
+
 ### v1.52.0 — 2026-07-23
 
 - Legacy union rebuild aggregating the cine_lens_details v1.50.0 description backfill above (601 cine entries). No lens core change

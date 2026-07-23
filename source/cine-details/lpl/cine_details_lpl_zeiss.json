@@ -35,7 +35,11 @@
         "https://www.bhphotovideo.com/c/product/1975880-REG/zeiss_2739_409_panoptes_65_35mm_t2_2.html",
         "https://www.ducloslenses.com/products/panoptes-35"
       ],
-      "description": "A wide-normal prime in Zeiss's Panoptes 65 line, the company's dedicated large-format set for 65mm sensors. Its 59.9mm image circle covers cameras like the ARRI Alexa 265 and Blackmagic URSA Cine 17K 65 on an LPL mount, at a uniform T2.2 shared across the set. Zeiss tunes the Panoptes for a clean, precise look rather than overt character: natural color, forgiving skin tones, gentle focus fall-off and a smooth bokeh, with distortion and chromatic aberration held low. It shares a 95mm front, matched ring positions and eXtended Data support with the rest of the line for VFX and virtual-production workflows."
+      "description": "A wide-normal prime in Zeiss's Panoptes 65 line, the company's dedicated large-format set for 65mm sensors. Its 59.9mm image circle covers cameras like the ARRI Alexa 265 and Blackmagic URSA Cine 17K 65 on an LPL mount, at a uniform T2.2 shared across the set. Zeiss tunes the Panoptes for a clean, precise look rather than overt character: natural color, forgiving skin tones, gentle focus fall-off and a smooth bokeh, with distortion and chromatic aberration held low. It shares a 95mm front, matched ring positions and eXtended Data support with the rest of the line for VFX and virtual-production workflows.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-40mm-t2-2-lpl",
@@ -71,7 +75,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975881-REG/zeiss_2739_411_panoptes_65_40mm_t2_2.html"
       ],
-      "description": "A wide-normal large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2. The 59.9mm image circle covers cameras such as the Alexa 265 and URSA Cine 17K 65 on LPL. Zeiss aims for a precise, premium rendering rather than a character look, with natural color, forgiving skin tones, gentle focus fall-off and silky bokeh. It shares the 95mm front, standardized rings and eXtended Data of the rest of the set."
+      "description": "A wide-normal large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2. The 59.9mm image circle covers cameras such as the Alexa 265 and URSA Cine 17K 65 on LPL. Zeiss aims for a precise, premium rendering rather than a character look, with natural color, forgiving skin tones, gentle focus fall-off and silky bokeh. It shares the 95mm front, standardized rings and eXtended Data of the rest of the set.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-45mm-t2-2-lpl",
@@ -107,7 +115,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975882-REG/zeiss_2739_413_panoptes_65_45mm_t2_2.html"
       ],
-      "description": "A normal-length large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors through a 59.9mm image circle on an LPL mount at T2.2. The line is tuned for a clean, controlled look, with natural color, forgiving skin, gentle fall-off and smooth bokeh, and low distortion. Ring positions, the 95mm front and eXtended Data metadata are matched across the set for efficient large-format and VFX work."
+      "description": "A normal-length large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors through a 59.9mm image circle on an LPL mount at T2.2. The line is tuned for a clean, controlled look, with natural color, forgiving skin, gentle fall-off and smooth bokeh, and low distortion. Ring positions, the 95mm front and eXtended Data metadata are matched across the set for efficient large-format and VFX work.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-55mm-t2-2-lpl",
@@ -143,7 +155,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975883-REG/zeiss_2739_415_panoptes_65_55mm_t2_2.html"
       ],
-      "description": "A normal large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2 on an LPL mount. Its 59.9mm image circle covers cameras like the Alexa 265, URSA Cine 17K 65 and Fujifilm GFX ETERNA 55. Zeiss keeps the look precise and premium rather than characterful, with natural color, forgiving skin, gentle focus fall-off and silky bokeh. It shares the 95mm front, matched rings and eXtended Data of the line."
+      "description": "A normal large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2 on an LPL mount. Its 59.9mm image circle covers cameras like the Alexa 265, URSA Cine 17K 65 and Fujifilm GFX ETERNA 55. Zeiss keeps the look precise and premium rather than characterful, with natural color, forgiving skin, gentle focus fall-off and silky bokeh. It shares the 95mm front, matched rings and eXtended Data of the line.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-70mm-t2-2-lpl",
@@ -179,7 +195,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975884-REG/zeiss_2739_417_panoptes_65_70mm_t2_2.html"
       ],
-      "description": "A short-telephoto large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors via a 59.9mm image circle on LPL at T2.2. The set is tuned for clean, natural rendering with forgiving skin tones, gentle focus fall-off and smooth bokeh, and controlled distortion. It carries the line's 95mm front, standardized ring positions and eXtended Data support for VFX and virtual production."
+      "description": "A short-telephoto large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors via a 59.9mm image circle on LPL at T2.2. The set is tuned for clean, natural rendering with forgiving skin tones, gentle focus fall-off and smooth bokeh, and controlled distortion. It carries the line's 95mm front, standardized ring positions and eXtended Data support for VFX and virtual production.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-90mm-t2-2-lpl",
@@ -215,7 +235,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975885-REG/zeiss_2739_419_panoptes_65_90mm_t2_2.html"
       ],
-      "description": "A short-telephoto large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the uniform T2.2 on an LPL mount with a 59.9mm image circle. Zeiss tunes the Panoptes for precise, premium rendering: natural color, forgiving skin tones, gentle focus fall-off and silky bokeh. It shares the 95mm front, matched rings and eXtended Data metadata of the rest of the set for large-format and VFX-heavy workflows."
+      "description": "A short-telephoto large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the uniform T2.2 on an LPL mount with a 59.9mm image circle. Zeiss tunes the Panoptes for precise, premium rendering: natural color, forgiving skin tones, gentle focus fall-off and silky bokeh. It shares the 95mm front, matched rings and eXtended Data metadata of the rest of the set for large-format and VFX-heavy workflows.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-110mm-t2-2-lpl",
@@ -251,7 +275,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975876-REG/zeiss_2739_421_panoptes_65_110mm_t2_2.html"
       ],
-      "description": "A telephoto large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors through a 59.9mm image circle on LPL at T2.2. The look stays clean and controlled, with natural color, forgiving skin, gentle focus fall-off and smooth bokeh well suited to large-format portraiture. It shares the 95mm front, standardized ring positions and eXtended Data of the set."
+      "description": "A telephoto large-format prime in Zeiss's Panoptes 65 line, covering 65mm sensors through a 59.9mm image circle on LPL at T2.2. The look stays clean and controlled, with natural color, forgiving skin, gentle focus fall-off and smooth bokeh well suited to large-format portraiture. It shares the 95mm front, standardized ring positions and eXtended Data of the set.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-panoptes-65-135mm-t2-2-lpl",
@@ -287,7 +315,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html",
         "https://www.bhphotovideo.com/c/product/1975877-REG/zeiss_2739_424_panoptes_65_135mm_t2_2.html"
       ],
-      "description": "A telephoto large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2 on LPL with a 59.9mm image circle. Zeiss keeps the rendering precise and premium, with natural color, forgiving skin tones, gentle focus fall-off and silky bokeh for isolation on large-format sensors. It carries the 95mm front, matched rings and eXtended Data support of the rest of the line."
+      "description": "A telephoto large-format prime in Zeiss's Panoptes 65 line for 65mm sensors, at the set's uniform T2.2 on LPL with a 59.9mm image circle. Zeiss keeps the rendering precise and premium, with natural color, forgiving skin tones, gentle focus fall-off and silky bokeh for isolation on large-format sensors. It carries the 95mm front, matched rings and eXtended Data support of the rest of the line.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

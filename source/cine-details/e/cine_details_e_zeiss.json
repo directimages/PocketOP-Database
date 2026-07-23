@@ -38,7 +38,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "The longest lens in Zeiss's Nano Prime line, a full-frame short telephoto still fast at T1.5. Part of the compact mirrorless set, it is native to Sony E and user-swappable to RF, Z or L, with a 12-blade iris for elegant circular bokeh and the gentle sharpness tuned to sit alongside the Supreme Primes. It shares the 95mm front, 86mm filter thread and eXtended Data metadata of the set."
+      "description": "The longest lens in Zeiss's Nano Prime line, a full-frame short telephoto still fast at T1.5. Part of the compact mirrorless set, it is native to Sony E and user-swappable to RF, Z or L, with a 12-blade iris for elegant circular bokeh and the gentle sharpness tuned to sit alongside the Supreme Primes. It shares the 95mm front, 86mm filter thread and eXtended Data metadata of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-nano-prime-18mm-t1-5",
@@ -78,7 +82,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "The widest lens in Zeiss's Nano Prime line, a compact full-frame cine prime that stays fast at T1.5 even at the wide end. The Nano Primes are Zeiss's lightweight mirrorless set, native to Sony E and user-swappable to RF, Z or L through the ZEISS interchangeable mount system, small enough for gimbals and drones. A 12-blade iris gives an elegant, circular bokeh, with the gentle sharpness Zeiss tunes to sit alongside the Supreme Primes as a B or C camera. All six share a 95mm front, an 86mm filter thread and eXtended Data metadata."
+      "description": "The widest lens in Zeiss's Nano Prime line, a compact full-frame cine prime that stays fast at T1.5 even at the wide end. The Nano Primes are Zeiss's lightweight mirrorless set, native to Sony E and user-swappable to RF, Z or L through the ZEISS interchangeable mount system, small enough for gimbals and drones. A 12-blade iris gives an elegant, circular bokeh, with the gentle sharpness Zeiss tunes to sit alongside the Supreme Primes as a B or C camera. All six share a 95mm front, an 86mm filter thread and eXtended Data metadata.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-nano-prime-24mm-t1-5",
@@ -118,7 +126,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "A wide-angle full-frame prime in Zeiss's Nano Prime line at T1.5. Part of Zeiss's compact, lightweight mirrorless set, it is native to Sony E and user-swappable to RF, Z or L via the interchangeable mount system, small enough for gimbal and drone work. The 12-blade iris renders elegant circular bokeh, and the gentle sharpness is tuned to complement the Supreme Primes. It shares the 95mm front, 86mm filter thread and eXtended Data of the set."
+      "description": "A wide-angle full-frame prime in Zeiss's Nano Prime line at T1.5. Part of Zeiss's compact, lightweight mirrorless set, it is native to Sony E and user-swappable to RF, Z or L via the interchangeable mount system, small enough for gimbal and drone work. The 12-blade iris renders elegant circular bokeh, and the gentle sharpness is tuned to complement the Supreme Primes. It shares the 95mm front, 86mm filter thread and eXtended Data of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-nano-prime-35mm-t1-5",
@@ -158,7 +170,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "A wide-normal full-frame prime in Zeiss's Nano Prime line at T1.5, and one of the lightest lenses in the compact mirrorless set. Native to Sony E and user-swappable to RF, Z or L, it is sized for gimbals and drones. A 12-blade iris gives elegant circular bokeh and the gentle, Supreme-like sharpness Zeiss aims for, with the shared 95mm front, 86mm filter thread and eXtended Data metadata."
+      "description": "A wide-normal full-frame prime in Zeiss's Nano Prime line at T1.5, and one of the lightest lenses in the compact mirrorless set. Native to Sony E and user-swappable to RF, Z or L, it is sized for gimbals and drones. A 12-blade iris gives elegant circular bokeh and the gentle, Supreme-like sharpness Zeiss aims for, with the shared 95mm front, 86mm filter thread and eXtended Data metadata.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-nano-prime-50mm-t1-5",
@@ -198,7 +214,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "The standard full-frame prime in Zeiss's Nano Prime line at T1.5. Compact and light like the rest of the mirrorless set, it is native to Sony E and user-swappable to RF, Z or L through the interchangeable mount system. The 12-blade iris renders elegant circular bokeh with a gentle sharpness matched to the Supreme Primes, and it shares the 95mm front, 86mm filter thread and eXtended Data of the line."
+      "description": "The standard full-frame prime in Zeiss's Nano Prime line at T1.5. Compact and light like the rest of the mirrorless set, it is native to Sony E and user-swappable to RF, Z or L through the interchangeable mount system. The 12-blade iris renders elegant circular bokeh with a gentle sharpness matched to the Supreme Primes, and it shares the 95mm front, 86mm filter thread and eXtended Data of the line.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "zeiss-nano-prime-75mm-t1-5",
@@ -238,7 +258,11 @@
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
         "https://www.zeiss.com/content/dam/pno/downloads/cine-lenses/brochures/brochure-zeiss-nano-prime-lenses.pdf"
       ],
-      "description": "A short-telephoto full-frame prime in Zeiss's Nano Prime line at T1.5, a natural portrait length. It shares the compact, lightweight mirrorless build, native to Sony E and user-swappable to RF, Z or L, with a 12-blade iris for elegant circular bokeh and the gentle Supreme-like sharpness of the set. The 95mm front, 86mm filter thread and eXtended Data are shared across the line."
+      "description": "A short-telephoto full-frame prime in Zeiss's Nano Prime line at T1.5, a natural portrait length. It shares the compact, lightweight mirrorless build, native to Sony E and user-swappable to RF, Z or L, with a 12-blade iris for elegant circular bokeh and the gentle Supreme-like sharpness of the set. The 95mm front, 86mm filter thread and eXtended Data are shared across the line.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

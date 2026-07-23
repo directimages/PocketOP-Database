@@ -32,7 +32,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A short-telephoto full-frame prime in Tokina's Vista-C line, unusually fast for its reach at T1.5. It keeps the set's vintage character, lower contrast, gentle distortion and warm flares, alongside high resolution and near-zero focus breathing, and the nine-blade curved iris renders smooth, round highlights for strong subject isolation. Its image circle covers large-format sensors. The 114mm front, long focus throw and common gear positions keep it consistent with the rest of the set."
+      "description": "A short-telephoto full-frame prime in Tokina's Vista-C line, unusually fast for its reach at T1.5. It keeps the set's vintage character, lower contrast, gentle distortion and warm flares, alongside high resolution and near-zero focus breathing, and the nine-blade curved iris renders smooth, round highlights for strong subject isolation. Its image circle covers large-format sensors. The 114mm front, long focus throw and common gear positions keep it consistent with the rest of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-135mm-t1-5-lpl",
@@ -66,7 +70,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A telephoto full-frame prime in Tokina's Vista-C set, fast at T1.5 and built for tight portraits and isolation. It carries the redesigned Vista-C optics, softened contrast and edges with warm red and blue flares, while holding resolution and keeping focus breathing near zero across long pulls. The curved nine-blade iris renders round, smooth bokeh, and coverage extends to large-format sensors. It shares the 114mm front, focus rotation and gear positions common to the whole line."
+      "description": "A telephoto full-frame prime in Tokina's Vista-C set, fast at T1.5 and built for tight portraits and isolation. It carries the redesigned Vista-C optics, softened contrast and edges with warm red and blue flares, while holding resolution and keeping focus breathing near zero across long pulls. The curved nine-blade iris renders round, smooth bokeh, and coverage extends to large-format sensors. It shares the 114mm front, focus rotation and gear positions common to the whole line.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-180mm-t1-9-lpl",
@@ -100,7 +108,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "The longest lens in Tokina's Vista-C set, a full-frame telephoto at T1.9, the one focal length that steps back from the line's T1.5 core. It matches the vintage Vista-C rendering, lowered contrast, soft edges and warm flares, with high resolution and near-zero breathing for controlled long-distance pulls. The nine-blade curved iris keeps out-of-focus highlights round for portraits and isolation, and its image circle covers large-format sensors. The 114mm front, long focus throw and shared gear positions let it swap cleanly with the rest of the set."
+      "description": "The longest lens in Tokina's Vista-C set, a full-frame telephoto at T1.9, the one focal length that steps back from the line's T1.5 core. It matches the vintage Vista-C rendering, lowered contrast, soft edges and warm flares, with high resolution and near-zero breathing for controlled long-distance pulls. The nine-blade curved iris keeps out-of-focus highlights round for portraits and isolation, and its image circle covers large-format sensors. The 114mm front, long focus throw and shared gear positions let it swap cleanly with the rest of the set.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-18mm-t1-5-lpl",
@@ -134,7 +146,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "The widest lens in Tokina's Vista-C set, a full-frame ultra-wide that carries the line's deliberately vintage character at a fast T1.5. Where the standard Vista primes chase a clean, uniform look, the Vista-C redesign lowers contrast, introduces subtle spherical distortion and softens the edges, trading the usual green flares for warmer red and blue ones. Its image circle covers full frame comfortably, though at this wide focal length it does not fully reach the very largest formats such as ALEXA 65 Open Gate. The curved nine-blade iris keeps out-of-focus highlights round, and the shared 114mm front, long focus throw and common gear positions let it swap quickly with the rest of the set."
+      "description": "The widest lens in Tokina's Vista-C set, a full-frame ultra-wide that carries the line's deliberately vintage character at a fast T1.5. Where the standard Vista primes chase a clean, uniform look, the Vista-C redesign lowers contrast, introduces subtle spherical distortion and softens the edges, trading the usual green flares for warmer red and blue ones. Its image circle covers full frame comfortably, though at this wide focal length it does not fully reach the very largest formats such as ALEXA 65 Open Gate. The curved nine-blade iris keeps out-of-focus highlights round, and the shared 114mm front, long focus throw and common gear positions let it swap quickly with the rest of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-21mm-t1-5-lpl",
@@ -168,7 +184,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A fast wide-angle in Tokina's Vista-C line, a full-frame prime at T1.5 built around the series' vintage-leaning optics. It renders with lowered contrast, gentle field distortion and softened edges while holding high resolution and near-zero focus breathing, with red and blue flares replacing the green cast of the standard Vista. The nine-blade curved iris gives round, smooth out-of-focus areas, and coverage extends past full frame. Like the rest of the set it uses the 114mm front, roughly 300 degrees of focus rotation and matched gear positions for fast, consistent lens changes."
+      "description": "A fast wide-angle in Tokina's Vista-C line, a full-frame prime at T1.5 built around the series' vintage-leaning optics. It renders with lowered contrast, gentle field distortion and softened edges while holding high resolution and near-zero focus breathing, with red and blue flares replacing the green cast of the standard Vista. The nine-blade curved iris gives round, smooth out-of-focus areas, and coverage extends past full frame. Like the rest of the set it uses the 114mm front, roughly 300 degrees of focus rotation and matched gear positions for fast, consistent lens changes.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-25mm-t1-5-lpl",
@@ -202,7 +222,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A wide full-frame prime in Tokina's Vista-C set, fast at T1.5 and tuned for the line's vintage character rather than a clinical modern image. Reduced contrast, subtle spherical distortion and softer edges give it a classic feel, yet it stays sharp with well-controlled chromatic aberration and virtually no breathing on focus pulls. As one of the wider focal lengths its image circle covers full frame but not the largest open-gate formats, and the nine-blade iris keeps bokeh round. It shares the 114mm front, focus throw and gear positions common to the whole set."
+      "description": "A wide full-frame prime in Tokina's Vista-C set, fast at T1.5 and tuned for the line's vintage character rather than a clinical modern image. Reduced contrast, subtle spherical distortion and softer edges give it a classic feel, yet it stays sharp with well-controlled chromatic aberration and virtually no breathing on focus pulls. As one of the wider focal lengths its image circle covers full frame but not the largest open-gate formats, and the nine-blade iris keeps bokeh round. It shares the 114mm front, focus throw and gear positions common to the whole set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-29mm-t1-5-lpl",
@@ -236,7 +260,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A wide-normal full-frame prime in Tokina's Vista-C line at a fast T1.5, sitting between the 25mm and 35mm. It carries the redesigned Vista-C optics that lower contrast and add a touch of spherical distortion and edge softness for a vintage look, while keeping resolution high and focus breathing near zero. The curved nine-blade iris renders smooth, round highlights, and coverage runs beyond full frame. The 114mm front, long focus rotation and shared gear positions match the rest of the set for quick changes."
+      "description": "A wide-normal full-frame prime in Tokina's Vista-C line at a fast T1.5, sitting between the 25mm and 35mm. It carries the redesigned Vista-C optics that lower contrast and add a touch of spherical distortion and edge softness for a vintage look, while keeping resolution high and focus breathing near zero. The curved nine-blade iris renders smooth, round highlights, and coverage runs beyond full frame. The 114mm front, long focus rotation and shared gear positions match the rest of the set for quick changes.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-35mm-t1-5-lpl",
@@ -270,7 +298,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A wide-normal full-frame prime in Tokina's Vista-C set, fast at T1.5 and a natural documentary and reportage focal length. From this focal length up the image circle grows large enough to cover formats as big as ALEXA 65 Open Gate, so it pairs its vintage rendering, lowered contrast, soft edges and warm flares with genuine large-format reach. Resolution stays high and focus breathing near zero, and the nine-blade curved iris keeps out-of-focus highlights round. It shares the 114mm front, focus throw and gear positions common to the line."
+      "description": "A wide-normal full-frame prime in Tokina's Vista-C set, fast at T1.5 and a natural documentary and reportage focal length. From this focal length up the image circle grows large enough to cover formats as big as ALEXA 65 Open Gate, so it pairs its vintage rendering, lowered contrast, soft edges and warm flares with genuine large-format reach. Resolution stays high and focus breathing near zero, and the nine-blade curved iris keeps out-of-focus highlights round. It shares the 114mm front, focus throw and gear positions common to the line.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-40mm-t1-5-lpl",
@@ -304,7 +336,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A near-normal full-frame prime in Tokina's Vista-C line, fast at T1.5 and sitting just wide of the 50mm. It shares the set's vintage-leaning optics, lower contrast and softer edges with red and blue flares, while holding high resolution and virtually no focus breathing. Its image circle covers full frame and larger formats, and the curved nine-blade iris renders smooth, round bokeh. The 114mm front, roughly 300 degrees of focus rotation and matched gear positions keep it consistent with the rest of the set."
+      "description": "A near-normal full-frame prime in Tokina's Vista-C line, fast at T1.5 and sitting just wide of the 50mm. It shares the set's vintage-leaning optics, lower contrast and softer edges with red and blue flares, while holding high resolution and virtually no focus breathing. Its image circle covers full frame and larger formats, and the curved nine-blade iris renders smooth, round bokeh. The 114mm front, roughly 300 degrees of focus rotation and matched gear positions keep it consistent with the rest of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-50mm-t1-5-lpl",
@@ -338,7 +374,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "The standard focal length in Tokina's Vista-C set, a full-frame prime fast at T1.5. Its redesigned optics blend the character of classic glass, lowered contrast, subtle distortion and softened edges, with modern speed, high resolution and near-zero breathing, and it flares warm rather than green. The nine-blade curved iris gives round, smooth out-of-focus rendering, and coverage extends well past full frame to large-format sensors. It shares the 114mm front, long focus throw and common gear positions that let the whole set swap quickly."
+      "description": "The standard focal length in Tokina's Vista-C set, a full-frame prime fast at T1.5. Its redesigned optics blend the character of classic glass, lowered contrast, subtle distortion and softened edges, with modern speed, high resolution and near-zero breathing, and it flares warm rather than green. The nine-blade curved iris gives round, smooth out-of-focus rendering, and coverage extends well past full frame to large-format sensors. It shares the 114mm front, long focus throw and common gear positions that let the whole set swap quickly.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-65mm-t1-5-lpl",
@@ -372,7 +412,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "A long-normal full-frame prime in Tokina's Vista-C line, fast at T1.5 and well suited to tighter framing and portraits. It carries the vintage-leaning Vista-C rendering, gentle contrast, soft edges and warm flares, while staying sharp with minimal chromatic aberration and near-zero focus breathing. The curved nine-blade iris keeps out-of-focus highlights round for pleasing subject isolation, and the image circle covers large-format sensors. The 114mm front, focus throw and gear positions match the rest of the set."
+      "description": "A long-normal full-frame prime in Tokina's Vista-C line, fast at T1.5 and well suited to tighter framing and portraits. It carries the vintage-leaning Vista-C rendering, gentle contrast, soft edges and warm flares, while staying sharp with minimal chromatic aberration and near-zero focus breathing. The curved nine-blade iris keeps out-of-focus highlights round for pleasing subject isolation, and the image circle covers large-format sensors. The 114mm front, focus throw and gear positions match the rest of the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-c-85mm-t1-5-lpl",
@@ -406,7 +450,11 @@
       "webSources": [
         "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
       ],
-      "description": "The classic portrait focal length in Tokina's Vista-C set, a full-frame prime fast at T1.5. Its vintage-tuned optics, lowered contrast and soft falloff suit close work, giving flattering skin rendering with smooth, round bokeh from the nine-blade curved iris, while resolution stays high and breathing near zero. Coverage runs beyond full frame to large formats. It shares the 114mm front, roughly 300 degrees of focus rotation and matched gear positions with the rest of the line for fast changes."
+      "description": "The classic portrait focal length in Tokina's Vista-C set, a full-frame prime fast at T1.5. Its vintage-tuned optics, lowered contrast and soft falloff suit close work, giving flattering skin rendering with smooth, round bokeh from the nine-blade curved iris, while resolution stays high and breathing near zero. Coverage runs beyond full frame to large formats. It shares the 114mm front, roughly 300 degrees of focus rotation and matched gear positions with the rest of the line for fast changes.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-105mm-t1-5-lpl",
@@ -442,7 +490,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A telephoto portrait lens that brings stronger compression to the Vista-P line. The deliberate spherical character and reduced contrast wrap the out-of-focus areas around a crisp centre, giving close and medium portraits a flattering, organic separation. It holds the series standard of minimal breathing, a matched iris and a long, even focus feel for repeatable marks. The stylised fall-off is most pronounced on full-frame and larger sensors."
+      "description": "A telephoto portrait lens that brings stronger compression to the Vista-P line. The deliberate spherical character and reduced contrast wrap the out-of-focus areas around a crisp centre, giving close and medium portraits a flattering, organic separation. It holds the series standard of minimal breathing, a matched iris and a long, even focus feel for repeatable marks. The stylised fall-off is most pronounced on full-frame and larger sensors.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-135mm-t1-5-lpl",
@@ -478,7 +530,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A long portrait telephoto in the Vista-P set, built for pronounced subject isolation and compression. The Portrait re-engineering keeps a sharp, high-resolution centre while the background falls off with the line's soft, swirling, lower-contrast rendering. Near-zero breathing and matched mechanics make it interchangeable with the rest of the set on the day. Its character is strongest wide open across full-frame coverage."
+      "description": "A long portrait telephoto in the Vista-P set, built for pronounced subject isolation and compression. The Portrait re-engineering keeps a sharp, high-resolution centre while the background falls off with the line's soft, swirling, lower-contrast rendering. Near-zero breathing and matched mechanics make it interchangeable with the rest of the set on the day. Its character is strongest wide open across full-frame coverage.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-180mm-t1-5-lpl",
@@ -514,7 +570,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "The longest lens in the Vista-P set and the one telephoto that opens a touch slower than the rest of the primes, developed to give large-format work a fast super-telephoto reach. It delivers dramatic compression and subject isolation with a sharp centre and the line's soft, spherically-influenced, lower-contrast fall-off in the background. Internal focusing keeps its length fixed and breathing near zero, and it carries the same matched front and gearing as the shorter primes despite its size. The character suits stylised portrait and specialty telephoto work on full-frame and larger sensors."
+      "description": "The longest lens in the Vista-P set and the one telephoto that opens a touch slower than the rest of the primes, developed to give large-format work a fast super-telephoto reach. It delivers dramatic compression and subject isolation with a sharp centre and the line's soft, spherically-influenced, lower-contrast fall-off in the background. Internal focusing keeps its length fixed and breathing near zero, and it carries the same matched front and gearing as the shorter primes despite its size. The character suits stylised portrait and specialty telephoto work on full-frame and larger sensors.",
+      "maxApertureWide": 1.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-18mm-t1-5-lpl",
@@ -550,7 +610,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "The widest Vista-P prime, a factory re-engineering of the standard Vista in which elements are repositioned throughout the design to introduce deliberate spherical aberration and reduced contrast. At this wide angle the Petzval-like swirl and field character sit most visibly toward the edges of the full-frame image, while the centre keeps the crisp, high-resolution rendering of the base Vista optics. It retains the series baseline of near-zero focus breathing, a rounded iris and a matched front for quick swaps. The stylised edge effect is strongest across full-frame coverage and relaxes on Super 35."
+      "description": "The widest Vista-P prime, a factory re-engineering of the standard Vista in which elements are repositioned throughout the design to introduce deliberate spherical aberration and reduced contrast. At this wide angle the Petzval-like swirl and field character sit most visibly toward the edges of the full-frame image, while the centre keeps the crisp, high-resolution rendering of the base Vista optics. It retains the series baseline of near-zero focus breathing, a rounded iris and a matched front for quick swaps. The stylised edge effect is strongest across full-frame coverage and relaxes on Super 35.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-21mm-t1-5-lpl",
@@ -586,7 +650,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A wide-angle Vista-P that carries the same factory modification of the Vista base design, trading a measure of contrast and correction for character. The repositioned elements bring a gentle spherical fall-off and swirl to the outer frame while the centre stays sharp, giving wide interiors and landscapes an organic, slightly vintage feel. Focus breathing is effectively absent and the barrel matches the rest of the set for gearing and front diameter. On Super 35 the edge character tightens up."
+      "description": "A wide-angle Vista-P that carries the same factory modification of the Vista base design, trading a measure of contrast and correction for character. The repositioned elements bring a gentle spherical fall-off and swirl to the outer frame while the centre stays sharp, giving wide interiors and landscapes an organic, slightly vintage feel. Focus breathing is effectively absent and the barrel matches the rest of the set for gearing and front diameter. On Super 35 the edge character tightens up.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-25mm-t1-5-lpl",
@@ -622,7 +690,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A wide-normal in the Vista-P line and one of the most-used focal lengths for establishing and moving work. The lens keeps the sharp Vista centre but layers in the deliberate lower contrast and edge swirl that define the Portrait variant, sitting between the ultra-wides and the normals in how pronounced that character reads. Near-zero breathing and a matched barrel keep it interchangeable with the rest of the set. The effect eases on smaller sensors."
+      "description": "A wide-normal in the Vista-P line and one of the most-used focal lengths for establishing and moving work. The lens keeps the sharp Vista centre but layers in the deliberate lower contrast and edge swirl that define the Portrait variant, sitting between the ultra-wides and the normals in how pronounced that character reads. Near-zero breathing and a matched barrel keep it interchangeable with the rest of the set. The effect eases on smaller sensors.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-29mm-t1-5-lpl",
@@ -658,7 +730,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A slightly tighter wide-normal that fills the gap between the 25 and 35 in the Vista-P set. It shares the family's re-engineered Vista optics: a clean, high-resolution centre with a softer, spherically-influenced edge and the restrained contrast of the Portrait line. The lens holds the Vista mechanical standard, with minimal breathing and matched gearing for fast changes. Its character is present but measured at this focal length."
+      "description": "A slightly tighter wide-normal that fills the gap between the 25 and 35 in the Vista-P set. It shares the family's re-engineered Vista optics: a clean, high-resolution centre with a softer, spherically-influenced edge and the restrained contrast of the Portrait line. The lens holds the Vista mechanical standard, with minimal breathing and matched gearing for fast changes. Its character is present but measured at this focal length.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-35mm-t1-5-lpl",
@@ -694,7 +770,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A storytelling wide-normal and one of the core focal lengths of the Vista-P set. The Portrait re-engineering gives it a sharp centre with the line's signature swirl and gentle contrast roll-off toward the edges, an organic look that stays controlled enough for dialogue and coverage. Full-frame and larger coverage, near-zero breathing and a matched front keep it consistent with its neighbours. On Super 35 the frame reads cleaner."
+      "description": "A storytelling wide-normal and one of the core focal lengths of the Vista-P set. The Portrait re-engineering gives it a sharp centre with the line's signature swirl and gentle contrast roll-off toward the edges, an organic look that stays controlled enough for dialogue and coverage. Full-frame and larger coverage, near-zero breathing and a matched front keep it consistent with its neighbours. On Super 35 the frame reads cleaner.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-40mm-t1-5-lpl",
@@ -730,7 +810,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A near-normal Vista-P that renders a natural, close-to-human perspective with the line's added character. The repositioned elements introduce the deliberate spherical fall-off and lower contrast that separate the Portrait variant from the clean standard Vista, while the centre remains crisp and high-resolution. It matches the set for front diameter, gearing, iris and focus feel, and shows effectively no breathing. The stylised look is most evident wide open on full-frame."
+      "description": "A near-normal Vista-P that renders a natural, close-to-human perspective with the line's added character. The repositioned elements introduce the deliberate spherical fall-off and lower contrast that separate the Portrait variant from the clean standard Vista, while the centre remains crisp and high-resolution. It matches the set for front diameter, gearing, iris and focus feel, and shows effectively no breathing. The stylised look is most evident wide open on full-frame.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-50mm-t1-5-lpl",
@@ -766,7 +850,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "The normal lens of the Vista-P set and a natural anchor for the line's Portrait intent. Its centre is sharp and high-resolution while the repositioned Vista elements wrap the transition zones and background in a soft, swirling fall-off with restrained contrast. The result is a flattering, characterful rendering that still resolves cleanly, with near-zero breathing and matched mechanics across the set. The swirl reads strongest on full-frame and calms on Super 35."
+      "description": "The normal lens of the Vista-P set and a natural anchor for the line's Portrait intent. Its centre is sharp and high-resolution while the repositioned Vista elements wrap the transition zones and background in a soft, swirling fall-off with restrained contrast. The result is a flattering, characterful rendering that still resolves cleanly, with near-zero breathing and matched mechanics across the set. The swirl reads strongest on full-frame and calms on Super 35.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-65mm-t1-5-lpl",
@@ -802,7 +890,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "A short telephoto that begins the compression and subject-isolation range of the Vista-P line. The Portrait re-engineering gives it a clean centre with a gentle spherical fall-off and swirl behind the subject, lending close portraits an organic, slightly vintage separation. It shares the family's near-zero breathing, matched iris and front for quick changes. Character increases toward the edges of the full-frame image."
+      "description": "A short telephoto that begins the compression and subject-isolation range of the Vista-P line. The Portrait re-engineering gives it a clean centre with a gentle spherical fall-off and swirl behind the subject, lending close portraits an organic, slightly vintage separation. It shares the family's near-zero breathing, matched iris and front for quick changes. Character increases toward the edges of the full-frame image.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "tokina-vista-p-85mm-t1-5-lpl",
@@ -838,7 +930,11 @@
         "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
         "https://cdn.shopify.com/s/files/1/0560/1725/6637/files/Tokina_Cinema_Vista_All_Focal_Length_Specifications_Chart.pdf"
       ],
-      "description": "The classic portrait focal length of the Vista-P set, where the line's intent is most at home. A sharp, high-resolution centre isolates the subject while the repositioned Vista elements render the surrounding fall-off with a soft, swirling, lower-contrast character. Near-zero focus breathing keeps the frame stable through slow pulls, and the barrel matches the rest of the set for gearing and front size. The effect is at its most expressive wide open on full-frame."
+      "description": "The classic portrait focal length of the Vista-P set, where the line's intent is most at home. A sharp, high-resolution centre isolates the subject while the repositioned Vista elements render the surrounding fall-off with a soft, swirling, lower-contrast character. Near-zero focus breathing keeps the frame stable through slow pulls, and the barrel matches the rest of the set for gearing and front size. The effect is at its most expressive wide open on full-frame.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

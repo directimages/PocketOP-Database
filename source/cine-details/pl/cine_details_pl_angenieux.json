@@ -34,7 +34,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "The wide zoom in Angénieux's Academy Award-winning lightweight Optimo trio, a Super 35 zoom holding a constant T2.6 with no ramping. Under 2kg, it carries the Angénieux look of high contrast and resolution with an organic rendering, and its internal focus design keeps breathing negligible while staying parfocal across the range. Focus travels 320 degrees for precise pulls, and it shares a 114mm front and matched center of gravity with the 28-76 and 45-120 for fast swaps. Appeared in 2006 and remains a shoulder, Steadicam and gimbal staple."
+      "description": "The wide zoom in Angénieux's Academy Award-winning lightweight Optimo trio, a Super 35 zoom holding a constant T2.6 with no ramping. Under 2kg, it carries the Angénieux look of high contrast and resolution with an organic rendering, and its internal focus design keeps breathing negligible while staying parfocal across the range. Focus travels 320 degrees for precise pulls, and it shares a 114mm front and matched center of gravity with the 28-76 and 45-120 for fast swaps. Appeared in 2006 and remains a shoulder, Steadicam and gimbal staple.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-17-80",
@@ -69,7 +73,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "A wide-angle Super 35 studio zoom, a fast constant T2.2 across a 4.7x range with no ramping. Introduced in 2004, it covers the span of the most commonly used primes in a single lens and, at around 5.5kg, is far more manageable than the 24-290, which made it a quick favorite for narrative work and an ideal lens for crane shots. It carries the Angénieux look with excellent optical performance and minimal breathing, on a PL mount easily swapped to Panavision or Canon EF."
+      "description": "A wide-angle Super 35 studio zoom, a fast constant T2.2 across a 4.7x range with no ramping. Introduced in 2004, it covers the span of the most commonly used primes in a single lens and, at around 5.5kg, is far more manageable than the 24-290, which made it a quick favorite for narrative work and an ideal lens for crane shots. It carries the Angénieux look with excellent optical performance and minimal breathing, on a PL mount easily swapped to Panavision or Canon EF.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-19-5-94",
@@ -105,7 +113,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "An enhanced version of the Optimo 17-80, a Super 35 zoom with a larger image circle and longer reach, holding a constant T2.6 with no ramping and minimal breathing. Its 4.8x range and prime-level speed let it be treated as a variable prime, with the homogeneity of color, contrast and resolution the Optimo line is known for. Introduced in 2012 alongside the 28-340, it is an ideal companion to the industry-reference 12x zooms, on a PL mount interchangeable to Panavision or Canon EF."
+      "description": "An enhanced version of the Optimo 17-80, a Super 35 zoom with a larger image circle and longer reach, holding a constant T2.6 with no ramping and minimal breathing. Its 4.8x range and prime-level speed let it be treated as a variable prime, with the homogeneity of color, contrast and resolution the Optimo line is known for. Introduced in 2012 alongside the 28-340, it is an ideal companion to the industry-reference 12x zooms, on a PL mount interchangeable to Panavision or Canon EF.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-24-290",
@@ -141,7 +153,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "The original Optimo 12x, launched in 2001 and so popular on Los Angeles sets that it became known as the Hollywood lens. This Super 35 zoom holds a constant T2.8 across a 12x range with exceptional optical performance and very limited breathing, letting it not only zoom but replace a whole set of primes. It carries the full Angénieux look and remains a reference for feature, commercial and TV work. At around 11kg it is a studio and crane lens rather than a handheld one."
+      "description": "The original Optimo 12x, launched in 2001 and so popular on Los Angeles sets that it became known as the Hollywood lens. This Super 35 zoom holds a constant T2.8 across a 12x range with exceptional optical performance and very limited breathing, letting it not only zoom but replace a whole set of primes. It carries the full Angénieux look and remains a reference for feature, commercial and TV work. At around 11kg it is a studio and crane lens rather than a handheld one.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-28-340",
@@ -176,7 +192,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "A long-range Super 35 telephoto zoom covering a 12x range at a constant T3.2, with an optical design that eliminates ramping and breathing across the throw. Its reach and prime-rivalling optical quality let it be treated as a variable prime for tighter coverage, and the interchangeable rear assembly converts it toward larger formats while keeping the same physical size. Introduced in 2012 with a 162mm front for larger matte boxes, it is a heavyweight studio and long-lens tool at around 11kg."
+      "description": "A long-range Super 35 telephoto zoom covering a 12x range at a constant T3.2, with an optical design that eliminates ramping and breathing across the throw. Its reach and prime-rivalling optical quality let it be treated as a variable prime for tighter coverage, and the interchangeable rear assembly converts it toward larger formats while keeping the same physical size. Introduced in 2012 with a 162mm front for larger matte boxes, it is a heavyweight studio and long-lens tool at around 11kg.",
+      "maxApertureWide": 3.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-28-76",
@@ -212,7 +232,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "The standard-range member of Angénieux's lightweight Optimo trio, a Super 35 zoom at a constant T2.6 with no ramping. It shares the set's Angénieux look, high contrast and resolution with a smooth roll-off, and its internal focus keeps breathing minimal while holding focus through the zoom. Under 2kg with 320 degrees of focus rotation and a 114mm front, it matches the 15-40 and 45-120 for quick interchange on set. Introduced in 2007 and a longtime favorite for narrative and TV work."
+      "description": "The standard-range member of Angénieux's lightweight Optimo trio, a Super 35 zoom at a constant T2.6 with no ramping. It shares the set's Angénieux look, high contrast and resolution with a smooth roll-off, and its internal focus keeps breathing minimal while holding focus through the zoom. Under 2kg with 320 degrees of focus rotation and a 114mm front, it matches the 15-40 and 45-120 for quick interchange on set. Introduced in 2007 and a longtime favorite for narrative and TV work.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-45-120",
@@ -248,7 +272,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo"
       ],
-      "description": "The telephoto member of Angénieux's lightweight Optimo trio, a Super 35 zoom holding a constant T2.8 with no ramping, well suited to portraits and tighter angles. It delivers the Angénieux look, rich contrast and resolution with a creamy, organic rendering, and its internal focus design keeps the frame stable through rack focus while staying parfocal. Just over 4 pounds with 320 degrees of focus travel and a 114mm front, it intercuts cleanly with the 15-40 and 28-76. Added to the lightweight range in 2011."
+      "description": "The telephoto member of Angénieux's lightweight Optimo trio, a Super 35 zoom holding a constant T2.8 with no ramping, well suited to portraits and tighter angles. It delivers the Angénieux look, rich contrast and resolution with a creamy, organic rendering, and its internal focus design keeps the frame stable through rack focus while staying parfocal. Just over 4 pounds with 320 degrees of focus travel and a 114mm front, it intercuts cleanly with the 15-40 and 28-76. Added to the lightweight range in 2011.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-dp-16-42mm-t2-8",
@@ -288,7 +316,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema-lenses/optimo-dp/"
       ],
-      "description": "A wide Super 35 zoom from Angénieux's Optimo DP series, sometimes called Rouge, holding a constant T2.8. The DP zooms carried the Angénieux look in a compact digital-production body, but their protruding rear elements ruled out use on cameras with spinning mirror shutters, and the series was later discontinued and effectively replaced by the Optimo Style line. On a PL mount, it remains a fast, compact wide zoom for digital cameras that clear its rear elements."
+      "description": "A wide Super 35 zoom from Angénieux's Optimo DP series, sometimes called Rouge, holding a constant T2.8. The DP zooms carried the Angénieux look in a compact digital-production body, but their protruding rear elements ruled out use on cameras with spinning mirror shutters, and the series was later discontinued and effectively replaced by the Optimo Style line. On a PL mount, it remains a fast, compact wide zoom for digital cameras that clear its rear elements.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-dp-30-80mm-t2-8",
@@ -328,7 +360,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema-lenses/optimo-dp/"
       ],
-      "description": "A standard-range Super 35 zoom from Angénieux's Optimo DP series, sometimes called Rouge, holding a constant T2.8. Like its 16-42 sibling it delivered the Angénieux look in a compact digital-production package, but its protruding rear elements prevented use with spinning mirror shutters, and the DP series was later discontinued in favor of the Optimo Style zooms. On a PL mount, it stands as a fast, compact standard zoom for digital cameras with clearance for its rear group."
+      "description": "A standard-range Super 35 zoom from Angénieux's Optimo DP series, sometimes called Rouge, holding a constant T2.8. Like its 16-42 sibling it delivered the Angénieux look in a compact digital-production package, but its protruding rear elements prevented use with spinning mirror shutters, and the DP series was later discontinued in favor of the Optimo Style zooms. On a PL mount, it stands as a fast, compact standard zoom for digital cameras with clearance for its rear group.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-style-16-40",
@@ -368,7 +404,11 @@
         "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
         "https://www.topteks.com/nab-2014-angenieux/"
       ],
-      "description": "The wide zoom in Angénieux's lightweight Optimo Style family, a Super 35 zoom at a constant T2.8 with no ramping and minimal breathing. The Style line refreshed the classic lightweight Optimos for modern digital and mirror-shutter cameras, with a larger image circle up to 34.6mm that covers sensors such as the RED 8K Helium and ARRI Open Gate. Compact and around 2kg, it suits handheld, Steadicam, gimbal and drone work, on a PL mount easily swapped to Canon EF or Panavision."
+      "description": "The wide zoom in Angénieux's lightweight Optimo Style family, a Super 35 zoom at a constant T2.8 with no ramping and minimal breathing. The Style line refreshed the classic lightweight Optimos for modern digital and mirror-shutter cameras, with a larger image circle up to 34.6mm that covers sensors such as the RED 8K Helium and ARRI Open Gate. Compact and around 2kg, it suits handheld, Steadicam, gimbal and drone work, on a PL mount easily swapped to Canon EF or Panavision.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-style-25-250",
@@ -405,7 +445,11 @@
       "webSources": [
         "https://www.angenieux.com/cinema/optimo-style"
       ],
-      "description": "The long-range zoom in Angénieux's Optimo Style family, a Super 35 10x zoom holding a constant T3.5 with no ramping. It descends from the classic 25-250 that many cinematographers consider an all-time favorite, and carries the Angénieux look with a large image circle for modern digital cameras. Heavier and longer than the lightweight Style siblings, it is the family's do-everything studio and field zoom, on a PL mount interchangeable to Canon EF or Panavision. Its rear group can also be swapped with the 44-440 anamorphic zoom."
+      "description": "The long-range zoom in Angénieux's Optimo Style family, a Super 35 10x zoom holding a constant T3.5 with no ramping. It descends from the classic 25-250 that many cinematographers consider an all-time favorite, and carries the Angénieux look with a large image circle for modern digital cameras. Heavier and longer than the lightweight Style siblings, it is the family's do-everything studio and field zoom, on a PL mount interchangeable to Canon EF or Panavision. Its rear group can also be swapped with the 44-440 anamorphic zoom.",
+      "maxApertureWide": 3.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-style-30-76",
@@ -444,7 +488,11 @@
         "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/",
         "https://www.topteks.com/nab-2014-angenieux/"
       ],
-      "description": "The standard-range member of Angénieux's lightweight Optimo Style family, a Super 35 zoom holding a constant T2.8 with no ramping and minimal breathing. It shares the Style line's large image circle up to 34.6mm for modern digital and mirror-shutter cameras and the signature Angénieux look, in a compact body around 2kg suited to handheld, gimbal and aerial work. The PL mount is easily interchanged to Canon EF or Panavision, and it matches the rest of the Style family for a consistent look."
+      "description": "The standard-range member of Angénieux's lightweight Optimo Style family, a Super 35 zoom holding a constant T2.8 with no ramping and minimal breathing. It shares the Style line's large image circle up to 34.6mm for modern digital and mirror-shutter cameras and the signature Angénieux look, in a compact body around 2kg suited to handheld, gimbal and aerial work. The PL mount is easily interchanged to Canon EF or Panavision, and it matches the rest of the Style family for a consistent look.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-style-48-130",
@@ -481,7 +529,11 @@
       "webSources": [
         "https://www.fdtimes.com/2017/04/20/angenieux-optimo-style-48-130-t3-0/"
       ],
-      "description": "The telephoto member of Angénieux's lightweight Optimo Style family, a Super 35 zoom at a constant T3.0 with no ramping and minimal breathing, aimed at close-ups, portraits and tighter angles. It shares the Style line's large image circle up to 34.6mm covering RED 8K and ARRI Open Gate, and the compact, rugged mechanics that suit handheld, Steadicam, gimbal and drone work at around 2kg. The PL mount is easily interchanged to Canon EF or Panavision, and it intercuts cleanly with the wider Style zooms."
+      "description": "The telephoto member of Angénieux's lightweight Optimo Style family, a Super 35 zoom at a constant T3.0 with no ramping and minimal breathing, aimed at close-ups, portraits and tighter angles. It shares the Style line's large image circle up to 34.6mm covering RED 8K and ARRI Open Gate, and the compact, rugged mechanics that suit handheld, Steadicam, gimbal and drone work at around 2kg. The PL mount is easily interchanged to Canon EF or Panavision, and it intercuts cleanly with the wider Style zooms.",
+      "maxApertureWide": 3.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-ultra-12x",
@@ -520,7 +572,11 @@
         "https://www.bandpro.com/angenieux-front-protective-glass-for-12x-optimo-ultra.html",
         "https://nofilmschool.com/2017/09/angenieux-optimo-ultra-12x-zoom-lens"
       ],
-      "description": "The current-generation Optimo 12x, the modular successor to the classic 24-290, built on Angénieux's Interchangeable Rear Optics so a single lens covers multiple formats. In its Super 35 configuration it is a 24-290mm holding a constant T2.8; a user-swappable rear group converts it to a 36-435mm T4.2 for Full Frame and VistaVision. It keeps the Angénieux look with the homogeneity and very limited breathing of the reference 12x, and anchors the high-end Optimo full-frame collection alongside the Ultra Compact zooms and Optimo primes."
+      "description": "The current-generation Optimo 12x, the modular successor to the classic 24-290, built on Angénieux's Interchangeable Rear Optics so a single lens covers multiple formats. In its Super 35 configuration it is a 24-290mm holding a constant T2.8; a user-swappable rear group converts it to a 36-435mm T4.2 for Full Frame and VistaVision. It keeps the Angénieux look with the homogeneity and very limited breathing of the reference 12x, and anchors the high-end Optimo full-frame collection alongside the Ultra Compact zooms and Optimo primes.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-ultra-compact-21-56",
@@ -559,7 +615,11 @@
         "https://www.ducloslenses.com/products/ultra2156",
         "https://www.newsshooter.com/2021/09/23/angenieux-officially-announces-its-37-102mm-t2-9-full-frame-optimo-ultra-compact-zoom/"
       ],
-      "description": "The wide zoom in Angénieux's full-frame Optimo Ultra Compact pair, a Full Frame and VistaVision zoom holding a constant T2.9 with no ramping and minimal breathing. A direct descendant of the Academy-awarded 15-40, it uses Interchangeable Rear Optics to convert to a 16-42mm T2.2 for Ultra 35 and ARRI Open Gate coverage. Among the lightest in its class with a 46.3mm image circle, a 114mm front and Cooke /i metadata, it matches the color and look of the Optimo Ultra 12x and the Optimo primes."
+      "description": "The wide zoom in Angénieux's full-frame Optimo Ultra Compact pair, a Full Frame and VistaVision zoom holding a constant T2.9 with no ramping and minimal breathing. A direct descendant of the Academy-awarded 15-40, it uses Interchangeable Rear Optics to convert to a 16-42mm T2.2 for Ultra 35 and ARRI Open Gate coverage. Among the lightest in its class with a 46.3mm image circle, a 114mm front and Cooke /i metadata, it matches the color and look of the Optimo Ultra 12x and the Optimo primes.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-optimo-ultra-compact-37-102",
@@ -598,7 +658,11 @@
         "https://www.ducloslenses.com/products/ultra37102",
         "https://www.newsshooter.com/2021/09/23/angenieux-officially-announces-its-37-102mm-t2-9-full-frame-optimo-ultra-compact-zoom/"
       ],
-      "description": "The standard-range zoom in Angénieux's full-frame Optimo Ultra Compact pair, a Full Frame and VistaVision zoom at a constant T2.9 with no ramping and minimal breathing. A direct descendant of the Academy-awarded 28-76, it converts via Interchangeable Rear Optics to a 28-76mm T2.2 for Ultra 35 and ARRI Open Gate coverage. Around 2.6kg with a 46.3mm image circle, a 114mm front and Cooke /i metadata, it carries the classic Angénieux look and matches the Ultra 12x and the full-frame Optimo primes for a consistent set."
+      "description": "The standard-range zoom in Angénieux's full-frame Optimo Ultra Compact pair, a Full Frame and VistaVision zoom at a constant T2.9 with no ramping and minimal breathing. A direct descendant of the Academy-awarded 28-76, it converts via Interchangeable Rear Optics to a 28-76mm T2.2 for Ultra 35 and ARRI Open Gate coverage. Around 2.6kg with a 46.3mm image circle, a 114mm front and Cooke /i metadata, it carries the classic Angénieux look and matches the Ultra 12x and the full-frame Optimo primes for a consistent set.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-type-ez-1",
@@ -635,7 +699,11 @@
         "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/",
         "https://www.ducloslenses.com/products/angenieux-type-ez-1"
       ],
-      "description": "The standard zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 30-90mm holding a prime-fast constant T2. Interchangeable Rear Optics convert it to a 45-135mm T3 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. Designed to bridge still-photo zooms and the high-end Optimo line, it delivers highly cinematic quality with minimal breathing at a documentary and ENG-friendly price, matching the color of the Optimo and Optimo Style lenses."
+      "description": "The standard zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 30-90mm holding a prime-fast constant T2. Interchangeable Rear Optics convert it to a 45-135mm T3 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. Designed to bridge still-photo zooms and the high-end Optimo line, it delivers highly cinematic quality with minimal breathing at a documentary and ENG-friendly price, matching the color of the Optimo and Optimo Style lenses.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-type-ez-2",
@@ -672,7 +740,11 @@
         "https://www.ducloslenses.com/products/angenieux-type-ez-2-15-40mm-t2-0",
         "https://www.fdtimes.com/2016/09/06/angenieux-type-ez/"
       ],
-      "description": "The wide zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 15-40mm holding a prime-fast constant T2. Interchangeable Rear Optics convert it to a 22-60mm T3 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. It shares the EZ family's cinematic quality, minimal breathing and 114mm front, offering run-and-gun flexibility and Angénieux color at an ENG-friendly price, and pairs naturally with the EZ-1."
+      "description": "The wide zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 15-40mm holding a prime-fast constant T2. Interchangeable Rear Optics convert it to a 22-60mm T3 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. It shares the EZ family's cinematic quality, minimal breathing and 114mm front, offering run-and-gun flexibility and Angénieux color at an ENG-friendly price, and pairs naturally with the EZ-1.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "angenieux-type-ez-3",
@@ -709,7 +781,11 @@
         "https://www.ducloslenses.com/products/ez3",
         "https://www.newsshooter.com/2023/08/31/angenieux-ez-3-45-163mm-t2-3-3-s35-68-250mm-t3-5-4-ff/"
       ],
-      "description": "The telephoto zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 45-165mm that opens to T2.3 at the wide end and settles to T3 at the long end. Interchangeable Rear Optics convert it to a 68-250mm T3.5-4.5 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. It shares the EZ family's cinematic quality, gear positions and 114mm front, extending the set into portrait and long-lens coverage at an ENG-friendly price."
+      "description": "The telephoto zoom in Angénieux's affordable Type EZ series, shown here in its native Super 35 configuration as a 45-165mm that opens to T2.3 at the wide end and settles to T3 at the long end. Interchangeable Rear Optics convert it to a 68-250mm T3.5-4.5 for Full Frame and VistaVision, and the universal mount reconfigures to PL, Sony E, Canon EF or RF. It shares the EZ family's cinematic quality, gear positions and 114mm front, extending the set into portrait and long-lens coverage at an ENG-friendly price.",
+      "maxApertureWide": 2.3,
+      "maxApertureTele": 3.0,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

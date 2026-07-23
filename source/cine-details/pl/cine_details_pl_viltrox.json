@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.viltrox.com/collections/cine-lenses"
       ],
-      "description": "A statement full-frame and large-format cine zoom from Viltrox, holding a constant aperture and parfocal focus across an extreme wide-to-long-telephoto range without ramping or focus shift. Its enormous unified white barrel is built to resist thermal expansion, and it targets wildlife, sports and other long-reach work where a single lens must cover a vast focal span. Filters attach magnetically and it is designed around standard matte-box workflows."
+      "description": "A statement full-frame and large-format cine zoom from Viltrox, holding a constant aperture and parfocal focus across an extreme wide-to-long-telephoto range without ramping or focus shift. Its enormous unified white barrel is built to resist thermal expansion, and it targets wildlife, sports and other long-reach work where a single lens must cover a vast focal span. Filters attach magnetically and it is designed around standard matte-box workflows.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

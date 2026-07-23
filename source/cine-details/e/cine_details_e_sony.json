@@ -44,7 +44,11 @@
         "focusRingRotationDeg": "Focus-by-wire, no fixed rotation.",
         "gearPitch": "Photo/hybrid power zoom, no cine gear ring."
       },
-      "description": "Sony's full-frame cine-style power zoom, a parfocal constant-f/4 lens with a servo zoom rocker, OSS stabilization and independent zoom, focus and iris rings. Built for video on E-mount cinema and mirrorless bodies, it holds focus through the zoom and delivers smooth, quiet powered moves, bridging still-lens convenience and cine-zoom behaviour."
+      "description": "Sony's full-frame cine-style power zoom, a parfocal constant-f/4 lens with a servo zoom rocker, OSS stabilization and independent zoom, focus and iris rings. Built for video on E-mount cinema and mirrorless bodies, it holds focus through the zoom and delivers smooth, quiet powered moves, bridging still-lens convenience and cine-zoom behaviour.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     }
   ]
 }

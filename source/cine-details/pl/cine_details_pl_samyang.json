@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The telephoto XEEN, rounding out the original set at a slightly slower T2.2 for reach and compression. It keeps the line's metal build, common front diameter and matched colour so it cuts cleanly against the faster primes, with internal focus holding breathing low on long pulls. A budget-friendly long lens for portraits, detail and compressed backgrounds on full-frame cine rigs."
+      "description": "The telephoto XEEN, rounding out the original set at a slightly slower T2.2 for reach and compression. It keeps the line's metal build, common front diameter and matched colour so it cuts cleanly against the faster primes, with internal focus holding breathing low on long pulls. A budget-friendly long lens for portraits, detail and compressed backgrounds on full-frame cine rigs.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-14mm-t3-1",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The ultra-wide anchor of Samyang's original XEEN set, the brand's first metal-housed full-frame cine primes and a value-priced route into a colour-matched cine kit. At a slower T3.1 it takes in a sweeping field behind a bulbous front element, so it works with a matte box rather than screw-in filters. Internal focus keeps breathing minimal and the rendering is neutral and cleanly corrected, matched to the rest of the XEEN line for intercutting. A common wide establishing lens on indie features and documentary."
+      "description": "The ultra-wide anchor of Samyang's original XEEN set, the brand's first metal-housed full-frame cine primes and a value-priced route into a colour-matched cine kit. At a slower T3.1 it takes in a sweeping field behind a bulbous front element, so it works with a matte box rather than screw-in filters. Internal focus keeps breathing minimal and the rendering is neutral and cleanly corrected, matched to the rest of the XEEN line for intercutting. A common wide establishing lens on indie features and documentary.",
+      "maxApertureWide": 3.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-16mm-t2-6",
@@ -118,7 +126,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The wide-angle XEEN, sitting a touch slower than the T1.5 core at T2.6 in Samyang's original metal cine set. It shares the line's robust housing, geared de-clicked iris and common front diameter for quick matte-box swaps, with internal focus that holds breathing in check. Colour and contrast are matched to the other XEEN primes so a mixed set grades as one. A dependable wide for full-frame narrative and event work at an accessible price."
+      "description": "The wide-angle XEEN, sitting a touch slower than the T1.5 core at T2.6 in Samyang's original metal cine set. It shares the line's robust housing, geared de-clicked iris and common front diameter for quick matte-box swaps, with internal focus that holds breathing in check. Colour and contrast are matched to the other XEEN primes so a mixed set grades as one. A dependable wide for full-frame narrative and event work at an accessible price.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-24mm-t1-5",
@@ -158,7 +170,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The wide-standard XEEN, opening to a fast T1.5 like the core of the original metal set. It pairs a solid cine build with geared focus and iris rings and a common front for follow-focus and matte-box use, internal focus keeping breathing low. Neutral, evenly corrected rendering matched across the line makes it an easy intercut with its siblings. A staple wide on value-minded full-frame cine and mirrorless rigs."
+      "description": "The wide-standard XEEN, opening to a fast T1.5 like the core of the original metal set. It pairs a solid cine build with geared focus and iris rings and a common front for follow-focus and matte-box use, internal focus keeping breathing low. Neutral, evenly corrected rendering matched across the line makes it an easy intercut with its siblings. A staple wide on value-minded full-frame cine and mirrorless rigs.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-35mm-t1-5",
@@ -198,7 +214,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The wide-normal XEEN at a bright T1.5, one of the most-used focal lengths in the original full-frame set. Its metal housing, unified gear positions and common front diameter make it quick to rig, and internal focus keeps breathing minimal through pulls. Colour-matched to the rest of the XEEN line for seamless cutting, it offers a clean, neutral look at a price well below established cine brands. A workhorse on indie drama and documentary."
+      "description": "The wide-normal XEEN at a bright T1.5, one of the most-used focal lengths in the original full-frame set. Its metal housing, unified gear positions and common front diameter make it quick to rig, and internal focus keeps breathing minimal through pulls. Colour-matched to the rest of the XEEN line for seamless cutting, it offers a clean, neutral look at a price well below established cine brands. A workhorse on indie drama and documentary.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-50mm-t1-5",
@@ -238,7 +258,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The normal-lens XEEN at a fast T1.5, the natural-perspective centre of Samyang's original metal cine set. It carries the line's sturdy build, geared de-clicked iris and common front for matte boxes, with internal focus for low breathing. Its neutral, well-corrected rendering is matched to the other XEEN primes so the set grades together. A go-to standard prime for value-driven full-frame narrative work."
+      "description": "The normal-lens XEEN at a fast T1.5, the natural-perspective centre of Samyang's original metal cine set. It carries the line's sturdy build, geared de-clicked iris and common front for matte boxes, with internal focus for low breathing. Its neutral, well-corrected rendering is matched to the other XEEN primes so the set grades together. A go-to standard prime for value-driven full-frame narrative work.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-85mm-t1-5",
@@ -278,7 +302,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen.php"
       ],
-      "description": "The short-telephoto XEEN at a bright T1.5, the portrait lens of the original metal set. Fast enough for shallow, flattering close work, it holds the line's neutral colour and controlled breathing through focus pulls. Shared gear positions and front diameter keep it quick to swap within the kit, and its rendering matches the wider XEEN primes for clean intercutting. A common choice for interviews and coverage on full-frame indie productions."
+      "description": "The short-telephoto XEEN at a bright T1.5, the portrait lens of the original metal set. Fast enough for shallow, flattering close work, it holds the line's neutral colour and controlled breathing through focus pulls. Shared gear positions and front diameter keep it quick to swap within the kit, and its rendering matches the wider XEEN primes for clean intercutting. A common choice for interviews and coverage on full-frame indie productions.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-135mm-t2-2",
@@ -318,7 +346,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The telephoto XEEN CF at T2.2, added later to complete the carbon-fibre set with long-lens reach. It keeps the line's lightweight body, 8K-ready resolution, X-coating rendering and colour matched to the faster CF primes so it cuts in cleanly. Its manageable weight for a 135mm suits handheld and gimbal work where a metal long lens would be unwieldy. A compact choice for compression, portraits and detail on full-frame cine rigs."
+      "description": "The telephoto XEEN CF at T2.2, added later to complete the carbon-fibre set with long-lens reach. It keeps the line's lightweight body, 8K-ready resolution, X-coating rendering and colour matched to the faster CF primes so it cuts in cleanly. Its manageable weight for a 135mm suits handheld and gimbal work where a metal long lens would be unwieldy. A compact choice for compression, portraits and detail on full-frame cine rigs.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-16mm-t2-6",
@@ -358,7 +390,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The wide-angle XEEN CF, Samyang's carbon-fibre revisit of the original XEEN line in a lighter, more compact body. Slightly slower than the T1.5 core at T2.6, it keeps the CF family's 8K-ready resolution, X-coating look and colour matched across the set. Its low weight and unified front suit gimbal and handheld full-frame work as much as studio use. A distinctive, well-controlled wide for run-and-gun cinematographers."
+      "description": "The wide-angle XEEN CF, Samyang's carbon-fibre revisit of the original XEEN line in a lighter, more compact body. Slightly slower than the T1.5 core at T2.6, it keeps the CF family's 8K-ready resolution, X-coating look and colour matched across the set. Its low weight and unified front suit gimbal and handheld full-frame work as much as studio use. A distinctive, well-controlled wide for run-and-gun cinematographers.",
+      "maxApertureWide": 2.6,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-24mm-t1-5",
@@ -398,7 +434,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The wide-standard XEEN CF at a bright T1.5, part of Samyang's lightweight carbon-fibre successor to the original XEEN primes. Noticeably smaller and lighter than its metal predecessor, it keeps 8K-ready resolution, the X-coating's characterful flare control and colour matched across the CF set. The common front and unified gears make it quick to rig for matte-box and follow-focus. A favourite wide on gimbal and shoulder full-frame setups."
+      "description": "The wide-standard XEEN CF at a bright T1.5, part of Samyang's lightweight carbon-fibre successor to the original XEEN primes. Noticeably smaller and lighter than its metal predecessor, it keeps 8K-ready resolution, the X-coating's characterful flare control and colour matched across the CF set. The common front and unified gears make it quick to rig for matte-box and follow-focus. A favourite wide on gimbal and shoulder full-frame setups.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-35mm-t1-5",
@@ -438,7 +478,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The wide-normal XEEN CF at a fast T1.5, one of the most-used lengths in the compact carbon-fibre line. It trades the original XEEN's weight for a lighter, more balanced body while holding 8K-ready sharpness, the X-coating look and matched colour across the set. Low breathing and unified gearing keep focus work clean and swaps quick. A versatile everyday prime for handheld and gimbal full-frame shooting."
+      "description": "The wide-normal XEEN CF at a fast T1.5, one of the most-used lengths in the compact carbon-fibre line. It trades the original XEEN's weight for a lighter, more balanced body while holding 8K-ready sharpness, the X-coating look and matched colour across the set. Low breathing and unified gearing keep focus work clean and swaps quick. A versatile everyday prime for handheld and gimbal full-frame shooting.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-50mm-t1-5",
@@ -478,7 +522,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The normal XEEN CF at a bright T1.5, the natural-perspective centre of Samyang's lightweight carbon-fibre set. Compact and well-balanced, it keeps the line's 8K-ready resolution, distinctive X-coating rendering and colour matched for clean intercutting. Its light weight and unified front make it an easy fit on gimbals and small rigs. A go-to standard prime for full-frame run-and-gun and narrative work."
+      "description": "The normal XEEN CF at a bright T1.5, the natural-perspective centre of Samyang's lightweight carbon-fibre set. Compact and well-balanced, it keeps the line's 8K-ready resolution, distinctive X-coating rendering and colour matched for clean intercutting. Its light weight and unified front make it an easy fit on gimbals and small rigs. A go-to standard prime for full-frame run-and-gun and narrative work.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "xeen-cf-85mm-t1-5",
@@ -518,7 +566,11 @@
       "webSources": [
         "https://www.xeenglobal.com/en/xeen-cf.php"
       ],
-      "description": "The short-telephoto XEEN CF at a fast T1.5, the portrait lens of the compact carbon-fibre line. Lighter and smaller than its original XEEN counterpart, it delivers shallow, flattering close work with 8K-ready resolution and the CF set's characterful, well-controlled look. Matched colour and unified gears keep it consistent with the rest of the kit. A common interview and beauty lens for full-frame gimbal and handheld setups."
+      "description": "The short-telephoto XEEN CF at a fast T1.5, the portrait lens of the compact carbon-fibre line. Lighter and smaller than its original XEEN counterpart, it delivers shallow, flattering close work with 8K-ready resolution and the CF set's characterful, well-controlled look. Matched colour and unified gears keep it consistent with the rest of the kit. A common interview and beauty lens for full-frame gimbal and handheld setups.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

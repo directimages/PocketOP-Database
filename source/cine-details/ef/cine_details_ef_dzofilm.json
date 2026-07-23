@@ -37,7 +37,11 @@
       "webSources": [
         "https://dzofilm.com/products/catta-ace-zoom"
       ],
-      "description": "The wide member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom covering wide-angle to standard framing for handheld, documentary and run-and-gun work. It renders with natural, true-to-life colour and soft, pleasing skin tones, a smooth focus-to-defocus transition and a rounded iris that turns out-of-focus areas into gentle, dreamy bokeh, with breathing kept close to invisible when pulling focus. A remarkably short close-focus distance lets you move right in on a subject while still holding the wider scene."
+      "description": "The wide member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom covering wide-angle to standard framing for handheld, documentary and run-and-gun work. It renders with natural, true-to-life colour and soft, pleasing skin tones, a smooth focus-to-defocus transition and a rounded iris that turns out-of-focus areas into gentle, dreamy bokeh, with breathing kept close to invisible when pulling focus. A remarkably short close-focus distance lets you move right in on a subject while still holding the wider scene.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-catta-ace-35-80mm-t2-9",
@@ -76,7 +80,11 @@
       "webSources": [
         "https://dzofilm.com/products/catta-ace-zoom"
       ],
-      "description": "The standard-range member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom spanning wide-standard to short-telephoto for dialogue, interviews and everyday coverage. It shares the Catta look: natural, accurate colour with soft skin rendering, a smooth focus-to-defocus transition and a rounded iris for gentle, dreamy out-of-focus areas, with breathing rendered close to invisible. It is built to match its wider and longer companions in size, weight and rendering for seamless swaps across a shoot, with a short close-focus distance that suits tight coverage."
+      "description": "The standard-range member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom spanning wide-standard to short-telephoto for dialogue, interviews and everyday coverage. It shares the Catta look: natural, accurate colour with soft skin rendering, a smooth focus-to-defocus transition and a rounded iris for gentle, dreamy out-of-focus areas, with breathing rendered close to invisible. It is built to match its wider and longer companions in size, weight and rendering for seamless swaps across a shoot, with a short close-focus distance that suits tight coverage.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-catta-ace-70-135mm-t2-9",
@@ -115,7 +123,11 @@
       "webSources": [
         "https://dzofilm.com/products/catta-ace-zoom"
       ],
-      "description": "The telephoto member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom reaching from short to longer telephoto for portraits, interviews and detail. It carries the Catta character: natural, true-to-life colour and soft skin tones, a smooth focus-to-defocus transition and a rounded iris for creamy, dreamy bokeh, with minimal breathing on the focus pull. Optically and mechanically matched to the wider Catta Ace zooms for a consistent look and handling across a set."
+      "description": "The telephoto member of DZOFilm's full-frame Catta Ace zoom trio, a compact, lightweight cine zoom reaching from short to longer telephoto for portraits, interviews and detail. It carries the Catta character: natural, true-to-life colour and soft skin tones, a smooth focus-to-defocus transition and a rounded iris for creamy, dreamy bokeh, with minimal breathing on the focus pull. Optically and mechanically matched to the wider Catta Ace zooms for a consistent look and handling across a set.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-tango-18-90mm-t2-9",
@@ -154,7 +166,11 @@
       "webSources": [
         "https://dzofilm.com/products/tango-zoom"
       ],
-      "description": "The wide-to-standard half of DZOFilm's Super 35 Tango zoom duo, a parfocal cine zoom built to cross over between cinema and ENG-style shooting: it holds focus right through the zoom, so you can push in mid-shot without re-focusing. It renders with lifelike, natural colour and clean skin tones, a sixteen-blade iris for smooth round bokeh, and a subtle blue flare from its multi-layer coating. Controlled breathing and luminous focus and zoom marks make it a practical choice for documentary, broadcast, events and sports, and it accepts an optional servo for remote focus, iris and zoom."
+      "description": "The wide-to-standard half of DZOFilm's Super 35 Tango zoom duo, a parfocal cine zoom built to cross over between cinema and ENG-style shooting: it holds focus right through the zoom, so you can push in mid-shot without re-focusing. It renders with lifelike, natural colour and clean skin tones, a sixteen-blade iris for smooth round bokeh, and a subtle blue flare from its multi-layer coating. Controlled breathing and luminous focus and zoom marks make it a practical choice for documentary, broadcast, events and sports, and it accepts an optional servo for remote focus, iris and zoom.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "dzofilm-tango-65-280mm-t2-9",
@@ -193,7 +209,11 @@
       "webSources": [
         "https://dzofilm.com/products/tango-zoom"
       ],
-      "description": "The telephoto half of DZOFilm's Super 35 Tango zoom duo, a long-reaching parfocal cine zoom that partners the wider 18-90mm to cover an extensive range in just two lenses. It holds focus through the zoom for push-ins without re-focusing, rendering with lifelike, natural colour, a sixteen-blade iris for smooth round bokeh and a gentle blue flare from its coating. Its long reach compresses perspective and isolates subjects, making it well suited to sports, events, wildlife and documentary, and it takes the same optional servo for ENG-style remote control."
+      "description": "The telephoto half of DZOFilm's Super 35 Tango zoom duo, a long-reaching parfocal cine zoom that partners the wider 18-90mm to cover an extensive range in just two lenses. It holds focus through the zoom for push-ins without re-focusing, rendering with lifelike, natural colour, a sixteen-blade iris for smooth round bokeh and a gentle blue flare from its coating. Its long reach compresses perspective and isolates subjects, making it well suited to sports, events, wildlife and documentary, and it takes the same optional servo for ENG-style remote control.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": 4.0,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

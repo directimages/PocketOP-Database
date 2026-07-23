@@ -25,7 +25,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl447.html"
       ],
-      "description": "The longest prime in Canon's CN-E Cinema Prime set, a full-frame telephoto for tight portraits and detail with strong subject isolation. It renders with Canon's clean, sharp look and rounded bokeh from an eleven-blade iris, holding edge-to-edge brightness across the frame. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for fast, matched swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "The longest prime in Canon's CN-E Cinema Prime set, a full-frame telephoto for tight portraits and detail with strong subject isolation. It renders with Canon's clean, sharp look and rounded bokeh from an eleven-blade iris, holding edge-to-edge brightness across the frame. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for fast, matched swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 2.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne14-35mm-t1-7-ef",
@@ -65,7 +69,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s"
       ],
-      "description": "A fast constant-T1.7 Super 35 zoom in Canon's Flex Zoom series, bright enough to intercut with fast primes over a 2.5x range. The T-stop stays constant across the zoom, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS rendering and reduced breathing. With the separate relay kit it converts to the full-frame 20-50mm T2.4 Flex Zoom, and its shared front diameter and gear positions make swaps within the Flex family quick. Available in interchangeable EF and PL mounts."
+      "description": "A fast constant-T1.7 Super 35 zoom in Canon's Flex Zoom series, bright enough to intercut with fast primes over a 2.5x range. The T-stop stays constant across the zoom, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS rendering and reduced breathing. With the separate relay kit it converts to the full-frame 20-50mm T2.4 Flex Zoom, and its shared front diameter and gear positions make swaps within the Flex family quick. Available in interchangeable EF and PL mounts.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne14mm-t3-1",
@@ -92,7 +100,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl446.html"
       ],
-      "description": "The widest prime in Canon's CN-E Cinema Prime set, an ultra wide-angle for expansive establishing shots and tight interiors on full-frame sensors. It renders with Canon's clean, sharp look and edge-to-edge brightness, with natural rounded bokeh from an eleven-blade iris. Manual focus with a long, smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast, geared swaps. Built to 4K-grade standards, it covers full-frame and Super 35 and colour-matches the rest of the CN-E primes."
+      "description": "The widest prime in Canon's CN-E Cinema Prime set, an ultra wide-angle for expansive establishing shots and tight interiors on full-frame sensors. It renders with Canon's clean, sharp look and edge-to-edge brightness, with natural rounded bokeh from an eleven-blade iris. Manual focus with a long, smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast, geared swaps. Built to 4K-grade standards, it covers full-frame and Super 35 and colour-matches the rest of the CN-E primes.",
+      "maxApertureWide": 3.1,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne15-5-47mm-t2-8-ef",
@@ -132,7 +144,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl445.html"
       ],
-      "description": "A wide-angle Super 35 cinema zoom with a constant T2.8 across its 3x range, matched to the 30-105mm T2.8 as a lightweight two-lens set. Fluorite and large aspherical elements keep it sharp and hold breathing to near zero, and it is parfocal, maintaining focus through the zoom without centre-axis drift. An eleven-blade iris gives smooth rounded bokeh, and the light 4K-grade build suits handheld and documentary work. It shares a 114mm front and 105mm filter thread with its 30-105 sibling."
+      "description": "A wide-angle Super 35 cinema zoom with a constant T2.8 across its 3x range, matched to the 30-105mm T2.8 as a lightweight two-lens set. Fluorite and large aspherical elements keep it sharp and hold breathing to near zero, and it is parfocal, maintaining focus through the zoom without centre-axis drift. An eleven-blade iris gives smooth rounded bokeh, and the light 4K-grade build suits handheld and documentary work. It shares a 114mm front and 105mm filter thread with its 30-105 sibling.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne18-80mm-t4-4",
@@ -158,7 +174,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/compact-servo-18-80mm-t4-4-ef"
       ],
-      "description": "A compact, lightweight Super 35 servo zoom with a constant T4.4 across its range, one half of Canon's Compact-Servo pair with the 70-200mm T4.4. It was Canon's first cine-style lens with image stabilization and autofocus support on Cinema EOS bodies, and it is parfocal in both manual and autofocus modes. A nine-blade iris gives rounded bokeh, and a detachable servo grip or standard controllers drive zoom, focus and iris, making it well suited to run-and-gun, live and remote use. It threads for 77mm screw-in filters behind a removable sunshade."
+      "description": "A compact, lightweight Super 35 servo zoom with a constant T4.4 across its range, one half of Canon's Compact-Servo pair with the 70-200mm T4.4. It was Canon's first cine-style lens with image stabilization and autofocus support on Cinema EOS bodies, and it is parfocal in both manual and autofocus modes. A nine-blade iris gives rounded bokeh, and a detachable servo grip or standard controllers drive zoom, focus and iris, making it well suited to run-and-gun, live and remote use. It threads for 77mm screw-in filters behind a removable sunshade.",
+      "maxApertureWide": 4.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": true
     },
     {
       "id": "canon-cne24mm-t1-5",
@@ -185,7 +205,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl441.html"
       ],
-      "description": "A fast wide-angle prime in Canon's CN-E Cinema Prime set, a flexible focal length for interiors, landscapes and wider coverage. Opening wide for low light and shallow depth of field, it keeps Canon's clean, sharp rendering with natural rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a front diameter, gear positions and form factor shared across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "A fast wide-angle prime in Canon's CN-E Cinema Prime set, a flexible focal length for interiors, landscapes and wider coverage. Opening wide for low light and shallow depth of field, it keeps Canon's clean, sharp rendering with natural rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a front diameter, gear positions and form factor shared across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne30-105mm-t2-8-ef",
@@ -225,7 +249,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl444.html"
       ],
-      "description": "The standard-to-telephoto half of Canon's lightweight Compact Cinema Zoom pair, a constant-T2.8 Super 35 zoom matched to the 15.5-47mm T2.8. It is parfocal with near-perfect geometry and very low breathing, holding focus through the zoom, and fluorite and aspherical elements keep it sharp across 4K. An eleven-blade iris gives smooth rounded bokeh, and it shares the 114mm front and 105mm filter thread with the 15.5-47. Light enough for handheld and run-and-gun work while matching the cine set."
+      "description": "The standard-to-telephoto half of Canon's lightweight Compact Cinema Zoom pair, a constant-T2.8 Super 35 zoom matched to the 15.5-47mm T2.8. It is parfocal with near-perfect geometry and very low breathing, holding focus through the zoom, and fluorite and aspherical elements keep it sharp across 4K. An eleven-blade iris gives smooth rounded bokeh, and it shares the 114mm front and 105mm filter thread with the 15.5-47. Light enough for handheld and run-and-gun work while matching the cine set.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne31-5-95mm-t1-7-ef",
@@ -265,7 +293,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s"
       ],
-      "description": "The telephoto companion to the 14-35 in Canon's Flex Zoom series, a fast constant-T1.7 Super 35 zoom that also intercuts with fast primes over a 3x range. The aperture stays constant across the zoom, with an eleven-blade iris and 8K-grade colour-matched optics with reduced breathing. It converts to the full-frame 45-135mm T2.4 Flex Zoom with the relay kit, and shares gears and front diameter with the rest of the Flex Zooms. Available in interchangeable EF and PL mounts."
+      "description": "The telephoto companion to the 14-35 in Canon's Flex Zoom series, a fast constant-T1.7 Super 35 zoom that also intercuts with fast primes over a 3x range. The aperture stays constant across the zoom, with an eleven-blade iris and 8K-grade colour-matched optics with reduced breathing. It converts to the full-frame 45-135mm T2.4 Flex Zoom with the relay kit, and shares gears and front diameter with the rest of the Flex Zooms. Available in interchangeable EF and PL mounts.",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne35mm-t1-5",
@@ -292,7 +324,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl448.html"
       ],
-      "description": "A fast wide-to-normal prime in Canon's CN-E Cinema Prime set, close to a versatile everyday angle of view. It opens wide for low-light work while holding Canon's clean, sharp look and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for quick, matched swaps. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set."
+      "description": "A fast wide-to-normal prime in Canon's CN-E Cinema Prime set, close to a versatile everyday angle of view. It opens wide for low-light work while holding Canon's clean, sharp look and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor for quick, matched swaps. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set.",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne50mm-t1-3",
@@ -319,7 +355,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl442.html"
       ],
-      "description": "The fastest prime in Canon's CN-E Cinema Prime set, a standard focal length near natural perspective. Its bright aperture excels in low light and gives shallow depth of field, with clean, sharp Canon rendering and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes."
+      "description": "The fastest prime in Canon's CN-E Cinema Prime set, a standard focal length near natural perspective. Its bright aperture excels in low light and gives shallow depth of field, with clean, sharp Canon rendering and rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw and a shared front diameter, gear positions and form factor across the set for fast swaps. It covers full-frame and Super 35 to 4K-grade standards and colour-matches the CN-E primes.",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-cne70-200mm-t4-4",
@@ -347,7 +387,11 @@
       "webSources": [
         "https://www.usa.canon.com/shop/p/compact-servo-70-200mm-t4-4-ef"
       ],
-      "description": "The telephoto half of Canon's Compact-Servo pair, a light Super 35 servo zoom with a constant T4.4 matched to the 18-80mm T4.4. It carries image stabilization and autofocus support on Cinema EOS bodies and is a true parfocal design that holds focus through the zoom. A nine-blade iris gives rounded bokeh, and small side buttons plus standard controllers or the optional grip handle the servo zoom for live, jib and remote setups. It shares the compact form, 77mm filter thread and handling of its 18-80 sibling."
+      "description": "The telephoto half of Canon's Compact-Servo pair, a light Super 35 servo zoom with a constant T4.4 matched to the 18-80mm T4.4. It carries image stabilization and autofocus support on Cinema EOS bodies and is a true parfocal design that holds focus through the zoom. A nine-blade iris gives rounded bokeh, and small side buttons plus standard controllers or the optional grip handle the servo zoom for live, jib and remote setups. It shares the compact form, 77mm filter thread and handling of its 18-80 sibling.",
+      "maxApertureWide": 4.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": true
     },
     {
       "id": "canon-cne85mm-t1-3",
@@ -374,7 +418,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/cesl443.html"
       ],
-      "description": "A fast portrait-length prime in Canon's CN-E Cinema Prime set, well suited to close-ups and strong subject separation. Its bright aperture delivers shallow depth of field and low-light headroom, with Canon's clean, sharp look and smooth rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw; shared front diameter, gear positions and form factor let it swap cleanly with the CN-E 24 and 50 and the rest of the set. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set."
+      "description": "A fast portrait-length prime in Canon's CN-E Cinema Prime set, well suited to close-ups and strong subject separation. Its bright aperture delivers shallow depth of field and low-light headroom, with Canon's clean, sharp look and smooth rounded bokeh from an eleven-blade iris. Manual focus with a smooth stepless throw; shared front diameter, gear positions and form factor let it swap cleanly with the CN-E 24 and 50 and the rest of the set. Full-frame and Super 35 coverage at 4K-grade sharpness, colour-matched across the set.",
+      "maxApertureWide": 1.3,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "canon-ef-100-400mm-f4-5-5-6l-is-ii",
@@ -404,7 +452,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef437.html"
       ],
-      "description": "The definitive full-frame telephoto zoom for wildlife, sport and long-lens coverage, with IS and a smooth rotary zoom. The f/4.5-5.6 ramp is the price of the reach; sharpness and stabilization make it a reliable long lens on Canon cinema bodies."
+      "description": "The definitive full-frame telephoto zoom for wildlife, sport and long-lens coverage, with IS and a smooth rotary zoom. The f/4.5-5.6 ramp is the price of the reach; sharpness and stabilization make it a reliable long lens on Canon cinema bodies.",
+      "maxApertureWide": 4.5,
+      "maxApertureTele": 5.6,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-100mm-f2-8l-is-macro",
@@ -431,7 +483,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef405.html"
       ],
-      "description": "Canon's hybrid-IS macro, a true 1:1 close-focus prime that doubles as a sharp short telephoto. On a cine rig it covers product, detail and insert work with stabilization, then serves as an interview lens; the hybrid IS helps at high magnification handheld."
+      "description": "Canon's hybrid-IS macro, a true 1:1 close-focus prime that doubles as a sharp short telephoto. On a cine rig it covers product, detail and insert work with stabilization, then serves as an interview lens; the hybrid IS helps at high magnification handheld.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-135mm-f2l",
@@ -458,7 +514,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef335.html"
       ],
-      "description": "A long-serving fast short telephoto, a favourite for interviews and compression on full-frame cine rigs. The f/2 aperture isolates subjects cleanly; it has no IS and photo-lens breathing, but its speed and rendering keep it popular decades on."
+      "description": "A long-serving fast short telephoto, a favourite for interviews and compression on full-frame cine rigs. The f/2 aperture isolates subjects cleanly; it has no IS and photo-lens breathing, but its speed and rendering keep it popular decades on.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-16-35mm-f2-8l-ii",
@@ -488,7 +548,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef393.html"
       ],
-      "description": "Canon's fast constant-aperture ultra-wide L zoom, a staple run-and-gun wide on EF cinema bodies and adapted mirrorless rigs. The f/2.8 aperture and full-frame coverage make it a practical single-lens wide for documentary and event work where swapping primes is not an option. No stabilization, and some edge softness and distortion are the trade for speed and range."
+      "description": "Canon's fast constant-aperture ultra-wide L zoom, a staple run-and-gun wide on EF cinema bodies and adapted mirrorless rigs. The f/2.8 aperture and full-frame coverage make it a practical single-lens wide for documentary and event work where swapping primes is not an option. No stabilization, and some edge softness and distortion are the trade for speed and range.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-16-35mm-f4l-is",
@@ -518,7 +582,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef432.html"
       ],
-      "description": "The image-stabilized f/4 sibling to the fast 16-35, trading a stop for IS and cleaner corners. On a gimbal or handheld cine rig the stabilization steadies wide handheld moves while the constant f/4 keeps exposure flat through the zoom. A common documentary and B-roll wide on Canon cinema bodies."
+      "description": "The image-stabilized f/4 sibling to the fast 16-35, trading a stop for IS and cleaner corners. On a gimbal or handheld cine rig the stabilization steadies wide handheld moves while the constant f/4 keeps exposure flat through the zoom. A common documentary and B-roll wide on Canon cinema bodies.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-17-40mm-f4l",
@@ -548,7 +616,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef373.html"
       ],
-      "description": "Canon's long-serving budget wide L zoom, lightweight and constant f/4 across the range. It lacks stabilization and the ultimate sharpness of newer glass, but low cost and full-frame coverage keep it in service as a utility wide on EF cine and adapted rigs."
+      "description": "Canon's long-serving budget wide L zoom, lightweight and constant f/4 across the range. It lacks stabilization and the ultimate sharpness of newer glass, but low cost and full-frame coverage keep it in service as a utility wide on EF cine and adapted rigs.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-200-400mm-f4l-is-ext1-4",
@@ -578,7 +650,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef428.html"
       ],
-      "description": "A unique constant-f/4 telephoto zoom with a built-in switchable 1.4x extender, giving 200-400mm at f/4 or 280-560mm at f/5.6 without swapping glass. Built for sport and wildlife on full-frame cine bodies, it puts two lenses' reach in one stabilized barrel with rear drop-in filters."
+      "description": "A unique constant-f/4 telephoto zoom with a built-in switchable 1.4x extender, giving 200-400mm at f/4 or 280-560mm at f/5.6 without swapping glass. Built for sport and wildlife on full-frame cine bodies, it puts two lenses' reach in one stabilized barrel with rear drop-in filters.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-200mm-f2l-is",
@@ -605,7 +681,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef397.html"
       ],
-      "description": "An exotic fast telephoto prime, f/2 at 200mm for extreme subject isolation and low-light reach. Heavy and specialised, it delivers a distinctive compressed, shallow look for sport and stage on cine bodies, with IS and rear drop-in filters."
+      "description": "An exotic fast telephoto prime, f/2 at 200mm for extreme subject isolation and low-light reach. Heavy and specialised, it delivers a distinctive compressed, shallow look for sport and stage on cine bodies, with IS and rear drop-in filters.",
+      "maxApertureWide": 2.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-24-105mm-f4l-is-ii",
@@ -635,7 +715,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef457.html"
       ],
-      "description": "The classic full-frame all-purpose zoom, a one-lens covers-most-situations option on Canon cinema bodies. Constant f/4, IS for handheld, and a wide-to-short-telephoto range make it the default doc and event lens where a single lens has to do everything."
+      "description": "The classic full-frame all-purpose zoom, a one-lens covers-most-situations option on Canon cinema bodies. Constant f/4, IS for handheld, and a wide-to-short-telephoto range make it the default doc and event lens where a single lens has to do everything.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-24-70mm-f2-8l-ii",
@@ -665,7 +749,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef424.html"
       ],
-      "description": "Canon's flagship fast standard zoom, f/2.8 constant with the sharpness and contrast of a modern L. It has no IS, so it favours tripod, shoulder or gimbal work; the extra stop over the f/4 versions buys low-light latitude and shallower depth on full frame."
+      "description": "Canon's flagship fast standard zoom, f/2.8 constant with the sharpness and contrast of a modern L. It has no IS, so it favours tripod, shoulder or gimbal work; the extra stop over the f/4 versions buys low-light latitude and shallower depth on full frame.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-24-70mm-f4l-is",
@@ -695,7 +783,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef425.html"
       ],
-      "description": "The compact stabilized standard zoom, a lighter alternative to the f/2.8 with IS and a useful close-focus mode. On a run-and-gun cine rig the stabilization and smaller size often matter more than the lost stop, making it a practical everyday lens."
+      "description": "The compact stabilized standard zoom, a lighter alternative to the f/2.8 with IS and a useful close-focus mode. On a run-and-gun cine rig the stabilization and smaller size often matter more than the lost stop, making it a practical everyday lens.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-24mm-f1-4l-ii",
@@ -722,7 +814,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef400.html"
       ],
-      "description": "A fast full-frame wide prime for low-light and shallow-depth interior and environmental work on Canon cinema bodies. The f/1.4 aperture opens up available-light shooting; as a photo prime it breathes more and has a shorter, un-geared focus throw than dedicated cine glass."
+      "description": "A fast full-frame wide prime for low-light and shallow-depth interior and environmental work on Canon cinema bodies. The f/1.4 aperture opens up available-light shooting; as a photo prime it breathes more and has a shorter, un-geared focus throw than dedicated cine glass.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-28-300mm-f3-5-5-6l-is",
@@ -752,7 +848,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef377.html"
       ],
-      "description": "Canon's superzoom L, an extreme 10.7x range from wide to telephoto in one stabilized lens. It is the ultimate one-lens documentary and travel option when swapping is impossible, at the cost of a variable, slower aperture and considerable size and weight."
+      "description": "Canon's superzoom L, an extreme 10.7x range from wide to telephoto in one stabilized lens. It is the ultimate one-lens documentary and travel option when swapping is impossible, at the cost of a variable, slower aperture and considerable size and weight.",
+      "maxApertureWide": 3.5,
+      "maxApertureTele": 5.6,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-300mm-f2-8l-is-ii",
@@ -779,7 +879,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef417.html"
       ],
-      "description": "A flagship fast super-telephoto prime, the sport and wildlife standard at f/2.8. Its speed, IS and sharpness make it a premium long lens on Canon cinema bodies; the lighter II build and rear drop-in filters aid long handheld and monopod work."
+      "description": "A flagship fast super-telephoto prime, the sport and wildlife standard at f/2.8. Its speed, IS and sharpness make it a premium long lens on Canon cinema bodies; the lighter II build and rear drop-in filters aid long handheld and monopod work.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-300mm-f4l-is",
@@ -806,7 +910,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef340.html"
       ],
-      "description": "A lighter, more affordable 300 prime at f/4 with IS, a practical reach lens for wildlife and sport where the f/2.8 is overkill. Smaller and easier to handle, it takes front 77mm filters and stays sharp across the frame."
+      "description": "A lighter, more affordable 300 prime at f/4 with IS, a practical reach lens for wildlife and sport where the f/2.8 is overkill. Smaller and easier to handle, it takes front 77mm filters and stays sharp across the frame.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-35mm-f1-4l-ii",
@@ -833,7 +941,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef452.html"
       ],
-      "description": "Canon's reference fast 35, a versatile documentary and interview prime on full-frame cine rigs. The f/1.4 aperture and modern L rendering give a clean, contrasty look wide open; the photo-lens throw and breathing are the trade against a native cine prime."
+      "description": "Canon's reference fast 35, a versatile documentary and interview prime on full-frame cine rigs. The f/1.4 aperture and modern L rendering give a clean, contrasty look wide open; the photo-lens throw and breathing are the trade against a native cine prime.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-400mm-f2-8l-is-iii",
@@ -860,7 +972,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef474.html"
       ],
-      "description": "The lightest generation of Canon's premier long sport prime, f/2.8 at 400mm for maximum reach and isolation. IS, rear drop-in filters and a big weight reduction over earlier versions make it a top-tier telephoto on cine bodies."
+      "description": "The lightest generation of Canon's premier long sport prime, f/2.8 at 400mm for maximum reach and isolation. IS, rear drop-in filters and a big weight reduction over earlier versions make it a top-tier telephoto on cine bodies.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-400mm-f4-do-is-ii",
@@ -887,7 +1003,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef435.html"
       ],
-      "description": "A diffractive-optics 400 prime, notably compact and light for its reach thanks to DO elements. At f/4 with IS it trades a stop for portability, a travel-friendly super-telephoto for wildlife and sport on full-frame cine rigs."
+      "description": "A diffractive-optics 400 prime, notably compact and light for its reach thanks to DO elements. At f/4 with IS it trades a stop for portability, a travel-friendly super-telephoto for wildlife and sport on full-frame cine rigs.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-400mm-f5-6l",
@@ -914,7 +1034,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef317.html"
       ],
-      "description": "A long-serving lightweight 400 prime without IS, prized for its sharpness and handling at a modest weight. On a cine body it is a well-lit-conditions reach lens; the lack of stabilization favours fast shutter, tripod or gimbal use."
+      "description": "A long-serving lightweight 400 prime without IS, prized for its sharpness and handling at a modest weight. On a cine body it is a well-lit-conditions reach lens; the lack of stabilization favours fast shutter, tripod or gimbal use.",
+      "maxApertureWide": 5.6,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-500mm-f4l-is-ii",
@@ -941,7 +1065,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef412.html"
       ],
-      "description": "A premier super-telephoto prime for wildlife and sport, f/4 at 500mm with IS and a lightweight II construction. Rear drop-in filters and strong stabilization make it a professional reach lens on Canon cinema bodies."
+      "description": "A premier super-telephoto prime for wildlife and sport, f/4 at 500mm with IS and a lightweight II construction. Rear drop-in filters and strong stabilization make it a professional reach lens on Canon cinema bodies.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-50mm-f1-2l",
@@ -968,7 +1096,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef392.html"
       ],
-      "description": "A characterful fast standard prime, prized for its soft, glowing rendering wide open at f/1.2 rather than clinical sharpness. On a cinema body it gives a distinctive shallow-depth look for portraits and narrative close-ups, with the caveat of photo-lens focus behaviour and breathing."
+      "description": "A characterful fast standard prime, prized for its soft, glowing rendering wide open at f/1.2 rather than clinical sharpness. On a cinema body it gives a distinctive shallow-depth look for portraits and narrative close-ups, with the caveat of photo-lens focus behaviour and breathing.",
+      "maxApertureWide": 1.2,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-600mm-f4l-is-iii",
@@ -995,7 +1127,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef475.html"
       ],
-      "description": "Canon's flagship long super-telephoto, f/4 at 600mm with the weight-reduced III build and IS. Built for distant wildlife and stadium sport, it delivers extreme reach and isolation with rear drop-in filters on full-frame cine rigs."
+      "description": "Canon's flagship long super-telephoto, f/4 at 600mm with the weight-reduced III build and IS. Built for distant wildlife and stadium sport, it delivers extreme reach and isolation with rear drop-in filters on full-frame cine rigs.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-70-200mm-f2-8l-is-ii",
@@ -1025,7 +1161,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef406.html"
       ],
-      "description": "The workhorse fast telephoto zoom, constant f/2.8 with IS, a staple for interviews, stage and event coverage on Canon cinema bodies. The stabilization and reach make it a single-lens telephoto solution; this second version sharpened the optics and improved the IS."
+      "description": "The workhorse fast telephoto zoom, constant f/2.8 with IS, a staple for interviews, stage and event coverage on Canon cinema bodies. The stabilization and reach make it a single-lens telephoto solution; this second version sharpened the optics and improved the IS.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-70-200mm-f2-8l-is-iii",
@@ -1055,7 +1195,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef469.html"
       ],
-      "description": "The latest revision of Canon's fast tele zoom, optically close to the II with updated coatings and cosmetics. Constant f/2.8, IS and the same versatile range keep it the default long lens for handheld and shoulder cine work."
+      "description": "The latest revision of Canon's fast tele zoom, optically close to the II with updated coatings and cosmetics. Constant f/2.8, IS and the same versatile range keep it the default long lens for handheld and shoulder cine work.",
+      "maxApertureWide": 2.8,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-70-200mm-f4l",
@@ -1085,7 +1229,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef356.html"
       ],
-      "description": "The compact, lightweight f/4 tele zoom without IS, a budget and travel-weight alternative for well-lit telephoto work. It gives up a stop and stabilization for size and cost, useful on gimbals and tripods where IS matters less."
+      "description": "The compact, lightweight f/4 tele zoom without IS, a budget and travel-weight alternative for well-lit telephoto work. It gives up a stop and stabilization for size and cost, useful on gimbals and tripods where IS matters less.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-70-200mm-f4l-is-ii",
@@ -1115,7 +1263,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef467.html"
       ],
-      "description": "The stabilized f/4 tele zoom, adding IS and improved optics to the lightweight formula. A practical documentary telephoto where the smaller size and stabilization outweigh the slower aperture."
+      "description": "The stabilized f/4 tele zoom, adding IS and improved optics to the lightweight formula. A practical documentary telephoto where the smaller size and stabilization outweigh the slower aperture.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-70-300mm-f4-5-6l-is",
@@ -1145,7 +1297,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef407.html"
       ],
-      "description": "A compact L-grade tele zoom with extra reach and IS, ramping from f/4 to f/5.6. The longer range suits wildlife and distant subjects on a cine body; the variable aperture shifts exposure through the zoom, something to watch when pulling out."
+      "description": "A compact L-grade tele zoom with extra reach and IS, ramping from f/4 to f/5.6. The longer range suits wildlife and distant subjects on a cine body; the variable aperture shifts exposure through the zoom, something to watch when pulling out.",
+      "maxApertureWide": 4.0,
+      "maxApertureTele": 5.6,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-800mm-f5-6l-is",
@@ -1172,7 +1328,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef398.html"
       ],
-      "description": "An extreme-reach super-telephoto prime, f/5.6 at 800mm for the most distant subjects. Large and specialised, it serves wildlife and sport on cine bodies with IS and rear drop-in filters where nothing shorter will fill the frame."
+      "description": "An extreme-reach super-telephoto prime, f/5.6 at 800mm for the most distant subjects. Large and specialised, it serves wildlife and sport on cine bodies with IS and rear drop-in filters where nothing shorter will fill the frame.",
+      "maxApertureWide": 5.6,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     },
     {
       "id": "canon-ef-85mm-f1-2l-ii",
@@ -1199,7 +1359,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef389.html"
       ],
-      "description": "The signature Canon portrait lens, a very fast short telephoto with a creamy, shallow rendering that defines the EF look for interviews and beauty. Focus is slow and breathing is notable, so it suits deliberate, locked-off shooting more than fast handheld cine work."
+      "description": "The signature Canon portrait lens, a very fast short telephoto with a creamy, shallow rendering that defines the EF look for interviews and beauty. Focus is slow and breathing is notable, so it suits deliberate, locked-off shooting more than fast handheld cine work.",
+      "maxApertureWide": 1.2,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": false
     },
     {
       "id": "canon-ef-85mm-f1-4l-is",
@@ -1226,7 +1390,11 @@
       "webSources": [
         "https://global.canon/en/c-museum/product/ef466.html"
       ],
-      "description": "The stabilized, faster-focusing modern counterpart to the f/1.2, trading a little of the classic glow for sharper, more usable results plus IS. A strong interview and portrait prime on Canon cinema bodies where handheld stability helps."
+      "description": "The stabilized, faster-focusing modern counterpart to the f/1.2, trading a little of the classic glow for sharper, more usable results plus IS. A strong interview and portrait prime on Canon cinema bodies where handheld stability helps.",
+      "maxApertureWide": 1.4,
+      "maxApertureTele": null,
+      "apertureType": "f",
+      "hasIS": true
     }
   ]
 }

@@ -38,7 +38,11 @@
       "webSources": [
         "https://www.red.com/lenses"
       ],
-      "description": "The final and most refined RED Pro Zoom, a spherically tuned Super 35 lens built for RED's DSMC bodies but at home on any PL cine camera. It pairs a versatile wide-to-portrait range with a constant aperture, minimal breathing and Cooke /i metadata in a rugged traditional cine housing. Discontinued and available on the used market."
+      "description": "The final and most refined RED Pro Zoom, a spherically tuned Super 35 lens built for RED's DSMC bodies but at home on any PL cine camera. It pairs a versatile wide-to-portrait range with a constant aperture, minimal breathing and Cooke /i metadata in a rugged traditional cine housing. Discontinued and available on the used market.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     },
     {
       "id": "red-pro-18-85mm-t2-9",
@@ -78,7 +82,11 @@
       "webSources": [
         "https://www.red.com/lenses"
       ],
-      "description": "A spherically tuned Super 35 workhorse zoom from RED, covering wide to short-telephoto with consistent brightness and minimal breathing across the range. Its sturdy cine housing and geared rings suit the larger DSMC-era bodies rather than compact rigs, and it carries Cooke /i metadata. Discontinued and available on the used market."
+      "description": "A spherically tuned Super 35 workhorse zoom from RED, covering wide to short-telephoto with consistent brightness and minimal breathing across the range. Its sturdy cine housing and geared rings suit the larger DSMC-era bodies rather than compact rigs, and it carries Cooke /i metadata. Discontinued and available on the used market.",
+      "maxApertureWide": 2.9,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

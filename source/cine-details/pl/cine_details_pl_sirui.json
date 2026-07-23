@@ -38,7 +38,11 @@
       "webSources": [
         "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html"
       ],
-      "description": "A full-frame parfocal cine zoom from Sirui covering a practical wide-to-short-telephoto range at a constant T3.2. Built for full-frame and larger sensors, it holds focus through the zoom with well-contained breathing, and leans toward a softer, gently vintage rendering with pleasing rounded bokeh, all in a solid all-metal body."
+      "description": "A full-frame parfocal cine zoom from Sirui covering a practical wide-to-short-telephoto range at a constant T3.2. Built for full-frame and larger sensors, it holds focus through the zoom with well-contained breathing, and leans toward a softer, gently vintage rendering with pleasing rounded bokeh, all in a solid all-metal body.",
+      "maxApertureWide": 3.2,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }
