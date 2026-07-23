@@ -343,6 +343,24 @@
       "addedDate": null
     },
     {
+      "id": "dzofilm-tango-18-90mm-t2-9-pl",
+      "manufacturer": "DZOFilm",
+      "model": "Tango 18-90mm T2.9",
+      "series": "Tango",
+      "generation": "4K UHD",
+      "focalLengthMin": 18.0,
+      "focalLengthMax": 90.0,
+      "zoomRatio": 5.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "superThirtyFive",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Super 35 wide-range cine zoom, PL/EF/E mount. Source: dzofilm.com. DZO EF-style bayonet mount -- not standard Canon EF.",
+      "addedDate": null
+    },
+    {
       "id": "dzofilm-vespid-100mm-t2-1",
       "manufacturer": "DZOFilm",
       "model": "Vespid Prime 100mm T2.1",

@@ -3,6 +3,14 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.35.0 — 2026-07-23
+
+- Cine datafixes batch 4, pass 4b (entry-set change only, kept separate from the pass 4a value corrections above per POS-D45): rename + two deletions
+- dzofilm-tango-18-90mm-t2-9-e (E) renamed to dzofilm-tango-18-90mm-t2-9-pl and mount E -> PL: was a phantom E-mount copy of the native PL Tango zoom (Martijn-approved mount datafix, option A). Entry moved from cine_lens_e_dzofilm.json (now-empty file removed) into cine_lens_pl_dzofilm.json. Every other field (model, description, aperture, filter, FOV inputs) carried over unchanged. Base dzofilm-tango-18-90mm-t2-9 (EF) untouched
+- fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 (bare EF phantom bases, MK is an E-mount-only series) deleted outright (Martijn-approved 2026-07-23). cine_lens_ef_fujinon.json is now empty of entries and removed. Their -e twins (fujinon-mk18-55mm-t2-9-e, fujinon-mk50-135mm-t2-9-e) untouched
+- Entry count: cine 603 -> 601, lenses union 727 -> 725
+- cine_lenses.json split bumped to v1.32.0 (same rename + deletions)
+
 ### v1.34.0 — 2026-07-23
 
 - Cine datafixes batch 4, pass 4a (value corrections/fills only, no entry-set change): 17 cine core model string corrections (8 Cooke S8/i FF, 2 DZOFilm Vespid Retro, 4 Tokina Vista-P 180mm across PL/E/EF/LPL, 1 Laowa Ultima 25-600mm, 2 Fujinon)
@@ -121,6 +129,13 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.53.0 — 2026-07-23
+
+- Cine datafixes batch 4, pass 4b (entry-set change only, kept separate from the pass 4a value corrections above per POS-D45): rename + two deletions, mirroring the cine_lenses v1.32.0 change above
+- dzofilm-tango-18-90mm-t2-9-e renamed to dzofilm-tango-18-90mm-t2-9-pl, moved from cine_details_e_dzofilm.json (now-empty file removed) into cine_details_pl_dzofilm.json. Every field value carried over unchanged (only the id changed)
+- fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 detail entries deleted. cine_details_ef_fujinon.json is now empty of entries and removed. Their -e twins untouched
+- Entry count: cine 603 -> 601, matches cine_lenses.json id-set exactly
+
 ### v1.52.0 — 2026-07-23
 
 - Cine datafixes batch 4, pass 4a: 88 detail-id overwrites/fills via build/apply_fields.py across filterThreadMm/filterType/hasMacro/isParfocal/hasFocusBreathing/fieldNotes/frontDiameterMm. 153 fields applied to 88 ids across 15 shards, zero orphans (pre-flight verified against db-v14)
@@ -188,6 +203,10 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.55.0 — 2026-07-23
+
+- Legacy union rebuild aggregating the cine_lens_details v1.53.0 pass 4b rename + two deletions above (dzofilm-tango-18-90mm-t2-9-e -> -pl, mount E -> PL; fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 removed) and the cine_lenses v1.32.0 core mirror. Entry count 727 -> 725
+
 ### v1.54.0 — 2026-07-23
 
 - Legacy union rebuild aggregating the cine_lens_details v1.52.0 pass 4a datafixes above (88 detail ids, 153 fields) and the cine_lenses v1.31.0 core corrections (17 model strings + 1 sensorFormat fix). No entries added or removed
