@@ -175,7 +175,7 @@
         "introductionYear": { "anyOf": [{ "type": ["integer", "null"] }, { "const": "unknown" }] },
         "productUrl": { "type": ["string", "null"] },
         "poeClass": { "type": ["string", "null"] },
-        "streamingProtocols": { "anyOf": [{ "type": "array", "items": { "enum": ["IP", "NDI", "NDI|HX", "NDI|HX2", "NDI|HX3", "SRT", "RTSP", "RTMP", "RTMPS", "HLS", "Dante AV-H", "SMPTE ST 2110"] } }, { "type": "null" }] },
+        "streamingProtocols": { "anyOf": [{ "type": "array", "items": { "enum": ["IP", "NDI", "NDI|HX", "NDI|HX2", "NDI|HX3", "SRT", "RTSP", "RTMP", "RTMPS", "HLS", "Dante AV-H", "SMPTE ST 2110", "MPEG-TS"] } }, { "type": "null" }] },
         "trackingDataOut": { "anyOf": [{ "type": "array", "items": { "enum": ["FreeD"] } }, { "type": "null" }] },
         "description": { "type": ["string", "null"] },
         "fieldNotes": { "type": "object", "additionalProperties": { "type": "string" } }
