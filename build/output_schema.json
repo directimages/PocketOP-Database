@@ -15,7 +15,7 @@
         "manufacturer": { "type": "string" },
         "model": { "type": "string" },
         "series": { "type": "string" },
-        "generation": { "enum": ["4K UHD", "HD", "SD", "Cinema", "Legacy", "8K"] },
+        "generation": { "enum": ["4K UHD", "HD", "SD", "Cinema", "Legacy", "8K", "Photography"] },
         "focalLengthMin": { "type": "number" },
         "focalLengthMax": { "type": "number" },
         "zoomRatio": { "type": "number" },
