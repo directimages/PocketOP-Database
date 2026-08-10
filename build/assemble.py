@@ -36,6 +36,8 @@ import re
 import sys
 import unicodedata
 
+import field_registry
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE = os.path.join(REPO_ROOT, "source")
 META_DIR = os.path.join(SOURCE, "meta")
@@ -353,6 +355,16 @@ def build_outputs(pools):
 # self contained interpreter of the subset of JSON Schema that registry uses
 # (type, enum, const, anyOf, items, additionalProperties), so the pipeline stays
 # stdlib only. It produces one clear per entry, per field message per violation.
+#
+# Alongside schema validation, every entry also runs through
+# field_registry.partition_violations, the core/details field partition check.
+# additionalProperties: false already rejects a field registered on neither
+# side, and today core and details vocabularies happen to be disjoint so it
+# also rejects a cross placed field as a side effect; the partition check is
+# an explicit, independently sourced rule on top of that, so a cross placed
+# field is reported as "belongs in details, not core" rather than a generic
+# unregistered field message, and stays correct even if core and details ever
+# come to share a field name.
 # --------------------------------------------------------------------------
 
 # Each assembled output maps to the $def it is validated against. The two lens
@@ -528,6 +540,7 @@ def validate_outputs(built):
                     continue
             entry_errors = []
             validate_value(entry, defs[def_name], "", entry_errors)
+            entry_errors.extend(field_registry.partition_violations(def_name, entry))
             for line in entry_errors:
                 errors.append("%s id '%s' [%s]: %s"
                               % (out["name"], entry_id, def_name, line))
