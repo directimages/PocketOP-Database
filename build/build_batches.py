@@ -2,28 +2,42 @@
 """Convert Kay-staged markdown into create_entries.py batch files (POS-W62 front door).
 
 Kay stages new-entry batches as JSON inside fenced code blocks in markdown
-staging files in the vault. This script is the only place that uncloaks that
-markdown into the plain batch JSON create_entries.py understands. It never
-validates schema, never writes to a shard, and never runs the real import;
-that stays create_entries.py's job, invoked here only in dry run.
+staging files in the vault, under headings like "## Core (ptz_cameras_minrray,
+append 17)" and "## Detail (ptz_details_minrray, append 17)". This script is
+the only place that uncloaks that markdown into the plain batch JSON
+create_entries.py understands. It never validates schema, never writes to a
+shard, and never runs the real import; that stays create_entries.py's job,
+invoked here only in dry run.
 
-Marker contract (Kay writes this, this script only reads it):
+Heading contract (Kay's existing staging style, no markers to write by hand):
 
-  <!-- batch-core shard="source/.../shard.json" name="minrray" -->
+  ## Core (ptz_cameras_minrray, append 17)
   ```json
   [ ...core entry objects... ]
   ```
-  <!-- batch-details shard="source/.../shard.json" name="minrray" -->
+  ## Detail (ptz_details_minrray, append 17)
   ```json
   [ ...details entry objects... ]
   ```
 
-A batch is one batch-core marker and one batch-details marker sharing the
-same name attribute. Each marker must be immediately followed (blank lines
-tolerated, nothing else) by exactly one fenced json block opening with a
-line that is exactly ```json and closing with a line that is exactly ```.
-The json block is the raw entries array. shard paths are read verbatim from
-the markers; this script never infers one from a brand or filename.
+A block is a markdown heading whose text starts with the word Core, or with
+Detail/Details, case-insensitive, trailing text after that word ignored,
+immediately followed (blank lines tolerated, nothing else) by exactly one
+fenced json block opening with a line that is exactly ```json and closing
+with a line that is exactly ```. A heading that matches the word but is not
+followed by a fence is not a block: ignore it, it is not an error.
+
+Every shard path is derived from the entry data itself, reusing assemble.py's
+own slugify, SHARD_CATEGORIES, and is_broadcast so naming can never diverge
+from the assembler. A core entry with a brand field is a PTZ core; one with a
+manufacturer field is a lens core, broadcast or cine per
+assemble.is_broadcast, cine keyed also by the entry's mount. Details entries
+carry only an id; each is paired to the core entry with the same id in the
+same file and inherits that core entry's shard. One core heading (or several)
+can hold entries for multiple brands or manufacturers at once: they are
+pooled, classified, and grouped by derived shard automatically, one output
+batch per shard pair, named after the core shard's filename stem. No shard
+path is ever hand typed by Kay or guessed from a filename.
 
 Four folders live under one base directory (see POCKETOP_IMPORT_BASE below):
 
@@ -32,12 +46,12 @@ Four folders live under one base directory (see POCKETOP_IMPORT_BASE below):
   done/   staging markdown that processed cleanly, moved here
   logs/   one timestamped run log per invocation
 
-Failure is per file and loud: a file with no markers is not an import file
-and is skipped, left in inbox. A file with at least one marker is an import
-file, and every batch in it must resolve cleanly or the whole file fails,
-nothing from it is written, it stays in inbox. Only a file all of whose
-batches parsed cleanly gets its batches written to output/ and is moved to
-done/ (unless --dry-run, which writes output/ but moves nothing).
+Failure is per file and loud: a file with no Core/Detail blocks is not an
+import file and is skipped, left in inbox. A file with at least one block is
+an import file, and every batch derived from it must resolve cleanly or the
+whole file fails, nothing from it is written, it stays in inbox. Only a file
+all of whose batches derived and wrote cleanly is moved to done/ (unless
+--dry-run, which writes output/ but moves nothing).
 
 No em dashes appear anywhere in this file by project policy.
 """
@@ -49,12 +63,17 @@ import subprocess
 import sys
 from datetime import datetime, timezone
 
+import assemble
+
 ENV_VAR = "POCKETOP_IMPORT_BASE"
 
-MARKER_RE = re.compile(r"^<!--\s*(batch-core|batch-details)\s+(.*?)-->\s*$")
-ATTR_RE = re.compile(r'(\w+)="([^"]*)"')
+HEADING_RE = re.compile(r"^#{1,6}\s+(.*?)\s*$")
+CORE_WORD_RE = re.compile(r"^core\b", re.IGNORECASE)
+DETAILS_WORD_RE = re.compile(r"^details?\b", re.IGNORECASE)
 FENCE_OPEN = "```json"
 FENCE_CLOSE = "```"
+
+CATS_BY_DIR = {cat["dir"]: cat for cat in assemble.SHARD_CATEGORIES}
 
 
 class RunLog:
@@ -72,45 +91,42 @@ class RunLog:
         self.handle.close()
 
 
-def parse_markers(text):
-    """Scan markdown text for marker occurrences.
+def parse_blocks(text):
+    """Scan markdown text for Core/Detail(s) heading blocks.
 
-    Returns (markers, scan_errors). Each marker is a dict with type, name,
-    shard, line, and either 'entries' (parsed list) or 'error' (string).
-    scan_errors holds malformed marker lines (missing shard/name attribute)
-    that never got as far as pairing.
+    Returns (core_entries, details_entries, errors). core_entries and
+    details_entries are lists of (entry, heading_line) pairs, pooled across
+    every matching heading in the file. A heading matching the word but not
+    immediately followed by a fence is not a block and is silently skipped;
+    a heading that does open a fence whose content is broken is a loud
+    error.
     """
     lines = text.splitlines()
-    markers = []
-    scan_errors = []
+    core_entries = []
+    details_entries = []
+    errors = []
     i = 0
     while i < len(lines):
-        match = MARKER_RE.match(lines[i])
-        if not match:
+        heading_match = HEADING_RE.match(lines[i])
+        if not heading_match:
             i += 1
             continue
-        marker_type = match.group(1)
-        attrs = dict(ATTR_RE.findall(match.group(2)))
-        marker_line = i + 1
-        if "shard" not in attrs or "name" not in attrs:
-            scan_errors.append(
-                "line %d: %s marker is missing a required 'shard' or 'name' attribute"
-                % (marker_line, marker_type)
-            )
+        heading_text = heading_match.group(1)
+        if CORE_WORD_RE.match(heading_text):
+            block_type = "core"
+        elif DETAILS_WORD_RE.match(heading_text):
+            block_type = "details"
+        else:
             i += 1
             continue
+        heading_line = i + 1
 
         # Find the opening fence: blank lines tolerated, nothing else.
         j = i + 1
         while j < len(lines) and lines[j].strip() == "":
             j += 1
         if j >= len(lines) or lines[j].strip() != FENCE_OPEN:
-            markers.append({
-                "type": marker_type, "name": attrs["name"], "shard": attrs["shard"],
-                "line": marker_line,
-                "error": ("line %d: %s marker for name '%s' is not immediately followed "
-                          "by a fenced json block (```json)") % (marker_line, marker_type, attrs["name"]),
-            })
+            # A heading with no following json fence is not a block.
             i += 1
             continue
 
@@ -119,76 +135,130 @@ def parse_markers(text):
         while k < len(lines) and lines[k].strip() != FENCE_CLOSE:
             k += 1
         if k >= len(lines):
-            markers.append({
-                "type": marker_type, "name": attrs["name"], "shard": attrs["shard"],
-                "line": marker_line,
-                "error": ("line %d: %s marker for name '%s' opens a json block that is "
-                          "never closed with a ``` line") % (marker_line, marker_type, attrs["name"]),
-            })
+            errors.append("line %d: %s heading opens a json block that is never "
+                          "closed with a ``` line" % (heading_line, block_type))
             i = j + 1
             continue
 
         block_text = "\n".join(lines[j + 1:k])
         try:
-            entries = json.loads(block_text) if block_text.strip() else []
+            parsed = json.loads(block_text) if block_text.strip() else []
         except json.JSONDecodeError as exc:
-            markers.append({
-                "type": marker_type, "name": attrs["name"], "shard": attrs["shard"],
-                "line": marker_line,
-                "error": "line %d: %s marker for name '%s' has invalid JSON: %s"
-                         % (marker_line, marker_type, attrs["name"], exc),
-            })
+            errors.append("line %d: %s heading json block has invalid JSON: %s"
+                          % (heading_line, block_type, exc))
             i = k + 1
             continue
-        if not isinstance(entries, list):
-            markers.append({
-                "type": marker_type, "name": attrs["name"], "shard": attrs["shard"],
-                "line": marker_line,
-                "error": "line %d: %s marker for name '%s' json block is not an array"
-                         % (marker_line, marker_type, attrs["name"]),
-            })
+        if not isinstance(parsed, list):
+            errors.append("line %d: %s heading json block is not an array"
+                          % (heading_line, block_type))
             i = k + 1
             continue
 
-        markers.append({
-            "type": marker_type, "name": attrs["name"], "shard": attrs["shard"],
-            "line": marker_line, "entries": entries,
-        })
+        target = core_entries if block_type == "core" else details_entries
+        target.extend((entry, heading_line) for entry in parsed)
         i = k + 1
-    return markers, scan_errors
+    return core_entries, details_entries, errors
 
 
-def pair_batches(markers, scan_errors):
-    """Group markers by name into batches. Returns (batches, errors).
+def classify_core_entry(entry):
+    """Classify a core entry from its own data. Returns (cat, entity_slug,
+    mount_slug) or None when the entry matches no known category. mount_slug
+    is None for non mount categories."""
+    if not isinstance(entry, dict):
+        return None
+    if entry.get("brand"):
+        return (CATS_BY_DIR["ptz-cameras"], assemble.slugify(entry["brand"]), None)
+    if entry.get("manufacturer"):
+        mfr_slug = assemble.slugify(entry["manufacturer"])
+        if assemble.is_broadcast(entry):
+            return (CATS_BY_DIR["broadcast-lenses"], mfr_slug, None)
+        return (CATS_BY_DIR["cine-lenses"], mfr_slug, assemble.slugify(entry.get("mount")))
+    return None
 
-    batches maps name -> {"core": {...}, "details": {...}}. errors is a list
-    of human readable strings; if non empty, the whole file has failed.
-    """
-    errors = list(scan_errors)
-    by_name = {}
-    for marker in markers:
-        slot = by_name.setdefault(marker["name"], {"batch-core": [], "batch-details": []})
-        slot[marker["type"]].append(marker)
+
+def paired_details_cat(core_cat):
+    """The SHARD_CATEGORIES entry on the details side of core_cat's pair."""
+    target_kind = "ptzdet" if core_cat["kind"] == "ptzcam" else "details"
+    for cat in assemble.SHARD_CATEGORIES:
+        if cat["kind"] == target_kind and cat["group"] == core_cat["group"]:
+            return cat
+    return None
+
+
+def shard_path(cat, entity_slug, mount_slug):
+    """The source/ relative shard path for one category and slug, built only
+    from fields already declared on the category (prefix, dir, mount) plus
+    assemble's own SOURCE/REPO_ROOT, so naming cannot diverge from assemble.py."""
+    base_rel = assemble.rel(os.path.join(assemble.SOURCE, cat["dir"]))
+    if cat["mount"]:
+        filename = "%s%s_%s.json" % (cat["prefix"], mount_slug, entity_slug)
+        return "%s/%s/%s" % (base_rel, mount_slug, filename)
+    filename = "%s%s.json" % (cat["prefix"], entity_slug)
+    return "%s/%s" % (base_rel, filename)
+
+
+def build_batches(core_entries, details_entries):
+    """Classify, pair by id, and group pooled core/details entries into one
+    batch per derived shard pair. Returns (batches, errors); batches maps
+    core shard path -> {"core": {...}, "details": {...}}."""
+    errors = []
+    id_to_core_path = {}
+    core_groups = {}
+    details_shard_for = {}
+
+    for entry, line in core_entries:
+        if not isinstance(entry, dict) or not entry.get("id"):
+            errors.append("line %d: a core entry is missing a non empty 'id' field" % line)
+            continue
+        entry_id = entry["id"]
+        if entry_id in id_to_core_path:
+            errors.append("core entry id '%s' is staged more than once in this file" % entry_id)
+            continue
+        classified = classify_core_entry(entry)
+        if classified is None:
+            errors.append("core entry '%s': matches no category (no brand or "
+                          "manufacturer field)" % entry_id)
+            continue
+        cat, entity_slug, mount_slug = classified
+        core_path = shard_path(cat, entity_slug, mount_slug)
+        details_path = shard_path(paired_details_cat(cat), entity_slug, mount_slug)
+        id_to_core_path[entry_id] = core_path
+        core_groups.setdefault(core_path, []).append(entry)
+        details_shard_for[core_path] = details_path
+
+    details_groups = {}
+    for entry, line in details_entries:
+        if not isinstance(entry, dict) or not entry.get("id"):
+            errors.append("line %d: a details entry is missing a non empty 'id' field" % line)
+            continue
+        entry_id = entry["id"]
+        core_path = id_to_core_path.get(entry_id)
+        if core_path is None:
+            errors.append("details entry id '%s' has no matching core entry in "
+                          "the same file" % entry_id)
+            continue
+        details_groups.setdefault(core_path, []).append(entry)
 
     batches = {}
-    for name, slot in by_name.items():
-        cores, details = slot["batch-core"], slot["batch-details"]
-        for side_name, side_markers in (("batch-core", cores), ("batch-details", details)):
-            for marker in side_markers[1:]:
-                errors.append("duplicate %s marker for name '%s' at line %d"
-                              % (side_name, name, marker["line"]))
-        if not cores:
-            errors.append("batch-details marker for name '%s' has no matching batch-core marker" % name)
-        if not details:
-            errors.append("batch-core marker for name '%s' has no matching batch-details marker" % name)
-        for marker in cores[:1] + details[:1]:
-            if "error" in marker:
-                errors.append(marker["error"])
-        if cores and details and "error" not in cores[0] and "error" not in details[0]:
-            batches[name] = {
-                "core": {"path": cores[0]["shard"], "entries": cores[0]["entries"]},
-                "details": {"path": details[0]["shard"], "entries": details[0]["entries"]},
-            }
+    for core_path, core_list in core_groups.items():
+        details_list = details_groups.get(core_path, [])
+        core_ids = {e["id"] for e in core_list}
+        details_ids = {e["id"] for e in details_list}
+        if core_ids != details_ids:
+            missing = sorted(core_ids - details_ids)
+            extra = sorted(details_ids - core_ids)
+            parts = []
+            if missing:
+                parts.append("ids in core but missing from details: %s" % missing)
+            if extra:
+                parts.append("ids in details but missing from core: %s" % extra)
+            errors.append("shard '%s': core/details id set mismatch. %s"
+                          % (core_path, " ; ".join(parts)))
+            continue
+        batches[core_path] = {
+            "core": {"path": core_path, "entries": core_list},
+            "details": {"path": details_shard_for[core_path], "entries": details_list},
+        }
     return batches, errors
 
 
@@ -202,17 +272,19 @@ def process_file(path, output_dir, committed_names, log):
     with open(path, "r", encoding="utf-8") as handle:
         text = handle.read()
 
-    markers, scan_errors = parse_markers(text)
-    if not markers and not scan_errors:
-        log.line("SKIP  %s: no batch markers found" % filename)
+    core_entries, details_entries, scan_errors = parse_blocks(text)
+    if not core_entries and not details_entries and not scan_errors:
+        log.line("SKIP  %s: no Core/Detail blocks found" % filename)
         return "skipped"
 
-    batches, errors = pair_batches(markers, scan_errors)
+    batches, errors = build_batches(core_entries, details_entries)
+    errors = scan_errors + errors
 
-    collisions = [name for name in batches if name in committed_names]
-    for name in collisions:
-        errors.append("batch name '%s' was already written by '%s' earlier in this run"
-                      % (name, committed_names[name]))
+    stems = {os.path.splitext(os.path.basename(core_path))[0]: core_path for core_path in batches}
+    for stem in stems:
+        if stem in committed_names:
+            errors.append("batch '%s.json' was already written by '%s' earlier in this run"
+                          % (stem, committed_names[stem]))
 
     if errors:
         log.line("FAIL  %s:" % filename, err=True)
@@ -220,15 +292,16 @@ def process_file(path, output_dir, committed_names, log):
             log.line("  " + line, err=True)
         return "failed"
 
-    for name, batch in batches.items():
-        out_path = os.path.join(output_dir, "%s.json" % name)
+    for stem, core_path in stems.items():
+        batch = batches[core_path]
+        out_path = os.path.join(output_dir, "%s.json" % stem)
         with open(out_path, "w", encoding="utf-8") as handle:
             handle.write(json.dumps(batch, ensure_ascii=False, indent=2) + "\n")
-        committed_names[name] = filename
+        committed_names[stem] = filename
         log.line("WROTE %s -> output/%s.json (%d core, %d details)"
-                 % (filename, name, len(batch["core"]["entries"]), len(batch["details"]["entries"])))
+                 % (filename, stem, len(batch["core"]["entries"]), len(batch["details"]["entries"])))
 
-    log.line("OK    %s: %d batch(es) written" % (filename, len(batches)))
+    log.line("OK    %s: %d batch(es) written" % (filename, len(stems)))
     return "clean"
 
 
@@ -312,7 +385,7 @@ def main(argv):
         log.line("output/ is empty, skipping create_entries.py dry run.")
 
     log.line("")
-    log.line("Summary: %d clean, %d skipped (no markers), %d failed."
+    log.line("Summary: %d clean, %d skipped (no blocks), %d failed."
              % (counts["clean"], counts["skipped"], counts["failed"]))
     log.close()
 
