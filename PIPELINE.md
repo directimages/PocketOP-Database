@@ -260,3 +260,118 @@ own self describing filenames and its own output files. Adding that category is
 a deliberate step because it introduces a new published file that consumers must
 learn about. Adding manufacturers, brands, mounts, lenses, cameras, or devices
 inside the existing categories never requires any configuration change.
+
+## Creating new entries: create_entries.py (POS-W62)
+
+Today a new entry can enter the pipeline by hand appending a full object to a
+core brand shard and its matching details brand shard, then running
+`assemble.py`, which is the first point that validates it. `build/create_entries.py`
+is a create route that validates a batch of brand-new entries entirely before
+anything is written, then optionally writes them.
+
+A batch file is a JSON object shaped like:
+
+```json
+{
+  "core":    {"path": "source/.../<core shard>.json",    "entries": [...]},
+  "details": {"path": "source/.../<details shard>.json", "entries": [...]}
+}
+```
+
+Both sides are required. The tool checks every staged entry against the
+exact destination `$def` in `output_schema.json`, the core/details field
+partition (`field_registry.py`), an id-must-be-new check (this tool creates,
+it never updates an existing id, see `apply_fields.py` for that), and the
+core/details id-set pairing check. Every violation across the whole run is
+collected and reported together, per entry id and field. Nothing is written
+while any violation exists, and nothing is written at all unless `--write`
+is given:
+
+```
+python build/create_entries.py <batch.json> [more ...]            # dry run
+python build/create_entries.py --write <batch.json> [more ...]    # writes
+```
+
+Any argument that is a directory is expanded to every `*.json` file directly
+inside it, sorted, and each is treated exactly as if it had been passed on
+the command line (folder mode). This is a pure input convenience; what gets
+validated and how does not change.
+
+## Markdown-to-batch conversion: build_batches.py
+
+Kay stages new-entry batches as JSON inside fenced code blocks in markdown
+staging files in the vault. `build/build_batches.py` is the only place that
+converts that markdown into the plain batch JSON `create_entries.py`
+understands. It never validates schema, never writes to a shard, and never
+runs the real import, that stays `create_entries.py`'s job, invoked here only
+in dry run. The two tools are kept as separate layers on purpose: the tool
+that catches mapping errors must never itself become a source of them.
+
+### Marker contract
+
+A batch is one `batch-core` marker and one `batch-details` marker sharing the
+same `name` attribute. Each marker is an HTML comment on its own line,
+immediately followed (blank lines tolerated, nothing else) by exactly one
+fenced json block:
+
+````
+<!-- batch-core shard="source/ptz-cameras/ptz_cameras_minrray.json" name="minrray" -->
+```json
+[ ...core entry objects... ]
+```
+<!-- batch-details shard="source/ptz-details/ptz_details_minrray.json" name="minrray" -->
+```json
+[ ...details entry objects... ]
+```
+````
+
+Both `shard` and `name` are required attributes; attribute order does not
+matter. The fence must open with a line that is exactly ` ```json ` and close
+with a line that is exactly ` ``` `. The json block is the raw entries array.
+Shard paths are read verbatim from the markers, never inferred from a brand
+or filename.
+
+Failure is per file and loud: a file with no markers is not an import file
+and is skipped, left in `inbox/`. A file with at least one marker is an
+import file, and every batch in it must resolve cleanly (parseable JSON, an
+array, a matching name on both sides) or the whole file fails: nothing from
+it is written, it stays in `inbox/`, and the reasons are logged. A batch name
+that collides with a name already written earlier in the same run is also a
+failure for the later file, so two files can never silently overwrite each
+other's output. Only a file all of whose batches parsed cleanly gets its
+batches written to `output/` and is moved to `done/`.
+
+### The four folders
+
+One base directory holds four subfolders:
+
+```
+inbox/  staging markdown to process
+output/ the clean batch json files this script produces
+done/   staging markdown that processed cleanly, moved here
+logs/   one timestamped run log per invocation
+```
+
+The base directory is never hardcoded in source. It is read from the
+`POCKETOP_IMPORT_BASE` environment variable (set once per machine, the same
+pattern as the existing `ANTHROPIC_DEFAULT_OPUS_MODEL`), with an optional
+positional CLI argument as an override:
+
+```
+python build/build_batches.py                    # uses $POCKETOP_IMPORT_BASE
+python build/build_batches.py /path/to/base       # overrides it
+python build/build_batches.py --dry-run           # writes output/, moves nothing to done/
+```
+
+### What a run does
+
+1. Reads every `*.md` file in `inbox/`, sorted.
+2. For each file, parses and pairs its batches. A clean file gets one
+   `output/<name>.json` per batch, in the exact shape `create_entries.py`
+   expects, and moves to `done/` (unless `--dry-run`).
+3. If `output/` has any `*.json` files afterward, runs
+   `create_entries.py` in dry run over the whole `output/` folder (never
+   `--write`) and prints its verdict. This never writes to any shard; the
+   real write stays a separate, deliberate, manual step.
+4. Writes one timestamped log to `logs/` recording what was read, written,
+   skipped, and failed, and exits nonzero if any inbox file failed.
