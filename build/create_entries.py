@@ -22,6 +22,11 @@ A batch file is a JSON object shaped like:
     "details": {"path": "source/.../<details shard>.json", "entries": [...]}
   }
 
+Any argument that is a directory is expanded to every *.json file directly
+inside it, sorted, and each is treated exactly as if it had been passed on
+the command line itself (folder mode). This is a pure input convenience;
+what gets validated and how does not change.
+
 Both sides are required in every batch given to this tool: PIPELINE.md and
 assemble.py both enforce that a core shard and its paired details shard
 always carry the same id set, so a batch that only adds to one side would
@@ -65,6 +70,21 @@ def resolve_category(path):
             return cat
     fail("Batch path '%s' does not sit under any recognised source/ category "
          "directory." % assemble.rel(abs_path))
+
+
+def expand_batch_paths(paths):
+    """Expand any directory argument to its sorted *.json files (folder mode)."""
+    expanded = []
+    for path in paths:
+        if os.path.isdir(path):
+            expanded.extend(
+                os.path.join(path, name)
+                for name in sorted(os.listdir(path))
+                if name.endswith(".json")
+            )
+        else:
+            expanded.append(path)
+    return expanded
 
 
 def load_batch(path):
@@ -209,9 +229,9 @@ def write_batches(write_plan):
 
 def main(argv):
     write = "--write" in argv
-    batch_paths = [arg for arg in argv if arg != "--write"]
+    batch_paths = expand_batch_paths([arg for arg in argv if arg != "--write"])
     if not batch_paths:
-        print("usage: create_entries.py [--write] <batch.json> [more ...]", file=sys.stderr)
+        print("usage: create_entries.py [--write] <batch.json|batch_dir> [more ...]", file=sys.stderr)
         return 2
     try:
         errors, write_plan = validate_batches(batch_paths)
