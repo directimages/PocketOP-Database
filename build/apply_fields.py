@@ -22,6 +22,13 @@ Scope is the three detail sidecars only: source/broadcast-details,
 source/cine-details, source/ptz-details. A key that names a core (non detail)
 entry, a retired id, or a typo is an orphan here and aborts the run.
 
+A staged field that names a core field on an id this tool did index (the
+core-shard gap) is also rejected before anything is written, via
+field_registry.py's core/details partition check: this tool only ever indexes
+the detail sidecars, so without that check a core field sharing an id with a
+detail entry would be written straight into the wrong object with nothing to
+catch it.
+
 fieldNotes is the one field with special apply behavior (POS-D17): its given
 keys are merged into any existing fieldNotes object on the entry, creating it if
 absent, leaving other existing fieldNotes keys untouched. Every other field is
@@ -42,6 +49,7 @@ import re
 import sys
 
 import assemble
+import field_registry
 from assemble import AssembleError
 
 # The detail sidecar categories, taken straight from assemble so this tool and
@@ -54,6 +62,23 @@ JSON_BLOCK = re.compile(r"```json\s*\n(.*?)\n```", re.DOTALL)
 
 def fail(message):
     raise AssembleError(message)
+
+
+def resolve_def_name(cat, entry, path):
+    """The output_schema.json $def that governs one live detail entry.
+
+    ptz details entries always validate against ptz_details. Lens details
+    entries dispatch on lensType, via the same lookup assemble.py uses for the
+    assembled outputs (field_registry.resolve_lens_details_def), so this tool
+    and the assembler can never disagree about which $def applies.
+    """
+    if cat["kind"] == "ptzdet":
+        return "ptz_details"
+    def_name = field_registry.resolve_lens_details_def(entry)
+    if def_name is None:
+        fail("Entry '%s' in '%s' has lensType=%r which matches no registered "
+             "details variant (broadcast|cine)." % (entry.get("id"), assemble.rel(path), entry.get("lensType")))
+    return def_name
 
 
 def index_detail_entries():
@@ -82,7 +107,7 @@ def index_detail_entries():
                          % (entry_id, assemble.rel(index[entry_id]["path"]),
                             assemble.rel(path)))
                 index[entry_id] = {"path": path, "array_key": cat["array_key"],
-                                   "entry": entry, "data": data}
+                                   "entry": entry, "data": data, "cat": cat}
     return index
 
 
@@ -180,6 +205,25 @@ def apply_fields(map_paths):
                            for key in orphans)
         fail("Field import aborted, nothing written. %d orphan key(s):\n%s"
              % (len(orphans), listed))
+
+    # Core/details partition phase. Every staged field must belong on the
+    # details side of its entry's $def (field_registry.py, the same registry
+    # create_entries.py and assemble.py use). A core field routed at a details
+    # id by mistake is rejected here instead of being silently written into
+    # the details entry, which is the apply_fields.py core-shard gap this
+    # closes: this tool only ever indexes the detail sidecars, so a core field
+    # sharing an id with a detail entry previously had nothing to catch it.
+    mismatches = []
+    for entry_id, field_map in sorted(combined.items()):
+        slot = index[entry_id]
+        def_name = resolve_def_name(slot["cat"], slot["entry"], slot["path"])
+        for field in sorted(field_map):
+            for message in field_registry.partition_violations(def_name, {field: field_map[field]}):
+                mismatches.append("id '%s' [%s]: %s" % (entry_id, def_name, message))
+    if mismatches:
+        listed = "\n".join("  " + line for line in mismatches)
+        fail("Field import aborted, nothing written. %d core/details partition "
+             "violation(s):\n%s" % (len(mismatches), listed))
 
     # Apply phase. Reached only when the whole map validates.
     touched = {}
