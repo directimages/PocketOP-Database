@@ -307,39 +307,74 @@ runs the real import, that stays `create_entries.py`'s job, invoked here only
 in dry run. The two tools are kept as separate layers on purpose: the tool
 that catches mapping errors must never itself become a source of them.
 
-### Marker contract
+### Heading contract
 
-A batch is one `batch-core` marker and one `batch-details` marker sharing the
-same `name` attribute. Each marker is an HTML comment on its own line,
-immediately followed (blank lines tolerated, nothing else) by exactly one
-fenced json block:
+No markers. No hand typed shard paths. `build_batches.py` reads Kay's
+existing block headings and derives every shard path from the entry data
+itself, reusing `assemble.py`'s own `slugify`, `SHARD_CATEGORIES`, and
+`is_broadcast` so naming can never diverge from the assembler:
 
 ````
-<!-- batch-core shard="source/ptz-cameras/ptz_cameras_minrray.json" name="minrray" -->
+## Core (ptz_cameras_minrray, append 17)
 ```json
 [ ...core entry objects... ]
 ```
-<!-- batch-details shard="source/ptz-details/ptz_details_minrray.json" name="minrray" -->
+## Detail (ptz_details_minrray, append 17)
 ```json
 [ ...details entry objects... ]
 ```
 ````
 
-Both `shard` and `name` are required attributes; attribute order does not
-matter. The fence must open with a line that is exactly ` ```json ` and close
-with a line that is exactly ` ``` `. The json block is the raw entries array.
-Shard paths are read verbatim from the markers, never inferred from a brand
-or filename.
+A block is a markdown heading whose text starts with the word Core, or with
+Detail or Details, case-insensitive, trailing text after that word ignored
+(the `(ptz_cameras_minrray, append 17)` part above is decoration, not read),
+immediately followed (blank lines tolerated, nothing else) by exactly one
+fenced json block opening with a line that is exactly ` ```json ` and closing
+with a line that is exactly ` ``` `. A heading that matches the word but is
+not followed by a fence is not a block, ignored, not an error. This also
+means bold paragraph text like `**Core -- correcties...**`, the style
+`IMPORT-QUEUE.md` uses for corrections to existing entries, is never picked
+up, since it is not a markdown heading; only real `#`/`##`/etc. headings
+count.
 
-Failure is per file and loud: a file with no markers is not an import file
-and is skipped, left in `inbox/`. A file with at least one marker is an
-import file, and every batch in it must resolve cleanly (parseable JSON, an
-array, a matching name on both sides) or the whole file fails: nothing from
-it is written, it stays in `inbox/`, and the reasons are logged. A batch name
-that collides with a name already written earlier in the same run is also a
-failure for the later file, so two files can never silently overwrite each
-other's output. Only a file all of whose batches parsed cleanly gets its
-batches written to `output/` and is moved to `done/`.
+Path derivation, fully from the entry, no marker to trust or mistype:
+
+- A core entry with a `brand` field is a PTZ core:
+  `source/ptz-cameras/ptz_cameras_<brandslug>.json`.
+- A core entry with a `manufacturer` field is a lens core. If
+  `assemble.is_broadcast(entry)` it is broadcast:
+  `source/broadcast-lenses/broadcast_lens_<mfrslug>.json`. Otherwise cine,
+  two level by mount: `source/cine-lenses/<mountslug>/cine_lens_<mountslug>_<mfrslug>.json`.
+- A core entry with neither field matches no category and fails the file.
+- A details entry carries only an `id`, no brand or manufacturer of its own.
+  It is paired to the core entry with the same `id` in the same file and
+  inherits that core entry's classification and shard.
+
+One Core heading (or several) can hold entries for more than one brand or
+manufacturer at once: every core entry pooled from every Core heading in the
+file is classified and grouped by its derived shard path automatically, and
+the matching Detail entries are grouped by their paired core's shard. One
+batch file is written per resulting shard pair, named after the core shard's
+filename stem, for example `output/ptz_cameras_minrray.json`, unique by
+construction since the stem is derived the same deterministic way every time.
+
+Failure is per file and loud, before anything is written for that file:
+
+- a details entry whose `id` has no matching core entry in the same file
+- a core entry that matches no category (no `brand` or `manufacturer` field)
+- a core or details entry missing a non empty `id`
+- a duplicate core `id` staged twice within the same file's pooled core entries
+- a core/details `id` set mismatch within one derived shard group
+- unparseable or non array json in a matched block
+
+A file with no Core/Detail blocks is not an import file: skip it, log it,
+leave it in `inbox/`. A file with at least one block is an import file, and
+every batch derived from it must resolve cleanly or the whole file fails:
+nothing from it is written, it stays in `inbox/`, and the reasons are logged.
+An output stem that collides with one already written earlier in the same
+run is also a failure for the later file, so two files can never silently
+overwrite each other's output. Only a file all of whose batches derived and
+wrote cleanly gets them written to `output/` and is moved to `done/`.
 
 ### The four folders
 
@@ -366,9 +401,10 @@ python build/build_batches.py --dry-run           # writes output/, moves nothin
 ### What a run does
 
 1. Reads every `*.md` file in `inbox/`, sorted.
-2. For each file, parses and pairs its batches. A clean file gets one
-   `output/<name>.json` per batch, in the exact shape `create_entries.py`
-   expects, and moves to `done/` (unless `--dry-run`).
+2. For each file, parses its Core/Detail blocks and derives every batch's
+   shard paths from the entry data. A clean file gets one
+   `output/<core shard stem>.json` per derived shard pair, in the exact
+   shape `create_entries.py` expects, and moves to `done/` (unless `--dry-run`).
 3. If `output/` has any `*.json` files afterward, runs
    `create_entries.py` in dry run over the whole `output/` folder (never
    `--write`) and prints its verdict. This never writes to any shard; the
