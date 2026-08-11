@@ -101,11 +101,16 @@ def run_main(module, argv):
     return code
 
 
-def read_only_log(base):
+def latest_log(base):
+    """The most recently written run log. Log filenames are timestamped, so
+    a base directory used for more than one main() call (as the dry run then
+    real run pairing does) can hold more than one; callers always want the
+    latest one, not "the only one" (two calls can land in different seconds
+    on a fast runner, so there is no guarantee there is only ever one)."""
     logs_dir = os.path.join(base, "logs")
-    names = [n for n in os.listdir(logs_dir) if n.startswith("run-") and n.endswith(".log")]
-    assert len(names) == 1, "expected exactly one run log, found %r" % names
-    with open(os.path.join(logs_dir, names[0]), "r", encoding="utf-8") as handle:
+    names = sorted(n for n in os.listdir(logs_dir) if n.startswith("run-") and n.endswith(".log"))
+    assert names, "expected at least one run log, found none"
+    with open(os.path.join(logs_dir, names[-1]), "r", encoding="utf-8") as handle:
         return handle.read()
 
 
@@ -141,7 +146,7 @@ class CrossFilePoolingTests(unittest.TestCase):
         self.assertCountEqual(inbox_names, ["a_pooling.md", "b_pooling.md"])
         self.assertEqual(os.listdir(os.path.join(self.base, "done")), [])
 
-        dry_log = read_only_log(self.base)
+        dry_log = latest_log(self.base)
         self.assertIn("a_pooling.md", dry_log)
         self.assertIn("b_pooling.md", dry_log)
         self.assertIn("Dry run: 2 file(s) would move to done/, none moved.", dry_log)
@@ -153,7 +158,7 @@ class CrossFilePoolingTests(unittest.TestCase):
         self.assertEqual(os.listdir(os.path.join(self.base, "inbox")), [])
         self.assertCountEqual(os.listdir(os.path.join(self.base, "done")), ["a_pooling.md", "b_pooling.md"])
 
-        log_text = read_only_log(self.base)
+        log_text = latest_log(self.base)
         wrote_lines = [line for line in log_text.splitlines() if line.startswith("WROTE ")]
         self.assertEqual(len(wrote_lines), 1)
         self.assertIn("a_pooling.md", wrote_lines[0])
@@ -202,7 +207,7 @@ class DuplicateIdAcrossFilesTests(unittest.TestCase):
         self.assertEqual(os.listdir(os.path.join(self.base, "done")), [])
         self.assertCountEqual(os.listdir(os.path.join(self.base, "inbox")), ["c_dup.md", "d_dup.md"])
 
-        log_text = read_only_log(self.base)
+        log_text = latest_log(self.base)
         self.assertIn(dup_id, log_text)
         self.assertIn("c_dup.md", log_text)
         self.assertIn("d_dup.md", log_text)
@@ -264,8 +269,8 @@ class SingleFileUnchangedTests(unittest.TestCase):
         self.assertEqual(os.listdir(os.path.join(old_base, "done")), ["single.md"])
         self.assertEqual(os.listdir(os.path.join(new_base, "done")), ["single.md"])
 
-        old_log = self._filtered_log_lines(read_only_log(old_base))
-        new_log = self._filtered_log_lines(read_only_log(new_base))
+        old_log = self._filtered_log_lines(latest_log(old_base))
+        new_log = self._filtered_log_lines(latest_log(new_base))
         self.assertEqual(old_log, new_log)
 
 
