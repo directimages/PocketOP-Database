@@ -1,5 +1,5 @@
 {
-  "version": "1.35.0",
+  "version": "1.36.0",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -2019,7 +2019,7 @@
     {
       "id": "canon-cne20-50mm-t2-4-ff",
       "manufacturer": "Canon",
-      "model": "CN-E20-50mm T2.4 L F/FP",
+      "model": "CN-E20-50mm T2.4 L FP",
       "series": "CN-E",
       "generation": "8K",
       "focalLengthMin": 20.0,
@@ -2027,12 +2027,30 @@
       "zoomRatio": 2.5,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
-      "mount": "RF",
+      "mount": "PL",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Flex Zoom wide cine zoom, PL/EF mount, Full Frame. Manual. Source: usa.canon.com.",
+      "notes": "Flex Zoom wide full-frame cine zoom, PL mount (L FP) variant; same optics as the EF (L F) sibling. Constant T2.4. Source: usa.canon.com.",
       "addedDate": null
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff-ef",
+      "manufacturer": "Canon",
+      "model": "CN-E20-50mm T2.4 L F",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 20.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 2.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom wide full-frame cine zoom, EF mount (L F) variant; same optics as the PL (L FP) sibling. Constant T2.4. Source: usa.canon.com / B&H 5726C007.",
+      "addedDate": "2026-08-11"
     },
     {
       "id": "canon-cne24mm-t1-5",
@@ -2181,7 +2199,7 @@
     {
       "id": "canon-cne45-135mm-t2-4-ff",
       "manufacturer": "Canon",
-      "model": "CN-E45-135mm T2.4 L F/FP",
+      "model": "CN-E45-135mm T2.4 L FP",
       "series": "CN-E",
       "generation": "8K",
       "focalLengthMin": 45.0,
@@ -2189,12 +2207,30 @@
       "zoomRatio": 3.0,
       "extenderFactor": 1.0,
       "sensorFormat": "fullFrame",
-      "mount": "RF",
+      "mount": "PL",
       "isPTZ": false,
       "isFree": false,
       "isCustom": false,
-      "notes": "Flex Zoom telephoto cine zoom, PL/EF mount, Full Frame. Manual. Source: usa.canon.com.",
+      "notes": "Flex Zoom telephoto full-frame cine zoom, PL mount (L FP) variant; same optics as the EF (L F) sibling. Constant T2.4. Source: usa.canon.com.",
       "addedDate": null
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff-ef",
+      "manufacturer": "Canon",
+      "model": "CN-E45-135mm T2.4 L F",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 45.0,
+      "focalLengthMax": 135.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom telephoto full-frame cine zoom, EF mount (L F) variant; same optics as the PL (L FP) sibling. Constant T2.4. Source: usa.canon.com / B&H 5915C007.",
+      "addedDate": "2026-08-11"
     },
     {
       "id": "canon-cne50mm-t1-3",
@@ -9631,6 +9667,60 @@
       "addedDate": null
     },
     {
+      "id": "sony-fe-35mm-f1-4-gm",
+      "manufacturer": "Sony",
+      "model": "FE 35mm F1.4 GM",
+      "series": "G Master",
+      "generation": "Photography",
+      "focalLengthMin": 35.0,
+      "focalLengthMax": 35.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame E-mount G Master wide-angle prime. Current. Source: sony.co.uk (SEL35F14GM).",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "sony-fe-70-200mm-f2-8-gm-oss",
+      "manufacturer": "Sony",
+      "model": "FE 70-200mm F2.8 GM OSS",
+      "series": "G Master",
+      "generation": "Photography",
+      "focalLengthMin": 70.0,
+      "focalLengthMax": 200.0,
+      "zoomRatio": 2.9,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame E-mount G Master telephoto zoom, first generation (2016). In-lens OSS. Current. Source: sony.co.uk (SEL70200GM).",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "sony-fe-70-200mm-f2-8-gm-oss-ii",
+      "manufacturer": "Sony",
+      "model": "FE 70-200mm F2.8 GM OSS II",
+      "series": "G Master",
+      "generation": "Photography",
+      "focalLengthMin": 70.0,
+      "focalLengthMax": 200.0,
+      "zoomRatio": 2.9,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame E-mount G Master telephoto zoom, second generation (2021); lighter optics, faster XD linear-motor AF. In-lens OSS. Current. Source: sony.co.uk (SEL70200GM2).",
+      "addedDate": "2026-08-11"
+    },
+    {
       "id": "sony-fe-pz-28-135mm-f4-g-oss",
       "manufacturer": "Sony",
       "model": "FE PZ 28-135mm F4 G OSS",
@@ -13051,5 +13141,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-07-23"
+  "updatedAt": "2026-08-11"
 }

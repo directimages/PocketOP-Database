@@ -1,6 +1,6 @@
 {
-  "version": "1.55.0",
-  "updatedAt": "2026-07-23",
+  "version": "1.56.0",
+  "updatedAt": "2026-08-11",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -3697,8 +3697,8 @@
       "introductionYear": 2022,
       "imageCircleMm": 46.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 112,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -3710,6 +3710,35 @@
       },
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp"
+      ]
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-f",
+      "weightG": 3300,
+      "lengthMm": 241.3,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "mount": "B&H 5726C007 / usa.canon.com cn-e20-50mm-t2-4-l-f: EF (L F) variant; split from the combined RF-tagged entry per POS-D09 (Kay 2026-07-16)",
+        "lengthMm": "B&H 5726C007 spec table: 9.5 in = 241.3mm (tier-1)",
+        "weightG": "B&H 5726C007 spec table: 7.28 lb = 3.3kg (tier-1)",
+        "filterType": "B&H 5726C007 spec table: Filter Thread No; Flex Zooms use matte box (tier-1, matches S35 Flex Zoom siblings)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm; carried 46.4 from existing entry, verify spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-f"
       ]
     },
     {
@@ -3985,8 +4014,8 @@
       "introductionYear": 2022,
       "imageCircleMm": 46.4,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 112,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
       "isParfocal": true,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
@@ -3999,6 +4028,35 @@
       },
       "webSources": [
         "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp"
+      ]
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-f",
+      "weightG": 3400,
+      "lengthMm": 246.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 1.0,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "mount": "B&H 5915C007 / usa.canon.com cn-e45-135mm-t2-4-l-f: EF (L F) variant; split from the combined RF-tagged entry per POS-D09 (Kay 2026-07-16)",
+        "lengthMm": "B&H 5915C007 spec table: 9.7 in = 246.4mm (tier-1)",
+        "weightG": "B&H 5915C007 spec table: 7.5 lb = 3.4kg (tier-1)",
+        "filterType": "B&H 5915C007 spec table: Filter Thread No; Flex Zooms use matte box (tier-1, matches S35 Flex Zoom siblings)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm; carried 46.4 from existing entry, verify spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-f"
       ]
     },
     {
@@ -17569,6 +17627,110 @@
       },
       "webSources": [
         "https://store.sirui.com/products/night-walker-75mm-t1-2-s35-cine-lens"
+      ]
+    },
+    {
+      "id": "sony-fe-35mm-f1-4-gm",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications",
+      "weightG": 524,
+      "lengthMm": 96,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.27,
+      "introductionYear": 2021,
+      "imageCircleMm": 43.3,
+      "opticalElements": 14,
+      "filterType": "front_thread",
+      "filterThreadMm": 67,
+      "isParfocal": null,
+      "hasFocusBreathing": "unknown",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "weightG": "sony.co.uk SEL35F14GM specifications (tier-1): 524 g",
+        "lengthMm": "sony.co.uk SEL35F14GM specifications (tier-1): 76 x 96 mm (D x L)",
+        "closeFocusM": "sony.co.uk (tier-1): 0.27 m (AF), 0.25 m (MF); AF value carried",
+        "opticalElements": "sony.co.uk (tier-1): Lens Groups/Elements 10-14 = 14 elements",
+        "filterThreadMm": "sony.co.uk (tier-1): 67 mm",
+        "hasIS": "sony.co.uk (tier-1): SteadyShot '- (body-integrated)', no in-lens OSS = false",
+        "hasFocusBreathing": "unknown: sony.co.uk specs page does not state breathing behaviour for this prime",
+        "introductionYear": "Announced 13 Jan 2021 (Sony/B&H press, tier-3, acceptable POS-D12)",
+        "imageCircleMm": "Reasoning: full-frame coverage (36x24mm), diagonal 43.3mm; Sony does not publish exact image circle",
+        "maximumDiameterMm": "sony.co.uk (tier-1): 76 mm (D) -- parked to blok-2, not in JSON"
+      },
+      "webSources": [
+        "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications"
+      ]
+    },
+    {
+      "id": "sony-fe-70-200mm-f2-8-gm-oss",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications",
+      "weightG": 1480,
+      "lengthMm": 200,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.96,
+      "introductionYear": 2016,
+      "imageCircleMm": 43.3,
+      "opticalElements": 23,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "weightG": "sony.co.uk SEL70200GM specifications (tier-1): 1480 g (without tripod mount)",
+        "lengthMm": "sony.co.uk (tier-1): 88.0 x 200 mm (D x L)",
+        "closeFocusM": "sony.co.uk (tier-1): 0.96 m",
+        "opticalElements": "sony.co.uk (tier-1): Lens Groups/Elements 18/23 = 23 elements",
+        "filterThreadMm": "sony.co.uk (tier-1): 77 mm",
+        "hasIS": "sony.co.uk (tier-1): SteadyShot Yes = in-lens OSS",
+        "hasFocusBreathing": "sony.co.uk (tier-1): 'optical design that effectively minimizes focus breathing' = minimal",
+        "isParfocal": "Reasoning: no manufacturer parfocal claim on a stills zoom (POS-D11 silence) = false",
+        "introductionYear": "2016 (trade press/Wikipedia, tier-4, acceptable POS-D12)",
+        "imageCircleMm": "Reasoning: full-frame coverage (36x24mm), diagonal 43.3mm; Sony does not publish exact image circle",
+        "maximumDiameterMm": "sony.co.uk (tier-1): 88 mm (D) -- parked to blok-2, not in JSON"
+      },
+      "webSources": [
+        "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications"
+      ]
+    },
+    {
+      "id": "sony-fe-70-200mm-f2-8-gm-oss-ii",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications",
+      "weightG": 1045,
+      "lengthMm": 200,
+      "frontDiameterMm": null,
+      "closeFocusM": 0.4,
+      "introductionYear": 2021,
+      "imageCircleMm": 43.3,
+      "opticalElements": 17,
+      "filterType": "front_thread",
+      "filterThreadMm": 77,
+      "isParfocal": false,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": false,
+      "focusRingRotationDeg": null,
+      "gearPitch": null,
+      "sources": {
+        "weightG": "sony.co.uk SEL70200GM2 specifications (tier-1): 1045 g (without tripod mount)",
+        "lengthMm": "sony.co.uk (tier-1): 88 x 200 mm (D x L)",
+        "closeFocusM": "sony.co.uk (tier-1): 0.4-0.82 m; 0.4 m (at 70mm) carried as closest",
+        "opticalElements": "sony.co.uk (tier-1): Lens Groups/Elements 14-17 = 17 elements",
+        "filterThreadMm": "sony.co.uk (tier-1): 77 mm",
+        "hasIS": "sony.co.uk (tier-1): SteadyShot Optical SteadyShot = in-lens OSS",
+        "hasFocusBreathing": "Sony markets improved breathing/focus-shift for video (tier-1 highlights + B&H) = minimal",
+        "isParfocal": "Reasoning: no manufacturer parfocal claim on a stills zoom (POS-D11 silence) = false",
+        "introductionYear": "Announced Oct 2021 (Sony/trade press, tier-3/4, acceptable POS-D12)",
+        "imageCircleMm": "Reasoning: full-frame coverage (36x24mm), diagonal 43.3mm; Sony does not publish exact image circle",
+        "maximumDiameterMm": "sony.co.uk (tier-1): 88 mm (D) -- parked to blok-2, not in JSON"
+      },
+      "webSources": [
+        "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications"
       ]
     },
     {

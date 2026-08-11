@@ -1,7 +1,403 @@
 {
-  "version": "1.23.0",
-  "updatedAt": "2026-07-23",
+  "version": "1.24.0",
+  "updatedAt": "2026-08-11",
   "cameras": [
+    {
+      "id": "aver-dl30",
+      "manufacturerUrl": "https://presentation.aver.com/model/dl30",
+      "controlProtocols": [
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1620,
+      "widthMm": 158.8,
+      "heightMm": 200,
+      "depthMm": 162.2,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/dl30",
+        "https://www.averusa.com/education/downloads/dl30-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-dl50",
+      "manufacturerUrl": "https://presentation.aver.com/model/dl30",
+      "controlProtocols": [
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1620,
+      "widthMm": 158.8,
+      "heightMm": 200,
+      "depthMm": 162.2,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://averusa.com/education/downloads/DL30 User Manual_EN_v12_2021.07.07.pdf",
+        "https://www.averusa.com/education/downloads/DL30_Quick Guide EN (USA).pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc115",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc115",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": null,
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 160,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 210,
+      "heightMm": 176,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.cinos.net/wp-content/uploads/resources/aver/cinos-aver-ptc115-datasheet.pdf",
+        "https://presentation.aver.com/model/ptc115"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc115plus",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc115plus",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 202,
+      "heightMm": 178,
+      "depthMm": 210,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.pabxsystemghana.com/wp-content/uploads/2021/11/Aver-PTC115-Plus-datasheet.pdf",
+        "https://presentation.aver.com/model/ptc115plus"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310",
+        "AVer PTC310 brochure",
+        "PTC310/H/U/330U user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310h",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310h",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310h",
+        "PTC310 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310hn",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310hn",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310hn",
+        "AVer PTC310HN brochure n=2553"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310hwv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310hwv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310hwv2",
+        "AVer PTC310HWV2 brochure n=2820"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310n",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310n",
+        "PTC310 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310u",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310u",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310u",
+        "PTC310 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc310un",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc310un",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc310un",
+        "PTC310 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
     {
       "id": "aver-ptc310uv2",
       "manufacturerUrl": "https://presentation.aver.com/model/ptc310uv2",
@@ -39,6 +435,346 @@
       ]
     },
     {
+      "id": "aver-ptc320unv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc320unv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc320unv2",
+        "AVer PTC320UNV2 brochure n=2790"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc320uv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc320uv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc320uv2",
+        "AVer PTC320UV2 brochure (avereurope) n=2796"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc330n",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc330n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc330n",
+        "PTC310/330 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc330u",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc330u",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc330u",
+        "PTC310/330 user manual v5 2021.04.29"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc330uv2",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc330uv2",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc330uv2",
+        "AVer PTC330UV2 brochure n=2800"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc500",
+      "manufacturerUrl": "https://presentation.aver.com/model/averptc500",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": null,
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 210,
+      "heightMm": 176,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/averptc500",
+        "PTC500 brochure 201710"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc500plus",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc500plus",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 160,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 202,
+      "heightMm": 178,
+      "depthMm": 210,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc500plus"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptc500s",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptc500s",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": null,
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 160,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 210,
+      "heightMm": 176,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptc500s",
+        "PTC500S datasheet 2019"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptz211",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/ptz211",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "ONVIF",
+        "CGI",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor"
+      ],
+      "minLux": 0.46,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://cors-web.aver.com/Contents/Model/ptz211/resources/en/AVer_PTZ211_Brochure.pdf",
+        "https://presentation.aver.com/model/ptz211",
+        "https://www.averusa.com/products/ptz-camera/ptz211"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "aver-ptz231",
       "manufacturerUrl": "https://presentation.aver.com/model/ptz231",
       "controlProtocols": [
@@ -72,6 +808,80 @@
         "https://presentation.aver.com/model/ptz231",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz231-datasheet.pdf"
       ]
+    },
+    {
+      "id": "aver-ptz310",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz310",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1741,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 140,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz310",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310-330-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptz310n",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz310n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1741,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 140,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz310n",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310-330-datasheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "aver-ptz310unv2",
@@ -143,6 +953,80 @@
         "https://presentation.aver.com/model/ptz310uv2",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310uv2-datasheet.pdf"
       ]
+    },
+    {
+      "id": "aver-ptz330",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz330",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1620,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 140,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz330",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310-330-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-ptz330n",
+      "manufacturerUrl": "https://presentation.aver.com/model/ptz330n",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1620,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 140,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://presentation.aver.com/model/ptz330n",
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/ptz310-330-datasheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "aver-ptz330unv2",
@@ -252,6 +1136,77 @@
       ]
     },
     {
+      "id": "aver-tr311hwv2",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr311hwv2-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr311hwv2-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-tr313v2",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr313v2-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr313v2-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "aver-tr315",
       "manufacturerUrl": "https://presentation.aver.com/model/tr315",
       "controlProtocols": [
@@ -320,6 +1275,150 @@
         "https://presentation.aver.com/model/tr315n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr315n-datasheet.pdf"
       ]
+    },
+    {
+      "id": "aver-tr320",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr320-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": null,
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 160,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 210,
+      "heightMm": 176,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr320-datasheet.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-tr323nv2",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr323nv2-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr323nv2-datasheet.pdf",
+        "AVer PTC320UV2 brochure (H/V/D cross-check)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-tr331",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr331-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1700,
+      "widthMm": 180,
+      "heightMm": 183.5,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr331-datasheet.pdf",
+        "https://www.averusa.com/pro-av/downloads/user-manual/TR3XX Series User Manual_En_v1-2021.10.15.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "aver-tr333v2",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr333v2-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2000,
+      "widthMm": 180,
+      "heightMm": 192,
+      "depthMm": 145,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr333v2-datasheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "aver-tr335",
@@ -392,6 +1491,40 @@
         "https://presentation.aver.com/model/tr335n",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr335n-datasheet.pdf"
       ]
+    },
+    {
+      "id": "aver-tr530",
+      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr530-datasheet.pdf",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": null,
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 160,
+      "maxTiltSpeedDegS": 160,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1750,
+      "widthMm": 210,
+      "heightMm": 176,
+      "depthMm": 201,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr530-datasheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "aver-tr535",
@@ -502,6 +1635,87 @@
         "https://presentation.aver.com/model/tr615",
         "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr615-datasheet.pdf"
       ]
+    },
+    {
+      "id": "birddog-max",
+      "manufacturerUrl": "https://birddog.tv/max-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1430,
+      "widthMm": 171.6,
+      "heightMm": 192.6,
+      "depthMm": 171.6,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/max-overview/",
+        "https://birddog.tv/cameras-show/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "birddog-o4",
+      "manufacturerUrl": "https://birddog.tv/o4-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual",
+        "Color Temperature"
+      ],
+      "minLux": null,
+      "weightG": 7600,
+      "widthMm": 200,
+      "heightMm": 330,
+      "depthMm": 226,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/o4-overview/",
+        "https://birddog.tv/o4-techspecs/"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "birddog-p100",
@@ -850,6 +2064,168 @@
       ]
     },
     {
+      "id": "birddog-x4-ultra",
+      "manufacturerUrl": "https://birddog.tv/x4-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": null,
+      "weightG": 2190,
+      "widthMm": 140.2,
+      "heightMm": 188.9,
+      "depthMm": 203.2,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/x4-overview/",
+        "https://birddog.tv/x4-techspecs/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "birddog-x4e-ultra",
+      "manufacturerUrl": "https://birddog.tv/x4e-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2190,
+      "widthMm": 140.2,
+      "heightMm": 188.9,
+      "depthMm": 203.2,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x4e-overview/",
+        "https://birddog.tv/x4e-techspecs/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "birddog-x5-ultra",
+      "manufacturerUrl": "https://birddog.tv/x5-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2310,
+      "widthMm": 185.7,
+      "heightMm": 171.9,
+      "depthMm": 200.9,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x5-overview/",
+        "https://birddog.tv/x5-techspecs/"
+      ],
+      "fieldNotes": {
+        "hasND": "No built-in ND; the lens carries a 49mm front filter thread for screw-on filters."
+      }
+    },
+    {
+      "id": "birddog-xl-ultra",
+      "manufacturerUrl": "https://birddog.tv/xl/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Static",
+        "One Push"
+      ],
+      "minLux": null,
+      "weightG": 4000,
+      "widthMm": 218.6,
+      "heightMm": 291.6,
+      "depthMm": 263.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/xl/",
+        "https://birddog.tv/xl-techspecs/"
+      ],
+      "fieldNotes": {
+        "hasIS": "Digital image stabilization"
+      }
+    },
+    {
       "id": "bolin-b2-210",
       "manufacturerUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
       "controlProtocols": [
@@ -1026,6 +2402,302 @@
         "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
         "https://bolintechnology.com/wp-content/uploads/2023/08/Dante-AV-H-PTZ-Camera-D2-220H-02052025.pdf"
       ]
+    },
+    {
+      "id": "bolin-ex1030h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10500,
+      "widthMm": 180,
+      "heightMm": 423,
+      "depthMm": 180,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      }
+    },
+    {
+      "id": "bolin-ex1030nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10500,
+      "widthMm": 180,
+      "heightMm": 423,
+      "depthMm": 180,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      }
+    },
+    {
+      "id": "bolin-exu230h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      }
+    },
+    {
+      "id": "bolin-exu230nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      }
+    },
+    {
+      "id": "bolin-exu248f",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization."
+      }
+    },
+    {
+      "id": "bolin-exu248n",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization."
+      }
+    },
+    {
+      "id": "bolin-exu420f",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "bolin-exu420n",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "bolin-n2-210x",
@@ -1215,39 +2887,152 @@
       }
     },
     {
-      "id": "bolin-range",
-      "manufacturerUrl": "https://bolintechnology.com/",
+      "id": "bolin-r9-l420n",
+      "manufacturerUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera",
       "controlProtocols": [
+        "VISCA RS-422",
         "VISCA IP",
-        "ONVIF"
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "CGI"
       ],
       "videoOutputs": [
-        "HDMI",
         "12G-SDI",
-        "USB"
+        "HDMI",
+        "Fiber"
       ],
       "poeClass": "PoE++",
-      "presetCount": 128,
+      "presetCount": 255,
       "panRangeDeg": 340,
-      "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 300,
-      "maxTiltSpeedDegS": 300,
-      "hasIR": false,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 70,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 0.5,
-      "weightG": null,
-      "widthMm": 201,
-      "heightMm": 256,
-      "depthMm": null,
+      "weightG": 4450,
+      "widthMm": 200,
+      "heightMm": 270,
+      "depthMm": 253,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "bolin-range",
+      "manufacturerUrl": "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 5150,
+      "widthMm": 168,
+      "heightMm": 226,
+      "depthMm": 256,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://bolintechnology.com/",
+        "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz",
         "https://www.sportsvideo.org/2026/04/18/nab-2026-bolin-technology-introduces-range-ptzr-camera-r9-l420n-ptz-and-kbd-plus-controller/"
       ],
       "fieldNotes": {
         "hasIS": "Gyro-based 3-axis image stabilization (mechanical gimbal: pan, tilt, roll)."
+      }
+    },
+    {
+      "id": "bolin-sd530h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 135,
+      "maxTiltSpeedDegS": 135,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 5200,
+      "widthMm": 212,
+      "heightMm": 297,
+      "depthMm": 212,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      }
+    },
+    {
+      "id": "bolin-sd530nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 135,
+      "maxTiltSpeedDegS": 135,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 5200,
+      "widthMm": 212,
+      "heightMm": 297,
+      "depthMm": 212,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
       }
     },
     {
@@ -1552,6 +3337,84 @@
       }
     },
     {
+      "id": "canon-cr-x500",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/",
+      "controlProtocols": [
+        "Canon NU",
+        "Standard Serial"
+      ],
+      "videoOutputs": [
+        "12G-SDI"
+      ],
+      "poeClass": "none",
+      "presetCount": null,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 80,
+      "maxPanSpeedDegS": 25,
+      "maxTiltSpeedDegS": 20,
+      "hasIR": null,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 2.5,
+      "weightG": 17000,
+      "widthMm": 337,
+      "heightMm": 390,
+      "depthMm": 386,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/",
+        "https://www.usa.canon.com/support/p/cr-x500",
+        "https://asia.canon/en/business/cr-x500/specification"
+      ],
+      "fieldNotes": {
+        "hasIS": "Optical-shift image stabilization, lens-based"
+      }
+    },
+    {
+      "id": "datavideo-ptc-100",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-100",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HD-SDI",
+        "HDMI",
+        "Composite"
+      ],
+      "poeClass": "none",
+      "presetCount": 32,
+      "panRangeDeg": 346,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 3.0,
+      "weightG": 2250,
+      "widthMm": 173,
+      "heightMm": 218,
+      "depthMm": 185.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-100",
+        "https://www.manualslib.com/manual/689806/Datavideo-Ptc-100.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "datavideo-ptc-140",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-140",
       "controlProtocols": [
@@ -1588,6 +3451,89 @@
       ],
       "fieldNotes": {
         "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+      }
+    },
+    {
+      "id": "datavideo-ptc-140ndi",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "3000K",
+        "4000K",
+        "5000K",
+        "6500K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-140NDI",
+        "http://resource.datavideo.com/Instruction_Manuals/PTC-140NDI_E4_A5_EN.pdf"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "datavideo-ptc-140t",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140T",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-140T"
+      ],
+      "fieldNotes": {
+        "videoOutputs": "HDBaseT variant: video, control, power and tally over a single RJ-45 to a receiver box (up to 100m), alongside the 3G-SDI and HDMI outputs."
       }
     },
     {
@@ -1666,6 +3612,52 @@
       ]
     },
     {
+      "id": "datavideo-ptc-150tl",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-150TL",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "HD-SDI",
+        "Composite",
+        "HDBaseT",
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 50,
+      "panRangeDeg": 270,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Fluorescent"
+      ],
+      "minLux": 0.4,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-150TL",
+        "https://www.manualslib.com/manual/2705849/Data-Video-Ptc-150tl.html"
+      ],
+      "fieldNotes": {
+        "poeClass": "Powered via the HDBaseT link (DC 48V to the receiver box) over Cat.6, not standard PoE."
+      }
+    },
+    {
       "id": "datavideo-ptc-280",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-280",
       "controlProtocols": [
@@ -1701,6 +3693,50 @@
         "https://www.bhphotovideo.com/c/product/1599934-REG/datavideo_ptc_280_12x_4k_ptz_camera.html",
         "https://www.manualslib.com/manual/2181902/Datavideo-Ptc-280.html"
       ]
+    },
+    {
+      "id": "datavideo-ptc-280ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-280NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 145,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2800,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-280NDI"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "datavideo-ptc-285",
@@ -1811,6 +3847,49 @@
       ]
     },
     {
+      "id": "datavideo-ptc-300ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-300NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-300NDI"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "datavideo-ptc-305",
       "manufacturerUrl": "https://www.datavideo.com/product/PTC-305",
       "controlProtocols": [
@@ -1845,6 +3924,97 @@
         "https://www.datavideo.com/product/PTC-305",
         "https://datavideo.com/in/product/PTC-305/export"
       ]
+    },
+    {
+      "id": "datavideo-ptc-305g",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305G",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-305G",
+        "https://datavideo.com/global/article/574"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "datavideo-ptc-305ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-305NDI",
+        "https://datavideo.com/global/article/574"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "datavideo-ptc-305t",
@@ -1883,6 +4053,51 @@
       ]
     },
     {
+      "id": "datavideo-ptc-325",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-325",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-325",
+        "https://datavideo.com/ap/article/613"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "fomako-fmk12uh",
       "manufacturerUrl": "https://www.fomako.net/",
       "controlProtocols": [
@@ -1915,6 +4130,77 @@
       "sources": [
         "https://www.fomako.net/"
       ]
+    },
+    {
+      "id": "fomako-fmk12uh-pro",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk12uh%20pro%2820x%29-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk12uh%20pro%2820x%29-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-fmk20sdi-pro",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk20sdi-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 40,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1200,
+      "widthMm": 143.0,
+      "heightMm": 169.0,
+      "depthMm": 176.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk20sdi-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "fomako-fmk20uh",
@@ -1951,6 +4237,147 @@
       ]
     },
     {
+      "id": "fomako-fmk20uh-ndi",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk20uh-ndi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk20uh-ndi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-fmk30sdi-pro",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30sdi-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 40,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1200,
+      "widthMm": 143.0,
+      "heightMm": 169.0,
+      "depthMm": 176.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk30sdi-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-fmk30uh",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30uh-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk30uh-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-fmk30uh-ndi",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30uh-ndi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-fmk30uh-ndi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "fomako-k20",
       "manufacturerUrl": "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html",
       "controlProtocols": [
@@ -1984,6 +4411,77 @@
       "sources": [
         "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html"
       ]
+    },
+    {
+      "id": "fomako-k20ns",
+      "manufacturerUrl": "https://www.fomako.net/",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-k20uh",
+      "manufacturerUrl": "https://www.fomako.net/product/K20UH-4K-PTZ-Camera.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1460,
+      "widthMm": 253.5,
+      "heightMm": 169.0,
+      "depthMm": 144.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/K20UH-4K-PTZ-Camera.html"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "fomako-k30",
@@ -2091,6 +4589,114 @@
       ]
     },
     {
+      "id": "fomako-k600nw",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k600nw-ndi-camera-4k-60fps-20x-optical-zoom-white.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k600nw-ndi-camera-4k-60fps-20x-optical-zoom-white.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-k630n",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k630n-ndi-camera-4k-60fps-30x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k630n-ndi-camera-4k-60fps-30x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "fomako-k800n",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k800n-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1400,
+      "widthMm": 150.0,
+      "heightMm": 167.5,
+      "depthMm": 150.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k800n-ndi-camera-4k-60fps-20x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "fomako-k820",
       "manufacturerUrl": "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html",
       "controlProtocols": [
@@ -2162,6 +4768,42 @@
         "https://www.fomako.net/uploads/20230823/e2b9ad5c55b3164c5e06383b05d47dd3.pdf",
         "https://www.amazon.com/FoMaKo-Auto-Tracking-Education-Conference-K820N/dp/B0BJNHLK7C"
       ]
+    },
+    {
+      "id": "fomako-k820s",
+      "manufacturerUrl": "https://www.fomako.net/product/fomako-k820s-12g-sdi-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 325,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 49,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1800,
+      "widthMm": 223.0,
+      "heightMm": 166.0,
+      "depthMm": 163.0,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.fomako.net/product/fomako-k820s-12g-sdi-ndi-camera-4k-60fps-20x-optical-zoom.html"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "fomako-kn20",
@@ -2302,6 +4944,48 @@
       "sources": [
         "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html"
       ]
+    },
+    {
+      "id": "hollyland-arocam-c2",
+      "manufacturerUrl": "https://www.hollyland.com/product/arocam-c2",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 35.7,
+      "maxTiltSpeedDegS": 31.5,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 142.2,
+      "heightMm": 151.9,
+      "depthMm": 175.8,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.hollyland.com/product/arocam-c2",
+        "https://store.hollyland.com/products/arocam-c2"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "hollyland-astra-p1",
@@ -2628,14 +5312,13 @@
       ]
     },
     {
-      "id": "lumens-vc-a50s",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
+      "id": "lumens-vc-a50pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/19/VC-A50PN-NDI-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
         "VISCA RS-422",
-        "Pelco-D",
-        "ONVIF"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
@@ -2648,18 +5331,62 @@
       "maxPanSpeedDegS": 120,
       "maxTiltSpeedDegS": 120,
       "hasIR": true,
-      "whiteBalanceModes": null,
-      "minLux": null,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
       "weightG": 2000,
       "widthMm": 174,
-      "heightMm": 185,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/19/VC-A50PN-NDI-PTZ-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a50s",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "DVI",
+        "Component",
+        "Composite"
+      ],
+      "poeClass": "none",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 5,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 183,
       "depthMm": 186,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
-        "https://www.manua.ls/lumens/vc-a50p/manual"
+        "https://www.mylumens.com/Download/VC-A50S-Installation%20Manual-English-2017-0118.pdf"
       ]
     },
     {
@@ -2684,11 +5411,11 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 2000,
-      "widthMm": 175,
-      "heightMm": 185,
-      "depthMm": 185,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -2697,6 +5424,81 @@
         "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN",
         "https://www.amazon.com/Lumens-VC-A51PW-Flexible-Support-Ethernet/dp/B09P8XBQCZ"
       ]
+    },
+    {
+      "id": "lumens-vc-a51pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1072/VC-A51PN-Full-HD-NDI-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1072/VC-A51PN-Full-HD-NDI-PTZ-Camera",
+        "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a52s",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/36/VC-A52S-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "none",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/36/VC-A52S-PTZ-Camera"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "lumens-vc-a53",
@@ -2710,17 +5512,18 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI"
+        "HDMI",
+        "USB"
       ],
       "poeClass": "PoE",
-      "presetCount": 128,
+      "presetCount": 256,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 300,
-      "maxTiltSpeedDegS": 300,
+      "maxPanSpeedDegS": 225,
+      "maxTiltSpeedDegS": 225,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 2000,
       "widthMm": 174,
       "heightMm": 197,
@@ -2777,7 +5580,7 @@
     },
     {
       "id": "lumens-vc-a61pn",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1052/VC-A61PN-4K-NDI-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -2797,7 +5600,7 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.1,
       "weightG": 2000,
       "widthMm": 174,
       "heightMm": 190,
@@ -2806,10 +5609,46 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+        "https://www.mylumens.com/en/Products_detail/1052/VC-A61PN-4K-NDI-PTZ-Camera",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
       ]
+    },
+    {
+      "id": "lumens-vc-a62",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1153/VC-A62-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.1,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1153/VC-A62-4K-PTZ-IP-Camera"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "lumens-vc-a71p",
@@ -2837,8 +5676,8 @@
       "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -2849,7 +5688,7 @@
     },
     {
       "id": "lumens-vc-a71p-hn",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1083/VC-A71P-HN_4K_NDI_PTZ_Camera_with_Full_NDI_and_NDHX33",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -2871,16 +5710,16 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+        "https://www.mylumens.com/en/Products_detail/1083/VC-A71P-HN_4K_NDI_PTZ_Camera_with_Full_NDI_and_NDHX33",
         "https://www.manua.ls/lumens/vc-a71p/manual"
       ]
     },
@@ -2905,11 +5744,11 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -2919,8 +5758,8 @@
       ]
     },
     {
-      "id": "lumens-vc-r30",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+      "id": "lumens-vc-a71sn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1084/VC-A71SN-4K-NDIHX3-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -2929,17 +5768,162 @@
         "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI"
+        "12G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.05,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 188,
+      "depthMm": 189,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1084/VC-A71SN-4K-NDIHX3-PTZ-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b30u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/23/VC-B30U-Video-Conference-Camera",
+      "controlProtocols": [
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 128,
+      "panRangeDeg": 200,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 1300,
+      "widthMm": 268,
+      "heightMm": 156,
+      "depthMm": 123,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/23/VC-B30U-Video-Conference-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b50u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1144/VC-B50U-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
       ],
       "poeClass": "PoE",
-      "presetCount": 128,
+      "presetCount": 256,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
       "maxPanSpeedDegS": 120,
-      "maxTiltSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1144/VC-B50U-4K-PTZ-IP-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b70u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1155/VC-B70U-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1155/VC-B70U-4K-PTZ-IP-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-r30",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1073/VC-R30-Full-HD-IP-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 1400,
       "widthMm": 190,
       "heightMm": 185,
@@ -2948,17 +5932,93 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+        "https://www.mylumens.com/en/Products_detail/1073/VC-R30-Full-HD-IP-PTZ-Camera",
         "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
       ]
     },
     {
-      "id": "lumens-vc-tr1",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+      "id": "lumens-vc-r31",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1132/VC-R31-HD-IP-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
-        "VISCA RS-422"
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1132/VC-R31-HD-IP-PTZ-Camera",
+        "https://www.mylumens.com/en/News_detail/200/Lumens-Introduces-New-No-compromise-Low-Cost-PTZ-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-r32",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1158/VC-R32-HD-IP-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1158/VC-R32-HD-IP-PTZ-Camera"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-ta50",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1081/VC-TA50-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
       ],
       "videoOutputs": [
         "3G-SDI",
@@ -2968,22 +6028,481 @@
       "presetCount": 128,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 120,
-      "maxTiltSpeedDegS": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
       "hasIR": true,
-      "whiteBalanceModes": null,
-      "minLux": null,
-      "weightG": 1400,
-      "widthMm": 245,
-      "heightMm": 165,
-      "depthMm": 145,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 175,
+      "heightMm": 185,
+      "depthMm": 185,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+        "https://www.mylumens.com/en/Products_detail/1081/VC-TA50-Auto-Tracking-Camera",
+        "Lumens VC-TA50 datasheet English 2024-0319 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr1",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1051/VC-TR1-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 1.0,
+      "weightG": 1400,
+      "widthMm": 245,
+      "heightMm": 145,
+      "depthMm": 165,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1051/VC-TR1-Auto-Tracking-Camera",
         "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
       ]
+    },
+    {
+      "id": "lumens-vc-tr30",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1110/VC-TR30-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1110/VC-TR30-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR30 datasheet English 2024-0716 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr40",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1082/VC-TR40-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1082/VC-TR40-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR40 datasheet English 2024-1106 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr40n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1095/VC-TR40N-AI-Powered-NDI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1095/VC-TR40N-AI-Powered-NDI-Auto-Tracking-Camera",
+        "Lumens VC-TR40N datasheet English 2024-1106 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr41",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1145/VC-TR41-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1145/VC-TR41-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR41 datasheet English 20260402 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr41n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1147/VC-TR41N-AI-Powered-NDI-HX3-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1147/VC-TR41N-AI-Powered-NDI-HX3-Auto-Tracking-Camera",
+        "Lumens VC-TR41N datasheet English 2025-1231 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1096/VC-TR60-4K-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1096/VC-TR60-4K-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR60 datasheet English 2025-0226 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60a",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1128/VC-TR60A-4K-Dual-Lens-Speaker-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1128/VC-TR60A-4K-Dual-Lens-Speaker-Tracking-Camera",
+        "Lumens VC-TR60A datasheet English 2026-0504 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60a-dante-av-h",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1141/VC-TR60A-Dante-AV-H-4K-Dual-Lens-Speaker-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1141/VC-TR60A-Dante-AV-H-4K-Dual-Lens-Speaker-Tracking-Camera",
+        "Lumens VC-TR60A Dante AV-H datasheet English 2025-0326 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr61",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1135/VC-TR61-4K-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1135/VC-TR61-4K-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+        "Lumens VC-TR61 datasheet English 2026-0526 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr61n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1142/VC-TR61N-4K-NDI-HX3-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1142/VC-TR61N-4K-NDI-HX3-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+        "Lumens VC-TR61N datasheet English 2026-0526 (docling)"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "marshall-cv605-bk",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV605-BK-WH/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 270,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1270,
+      "widthMm": 145.4,
+      "heightMm": 154,
+      "depthMm": 147,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV605-BK-WH/",
+        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd Martijn 2026-07-24)"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "marshall-cv605-u3",
@@ -3020,6 +6539,48 @@
         "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf",
         "https://www.manua.ls/marshall-electronics/cv605-u3w/manual"
       ]
+    },
+    {
+      "id": "marshall-cv612-tbi",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV612-TBI-TWI/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1490,
+      "widthMm": 146.2,
+      "heightMm": 162.3,
+      "depthMm": 164.9,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV612-TBI-TWI/",
+        "https://marshall-usa.com/pdf/CV612-TBI-TWI-Cutsheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "marshall-cv612ht-4k",
@@ -3090,6 +6651,46 @@
         "https://marshall-usa.com/cameras/CV620-BI-WI/",
         "https://www.manua.ls/marshall-electronics/cv620-ip/manual"
       ]
+    },
+    {
+      "id": "marshall-cv620-bi2",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV620-BI2-WI2/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 225,
+      "maxTiltSpeedDegS": 225,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 1900,
+      "widthMm": 174,
+      "heightMm": 195,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV620-BI2-WI2/",
+        "https://marshall-usa.com/pdf/CV620-BI2-W12-cutsheet.pdf"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "marshall-cv620-bk4",
@@ -3390,6 +6991,235 @@
       ]
     },
     {
+      "id": "minrray-bc420t",
+      "manufacturerUrl": "https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1200,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/4k-ultra-hd-ptz-streaming-camera-bc420t_555480.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "minFocalLengthMM": "Focal not published on the BC420T datasheet. Filled from the UV490 imaging lens (f=3.4-40.3), which matches BC420T on every discriminating optical field (HFOV 80.5/7.6, F1.8-3.6, 12x, 1/2.8-inch, 4K 8.51MP): same physical optical block. Approved shared-block derivation, Martijn 2026-08-09."
+      }
+    },
+    {
+      "id": "minrray-bc570",
+      "manufacturerUrl": "https://www.minrraycam.com/live-hd-ptz-camera-bc570.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1150,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/live-hd-ptz-camera-bc570_749253.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv100t-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": null,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Manual",
+        "Auto",
+        "One-Push",
+        "3000K",
+        "3500K",
+        "4000K",
+        "4500K",
+        "5000K",
+        "5500K",
+        "6000K",
+        "6500K",
+        "7000K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1540,
+      "widthMm": 253,
+      "heightMm": 179,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv100t-education-intelligent-auto-tracking-camera_834187.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+      }
+    },
+    {
+      "id": "minrray-uv100t-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": null,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Manual",
+        "Auto",
+        "One-Push",
+        "3000K",
+        "3500K",
+        "4000K",
+        "4500K",
+        "5000K",
+        "5500K",
+        "6000K",
+        "6500K",
+        "7000K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1540,
+      "widthMm": 253,
+      "heightMm": 179,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv100t-education-intelligent-auto-tracking-camera_834187.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+      }
+    },
+    {
+      "id": "minrray-uv420",
+      "manufacturerUrl": "https://www.minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1200,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/ultra-hd-4k-ptz-camera-uv420_0651.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "minrray-uv430e0",
       "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
       "controlProtocols": [
@@ -3501,6 +7331,178 @@
       ]
     },
     {
+      "id": "minrray-uv470-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv470-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv470-31x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv490",
+      "manufacturerUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 220,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/4k-intelligent-dual-lens-auto-tracking-camera_476381.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
+      }
+    },
+    {
       "id": "minrray-uv510e0",
       "manufacturerUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
       "controlProtocols": [
@@ -3571,6 +7573,342 @@
         "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
         "https://cdn.webshopapp.com/shops/185564/files/357198502/manual-minrray-uv510-eng.pdf"
       ]
+    },
+    {
+      "id": "minrray-uv515-10x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 156.8,
+      "heightMm": 112.6,
+      "depthMm": 139.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Datasheet 'Viewing Angle' 66.0/8.8 confirmed horizontal against Tier-1 (matches geometric H 64.0, not diagonal); staged as published HFOV, no conversion (Martijn 2026-08-10)."
+      }
+    },
+    {
+      "id": "minrray-uv515-3x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 156.8,
+      "heightMm": 112.6,
+      "depthMm": 139.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Datasheet 'Viewing Angle' 85.0/34.1 confirmed diagonal against Tier-1 (matches geometric D 85.6); HFOV 77.2/29.9 derived via 16:9 rectilinear (POS-D60), lands on geometric H."
+      }
+    },
+    {
+      "id": "minrray-uv540-10x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 250,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1070,
+      "widthMm": 151.6,
+      "heightMm": 154.5,
+      "depthMm": 131.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
+      }
+    },
+    {
+      "id": "minrray-uv540-5x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 250,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1070,
+      "widthMm": 151.6,
+      "heightMm": 154.5,
+      "depthMm": 131.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
+      }
+    },
+    {
+      "id": "minrray-uv570-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1150,
+      "widthMm": 181,
+      "heightMm": 115,
+      "depthMm": 149,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv570-series-full-hd-ptz-camera_960723.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=4.1-49.2, HFOV 70.3/6.6); primary optic staged here."
+      }
+    },
+    {
+      "id": "minrray-uv570-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1150,
+      "widthMm": 181,
+      "heightMm": 115,
+      "depthMm": 149,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv570-series-full-hd-ptz-camera_960723.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {
+        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=5.1-94.5, HFOV 60/3.5, F1.8-2.9); primary optic staged here."
+      }
+    },
+    {
+      "id": "minrray-uv601-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 144,
+      "heightMm": 169,
+      "depthMm": 253.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv601-series-hd-video-conference-camera_697982.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv601-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 144,
+      "heightMm": 169,
+      "depthMm": 253.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv601-series-hd-video-conference-camera_697982.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "minrray-uv950e0",
@@ -3645,6 +7983,44 @@
         "https://en.minrrayav.com/Products/339.html",
         "https://gtrdirect.ca/product/minrray-uv950as-12-u2u3-ir-camera-12x-optical-zoom-hdmi-usb-and-lan-output/"
       ]
+    },
+    {
+      "id": "obsbot-tail-2",
+      "manufacturerUrl": "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "Pelco-D",
+        "Pelco-P",
+        "Standard Serial (RS-232)"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": null,
+      "panRangeDeg": 320,
+      "tiltRangeDeg": 92,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1066,
+      "widthMm": 97.5,
+      "heightMm": 155,
+      "depthMm": 103.5,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs",
+        "https://www.obsbot.com/explore/obsbot-tail-air/visca-over-ip",
+        "https://www.obsbot.com/news/obsbot-tail-2-powered-by-ndi"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "panasonic-aw-he130",
@@ -4272,6 +8648,50 @@
       }
     },
     {
+      "id": "panasonic-aw-ur100",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html",
+      "controlProtocols": [
+        "Panasonic Serial (RS-422)",
+        "Standard IP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": null,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR (2000-15000K)",
+        "3200K",
+        "5600K"
+      ],
+      "minLux": 3.0,
+      "weightG": 9000,
+      "widthMm": 258,
+      "heightMm": 367,
+      "depthMm": 392,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-ur100/features.html",
+        "https://connect.na.panasonic.com/av/video/ptz/aw-ur100-4k-outdoor-ptz-camera"
+      ],
+      "fieldNotes": {
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic"
+      }
+    },
+    {
       "id": "ptzoptics-pt12x-4k-g3",
       "manufacturerUrl": "https://ptzoptics.com/move-4k/",
       "controlProtocols": [
@@ -4710,6 +9130,49 @@
       ]
     },
     {
+      "id": "ptzoptics-simpltrack3",
+      "manufacturerUrl": "https://ptzoptics.com/simpltrack3/",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "ATW",
+        "Manual",
+        "One Push",
+        "Outdoor"
+      ],
+      "minLux": 0.5,
+      "weightG": 2590,
+      "widthMm": 243,
+      "heightMm": 163,
+      "depthMm": 157,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/simpltrack3/",
+        "https://ptzoptics.imagerelay.com/share/HC20X-SIMPLTRACK3-Data-Sheet",
+        "https://huddlecamhd.com/simpltrack-3-release/"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "sony-brc-am7",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
       "controlProtocols": [
@@ -4991,6 +9454,90 @@
       }
     },
     {
+      "id": "sony-srg-a12",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 126,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 2000,
+      "widthMm": 156.7,
+      "heightMm": 184.0,
+      "depthMm": 200.0,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_CY/pdf/srg-a12",
+        "https://pro.sony/s3/2023/05/04134857/AE_SRG-A40_A12_v2.0_EN.pdf",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "sony-srg-a40",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 126,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 2000,
+      "widthMm": 156.7,
+      "heightMm": 184.0,
+      "depthMm": 200.0,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_CY/pdf/srg-a40",
+        "https://pro.sony/s3/2023/05/04134857/AE_SRG-A40_A12_v2.0_EN.pdf",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "sony-srg-x120",
       "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
       "controlProtocols": [
@@ -5070,6 +9617,46 @@
       "fieldNotes": {
         "hasIS": "Built-in image stabilization, switchable on or off."
       }
+    },
+    {
+      "id": "sony-srg-x40uh",
+      "manufacturerUrl": "https://pro.sony/en_EC/pdf/srg-x40uh",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 101,
+      "maxTiltSpeedDegS": 91,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 1600,
+      "widthMm": 158.4,
+      "heightMm": 177.5,
+      "depthMm": 200.2,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_EC/pdf/srg-x40uh",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
+      ],
+      "fieldNotes": {}
     }
   ]
 }
