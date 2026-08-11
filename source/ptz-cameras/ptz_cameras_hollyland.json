@@ -16,6 +16,23 @@
       "isCustom": false,
       "notes": "1/1.8-inch CMOS, 30x. HFOV 59.2°–2.5° published by Hollyland (H: 59.2°~2.5°, V: 34.6°~1.4°). Focal range 7.1–210.0mm. 8.42MP effective pixels. Source: hollyland.com/product/astra-p1. Current.",
       "addedDate": "2026-06-10"
+    },
+    {
+      "id": "hollyland-arocam-c2",
+      "brand": "hollyland",
+      "model": "Arocam C2",
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.14,
+      "sensorHeightMM": 3.84,
+      "minFocalLengthMM": 3.5,
+      "maxFocalLengthMM": 42.3,
+      "hFOVWide": 72.5,
+      "hFOVTele": 6.9,
+      "opticalZoom": 12,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/2.8-inch CMOS 2MP, 12x optical (3.5-42.3mm), 1080p60. HFOV 72.5-6.9 published by Hollyland. ToF autofocus, portrait/vertical output. USB/HDMI only, no SDI, no PoE (DC12V or USB5V). Streaming-positioned but a genuine 12x optical PTZ; in scope per lean-IN (POS-D59, Martijn 2026-07-24). Current.",
+      "addedDate": "2026-08-11"
     }
   ]
 }

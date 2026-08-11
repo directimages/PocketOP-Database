@@ -581,6 +581,178 @@
         "FreeD"
       ],
       "description": "A 4K60 PTZ built on a 1/1.8-inch 9.2MP Sony sensor with a long 30x zoom and simultaneous 12G-SDI, HDMI and IP output, plus a built-in tally light. Built for broadcast, live events, sportscast, government, courtroom and large worship and education venues."
+    },
+    {
+      "id": "marshall-cv620-bi2",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV620-BI2-WI2/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 225,
+      "maxTiltSpeedDegS": 225,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": null,
+      "weightG": 1900,
+      "widthMm": 174,
+      "heightMm": 195,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV620-BI2-WI2/",
+        "https://marshall-usa.com/pdf/CV620-BI2-W12-cutsheet.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The second generation of Marshall's flagship Full-HD PTZ, built around a 1/2.8-inch Sony IMX327 sensor and a 20x optical zoom (5.33-110mm, F1.6-3.8) spanning a 57 to 3.7 degree horizontal field of view. It outputs simultaneously over 3G-SDI, HDMI and IP/USB, with RTSP, RTMP(S) and SRT streaming and FreeD position output for AR and virtual sets. Control is over VISCA, VISCA over IP, ONVIF and HTTP CGI, with single-cable PoE, 128 presets and 225 degree/second pan and tilt. Offered in black (BI2) or white (WI2), it targets house of worship, corporate and live IP production."
+    },
+    {
+      "id": "marshall-cv612-tbi",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV612-TBI-TWI/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1490,
+      "widthMm": 146.2,
+      "heightMm": 162.3,
+      "depthMm": 164.9,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV612-TBI-TWI/",
+        "https://marshall-usa.com/pdf/CV612-TBI-TWI-Cutsheet.pdf"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in AI auto-tracking, auto-follow and auto-framing using facial-learning technology; real-time plus regional tracking up to 8m, with up to 4 continuous set regions. No external PC required.",
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "Marshall's 12x intelligent PTZ, pairing a 1/2.8-inch 2.07MP HD CMOS sensor and a 4.1-49.2mm (12x optical) lens with onboard AI. Its facial-learning engine auto-tracks, follows and auto-frames presenters in real time or within up to four user-defined regions out to about 8 metres, making it well suited to lecture capture, house of worship and conference rooms. Video is delivered over USB-C (USB 3.0), 3G-SDI, HDMI and IP, with H.264/H.265 streaming via RTSP, RTMP and SRT, and control over VISCA, VISCA over IP, Pelco-D/P and ONVIF. 255 presets support complex show programming. Offered in black (TBI) or white (TWI)."
+    },
+    {
+      "id": "marshall-cv605-bk",
+      "manufacturerUrl": "https://marshall-usa.com/cameras/CV605-BK-WH/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 270,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1270,
+      "widthMm": 145.4,
+      "heightMm": 154,
+      "depthMm": 147,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://marshall-usa.com/cameras/CV605-BK-WH/",
+        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd Martijn 2026-07-24)"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "Marshall's compact 5x HD60 IP PTZ, the IP and 3G-SDI sibling of the USB-C CV605-U3, sharing the same distortion-free 3-15.5mm lens that opens to an ultra-wide 85 degree field of view. Its wide starting frame makes it ideal for tight rooms, huddle spaces, council chambers and worship spaces where a conventional PTZ cannot pull back far enough. Video is delivered over 3G-SDI (BNC) and IP with H.265/H.264 encoding, and a single Cat cable carries video, audio, control and PoE. Control is via IR remote, GUI, or Marshall's VS-PTC-200/VS-PTC-IP controllers over RS-232 or IP, with VISCA, Pelco-D/P and ONVIF. It offers 255 presets and 270 degree pan / 60 degree tilt. Offered in black (BK) or white (WH)."
     }
   ]
 }

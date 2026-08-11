@@ -1,0 +1,21 @@
+{
+  "ptzCameras": [
+    {
+      "id": "obsbot-tail-2",
+      "brand": "obsbot",
+      "model": "Tail 2",
+      "sensorLabel": "1/1.5 inch",
+      "sensorWidthMM": 7.86,
+      "sensorHeightMM": 4.42,
+      "minFocalLengthMM": 4.6,
+      "maxFocalLengthMM": 23.0,
+      "hFOVWide": 81.0,
+      "hFOVTele": 18.0,
+      "opticalZoom": 5,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.5-inch CMOS (50MP still), 5x optical zoom (actual focal 4.6-23mm, OBSBOT-published), 4K60. PTZR gimbal: pan +/-160 controllable, tilt -60 to +32, plus 90-degree lens roll. Battery-powered (5000mAh) plus PoE+. HFOV 81-18 published by OBSBOT. sensorWidthMM 7.86 is the effective active-area width consistent with the official 4.6mm wide focal and 81-degree HFOV (OBSBOT publishes the 1/1.5-inch type but no mm). New brand in the DB. Current.",
+      "addedDate": "2026-08-11"
+    }
+  ]
+}

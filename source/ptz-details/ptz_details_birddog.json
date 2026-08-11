@@ -509,6 +509,363 @@
         "RTMP"
       ],
       "description": "The 4K member of BirdDog's X-series, a 4K30 PTZ with a 12x zoom and a 1/2.8-inch Sony sensor, carrying NDI|HX3, Wi-Fi, AI auto-framing, a halo tally, an E-Ink display and an integrated NDI|HX decoder. Built for accessible 4K live production, worship and corporate streaming."
+    },
+    {
+      "id": "birddog-max",
+      "manufacturerUrl": "https://birddog.tv/max-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1430,
+      "widthMm": 171.6,
+      "heightMm": 192.6,
+      "depthMm": 171.6,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/max-overview/",
+        "https://birddog.tv/cameras-show/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.88,
+      "maxApertureTele": 3.77,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI tracking: auto-framing, auto-track, lock and exit, following a selected subject with no external software.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "The BirdDog MAX is a 4K UHD PTZ built on a Sony 1/2.8-inch CMOS with a 12x optical zoom (3.42-40.02mm, F1.88-3.77) and an unusually wide 80.56 degree field of view. BirdDog positions it to bridge the gap between everyday webcams and full production cameras, working as both a USB-C UVC webcam and a networked NDI|HX camera with HDMI out. It adds on-camera AI tracking with auto-framing, motorized pan and tilt and 255 presets, powered by DC 12V or PoE. It suits worship, education, corporate and hybrid meeting rooms."
+    },
+    {
+      "id": "birddog-x4-ultra",
+      "manufacturerUrl": "https://birddog.tv/x4-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": null,
+      "weightG": 2190,
+      "widthMm": 140.2,
+      "heightMm": 188.9,
+      "depthMm": 203.2,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://birddog.tv/x4-overview/",
+        "https://birddog.tv/x4-techspecs/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI tracking with Presenter Tracking and Zone modes; no external software required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "The BirdDog X4 Ultra is a 4K60 PTZ built around a 1/1.8-inch Sony UHD CMOS and a 20x optical zoom (6.25-125mm, F1.58-3.95) covering a 60 to 3.5 degree horizontal field of view. Fully motorized with 255 presets and built-in AI tracking (Presenter and Zone modes), it carries 3G-SDI, HDMI, USB-C UVC and NDI|HX2/HX3 with RTSP, RTMP and SRT. Uniquely in its class it adds WiFi 6 and an internal battery for up to six hours of untethered operation, and runs on DC 12V, PoE+ or USB-C. It targets flexible multi-camera live production, worship and corporate."
+    },
+    {
+      "id": "birddog-x4e-ultra",
+      "manufacturerUrl": "https://birddog.tv/x4e-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 2190,
+      "widthMm": 140.2,
+      "heightMm": 188.9,
+      "depthMm": 203.2,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x4e-overview/",
+        "https://birddog.tv/x4e-techspecs/"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI tracking with Presenter Tracking and Zone modes; no external software required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "The BirdDog X4E Ultra is the wired-first sibling of the X4 Ultra: the same 1/1.8-inch Sony UHD CMOS, 20x zoom (6.25-125mm, F1.58-3.95), 4K60 capture, built-in AI auto-tracking and identical I/O (3G-SDI, HDMI, USB-C UVC and IP over a single PoE+ cable), but without WiFi 6 or the internal battery. Streaming is via NDI|HX3/HX2, RTSP, RTMP and SRT, with control over VISCA, VISCA over IP and ONVIF. A 360 degree halo tally, 255 presets and an e-ink label round it out. It targets simpler, lower-cost wired multi-camera installs."
+    },
+    {
+      "id": "birddog-x5-ultra",
+      "manufacturerUrl": "https://birddog.tv/x5-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB-C UVC"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 200,
+      "maxTiltSpeedDegS": 200,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 2310,
+      "widthMm": 185.7,
+      "heightMm": 171.9,
+      "depthMm": 200.9,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/x5-overview/",
+        "https://birddog.tv/x5-techspecs/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {
+        "hasND": "No built-in ND; the lens carries a 49mm front filter thread for screw-on filters."
+      },
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking and framing (Presenter mode); no external software required.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "The BirdDog X5 Ultra is a 4K60 PTZ on a 1/2.8-inch Sony UHD CMOS with a 20x optical zoom (5.4-104mm, F1.6-3.6, 56.6 to 3.0 degrees horizontal). Its broad I/O spans 12G-SDI, dual HDMI, USB-C UVC and gigabit network, streaming NDI|HX2/HX3, SRT, RTSP and RTMP, with an integrated NDI|HX decoder for return feeds. Built-in AI auto-tracking, a fast motor drive up to 200 degrees/second, 128 speed-adjustable presets, dual e-ink displays, a halo tally and a 49mm filter thread round it out. Powered by PoE+ or DC 12V, it suits demanding live production and worship."
+    },
+    {
+      "id": "birddog-xl-ultra",
+      "manufacturerUrl": "https://birddog.tv/xl/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Static",
+        "One Push"
+      ],
+      "minLux": null,
+      "weightG": 4000,
+      "widthMm": 218.6,
+      "heightMm": 291.6,
+      "depthMm": 263.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/xl/",
+        "https://birddog.tv/xl-techspecs/"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in ND: 1, 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Digital image stabilization"
+      },
+      "autoTrackingNote": "Built-in AI presenter tracking and auto-framing, aided by a fixed secondary 100-degree wide-angle camera (a built-in second imager) for full-scene awareness during tracking. The Advanced tracking mode can additionally coordinate with a second camera. No external software required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The BirdDog XL Ultra is a flagship 4K PTZ on a 4/3-inch Sony 5K CMOS with a 20x zoom (9.8-186mm, F2.8-4.5) and a 71 to 4 degree horizontal field of view. Built for broadcast, virtual production and high-end AV, it has the broadest I/O of the range: 12G-SDI, dual 3G-SDI, HDMI, USB-C and SFP+ fiber, plus High-Bandwidth (full) NDI and NDI|HX2/HX3 with SRT, RTSP and RTMP. It supports FreeD position output for AR and virtual sets, advanced AI tracking, a built-in ND filter and digital stabilization, with control over VISCA, serial VISCA, Pelco-P/D and RS-232/422. It runs on PoE++ or DC 12V."
+    },
+    {
+      "id": "birddog-o4",
+      "manufacturerUrl": "https://birddog.tv/o4-overview/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 90,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual",
+        "Color Temperature"
+      ],
+      "minLux": null,
+      "weightG": 7600,
+      "widthMm": 200,
+      "heightMm": 330,
+      "depthMm": 226,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://birddog.tv/o4-overview/",
+        "https://birddog.tv/o4-techspecs/"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.35,
+      "maxApertureTele": 4.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI tracking engine with adjustable motion profiles; no external software required.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The BirdDog O4 is an outdoor 4K60 PTZ on a Sony 1/1.8-inch UHD CMOS with a 30x optical zoom (6.9-215mm; 60x in HD mode) in an IP66 die-cast aluminium body rated -40 to +60 Celsius with an integrated heater. It streams High-Bandwidth NDI plus NDI|HX2/HX3 and SRT, RTMP and RTSP, with native 12G-SDI and SFP fiber output and PoE++ power. A built-in AI tracking engine follows subjects, and a 500m IR laser with IR-cut filter enables total-darkness capture. FreeD position data (over UDP and embedded in NDI) supports AR and virtual-set workflows, with control over VISCA over IP, Pelco and RS-232/422."
     }
   ]
 }

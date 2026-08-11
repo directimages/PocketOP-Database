@@ -648,6 +648,69 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp",
+      "weightG": 3300,
+      "lengthMm": 241.3,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CN-E FF 20-50mm: minimal focus breathing, cine-optimized full-frame zoom (tier-1)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm for CN-E FF 20-50mm — Tim: zoek spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp"
+      ],
+      "description": "One of Canon's first full-frame cinema zooms, a constant-T2.4 large-format zoom in the Flex Zoom series. The T-stop stays constant across the range, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS look, and it is parfocal, holding focus through the zoom. It pairs with the 45-135mm T2.4 as a matched full-frame set, sharing front diameter and gears for fast swaps. The Flex design also allows relay-kit reconfiguration between full-frame and Super 35 coverage.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp",
+      "weightG": 3400,
+      "lengthMm": 246.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 1.0,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "sources": {
+        "hasFocusBreathing": "Canon CN-E FF 45-135mm: minimal focus breathing, cine-optimized full-frame zoom (tier-1)",
+        "isParfocal": "Canon CN-E FF 45-135mm T2.4: parfocal confirmed (tier-1)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm for CN-E FF 45-135mm — Tim: zoek spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp"
+      ],
+      "description": "The telephoto half of Canon's first full-frame cinema zoom pair, a constant-T2.4 large-format Flex Zoom matched to the 20-50mm T2.4. The aperture stays constant across the range, with an eleven-blade iris, 8K-grade colour-matched optics and a parfocal design that holds focus through the zoom. Shared front diameter and gear positions make swaps with the 20-50 quick, and the Flex design allows relay-kit reconfiguration between formats. It suits full-frame narrative and documentary work needing a bright, consistent zoom.",
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false
     }
   ]
 }

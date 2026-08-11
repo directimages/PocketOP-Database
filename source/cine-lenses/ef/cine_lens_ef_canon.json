@@ -755,6 +755,42 @@
       "isCustom": false,
       "notes": "L-series portrait prime with IS, full frame. Source: canon.com.",
       "addedDate": null
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff-ef",
+      "manufacturer": "Canon",
+      "model": "CN-E20-50mm T2.4 L F",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 20.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 2.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom wide full-frame cine zoom, EF mount (L F) variant; same optics as the PL (L FP) sibling. Constant T2.4. Source: usa.canon.com / B&H 5726C007.",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff-ef",
+      "manufacturer": "Canon",
+      "model": "CN-E45-135mm T2.4 L F",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 45.0,
+      "focalLengthMax": 135.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "EF",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom telephoto full-frame cine zoom, EF mount (L F) variant; same optics as the PL (L FP) sibling. Constant T2.4. Source: usa.canon.com / B&H 5915C007.",
+      "addedDate": "2026-08-11"
     }
   ]
 }

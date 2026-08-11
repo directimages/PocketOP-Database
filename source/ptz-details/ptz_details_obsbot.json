@@ -1,0 +1,61 @@
+{
+  "cameras": [
+    {
+      "id": "obsbot-tail-2",
+      "manufacturerUrl": "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "Pelco-D",
+        "Pelco-P",
+        "Standard Serial (RS-232)"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": null,
+      "panRangeDeg": 320,
+      "tiltRangeDeg": 92,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": false,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 1066,
+      "widthMm": 97.5,
+      "heightMm": 155,
+      "depthMm": 103.5,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs",
+        "https://www.obsbot.com/explore/obsbot-tail-air/visca-over-ip",
+        "https://www.obsbot.com/news/obsbot-tail-2-powered-by-ndi"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in AI Tracking 2.0: Only Me, Auto Zoom and Group Tracking, recognizing people plus 30+ animal and 200+ object categories. No external PC required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "An AI-tracking PTZR live-production camera built on a 1/1.5-inch CMOS sensor with a 5x optical zoom and a 81 to 18 degree horizontal field of view, shooting 4K at 60fps. Its motorized head adds a 90-degree lens roll to pan and tilt for vertical 4K, and its built-in AI Tracking 2.0 follows people, animals and objects without an external PC. It carries pro-AV connectivity including 3G-SDI, HDMI 2.0, USB-C and IP with NDI|HX3, SRT, RTSP and RTMP, plus VISCA over IP and RS-232 control, FreeD output and PoE+. It is battery-powered and targets solo live production and virtual sets."
+    }
+  ]
+}

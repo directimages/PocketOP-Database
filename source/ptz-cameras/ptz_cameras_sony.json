@@ -152,6 +152,57 @@
       "isCustom": false,
       "notes": "Same sensor and lens as BRC-X400. (Addendum A Section A.4)",
       "addedDate": null
+    },
+    {
+      "id": "sony-srg-a40",
+      "brand": "sony",
+      "model": "SRG-A40",
+      "sensorLabel": "1/2.5 inch",
+      "sensorWidthMM": 5.76,
+      "sensorHeightMM": 4.29,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 88.0,
+      "hFOVWide": 70.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 20,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/2.5-inch Exmor R CMOS, 20x optical (4.4-88mm). Same lens module as SRG-X400/BRC-X400 in the DB; HFOV 70.0-4.0. Built-in AI PTZ Auto Framing. Clear Image Zoom extends to 30x (4K)/40x (FHD), not counted in opticalZoom. Current.",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "sony-srg-a12",
+      "brand": "sony",
+      "model": "SRG-A12",
+      "sensorLabel": "1/2.5 inch",
+      "sensorWidthMM": 5.76,
+      "sensorHeightMM": 4.29,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 52.8,
+      "hFOVWide": 70.0,
+      "hFOVTele": 6.5,
+      "opticalZoom": 12,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/2.5-inch Exmor R CMOS, 12x optical (4.4-52.8mm). Same lens module as SRG-X120 in the DB; HFOV 70.0-6.5. Built-in AI PTZ Auto Framing, no Clear Image Zoom. Current.",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "sony-srg-x40uh",
+      "brand": "sony",
+      "model": "SRG-X40UH",
+      "sensorLabel": "1/2.5 inch",
+      "sensorWidthMM": 5.76,
+      "sensorHeightMM": 4.29,
+      "minFocalLengthMM": 4.4,
+      "maxFocalLengthMM": 88.0,
+      "hFOVWide": 70.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 20,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/2.5-inch Exmor R CMOS, 20x optical (4.4-88mm). USB/HDMI variant: no SDI, no IP streaming. Same lens module as SRG-X400; HFOV 70.0-4.0. Clear Image Zoom to 30x (4K)/40x (FHD). No AI auto-framing (not an A-series). Current.",
+      "addedDate": "2026-08-11"
     }
   ]
 }

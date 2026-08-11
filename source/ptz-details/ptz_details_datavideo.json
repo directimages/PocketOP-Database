@@ -471,6 +471,541 @@
         "RTMP"
       ],
       "description": "A broadcast-grade 4K PTZ with a 20x zoom and built-in AI auto-tracking, built around HDBaseT for video, control, power and tally over a single cable. Captures UHD up to 60fps and follows a chosen subject with full, half or close-up framing, for hands-free lecture capture, worship and larger venues."
+    },
+    {
+      "id": "datavideo-ptc-325",
+      "manufacturerUrl": "https://www.datavideo.com/product/PTC-325",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/product/PTC-325",
+        "https://datavideo.com/ap/article/613"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "A professional 4K auto-tracking PTZ built on a Sony 1/2.8-inch CMOS sensor with a 30x optical zoom (4.5-135mm, F1.8-4.7), delivering UHD up to 60fps over HDMI and 3G-SDI. A built-in AI auto-tracking engine locks onto and smoothly follows a subject hands-free, backed by 255 presets and VISCA, VISCA over IP, Pelco, DVIP and ONVIF control. It pairs a gigabit IP port with NDI|HX3, SRT, RTSP and RTMP(S) streaming and single-cable PoE+ power. It is the base of the PTC-325 series, below the HDBaseT PTC-325T and 12G-SDI PTC-325G."
+    },
+    {
+      "id": "datavideo-ptc-140t",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140T",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-140T"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {
+        "videoOutputs": "HDBaseT variant: video, control, power and tally over a single RJ-45 to a receiver box (up to 100m), alongside the 3G-SDI and HDMI outputs."
+      },
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The HDBaseT variant of the Datavideo PTC-140, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its defining feature is a single HDBaseT connection carrying video, control, power and tally to a receiver box up to 100 metres away, for clean long-run installs, alongside 3G-SDI, HDMI and an IP port with RTSP, RTMP(S) and SRT. Control is over VISCA, VISCA over IP, Pelco and DVIP. It suits larger venues and Pro AV setups that standardise on HDBaseT."
+    },
+    {
+      "id": "datavideo-ptc-140ndi",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "3000K",
+        "4000K",
+        "5000K",
+        "6500K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1600,
+      "widthMm": 156,
+      "heightMm": 184,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-140NDI",
+        "http://resource.datavideo.com/Instruction_Manuals/PTC-140NDI_E4_A5_EN.pdf"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "The NDI variant of the Datavideo PTC-140 and the first NDI camera Datavideo launched, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its distinguishing feature is native NDI|HX video over a single 100M network port, simultaneous with 3G-SDI and HDMI up to 1080p60, plus RTSP and RTMP. Control is over VISCA, VISCA over IP, Pelco and DVIP, with 802.3af PoE, 255 presets and 340 degree pan / 120 degree tilt. Now a legacy model in Datavideo's line, retained for database completeness."
+    },
+    {
+      "id": "datavideo-ptc-280ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-280NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 145,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2800,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-280NDI"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The NDI variant of the Datavideo PTC-280, a 4K 12x PTZ sharing the identical 1/2.5-inch CMOS, 4.4-52.8mm lens (F1.8-2.6) and wide 71 degree field of view. Its distinguishing feature is native NDI|HX streaming alongside RTSP, RTMP(S), SRT, ONVIF and Multicast, over gigabit RJ45 with HDMI 2.0 and 3G-SDI outputs. It runs on PoE+ with 255 presets, 300 degree pan and +130/-15 degree tilt, and control over VISCA, VISCA over IP, Pelco and DVIP. It suits hybrid events, education and worship on an IP network."
+    },
+    {
+      "id": "datavideo-ptc-300ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-300NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-300NDI"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The NDI variant of the broadcast-grade PTC-300, a 4K (up to 60fps) 20x PTZ on a 1/1.8-inch CMOS with 6.7-125mm optics (F1.58-3.95) and a 60 degree wide field of view. Its defining difference is NDI|HX streaming over a single Ethernet cable, added alongside HDMI 2.0, 3G-SDI and RTSP, RTMP(S), SRT, ONVIF and Multicast. It offers 255 presets, 300 degree pan, +90/-15 degree tilt and control over VISCA, VISCA over IP, Pelco and DVIP, on DC 12V or PoE+. The auto-tracking sibling is the PTC-305NDI."
+    },
+    {
+      "id": "datavideo-ptc-305ndi",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305NDI",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-305NDI",
+        "https://datavideo.com/global/article/574"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The NDI member of the broadcast-grade 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95). It adds built-in auto-tracking that follows a designated subject with full-body, half-body or close-up framing. Video I/O is HDMI 2.0 and 3G-SDI plus gigabit PoE IP, with NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast streaming. It offers 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP."
+    },
+    {
+      "id": "datavideo-ptc-305g",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305G",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 300,
+      "tiltRangeDeg": 105,
+      "maxPanSpeedDegS": 43,
+      "maxTiltSpeedDegS": 21.32,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 2600,
+      "widthMm": 173,
+      "heightMm": 219,
+      "depthMm": 189,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-305G",
+        "https://datavideo.com/global/article/574"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The 12G-SDI member of the 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95) and built-in auto-tracking. Its distinguishing feature is a 12G-SDI output carrying full 4Kp60 over a single SDI cable, alongside HDMI 2.0, 3G-SDI and gigabit PoE IP. Streaming includes NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast, with 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP."
+    },
+    {
+      "id": "datavideo-ptc-100",
+      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-100",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA RS-422",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HD-SDI",
+        "HDMI",
+        "Composite"
+      ],
+      "poeClass": "none",
+      "presetCount": 32,
+      "panRangeDeg": 346,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 3.0,
+      "weightG": 2250,
+      "widthMm": 173,
+      "heightMm": 218,
+      "depthMm": 185.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/us/product/PTC-100",
+        "https://www.manualslib.com/manual/689806/Datavideo-Ptc-100.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "One of Datavideo's earlier professional PTZ cameras, built around a 1/3-inch Sony Exmor CMOS sensor and a 20x motorized optical zoom (4.7-94mm) for HD/SD-SDI live production. It is a pure baseband camera with HD-SDI, HDMI and SD composite outputs and no IP streaming, reflecting its pre-network-video generation. Control is over serial VISCA and Pelco-D/P with a DVIP daughter board for Datavideo's control ecosystem. Its weatherproof, vandal-proof housing and wide pan/tilt range suited studio and semi-outdoor installs."
+    },
+    {
+      "id": "datavideo-ptc-150tl",
+      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-150TL",
+      "controlProtocols": [
+        "DVIP",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "HD-SDI",
+        "Composite",
+        "HDBaseT",
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 50,
+      "panRangeDeg": 270,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Fluorescent"
+      ],
+      "minLux": 0.4,
+      "weightG": null,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.datavideo.com/global/product/PTC-150TL",
+        "https://www.manualslib.com/manual/2705849/Data-Video-Ptc-150tl.html"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.7,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {
+        "poeClass": "Powered via the HDBaseT link (DC 48V to the receiver box) over Cat.6, not standard PoE."
+      },
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "The HDBaseT variant of Datavideo's PTC-150 PTZ, sharing the same 1/2.8-inch CMOS sensor and 30x optical zoom (4.3-129mm, F1.6-4.7) but sending HD/SD video, control and power over a single Cat.6 HDBaseT link up to 100 metres. The 'TL' model is the camera unit sold without the HDBaseT receiver box (the PTC-150T includes it; the '-11' bundle adds the HBT-11 receiver). Alongside HDBaseT it keeps local HDMI, HD/SD-SDI and composite outputs, suiting cabling-constrained studio and auditorium installs. It is controlled via VISCA and DVIP and, like its generation, has no IP/NDI streaming or auto-tracking."
     }
   ]
 }

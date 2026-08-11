@@ -486,6 +486,176 @@
         "RTMP"
       ],
       "description": "A 4K PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync, Picture Freeze and built-in image stabilization, it suits classrooms, meeting spaces, faith centres, lecture halls and medical settings."
+    },
+    {
+      "id": "sony-srg-a40",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 126,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 2000,
+      "widthMm": 156.7,
+      "heightMm": 184.0,
+      "depthMm": 200.0,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_CY/pdf/srg-a40",
+        "https://pro.sony/s3/2023/05/04134857/AE_SRG-A40_A12_v2.0_EN.pdf",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in AI PTZ Auto Framing: on-camera skeleton and head detection auto-frames and tracks a group of up to 8 people, with face registration and tracking priority. No external PC or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP"
+      ],
+      "trackingDataOut": [],
+      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extendable to 30x in 4K and 40x in FHD via Clear Image Zoom. Its defining feature is built-in AI PTZ Auto Framing, which detects a subject's skeleton and head to keep them composed automatically and can track groups of up to eight people without an operator. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, SRT and optional NDI|HX, runs on PoE++, stores 256 presets, and pans 340 degrees / tilts -20 to +90 degrees."
+    },
+    {
+      "id": "sony-srg-a12",
+      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 126,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 2000,
+      "widthMm": 156.7,
+      "heightMm": 184.0,
+      "depthMm": 200.0,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_CY/pdf/srg-a12",
+        "https://pro.sony/s3/2023/05/04134857/AE_SRG-A40_A12_v2.0_EN.pdf",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.7,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Built-in AI PTZ Auto Framing, the same system as the SRG-A40: on-camera skeleton and head detection, auto-framing and tracking of up to 8 people, with face registration. No external PC required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "The shorter-zoom sibling of the SRG-A40, sharing the same 1/2.5-inch Exmor R CMOS sensor, 4K capability and built-in AI PTZ Auto Framing but with a 12x optical zoom (4.4-52.8mm, F2.0-3.7) and no Clear Image Zoom. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, RTMP(S), SRT and optional NDI|HX, runs on PoE++, and stores 256 presets. Mechanically identical to the A40 (340 degree pan, -20 to +90 tilt, 2.0kg), it targets operator-free capture where a wide-to-moderate framing range is enough."
+    },
+    {
+      "id": "sony-srg-x40uh",
+      "manufacturerUrl": "https://pro.sony/en_EC/pdf/srg-x40uh",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA over IP"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 100,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 101,
+      "maxTiltSpeedDegS": 91,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto1",
+        "Auto2",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 1600,
+      "widthMm": 158.4,
+      "heightMm": 177.5,
+      "depthMm": 200.2,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro.sony/en_EC/pdf/srg-x40uh",
+        "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "The USB/HDMI variant of Sony's compact 4K PTZ line, using a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extended to 30x in 4K and 40x in FHD via Clear Image Zoom. Unlike the A-series it has no AI auto-framing and no IP video: video is delivered over plug-and-play USB Type-C (UVC) and HDMI, with control over VISCA and VISCA over IP. It runs on PoE+ or DC 12V, stores 100 presets, and at roughly 1.6kg is lighter than the SDI-equipped A-series. It targets UVC-based conferencing and simple production workflows."
     }
   ]
 }

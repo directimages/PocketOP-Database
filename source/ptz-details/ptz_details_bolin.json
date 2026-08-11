@@ -527,55 +527,691 @@
     },
     {
       "id": "bolin-range",
-      "manufacturerUrl": "https://bolintechnology.com/",
+      "manufacturerUrl": "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz",
       "controlProtocols": [
+        "VISCA RS-422",
         "VISCA IP",
-        "ONVIF"
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "CGI"
       ],
       "videoOutputs": [
-        "HDMI",
         "12G-SDI",
-        "USB"
+        "HDMI",
+        "USB-C"
       ],
       "poeClass": "PoE++",
-      "presetCount": 128,
+      "presetCount": 255,
       "panRangeDeg": 340,
-      "tiltRangeDeg": 120,
+      "tiltRangeDeg": 210,
       "maxPanSpeedDegS": 300,
       "maxTiltSpeedDegS": 300,
-      "hasIR": false,
+      "hasIR": true,
       "whiteBalanceModes": null,
       "minLux": 0.5,
-      "weightG": null,
-      "widthMm": 201,
-      "heightMm": 256,
-      "depthMm": null,
+      "weightG": 5150,
+      "widthMm": 168,
+      "heightMm": 226,
+      "depthMm": 256,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://bolintechnology.com/",
+        "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz",
         "https://www.sportsvideo.org/2026/04/18/nab-2026-bolin-technology-introduces-range-ptzr-camera-r9-l420n-ptz-and-kbd-plus-controller/"
       ],
       "introductionYear": 2026,
       "maxApertureWide": 1.6,
       "maxApertureTele": 7.6,
       "apertureType": "f",
-      "autoTracking": "ai",
+      "autoTracking": "none",
       "hasIS": true,
       "fieldNotes": {
         "hasIS": "Gyro-based 3-axis image stabilization (mechanical gimbal: pan, tilt, roll)."
       },
       "hasND": false,
       "ndDetail": null,
-      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "autoTrackingNote": "AI Framing and AI Tracking announced as future firmware updates; not available at launch. A future firmware update is expected to enable AI auto-tracking. Recheck to 'ai' once the firmware ships.",
       "streamingProtocols": [
-        "NDI",
+        "NDI|HX3",
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "MPEG-TS"
       ],
-      "description": "Bolin's all-weather 4K60 PTZ, built to go where standard PTZ cameras cannot, with a 1/1.8-inch sensor, a 25x zoom and gyro stabilization across pan, tilt and roll plus a 270-degree roll axis for horizon correction and creative angles. Weatherproof and fast-moving, with built-in subject tracking and simultaneous 12G-SDI, HDMI, USB-C and NDI output, for sports, arenas, touring, outdoor events and worship."
+      "description": "Bolin's all-weather 4K60 PTZ, built to go where standard PTZ cameras cannot, with a 1/1.8-inch sensor, a 25x zoom and gyro stabilization across pan, tilt and roll plus a 270-degree roll axis for horizon correction and creative angles. Weatherproof and fast-moving, with built-in subject tracking and simultaneous 12G-SDI, HDMI, USB-C and NDI output, for sports, arenas, touring, outdoor events and worship.",
+      "trackingDataOut": [
+        "FreeD"
+      ]
+    },
+    {
+      "id": "bolin-exu420f",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {},
+      "description": "Bolin's flagship EX-Ultra outdoor PTZ: a weatherproof, IP67-rated 4K60 pan/tilt/zoom head for broadcast, sports and situational-awareness work in harsh conditions. Outputs baseband and IP simultaneously, with a built-in rain wiper, heater and sun shield, and FreeD support for virtual production."
+    },
+    {
+      "id": "bolin-exu420n",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 2.0,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {},
+      "description": "The NDI edition of Bolin's flagship EX-Ultra outdoor 4K60 PTZ, adding certified NDI High Bandwidth and NDI|HX3 with an NDI Embedded Bridge alongside the same weatherproof, FreeD-enabled feature set for IP-based live production outdoors."
+    },
+    {
+      "id": "bolin-exu248f",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A long-range outdoor 4K PTZ pairing a Sony 1-inch sensor with a Zeiss Vario-Sonnar T zoom, built for reach in POV, sports and broadcast work. Weatherproof IP67 body with optical stabilisation, built-in ND, rain wiper, heater and FreeD support."
+    },
+    {
+      "id": "bolin-exu248n",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "6G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in optical image stabilization."
+      },
+      "hasND": true,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The NDI edition of Bolin's long-range outdoor 4K PTZ with a Sony 1-inch sensor and Zeiss Vario-Sonnar T zoom, adding NDI|HX3 streaming to the same weatherproof, stabilised, FreeD-enabled platform."
+    },
+    {
+      "id": "bolin-exu230h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "An outdoor low-light PTZ built on a Sony 1/1.8-inch STARVIS II sensor with a 30x zoom and a powerful super image stabiliser, aimed at broadcast and situational awareness in extreme conditions. IP67 weatherproofing, rain wiper, heater and FreeD support."
+    },
+    {
+      "id": "bolin-exu230nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 205,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10000,
+      "widthMm": null,
+      "heightMm": null,
+      "depthMm": null,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The NDI HX3 edition of Bolin's outdoor low-light 1/1.8-inch STARVIS II PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, weatherproof, FreeD-enabled platform."
+    },
+    {
+      "id": "bolin-ex1030h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10500,
+      "widthMm": 180,
+      "heightMm": 423,
+      "depthMm": 180,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A ruggedised long-range outdoor PTZ from Bolin's Red Line, upgraded from the legacy EX1000 series. Nitrogen-filled IP67 body with 360-degree continuous pan, a built-in laser IR illuminator for long-distance night work, roll-axis levelling and FreeD support for aerospace, security and broadcast use."
+    },
+    {
+      "id": "bolin-ex1030nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 10500,
+      "widthMm": 180,
+      "heightMm": 423,
+      "depthMm": 180,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The NDI HX3 edition of Bolin's Red Line long-range outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the nitrogen-filled, laser-IR-equipped, FreeD-enabled platform with 360-degree continuous pan."
+    },
+    {
+      "id": "bolin-sd530h",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 135,
+      "maxTiltSpeedDegS": 135,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 5200,
+      "widthMm": 212,
+      "heightMm": 297,
+      "depthMm": 212,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A compact ruggedised outdoor PTZ from Bolin's Red Line (SD500 series, Gen 3), pairing a Sony 1/2.8-inch STARVIS II sensor and 30x zoom with a super image stabiliser, roll-axis levelling and FreeD support in a weatherproof IP67 body for POV, sports and broadcast work."
+    },
+    {
+      "id": "bolin-sd530nx",
+      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 360,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 135,
+      "maxTiltSpeedDegS": 135,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.009,
+      "weightG": 5200,
+      "widthMm": 212,
+      "heightMm": 297,
+      "depthMm": 212,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
+      ],
+      "introductionYear": null,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": "unknown",
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "fieldNotes": {
+        "hasIS": "Built-in super image stabilization (Super and Super+ modes)."
+      },
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "The NDI HX3 edition of Bolin's Red Line compact outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, roll-axis, FreeD-enabled weatherproof platform."
+    },
+    {
+      "id": "bolin-r9-l420n",
+      "manufacturerUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 70,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.5,
+      "weightG": 4450,
+      "widthMm": 200,
+      "heightMm": 270,
+      "depthMm": 253,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": true,
+      "ndDetail": "Mechanical ND: Through, 1/4, 1/16, 1/64",
+      "autoTrackingNote": "AI Framing and AI Tracking announced as future firmware updates; not present at launch. Current AI is face-detection AF/AE only. Recheck to 'ai' once the firmware ships.",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {},
+      "description": "Bolin's large-sensor indoor broadcast PTZ, introduced at NAB 2026. A 1-inch 4K60 head with a 20x zoom and 1080p120 high-frame-rate capture, phase- and contrast-detection autofocus, a mechanical ND filter, genlock and LTC timecode, plus local SSD recording, aimed at demanding multi-camera studio and live production."
     }
   ]
 }

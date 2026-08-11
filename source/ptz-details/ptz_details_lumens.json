@@ -60,37 +60,43 @@
       "id": "lumens-vc-a50s",
       "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
       "controlProtocols": [
-        "VISCA IP",
         "VISCA RS-232",
         "VISCA RS-422",
-        "Pelco-D",
-        "ONVIF"
+        "Pelco-D"
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI"
+        "DVI",
+        "Component",
+        "Composite"
       ],
-      "poeClass": "PoE+",
+      "poeClass": "none",
       "presetCount": 128,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 120,
-      "maxTiltSpeedDegS": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
       "hasIR": true,
-      "whiteBalanceModes": null,
-      "minLux": null,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 5,
       "weightG": 2000,
       "widthMm": 174,
-      "heightMm": 185,
+      "heightMm": 183,
       "depthMm": 186,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
         "https://www.mylumens.com/en/Products_detail/18/VC-A50S",
-        "https://www.manua.ls/lumens/vc-a50p/manual"
+        "https://www.mylumens.com/Download/VC-A50S-Installation%20Manual-English-2017-0118.pdf"
       ],
-      "introductionYear": "unknown",
+      "introductionYear": 2017,
       "maxApertureWide": 1.6,
       "maxApertureTele": 3.5,
       "apertureType": "f",
@@ -99,11 +105,7 @@
       "hasND": false,
       "ndDetail": null,
       "autoTrackingNote": null,
-      "streamingProtocols": [
-        "SRT",
-        "RTSP",
-        "RTMP"
-      ],
+      "streamingProtocols": [],
       "description": "A Full HD PTZ with a 1/2.8-inch sensor and a 20x optical zoom, built for SDI and baseband workflows with 3G-SDI, DVI, component and composite output and RS-232 or RS-422 control rather than HDMI or IP. Suited to broadcast and AV chains that run on a traditional baseband signal path, in studios, lecture halls and meeting rooms."
     },
     {
@@ -128,11 +130,11 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 2000,
-      "widthMm": 175,
-      "heightMm": 185,
-      "depthMm": 185,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -153,9 +155,14 @@
       "streamingProtocols": [
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
-      "description": "A Full HD PTZ built on a 1/2.8-inch Sony sensor with a 20x optical zoom, outputting over 3G-SDI, HDMI and IP with Smart AF that tracks subjects in motion. Aimed at conference production, lecture capture, houses of worship and live events."
+      "description": "A Full HD PTZ built on a 1/2.8-inch Sony sensor with a 20x optical zoom, outputting over 3G-SDI, HDMI and IP with Smart AF that tracks subjects in motion. Aimed at conference production, lecture capture, houses of worship and live events.",
+      "trackingDataOut": [
+        "FreeD"
+      ]
     },
     {
       "id": "lumens-vc-a53",
@@ -169,17 +176,18 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI"
+        "HDMI",
+        "USB"
       ],
       "poeClass": "PoE",
-      "presetCount": 128,
+      "presetCount": 256,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 300,
-      "maxTiltSpeedDegS": 300,
+      "maxPanSpeedDegS": 225,
+      "maxTiltSpeedDegS": 225,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 2000,
       "widthMm": 174,
       "heightMm": 197,
@@ -203,9 +211,14 @@
       "streamingProtocols": [
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
-      "description": "A 4K60 PTZ built on a 1/1.8-inch 9.17MP sensor with a 30x zoom, carrying NDI High Bandwidth and NDI|HX3 alongside 12G-SDI, HDMI and IP output. A high-end option for studios, broadcast and worship on an NDI-based workflow."
+      "description": "A Full HD 1080p60 20x PTZ on a 1/2.8-inch Sony sensor, with simultaneous 3G-SDI, HDMI, USB and IP output, FreeD and Smart AF. A dependable mid-range camera for studios, lecture capture and worship on SDI or IP workflows.",
+      "trackingDataOut": [
+        "FreeD"
+      ]
     },
     {
       "id": "lumens-vc-a61p",
@@ -260,7 +273,9 @@
       "streamingProtocols": [
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -269,7 +284,7 @@
     },
     {
       "id": "lumens-vc-a61pn",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1052/VC-A61PN-4K-NDI-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -289,7 +304,7 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.1,
       "weightG": 2000,
       "widthMm": 174,
       "heightMm": 190,
@@ -298,7 +313,7 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A61PN",
+        "https://www.mylumens.com/en/Products_detail/1052/VC-A61PN-4K-NDI-PTZ-Camera",
         "https://cdn-docs.av-iq.com/dataSheet/VC-A61PN.pdf",
         "https://www.mylumens.com/Download/VC-A61P_DataSheet_English-2020-0918.pdf"
       ],
@@ -312,10 +327,12 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "NDI|HX",
+        "NDI|HX2",
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -348,8 +365,8 @@
       "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -369,7 +386,9 @@
       "streamingProtocols": [
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -378,7 +397,7 @@
     },
     {
       "id": "lumens-vc-a71p-hn",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1083/VC-A71P-HN_4K_NDI_PTZ_Camera_with_Full_NDI_and_NDHX33",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -400,16 +419,16 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-A71P-HN",
+        "https://www.mylumens.com/en/Products_detail/1083/VC-A71P-HN_4K_NDI_PTZ_Camera_with_Full_NDI_and_NDHX33",
         "https://www.manua.ls/lumens/vc-a71p/manual"
       ],
       "introductionYear": 2022,
@@ -422,10 +441,14 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "NDI|HX",
+        "NDI",
+        "NDI|HX3",
+        "NDI|HX2",
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -453,11 +476,11 @@
       "maxTiltSpeedDegS": 300,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 0.05,
       "weightG": 3000,
       "widthMm": 232,
-      "heightMm": 189,
-      "depthMm": 188,
+      "heightMm": 188,
+      "depthMm": 189,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
@@ -475,16 +498,21 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "NDI|HX",
+        "NDI|HX2",
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
       ],
-      "description": "A flagship-class 4K60 PTZ on a 1/1.8-inch sensor with a 30x zoom, adding NDI|HX for IP production alongside 12G-SDI, HDMI, USB and IP output and FreeD tracking. For broadcast, live events and worship on an NDI network."
+      "description": "A 4K60 30x PTZ on a 1/1.8-inch sensor with NDI HX2 for IP production over HDMI and Ethernet, plus FreeD tracking. A network-first flagship option for studios, live events and worship on an NDI network.",
+      "trackingDataOut": [
+        "FreeD"
+      ]
     },
     {
       "id": "lumens-vc-r30",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1073/VC-R30-Full-HD-IP-PTZ-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -493,17 +521,19 @@
         "ONVIF"
       ],
       "videoOutputs": [
-        "HDMI"
+        "3G-SDI",
+        "HDMI",
+        "USB"
       ],
       "poeClass": "PoE",
-      "presetCount": 128,
+      "presetCount": 256,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
       "maxPanSpeedDegS": 120,
-      "maxTiltSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 1400,
       "widthMm": 190,
       "heightMm": 185,
@@ -512,7 +542,7 @@
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-R30",
+        "https://www.mylumens.com/en/Products_detail/1073/VC-R30-Full-HD-IP-PTZ-Camera",
         "https://www.mylumens.com/Download/VC-R30_DataSheet_English-2022-0401.pdf"
       ],
       "introductionYear": 2022,
@@ -527,13 +557,14 @@
       "streamingProtocols": [
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS"
       ],
-      "description": "A cost-effective 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, outputting 4K30 over 3G-SDI, HDMI and Ethernet. A straightforward reach option for education, conferencing and live streaming."
+      "description": "A cost-effective Full HD 12x PTZ on a 1/2.8-inch sensor, outputting 1080p60 over 3G-SDI, HDMI, USB and IP simultaneously. A straightforward, reliable option for education, conferencing, worship and live streaming."
     },
     {
       "id": "lumens-vc-tr1",
-      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1051/VC-TR1-Auto-Tracking-Camera",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -541,26 +572,27 @@
       ],
       "videoOutputs": [
         "3G-SDI",
-        "HDMI"
+        "HDMI",
+        "USB"
       ],
       "poeClass": "PoE+",
-      "presetCount": 128,
+      "presetCount": 256,
       "panRangeDeg": 340,
       "tiltRangeDeg": 120,
-      "maxPanSpeedDegS": 120,
-      "maxTiltSpeedDegS": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 80,
       "hasIR": true,
       "whiteBalanceModes": null,
-      "minLux": null,
+      "minLux": 1.0,
       "weightG": 1400,
       "widthMm": 245,
-      "heightMm": 165,
-      "depthMm": 145,
+      "heightMm": 145,
+      "depthMm": 165,
       "mountThreads": null,
       "hasCeilingMount": true,
       "hasWallMount": null,
       "sources": [
-        "https://www.mylumens.com/en/Products_detail/1050/VC-TR1",
+        "https://www.mylumens.com/en/Products_detail/1051/VC-TR1-Auto-Tracking-Camera",
         "https://www.manualslib.com/manual/2028659/Lumens-Vc-Tr1.html"
       ],
       "introductionYear": 2020,
@@ -574,9 +606,1160 @@
       "autoTrackingNote": "Dedicated dual-lens auto-tracking camera: a PTZ lens plus a wide panoramic lens, with on-camera facial-detection tracking and automatic switching between the two views. All tracking runs in the camera itself, with no external processor, dongle or PC application. Offers Stage, Everywhere and Partition tracking modes.",
       "streamingProtocols": [
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "RTMPS"
       ],
       "description": "A Full HD auto-tracking camera pairing a 20x PTZ lens with a panoramic wide lens, so it follows and frames a presenter automatically using Lumens' three intelligent tracking modes and smart self-switching. Built for hands-free lecture capture, corporate training, worship and presentations, with HDMI, SDI, USB and IP output."
+    },
+    {
+      "id": "lumens-vc-a50pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/19/VC-A50PN-NDI-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 120,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/19/VC-A50PN-NDI-PTZ-Camera"
+      ],
+      "introductionYear": 2019,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX"
+      ],
+      "trackingDataOut": null,
+      "description": "A legacy Full HD 20x NDI HX PTZ with simultaneous 3G-SDI, HDMI and Ethernet output, bridging traditional AV cabling and NDI network production for lecture capture, conferencing and live broadcasting.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a51pn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1072/VC-A51PN-Full-HD-NDI-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1072/VC-A51PN-Full-HD-NDI-PTZ-Camera",
+        "https://www.mylumens.com/en/News_detail/120/latest-news-VC-A51P-VC-A51PN"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": null,
+      "description": "A Full HD 20x NDI HX2 PTZ with simultaneous 3G-SDI, HDMI and IP output, built for live events, remote production and video studios that need low-latency network video alongside baseband outputs.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a52s",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/36/VC-A52S-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "none",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 186,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/36/VC-A52S-PTZ-Camera"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "A legacy Full HD 60fps 20x PTZ for baseband workflows, with synchronized 3G-SDI and HDMI output and RS-232 or RS-422 control, suited to studios, lecture halls and AV installations without an IP video path.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a62",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1153/VC-A62-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.1,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 190,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1153/VC-A62-4K-PTZ-IP-Camera"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A 4K60 30x PTZ with simultaneous SDI, HDMI, USB and IP output, IQ Sync colour matching, BT.2020 support and FreeD, aimed at events, sports and larger AV installations that need UHD reach and fast movement.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-a71sn",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1084/VC-A71SN-4K-NDIHX3-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": null,
+      "minLux": 0.05,
+      "weightG": 3000,
+      "widthMm": 232,
+      "heightMm": 188,
+      "depthMm": 189,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1084/VC-A71SN-4K-NDIHX3-PTZ-Camera"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A 4K60 30x PTZ pairing 12G-SDI with NDI HX3 and HX2 streaming, plus HDMI and USB, FreeD for virtual production and BT.2020 colour. Built for broadcast studios, concert halls, sports arenas and virtual sets that need UHD output and fast robotics.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-r31",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1132/VC-R31-HD-IP-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1132/VC-R31-HD-IP-PTZ-Camera",
+        "https://www.mylumens.com/en/News_detail/200/Lumens-Introduces-New-No-compromise-Low-Cost-PTZ-Camera"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "autoTrackingNote": "Built-in Auto Framing that automatically frames the group in view; no dedicated subject tracking.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "An entry-level Full HD 12x PTZ on a Sony 1/2.8-inch sensor, with simultaneous HDMI, USB and IP streaming and a wide 72.5-degree view. Built for meeting rooms, lecture theatres and houses of worship that need affordable, reliable PTZ with flexible output and a five-year warranty.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-r32",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1158/VC-R32-HD-IP-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1400,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1158/VC-R32-HD-IP-PTZ-Camera"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "basic",
+      "autoTrackingNote": "Built-in Auto Framing that automatically frames the group in view; no dedicated subject tracking.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A Full HD 12x PTZ on a Sony 1/2.8-inch sensor with simultaneous HDMI, USB and IP output and both RS-232 and RS-422 control, offering a 72.5-degree view and ultra-quiet robotics. A flexible entry-level choice for classrooms, courtrooms, worship and meeting spaces.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b50u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1144/VC-B50U-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1144/VC-B50U-4K-PTZ-IP-Camera"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A 4K30 20x PTZ with quad output over 3G-SDI, HDMI, USB and IP and HEVC streaming, built to bridge AV and video workflows in studios, theatres, conference centres and lecture halls. Backed by a five-year warranty.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b70u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1155/VC-B70U-4K-PTZ-IP-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1155/VC-B70U-4K-PTZ-IP-Camera"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A 4K30 20x PTZ on a larger 1/2.5-inch sensor with quad output over 3G-SDI, HDMI, USB and IP and HEVC streaming, tuned for low-light clarity. Aimed at lecture capture, corporate conferencing and live streaming, with a five-year warranty.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-b30u",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/23/VC-B30U-Video-Conference-Camera",
+      "controlProtocols": [
+        "VISCA RS-232"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 128,
+      "panRangeDeg": 200,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 100,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "One Push",
+        "Manual"
+      ],
+      "minLux": 1.6,
+      "weightG": 1300,
+      "widthMm": 268,
+      "heightMm": 156,
+      "depthMm": 123,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/23/VC-B30U-Video-Conference-Camera"
+      ],
+      "introductionYear": 2020,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [],
+      "trackingDataOut": null,
+      "description": "A compact Full HD 12x optical-zoom PTZ for huddle and mid-size meeting rooms, with USB 3.0 and HDMI output, IR remote and RS-232 control. A genuine mechanical pan-tilt-zoom camera for video conferencing where SDI or IP output is not required.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr30",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1110/VC-TR30-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1110/VC-TR30-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR30 datasheet English 2024-0716 (docling)"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens on-camera AI auto-tracking with human detection, offering Stage, Everywhere and Partition tracking modes plus auto-framing and gesture-based target switching.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "An affordable HD dual-lens 12x AI auto-tracking PTZ that uses a wide panoramic sensor to follow a presenter automatically, with simultaneous HDMI, USB and IP output. Built for meeting rooms, lecture spaces and small studios that want hands-free camera work without an operator.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr40",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1082/VC-TR40-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1082/VC-TR40-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR40 datasheet English 2024-1106 (docling)"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens AI auto-tracking with human detection, offering Stage, Everywhere and Partition tracking modes plus auto-framing and gesture-based target switching.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "An HD dual-lens 20x AI auto-tracking PTZ for lecture capture, worship and presentations, using a panoramic camera to guide the zoom head while it outputs over 3G-SDI, HDMI, USB and IP simultaneously.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr40n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1095/VC-TR40N-AI-Powered-NDI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1095/VC-TR40N-AI-Powered-NDI-Auto-Tracking-Camera",
+        "Lumens VC-TR40N datasheet English 2024-1106 (docling)"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens AI auto-tracking with human detection and Stage, Everywhere and Partition modes plus auto-framing and gesture switching; NDI HX3/HX2 network video is built in.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "The NDI edition of Lumens' HD dual-lens 20x AI auto-tracking PTZ, pairing presenter tracking with NDI HX3/HX2 alongside 3G-SDI, HDMI, USB and IP output for network production workflows.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr41",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1145/VC-TR41-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1145/VC-TR41-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR41 datasheet English 20260402 (docling)"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens AI auto-tracking with Everywhere, Stage, Partition and Audience tracking modes plus auto-framing and gesture switching; integrates with the Lumens LC300 CaptureVision system for automated multi-camera capture.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "An HD dual-lens 20x AI auto-tracking PTZ with SDI, HDMI, USB and IP output, adding Audience tracking and CaptureVision integration for automated presenter-and-audience coverage in education, worship and corporate production.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr41n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1147/VC-TR41N-AI-Powered-NDI-HX3-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 138,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1147/VC-TR41N-AI-Powered-NDI-HX3-Auto-Tracking-Camera",
+        "Lumens VC-TR41N datasheet English 2025-1231 (docling)"
+      ],
+      "introductionYear": 2026,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens AI auto-tracking with Everywhere, Stage and Partition modes plus auto-framing and gesture switching; NDI HX3/HX2 network video is built in.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "The NDI HX3 edition of the VC-TR41, combining HD dual-lens 20x AI tracking with 3G-SDI, HDMI, USB and IP output for live events, AV installations and hybrid production.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-ta50",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1081/VC-TA50-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "Pelco-D",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 300,
+      "maxTiltSpeedDegS": 300,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 2000,
+      "widthMm": 175,
+      "heightMm": 185,
+      "depthMm": 185,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1081/VC-TA50-Auto-Tracking-Camera",
+        "Lumens VC-TA50 datasheet English 2024-0319 (docling)"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Single-lens AI auto-tracking with human detection and Smart AF, offering Everywhere, Stage and Partition tracking modes plus auto-framing; no panoramic second camera.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A single-lens HD 20x AI auto-tracking PTZ with fast PoE+ robotics, FreeD for virtual sets and 3G-SDI, HDMI and IP output. Designed to follow a presenter across a stage or classroom without an operator, using Smart AF to keep them in focus.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1096/VC-TR60-4K-AI-Auto-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 1.0,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1096/VC-TR60-4K-AI-Auto-Tracking-Camera",
+        "Lumens VC-TR60 datasheet English 2025-0226 (docling)"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "On-camera AI human-detection auto-tracking and auto-framing on a single 4K head; predecessor to the VC-TR60A dual-lens speaker-tracking family.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A 4K 12x AI auto-tracking PTZ with an unusually wide 81-degree view and quad output over 3G-SDI, HDMI, USB and IP. Built for classrooms, studios and indoor venues that want automated presenter following with broad framing. Discontinued.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60a",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1128/VC-TR60A-4K-Dual-Lens-Speaker-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1128/VC-TR60A-4K-Dual-Lens-Speaker-Tracking-Camera",
+        "Lumens VC-TR60A datasheet English 2026-0504 (docling)"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens 4K AI motion tracking plus smart speaker tracking using integrated directional voice sensors; a USB reference audio input excludes speakerphone sound so tracking follows people in the room. Picture-in-picture combines the wide and tight views.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A 4K dual-lens 12x speaker-tracking PTZ that combines AI motion tracking with directional-audio speaker tracking and picture-in-picture output over HDMI and USB. Certified for Microsoft Teams, built for meeting rooms, lecture capture and automated multi-camera production.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr60a-dante-av-h",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1141/VC-TR60A-Dante-AV-H-4K-Dual-Lens-Speaker-Tracking-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 185,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1141/VC-TR60A-Dante-AV-H-4K-Dual-Lens-Speaker-Tracking-Camera",
+        "Lumens VC-TR60A Dante AV-H datasheet English 2025-0326 (docling)"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens 4K AI motion tracking plus smart speaker tracking with integrated directional voice sensors; this SKU adds Dante AV-H video and audio transport. Picture-in-picture combines the wide and tight views.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "Dante AV-H",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "The Dante AV-H edition of the VC-TR60A, pairing 4K dual-lens speaker tracking with low-latency Dante AV-H video and audio over IP for Dante-based meeting, education and AV installations.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr61",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1135/VC-TR61-4K-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1135/VC-TR61-4K-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+        "Lumens VC-TR61 datasheet English 2026-0526 (docling)"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 5.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens 4K AI motion tracking to 18m with Stage, Everywhere and Partition modes; the panoramic camera supports tracking and independent or picture-in-picture output.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "A 4K dual-lens 30x AI auto-tracking PTZ with long reach, tracking subjects up to 18m, and independent 4K output from both its zoom head and panoramic camera. Dante Ready and built for larger rooms, worship, education and automated production.",
+      "fieldNotes": {}
+    },
+    {
+      "id": "lumens-vc-tr61n",
+      "manufacturerUrl": "https://www.mylumens.com/en/Products_detail/1142/VC-TR61N-4K-NDI-HX3-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 174,
+      "heightMm": 197,
+      "depthMm": 187,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.mylumens.com/en/Products_detail/1142/VC-TR61N-4K-NDI-HX3-AI-Auto-Tracking-30x-Zoom-PTZ-Camera",
+        "Lumens VC-TR61N datasheet English 2026-0526 (docling)"
+      ],
+      "introductionYear": 2025,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 5.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "Dual-lens 4K AI motion tracking to 18m with Stage, Everywhere and Partition modes and NDI HX3/HX2 network output; the panoramic camera supports independent or picture-in-picture output.",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": null,
+      "description": "The NDI HX3 edition of the VC-TR61, combining 4K dual-lens 30x AI tracking to 18m with independent panoramic output and NDI HX3/HX2 for larger automated AV productions.",
+      "fieldNotes": {}
     }
   ]
 }

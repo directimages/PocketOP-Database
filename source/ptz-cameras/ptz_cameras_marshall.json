@@ -186,6 +186,57 @@
       "isCustom": false,
       "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Discontinued.",
       "addedDate": null
+    },
+    {
+      "id": "marshall-cv620-bi2",
+      "brand": "marshall",
+      "model": "CV620-BI2/WI2",
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.14,
+      "sensorHeightMM": 3.84,
+      "minFocalLengthMM": 5.33,
+      "maxFocalLengthMM": 110.0,
+      "hFOVWide": 57.0,
+      "hFOVTele": 3.7,
+      "opticalZoom": 20,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Gen-2 20x Full-HD60 IP PTZ, Sony IMX327 1/2.8-inch. NIEUWE optiek t.o.v. gen-1 CV620-BI/WI (die had 51.7/2.7 calc): Marshall publiceert voor gen-2 5.33-110mm en Horizontal Field of View 57.0/3.7 (+/-5%). Gen-1-waarden niet overgenomen. FreeD toegevoegd. Current.",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "marshall-cv612-tbi",
+      "brand": "marshall",
+      "model": "CV612-TBI/TWI",
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.14,
+      "sensorHeightMM": 3.84,
+      "minFocalLengthMM": 4.1,
+      "maxFocalLengthMM": 49.2,
+      "hFOVWide": 64.2,
+      "hFOVTele": 6.0,
+      "opticalZoom": 12,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "12x AI auto-tracking/framing PTZ, 1/2.8-inch 2.07MP CMOS, 4.1-49.2mm. Marshall publiceert een 'Angle of View' 70.3/6.6, maar dat is de diagonale AOV (niet horizontaal): de 16:9-diagonaal op 4.1mm geeft ~71 graden, consistent. hFOV horizontaal daarom berekend uit focal+sensor: 64.2/6.0 (calc). Current.",
+      "addedDate": "2026-08-11"
+    },
+    {
+      "id": "marshall-cv605-bk",
+      "brand": "marshall",
+      "model": "CV605-BK/WH",
+      "sensorLabel": "1/2.8 inch",
+      "sensorWidthMM": 5.14,
+      "sensorHeightMM": 3.84,
+      "minFocalLengthMM": 3.0,
+      "maxFocalLengthMM": 15.5,
+      "hFOVWide": 85.0,
+      "hFOVTele": 16.0,
+      "opticalZoom": 5,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "5x HD60 IP PTZ, IP/3G-SDI-tegenhanger van de USB-C CV605-U3; deelt de 5x-lensmodule. Volledig bevestigd tegen de officiele Marshall CV605-BK/WH-manual (LENS_AND_PTZ_SPECSHEETS, door Martijn aangeleverd 2026-07-24): 1/2.8-inch HD CMOS, 5X (3-15.5mm), Viewing Angle 85 (wide) t/m 16 (tele) fabrikant-gepubliceerd. De web-cutsheet noemde tele ~20, maar de manual (autoritair, POS-D01) geeft 16, consistent met de bestaande U3-entry. Current.",
+      "addedDate": "2026-08-11"
     }
   ]
 }

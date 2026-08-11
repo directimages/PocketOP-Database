@@ -3,6 +3,14 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.36.0 — 2026-08-11
+
+- 5 new cine lens entries: 3 Sony FE G Master lenses (E mount, fullFrame, generation "Photography"): FE 35mm F1.4 GM, FE 70-200mm F2.8 GM OSS, FE 70-200mm F2.8 GM OSS II; 2 Canon CN-E Flex Zoom EF-mount entries (canon-cne20-50mm-t2-4-ff-ef, canon-cne45-135mm-t2-4-ff-ef), matching the existing PL-mount twins
+- Canon CN-E Flex Zoom "-ff" twins (canon-cne20-50mm-t2-4-ff, canon-cne45-135mm-t2-4-ff) corrected: mount RF -> PL. Both were misfiled under cine_lens_rf_canon.json with notes claiming "PL/EF mount"; moved into cine_lens_pl_canon.json, ids unchanged, notes corrected to describe the PL (L FP) variant
+- addedDate 2026-08-11 on all 5 new entries
+- cine_lenses.json split bumped to v1.33.0 (same 5 additions plus the mount correction). Entry count: cine 601 -> 606, lenses union 725 -> 730
+- Released as db-v18
+
 ### v1.35.0 — 2026-07-23
 
 - Cine datafixes batch 4, pass 4b (entry-set change only, kept separate from the pass 4a value corrections above per POS-D45): rename + two deletions
@@ -129,6 +137,13 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.54.0 — 2026-08-11
+
+- Sidecars for the 5 new cine lens entries above: 3 Sony FE G Master (weightG/lengthMm/closeFocusM/opticalElements/filterThreadMm/hasIS from sony.co.uk specifications, tier-1; imageCircleMm 43.3 reasoned from full-frame coverage, Sony does not publish an exact image circle) + 2 Canon CN-E Flex Zoom EF entries (specs identical to the PL siblings; mount split per POS-D09; B&H 5726C007 / 5915C007 spec tables)
+- Canon CN-E Flex Zoom PL twins (canon-cne20-50mm-t2-4-ff, canon-cne45-135mm-t2-4-ff) detail entries moved from cine_details_rf_canon.json to cine_details_pl_canon.json, mirroring the core mount correction. filterType/filterThreadMm corrected front_thread/112 -> matte_box/none to match the matte-box Flex Zoom design (was carried over from a stale value)
+- Entry count: cine 601 -> 606, matches cine_lenses.json id-set exactly
+- Released as db-v18
+
 ### v1.53.0 — 2026-07-23
 
 - Cine datafixes batch 4, pass 4b (entry-set change only, kept separate from the pass 4a value corrections above per POS-D45): rename + two deletions, mirroring the cine_lenses v1.32.0 change above
@@ -203,6 +218,11 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.56.0 — 2026-08-11
+
+- Legacy union rebuild aggregating the cine_lens_details v1.54.0 sidecars above (5 new entries) and the cine_lenses v1.33.0 core mirror (5 additions plus the RF -> PL mount correction on the 2 existing Flex Zoom twins). Entry count: lenses union 725 -> 730
+- Released as db-v18
+
 ### v1.55.0 — 2026-07-23
 
 - Legacy union rebuild aggregating the cine_lens_details v1.53.0 pass 4b rename + two deletions above (dzofilm-tango-18-90mm-t2-9-e -> -pl, mount E -> PL; fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 removed) and the cine_lenses v1.32.0 core mirror. Entry count 727 -> 725
@@ -603,6 +623,15 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.13.0 — 2026-08-11
+
+- 118 new PTZ camera core entries, born-complete (core plus paired details), across: AVer (31), Lumens (21), Minrray (17), Fomako (12), Bolin (11), Datavideo (9), BirdDog (6), Sony (3), Marshall (3), OBSBOT (1, new brand -- Tail 2), Canon (1), Hollyland (1), Panasonic (1), PTZOptics (1)
+- New brand: obsbot (source/ptz-cameras/ptz_cameras_obsbot.json, paired with source/ptz-details/ptz_details_obsbot.json)
+- fomako-kn20a: maxFocalLengthMM corrected 94.5 -> 90.5 against the fomako.net published lens module spec; notes updated, dropping the incorrect "(IMX415)" sensor callout
+- addedDate 2026-08-11 on all 118 new entries
+- PTZ core count 136 -> 254
+- Released as db-v18
+
 ### v1.12.0 — 2026-06-17
 
 - Removed panasonic-aw-ue4 from the published core (out of scope per POS-D30; outOfScope flag was true; hFOVTele=111 anomalous for a fixed-lens ePTZ). Full core + detail entry preserved verbatim in TIM/Private/incomplete_data.md, restore only after validation. NOT aw-ue40 (free tier), which is untouched. PTZ core count 137 → 136.
@@ -659,6 +688,15 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.24.0 — 2026-08-11
+
+- Sidecars for all 118 new PTZ entries above, born-complete alongside their core entries, across source/ptz-details/ptz_details_{aver,lumens,bolin,fomako,minrray,birddog,canon,datavideo,hollyland,marshall,panasonic,ptzoptics,sony,obsbot}.json
+- Detail-field corrections on 12 existing Lumens/Bolin/Fomako entries: connectivity (controlProtocols/videoOutputs/streamingProtocols), minLux, presetCount, pan/tilt speed, dimensions, autoTracking/autoTrackingNote -- lumens-vc-a50s, vc-a51p, vc-a53, vc-a61p, vc-a61pn, vc-a71p, vc-a71p-hn, vc-a71pn, vc-r30, vc-tr1; bolin-range; fomako-kn20a. Three description rewrites to match the corrected specs: lumens-vc-a53, lumens-vc-a71pn, lumens-vc-r30
+- Manufacturer/source link fixes: manufacturerUrl and/or sources corrected on 5 Lumens entries (lumens-vc-a50s -- installation manual PDF, vc-a61pn, vc-a71p-hn, vc-r30, vc-tr1) and on bolin-range
+- ptz_details 1.24.0; released as db-v18
+- Assembled ptz_details.json carries all 254 entries; the legacy hyphen alias ptz-details.json is identical content (hyphen alias). ptz_cameras.json changes covered above
+- PTZ detail count 136 -> 254
 
 ### v1.23.0 — 2026-07-23
 

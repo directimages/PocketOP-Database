@@ -855,6 +855,71 @@
         "FreeD"
       ],
       "description": "A Premium-line 4K/60p PTZ with a 24x zoom and professional IP connectivity, including high-bandwidth NDI, NDI|HX and SRT, plus FreeD support for AR and VR workflows. It adds entry-level built-in AI auto-tracking that follows a single presenter without extra hardware, aimed at lectures, corporate events and worship services. Note that in NDI|HX mode the UE80 outputs Full HD only; 4K runs over SDI, HDMI or full-bandwidth NDI."
+    },
+    {
+      "id": "panasonic-aw-ur100",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html",
+      "controlProtocols": [
+        "Panasonic Serial (RS-422)",
+        "Standard IP"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "SFP+ (fiber)"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": null,
+      "whiteBalanceModes": [
+        "ATW",
+        "AWB-A",
+        "AWB-B",
+        "VAR (2000-15000K)",
+        "3200K",
+        "5600K"
+      ],
+      "minLux": 3.0,
+      "weightG": 9000,
+      "widthMm": 258,
+      "heightMm": 367,
+      "depthMm": 392,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-ur100/features.html",
+        "https://connect.na.panasonic.com/av/video/ptz/aw-ur100-4k-outdoor-ptz-camera"
+      ],
+      "introductionYear": 2023,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 4.0,
+      "apertureType": "f",
+      "autoTracking": "external",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in ND: Through, 1/4, 1/16, 1/64, plus IR-Through night mode",
+      "fieldNotes": {
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic"
+      },
+      "autoTrackingNote": "No built-in tracking. Auto-tracking is available via Panasonic's separate Auto Tracking Software (a paid plug-in within the Media Production Suite).",
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "description": "A rugged IP65-rated outdoor 4K/60p PTZ with a 1/2.5-inch MOS sensor and a 24x optical zoom (4.12-98.9mm, F1.8-4.0, 74.1 to 3.3 degree horizontal field of view), extendable via i.Zoom. Built for harsh environments (-15 to +45 Celsius), it combines optical 2-axis OIS with Panasonic's D.I.S.S. hybrid stabilization, a built-in ND filter and IR-through night mode. Professional connectivity includes 12G-SDI, 3G-SDI, SFP+ fiber and IP with full NDI, NDI|HX, SRT and RTMP(S), plus RS-422 control and FreeD data output for AR/VR. It weighs roughly 9kg and pans 350 degrees / tilts -30 to +210 degrees."
     }
   ]
 }

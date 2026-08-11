@@ -305,6 +305,42 @@
       "isCustom": false,
       "notes": "Cinema EOS prime PL mount variant (FP), full frame coverage. Source: usa.canon.com.",
       "addedDate": null
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff",
+      "manufacturer": "Canon",
+      "model": "CN-E20-50mm T2.4 L FP",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 20.0,
+      "focalLengthMax": 50.0,
+      "zoomRatio": 2.5,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom wide full-frame cine zoom, PL mount (L FP) variant; same optics as the EF (L F) sibling. Constant T2.4. Source: usa.canon.com.",
+      "addedDate": null
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff",
+      "manufacturer": "Canon",
+      "model": "CN-E45-135mm T2.4 L FP",
+      "series": "CN-E",
+      "generation": "8K",
+      "focalLengthMin": 45.0,
+      "focalLengthMax": 135.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Flex Zoom telephoto full-frame cine zoom, PL mount (L FP) variant; same optics as the EF (L F) sibling. Constant T2.4. Source: usa.canon.com.",
+      "addedDate": null
     }
   ]
 }

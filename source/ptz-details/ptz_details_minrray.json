@@ -358,6 +358,1010 @@
         "RTMP"
       ],
       "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live production with extra reach."
+    },
+    {
+      "id": "minrray-uv420",
+      "manufacturerUrl": "https://www.minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1200,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/ultra-hd-4k-ptz-camera-uv420_0651.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [],
+      "fieldNotes": {},
+      "description": "A 4K PTZ with a 12x optical zoom, AI real-time and zone tracking, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming and broadcast, with SRT and RTMP push for low-latency delivery."
+    },
+    {
+      "id": "minrray-uv470-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in AI dynamic tracking with integrated face and human-shape recognition for automatic framing and follow; no external software required. FreeD position data output for AR/virtual sets.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "description": "A 4K broadcasting PTZ with a 12x optical zoom, 12G/3G-SDI and HDMI output, and AI face and human tracking with automatic framing. Adds FreeD data for AR and virtual sets, a tally light, and optional NDI|HX and Dante AV, targeting broadcast and system integration.",
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv470-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.64,
+      "maxApertureTele": 4.2,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in AI dynamic tracking with integrated face and human-shape recognition for automatic framing and follow; no external software required. FreeD position data output for AR/virtual sets.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "description": "A 4K broadcasting PTZ with a 20x optical zoom, 12G/3G-SDI and HDMI output, and AI face and human tracking with automatic framing. Adds FreeD data for AR and virtual sets, a tally light, and optional NDI|HX and Dante AV, targeting broadcast and system integration.",
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv470-31x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "12G-SDI",
+        "3G-SDI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 210,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 2000,
+      "widthMm": 164,
+      "heightMm": 236,
+      "depthMm": 188,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv470-4k-broadcasting-ptz-camera-145317.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.35,
+      "maxApertureTele": 4.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in AI dynamic tracking with integrated face and human-shape recognition for automatic framing and follow; no external software required. FreeD position data output for AR/virtual sets.",
+      "streamingProtocols": [
+        "NDI|HX3",
+        "RTSP",
+        "RTMP",
+        "SRT"
+      ],
+      "description": "A 4K broadcasting PTZ with a 31x optical zoom, 12G/3G-SDI and HDMI output, and AI face and human tracking with automatic framing. Adds FreeD data for AR and virtual sets, a tally light, and optional NDI|HX and Dante AV, targeting broadcast and system integration.",
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "minrray-uv490",
+      "manufacturerUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 220,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 70,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1700,
+      "widthMm": 144,
+      "heightMm": 159,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/4k-intelligent-dual-lens-auto-tracking-camera_476381.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Dual-lens design: the 12x imaging lens (modeled here) tracks the subject while a fixed panoramic lens detects the wider scene. Adds voice localization and voice tracking; on-camera AI, no external software.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT"
+      ],
+      "trackingDataOut": [],
+      "description": "A 4K dual-lens auto-tracking PTZ: a 12x imaging lens follows the subject while a fixed panoramic lens watches the whole room, with AI plus voice localization for hands-free framing over HDMI, USB and IP.",
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
+      }
+    },
+    {
+      "id": "minrray-uv100t-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": null,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Manual",
+        "Auto",
+        "One-Push",
+        "3000K",
+        "3500K",
+        "4000K",
+        "4500K",
+        "5000K",
+        "5500K",
+        "6000K",
+        "6500K",
+        "7000K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1540,
+      "widthMm": 253,
+      "heightMm": 179,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv100t-education-intelligent-auto-tracking-camera_834187.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in AI auto-tracking for lecturer and student capture; dual-lens design with a fixed panoramic detection camera. On-camera, no external software.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A dual-lens education auto-tracking camera: a 12x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+      }
+    },
+    {
+      "id": "minrray-uv100t-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": null,
+      "tiltRangeDeg": null,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Manual",
+        "Auto",
+        "One-Push",
+        "3000K",
+        "3500K",
+        "4000K",
+        "4500K",
+        "5000K",
+        "5500K",
+        "6000K",
+        "6500K",
+        "7000K"
+      ],
+      "minLux": 0.5,
+      "weightG": 1540,
+      "widthMm": 253,
+      "heightMm": 179,
+      "depthMm": 144,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv100t-education-intelligent-auto-tracking-camera_834187.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in AI auto-tracking for lecturer and student capture; dual-lens design with a fixed panoramic detection camera. On-camera, no external software.",
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A dual-lens education auto-tracking camera: a 20x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
+      "fieldNotes": {
+        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+      }
+    },
+    {
+      "id": "minrray-uv515-3x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 156.8,
+      "heightMm": 112.6,
+      "depthMm": 139.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.7,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "A compact FHD USB PTZ with a 3x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
+      "fieldNotes": {
+        "hFOVWide": "Datasheet 'Viewing Angle' 85.0/34.1 confirmed diagonal against Tier-1 (matches geometric D 85.6); HFOV 77.2/29.9 derived via 16:9 rectilinear (POS-D60), lands on geometric H."
+      }
+    },
+    {
+      "id": "minrray-uv515-10x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "USB"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1000,
+      "widthMm": 156.8,
+      "heightMm": 112.6,
+      "depthMm": 139.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.85,
+      "maxApertureTele": 2.43,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "A compact FHD USB PTZ with a 10x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
+      "fieldNotes": {
+        "hFOVWide": "Datasheet 'Viewing Angle' 66.0/8.8 confirmed horizontal against Tier-1 (matches geometric H 64.0, not diagonal); staged as published HFOV, no conversion (Martijn 2026-08-10)."
+      }
+    },
+    {
+      "id": "minrray-uv540-5x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 250,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1070,
+      "widthMm": 151.6,
+      "heightMm": 154.5,
+      "depthMm": 131.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A flexible FHD PTZ with a 5x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
+      "fieldNotes": {
+        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
+      }
+    },
+    {
+      "id": "minrray-uv540-10x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 250,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 65,
+      "maxTiltSpeedDegS": 35,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1070,
+      "widthMm": 151.6,
+      "heightMm": 154.5,
+      "depthMm": 131.3,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A flexible FHD PTZ with a 10x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
+      "fieldNotes": {
+        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
+      }
+    },
+    {
+      "id": "minrray-uv570-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1150,
+      "widthMm": 181,
+      "heightMm": 115,
+      "depthMm": 149,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv570-series-full-hd-ptz-camera_960723.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A FHD AI PTZ with a 12x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
+      "fieldNotes": {
+        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=4.1-49.2, HFOV 70.3/6.6); primary optic staged here."
+      }
+    },
+    {
+      "id": "minrray-uv570-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": null,
+      "weightG": 1150,
+      "widthMm": 181,
+      "heightMm": 115,
+      "depthMm": 149,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv570-series-full-hd-ptz-camera_960723.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": "Built-in on-camera AI auto-tracking; no external hardware or software required.",
+      "streamingProtocols": [
+        "NDI|HX",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A FHD AI PTZ with a 20x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
+      "fieldNotes": {
+        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=5.1-94.5, HFOV 60/3.5, F1.8-2.9); primary optic staged here."
+      }
+    },
+    {
+      "id": "minrray-uv601-12x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 144,
+      "heightMm": 169,
+      "depthMm": 253.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv601-series-hd-video-conference-camera_697982.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "fieldNotes": {},
+      "description": "A FHD PTZ with a 12x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi."
+    },
+    {
+      "id": "minrray-uv601-20x",
+      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 60,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 30,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1460,
+      "widthMm": 144,
+      "heightMm": 169,
+      "depthMm": 253.5,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/uv601-series-hd-video-conference-camera_697982.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "fieldNotes": {},
+      "description": "A FHD PTZ with a 20x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi."
+    },
+    {
+      "id": "minrray-bc420t",
+      "manufacturerUrl": "https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 60,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1200,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/4k-ultra-hd-ptz-streaming-camera-bc420t_555480.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A 4K streaming PTZ with a 12x optical zoom, laser-rangefinder-assisted autofocus, and HDMI, USB and IP output, built for live streaming.",
+      "fieldNotes": {
+        "minFocalLengthMM": "Focal not published on the BC420T datasheet. Filled from the UV490 imaging lens (f=3.4-40.3), which matches BC420T on every discriminating optical field (HFOV 80.5/7.6, F1.8-3.6, 12x, 1/2.8-inch, 4K 8.51MP): same physical optical block. Approved shared-block derivation, Martijn 2026-08-09."
+      }
+    },
+    {
+      "id": "minrray-bc570",
+      "manufacturerUrl": "https://www.minrraycam.com/live-hd-ptz-camera-bc570.html",
+      "controlProtocols": [
+        "VISCA",
+        "VISCA IP",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "3G-SDI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 100,
+      "maxTiltSpeedDegS": 45,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "One-Push",
+        "Specified Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1150,
+      "widthMm": 115,
+      "heightMm": 149,
+      "depthMm": 181,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.minrraycam.com/upload/6373/live-hd-ptz-camera-bc570_749253.pdf",
+        "https://www.minrraycam.com/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.4,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "description": "A FHD live PTZ with a 12x optical zoom and horizontal/vertical screen switching for social and vertical-format streaming.",
+      "fieldNotes": {}
     }
   ]
 }

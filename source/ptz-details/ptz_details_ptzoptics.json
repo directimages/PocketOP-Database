@@ -622,6 +622,67 @@
         "RTMP"
       ],
       "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
+    },
+    {
+      "id": "ptzoptics-simpltrack3",
+      "manufacturerUrl": "https://ptzoptics.com/simpltrack3/",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 90,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "ATW",
+        "Manual",
+        "One Push",
+        "Outdoor"
+      ],
+      "minLux": 0.5,
+      "weightG": 2590,
+      "widthMm": 243,
+      "heightMm": 163,
+      "depthMm": 157,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://ptzoptics.com/simpltrack3/",
+        "https://ptzoptics.imagerelay.com/share/HC20X-SIMPLTRACK3-Data-Sheet",
+        "https://huddlecamhd.com/simpltrack-3-release/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.55,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": "Dedicated standalone auto-tracking with no external PC. A dual-sensor system pairs the main 20x lens with a wide 86-degree reference lens for stage awareness; AI-assisted motion and facial tracking with auto-framing and zoom, tracking subjects up to about 17 metres.",
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "A 1080p60 auto-tracking PTZ built around a Sony 1/2.8-inch CMOS sensor with a 20x optical zoom (4.7-94mm, F1.6-3.55, 59.5 to 3.0 degree horizontal field of view). Its defining feature is a standalone dual-sensor tracking system that pairs the main zoom lens with a wide 86-degree reference lens for AI-assisted motion and facial auto-tracking and auto-framing, requiring no external PC or operator. It outputs over 3G-SDI, HDMI and USB, streams via NDI|HX2, SRT, RTSP and RTMP(S), supports VISCA/Pelco and ONVIF control, and runs on 802.3af PoE or 12V DC."
     }
   ]
 }

@@ -1396,6 +1396,74 @@
       "maxApertureTele": null,
       "apertureType": "f",
       "hasIS": true
+    },
+    {
+      "id": "canon-cne20-50mm-t2-4-ff-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-f",
+      "weightG": 3300,
+      "lengthMm": 241.3,
+      "frontDiameterMm": 114,
+      "closeFocusM": 0.6,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false,
+      "description": "One of Canon's first full-frame cinema zooms, a constant-T2.4 large-format zoom in the Flex Zoom series. The T-stop stays constant across the range, with an eleven-blade iris, 8K-grade optics and the warm, colour-matched Cinema EOS look, and it is parfocal, holding focus through the zoom. It pairs with the 45-135mm T2.4 as a matched full-frame set, sharing front diameter and gears for fast swaps. The Flex design also allows relay-kit reconfiguration between full-frame and Super 35 coverage.",
+      "sources": {
+        "mount": "B&H 5726C007 / usa.canon.com cn-e20-50mm-t2-4-l-f: EF (L F) variant; split from the combined RF-tagged entry per POS-D09 (Kay 2026-07-16)",
+        "lengthMm": "B&H 5726C007 spec table: 9.5 in = 241.3mm (tier-1)",
+        "weightG": "B&H 5726C007 spec table: 7.28 lb = 3.3kg (tier-1)",
+        "filterType": "B&H 5726C007 spec table: Filter Thread No; Flex Zooms use matte box (tier-1, matches S35 Flex Zoom siblings)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm; carried 46.4 from existing entry, verify spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-f"
+      ]
+    },
+    {
+      "id": "canon-cne45-135mm-t2-4-ff-ef",
+      "lensType": "cine",
+      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-f",
+      "weightG": 3400,
+      "lengthMm": 246.4,
+      "frontDiameterMm": 114,
+      "closeFocusM": 1.0,
+      "introductionYear": 2022,
+      "imageCircleMm": 46.4,
+      "opticalElements": null,
+      "filterType": "matte_box",
+      "filterThreadMm": "none",
+      "isParfocal": true,
+      "hasFocusBreathing": "minimal",
+      "hasFrontRotation": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
+      "maxApertureWide": 2.4,
+      "maxApertureTele": null,
+      "apertureType": "T",
+      "hasIS": false,
+      "description": "The telephoto half of Canon's first full-frame cinema zoom pair, a constant-T2.4 large-format Flex Zoom matched to the 20-50mm T2.4. The aperture stays constant across the range, with an eleven-blade iris, 8K-grade colour-matched optics and a parfocal design that holds focus through the zoom. Shared front diameter and gear positions make swaps with the 20-50 quick, and the Flex design allows relay-kit reconfiguration between formats. It suits full-frame narrative and documentary work needing a bright, consistent zoom.",
+      "sources": {
+        "mount": "B&H 5915C007 / usa.canon.com cn-e45-135mm-t2-4-l-f: EF (L F) variant; split from the combined RF-tagged entry per POS-D09 (Kay 2026-07-16)",
+        "lengthMm": "B&H 5915C007 spec table: 9.7 in = 246.4mm (tier-1)",
+        "weightG": "B&H 5915C007 spec table: 7.5 lb = 3.4kg (tier-1)",
+        "filterType": "B&H 5915C007 spec table: Filter Thread No; Flex Zooms use matte box (tier-1, matches S35 Flex Zoom siblings)",
+        "imageCircleMm": "Canon does not publish exact imageCircleMm; carried 46.4 from existing entry, verify spec sheet"
+      },
+      "webSources": [
+        "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-f"
+      ]
     }
   ]
 }

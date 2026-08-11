@@ -48,6 +48,64 @@
         "RTMP"
       ],
       "description": "Hollyland's first PTZ camera and its move beyond wireless gear into live production, a 4K60 camera built on a large 1/1.8-inch sensor with a 30x zoom for clean footage in dim halls. It pairs AI auto-tracking, with presenter and multi-zone modes, and face-detection auto-exposure with a free NDI|HX3 licence and single-cable PoE+ operation. Aimed at houses of worship, auditoriums and live events where a small team needs professional, hands-free coverage."
+    },
+    {
+      "id": "hollyland-arocam-c2",
+      "manufacturerUrl": "https://www.hollyland.com/product/arocam-c2",
+      "controlProtocols": [
+        "VISCA",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "none",
+      "presetCount": 255,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 35.7,
+      "maxTiltSpeedDegS": 31.5,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Manual",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 142.2,
+      "heightMm": 151.9,
+      "depthMm": 175.8,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.hollyland.com/product/arocam-c2",
+        "https://store.hollyland.com/products/arocam-c2"
+      ],
+      "introductionYear": 2022,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": null,
+      "hasND": null,
+      "ndDetail": null,
+      "fieldNotes": {},
+      "autoTrackingNote": null,
+      "streamingProtocols": [
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [],
+      "description": "A compact 1080p60 PTZ with a 1/2.8-inch CMOS sensor and a genuine 12x optical zoom (3.5-42.3mm, F1.8-2.8, 72.5 to 6.9 degree horizontal field of view). It offers motorized pan/tilt with 255 presets, ToF instantaneous autofocus, and native portrait/vertical output aimed at live streaming, live commerce and webinars. Connectivity is via HDMI and USB-C (UVC) plus a network interface with RTSP and RTMP(S), ONVIF and RS-232 VISCA/Pelco control; there is no SDI, NDI, PoE, built-in subject tracking or FreeD output. It is powered by DC 12V or USB 5V and weighs 1.5kg."
     }
   ]
 }

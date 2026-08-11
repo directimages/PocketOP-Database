@@ -437,6 +437,60 @@
         "FreeD"
       ],
       "description": "A rugged outdoor 4K PTZ with a 1/2.3-inch sensor and a 20x zoom stabilized by four-axis optical IS with a powered mode for telephoto, plus a built-in ND filter and Canon colour science. Weatherproof and broadcast-ready with 4:2:2 10-bit SDI and HDMI output and auto-tracking via the RA-AT001 app, it suits sports venues, news and outdoor production."
+    },
+    {
+      "id": "canon-cr-x500",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/",
+      "controlProtocols": [
+        "Canon NU",
+        "Standard Serial"
+      ],
+      "videoOutputs": [
+        "12G-SDI"
+      ],
+      "poeClass": "none",
+      "presetCount": null,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 80,
+      "maxPanSpeedDegS": 25,
+      "maxTiltSpeedDegS": 20,
+      "hasIR": null,
+      "whiteBalanceModes": [
+        "Auto",
+        "Set A",
+        "Set B",
+        "Daylight",
+        "Tungsten",
+        "Color Temp"
+      ],
+      "minLux": 2.5,
+      "weightG": 17000,
+      "widthMm": 337,
+      "heightMm": 390,
+      "depthMm": 386,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/",
+        "https://www.usa.canon.com/support/p/cr-x500",
+        "https://asia.canon/en/business/cr-x500/specification"
+      ],
+      "introductionYear": 2021,
+      "maxApertureWide": 2.8,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "none",
+      "hasIS": true,
+      "hasND": true,
+      "ndDetail": "Built-in motor-driven ND: Off, 1/4, 1/16, 1/64",
+      "fieldNotes": {
+        "hasIS": "Optical-shift image stabilization, lens-based"
+      },
+      "autoTrackingNote": null,
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "description": "A weatherproof IP55-rated outdoor 4K PTZ built around a 1-inch CMOS sensor and dual DIGIC DV processing, with a 15x optically stabilized zoom (8.3-124.5mm, F2.8-4.5) giving a 73.0 to 5.7 degree horizontal field of view. The salt-resistant housing has a built-in wiper and operates from -15 to +40 Celsius. Video is delivered over 12G-SDI with genlock and the camera is controlled over RS-422 serial using Canon's NU protocol; there is no IP streaming, PoE or auto-tracking. It suits stadiums, outdoor venues and fixed long-range installations."
     }
   ]
 }
