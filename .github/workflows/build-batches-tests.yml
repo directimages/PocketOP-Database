@@ -1,0 +1,39 @@
+name: Build Batches Tests
+
+# Runs tests/test_build_batches.py on macOS and Windows so cross-file shard
+# pooling in build/build_batches.py is verified on both platforms this
+# script is used on, not just the platform CI happens to run on by default.
+# All tests operate on synthetic fixtures under a temporary directory; none
+# of them touch the real vault import pipeline or any real staging data.
+# This file contains no em dashes by project policy.
+
+on:
+  push:
+    paths:
+      - 'build/build_batches.py'
+      - 'tests/**'
+      - '.github/workflows/build-batches-tests.yml'
+  pull_request:
+    paths:
+      - 'build/build_batches.py'
+      - 'tests/**'
+      - '.github/workflows/build-batches-tests.yml'
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-14, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.12'
+
+      - name: Run build_batches.py tests
+        run: python -m unittest discover -s tests -v
