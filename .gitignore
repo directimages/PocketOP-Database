@@ -16,6 +16,10 @@
 build/gap-report.md
 build/__pycache__/
 
+# Python bytecode cache (regenerated, never committed)
+__pycache__/
+*.pyc
+
 # Test fixtures — never committed; Martijn copies to app Resources manually
 mockups/
 
