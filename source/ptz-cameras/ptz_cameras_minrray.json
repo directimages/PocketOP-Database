@@ -126,14 +126,14 @@
       "sensorLabel": "1/2.8 inch",
       "sensorWidthMM": 5.14,
       "sensorHeightMM": 3.84,
-      "minFocalLengthMM": null,
-      "maxFocalLengthMM": null,
+      "minFocalLengthMM": 3.5,
+      "maxFocalLengthMM": 42,
       "hFOVWide": 70.9,
       "hFOVTele": 6.5,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "4K, 1/2.8-inch Sony CMOS 8.5MP, 12x. HFOV explicitly labeled Horizontal on datasheet (6.5 N to 70.9 W). Focal length not published by Minrray; HFOV is the render value. AI real-time + zone tracking. minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html. Current.",
+      "notes": "4K, 1/2.8-inch Sony CMOS 8.5MP, 12x. HFOV explicitly labeled Horizontal on datasheet (6.5 tele to 70.9 wide); this HFOV is the render value. Focal length 3.5 to 42mm (±5%) from Minrray support mail for the UV420B2 output variant, which shares the base 12x optics (42/3.5 = 12x, and back-solving 3.5 and 42mm on the 5.14mm sensor width gives 72.6 and 7.0 degrees, consistent with the datasheet HFOV). The mail's rounded FOV of 8 to 80 degrees is nominal for the B2 variant and is not used as the render value (POS-D01, published datasheet HFOV is authoritative). AI real-time + zone tracking. minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html. Current.",
       "addedDate": "2026-08-11"
     },
     {

@@ -623,6 +623,11 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.13.1 — 2026-08-12
+
+- minrray-uv420: focal length filled, minFocalLengthMM 3.5, maxFocalLengthMM 42, from Minrray support mail for the UV420B2 output variant, which shares the base 12x optics. Datasheet HFOV (70.9/6.5) retained as the render value, unchanged. hFOVWide, hFOVTele, and every other field on this entry unchanged. Closes the null-focalrange gap that kept this entry from loading in the released 1.1.0 app (253/254 to 254/254) without an app update
+- Released as db-v19
+
 ### v1.13.0 — 2026-08-11
 
 - 118 new PTZ camera core entries, born-complete (core plus paired details), across: AVer (31), Lumens (21), Minrray (17), Fomako (12), Bolin (11), Datavideo (9), BirdDog (6), Sony (3), Marshall (3), OBSBOT (1, new brand -- Tail 2), Canon (1), Hollyland (1), Panasonic (1), PTZOptics (1)
