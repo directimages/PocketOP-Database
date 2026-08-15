@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "panasonic-aw-he130",
-      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422",
@@ -58,11 +58,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations."
+      "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations.",
+      "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130"
     },
     {
       "id": "panasonic-aw-he145",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -116,11 +117,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Platinum-line PTZ with a large 1-inch sensor for strong low-light performance and shallower depth of field, natively Full HD with 4K/30p available over HDMI via firmware. It carries built-in ND and optical stabilization, positioned for high-end production where image quality is the priority."
+      "description": "A Platinum-line PTZ with a large 1-inch sensor for strong low-light performance and shallower depth of field, natively Full HD with 4K/30p available over HDMI via firmware. It carries built-in ND and optical stabilization, positioned for high-end production where image quality is the priority.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-he145/spec.html"
     },
     {
       "id": "panasonic-aw-he20",
-      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-232",
@@ -173,11 +175,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor."
+      "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor.",
+      "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20"
     },
     {
       "id": "panasonic-aw-he38",
-      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-232",
@@ -228,11 +231,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture."
+      "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture.",
+      "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
     },
     {
       "id": "panasonic-aw-he40",
-      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-232",
@@ -284,11 +288,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach."
+      "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach.",
+      "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s"
     },
     {
       "id": "panasonic-aw-he42",
-      "manufacturerUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-232",
@@ -340,11 +345,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production."
+      "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production.",
+      "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
     },
     {
       "id": "panasonic-aw-ue100",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -399,11 +405,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Platinum-line 4K PTZ with a 1/2.5-inch sensor and a wide 24x zoom, carrying 12G-SDI, HDMI and IP output with full NDI, NDI|HX and SRT plus FreeD tracking. Built for high-quality live remote and studio production across broadcast, staging, corporate and sports."
+      "description": "A Platinum-line 4K PTZ with a 1/2.5-inch sensor and a wide 24x zoom, carrying 12G-SDI, HDMI and IP output with full NDI, NDI|HX and SRT plus FreeD tracking. Built for high-quality live remote and studio production across broadcast, staging, corporate and sports.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue100/spec.html"
     },
     {
       "id": "panasonic-aw-ue150",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -456,11 +463,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "An earlier Platinum-line 1-inch 4K PTZ built for high-end broadcast and live production, with the large-sensor image quality and system-camera integration that define Panasonic's top tier. Since succeeded by the UE150A."
+      "description": "An earlier Platinum-line 1-inch 4K PTZ built for high-end broadcast and live production, with the large-sensor image quality and system-camera integration that define Panasonic's top tier. Since succeeded by the UE150A.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue150/spec.html"
     },
     {
       "id": "panasonic-aw-ue150a",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -517,11 +525,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Platinum-line 1-inch 4K PTZ, the 2025 successor to the UE150 with improved optical stabilization, an added optical low-pass filter and high-bandwidth NDI. Aimed at high-end broadcast and live production where image quality is mission-critical."
+      "description": "A Platinum-line 1-inch 4K PTZ, the 2025 successor to the UE150 with improved optical stabilization, an added optical low-pass filter and high-bandwidth NDI. Aimed at high-end broadcast and live production where image quality is mission-critical.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html"
     },
     {
       "id": "panasonic-aw-ue160",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -578,11 +587,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "Panasonic's flagship PTZ and the top of its Platinum line, built around a 1-inch 4K MOS sensor with the highest sensitivity in the range and an optical low-pass filter that tames moire against LED walls. It integrates like a system camera, with 12G-SDI, fiber, HDMI and IP output, full NDI, optional SMPTE ST 2110 and FreeD tracking output. Built for high-end broadcast, sports and large-event production."
+      "description": "Panasonic's flagship PTZ and the top of its Platinum line, built around a 1-inch 4K MOS sensor with the highest sensitivity in the range and an optical low-pass filter that tames moire against LED walls. It integrates like a system camera, with 12G-SDI, fiber, HDMI and IP output, full NDI, optional SMPTE ST 2110 and FreeD tracking output. Built for high-end broadcast, sports and large-event production.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue160/spec.html"
     },
     {
       "id": "panasonic-aw-ue20",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422",
@@ -634,11 +644,12 @@
         "SRT",
         "RTMP"
       ],
-      "description": "A compact Pro Series 4K PTZ with a 12x zoom, aimed at streaming small spaces like meeting rooms, boardrooms and classrooms. It shares its lens block with the Full HD HE20, the difference being the 4K sensor."
+      "description": "A compact Pro Series 4K PTZ with a 12x zoom, aimed at streaming small spaces like meeting rooms, boardrooms and classrooms. It shares its lens block with the Full HD HE20, the difference being the 4K sensor.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue20/spec.html"
     },
     {
       "id": "panasonic-aw-ue30",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -687,11 +698,12 @@
         "SRT",
         "RTMP"
       ],
-      "description": "A Zoom-certified Pro Series 4K/30p PTZ with a 20x zoom, built for streaming smaller spaces such as meeting rooms, boardrooms and classrooms. A straightforward entry into 4K remote capture."
+      "description": "A Zoom-certified Pro Series 4K/30p PTZ with a 20x zoom, built for streaming smaller spaces such as meeting rooms, boardrooms and classrooms. A straightforward entry into 4K remote capture.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
     },
     {
       "id": "panasonic-aw-ue40",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -741,11 +753,12 @@
         "SRT",
         "RTMP"
       ],
-      "description": "A Premium-line 4K/30p PTZ, the quiet and compact sibling of the UE50, with the same SRT streaming and optical stabilization. Suited to lectures, corporate events and worship services."
+      "description": "A Premium-line 4K/30p PTZ, the quiet and compact sibling of the UE50, with the same SRT streaming and optical stabilization. Suited to lectures, corporate events and worship services.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
     },
     {
       "id": "panasonic-aw-ue50",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -796,11 +809,12 @@
         "SRT",
         "RTMP"
       ],
-      "description": "A Premium-line 4K/30p PTZ in a compact, ultra-quiet body with SRT streaming and optical stabilization, easy to install discreetly. Geared toward streaming lectures, corporate events and worship services."
+      "description": "A Premium-line 4K/30p PTZ in a compact, ultra-quiet body with SRT streaming and optical stabilization, easy to install discreetly. Geared toward streaming lectures, corporate events and worship services.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html"
     },
     {
       "id": "panasonic-aw-ue80",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic AW IP",
         "RS-422"
@@ -854,11 +868,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Premium-line 4K/60p PTZ with a 24x zoom and professional IP connectivity, including high-bandwidth NDI, NDI|HX and SRT, plus FreeD support for AR and VR workflows. It adds entry-level built-in AI auto-tracking that follows a single presenter without extra hardware, aimed at lectures, corporate events and worship services. Note that in NDI|HX mode the UE80 outputs Full HD only; 4K runs over SDI, HDMI or full-bandwidth NDI."
+      "description": "A Premium-line 4K/60p PTZ with a 24x zoom and professional IP connectivity, including high-bandwidth NDI, NDI|HX and SRT, plus FreeD support for AR and VR workflows. It adds entry-level built-in AI auto-tracking that follows a single presenter without extra hardware, aimed at lectures, corporate events and worship services. Note that in NDI|HX mode the UE80 outputs Full HD only; 4K runs over SDI, HDMI or full-bandwidth NDI.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue80/spec.html"
     },
     {
       "id": "panasonic-aw-ur100",
-      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
         "Panasonic Serial (RS-422)",
         "Standard IP"
@@ -919,7 +934,8 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A rugged IP65-rated outdoor 4K/60p PTZ with a 1/2.5-inch MOS sensor and a 24x optical zoom (4.12-98.9mm, F1.8-4.0, 74.1 to 3.3 degree horizontal field of view), extendable via i.Zoom. Built for harsh environments (-15 to +45 Celsius), it combines optical 2-axis OIS with Panasonic's D.I.S.S. hybrid stabilization, a built-in ND filter and IR-through night mode. Professional connectivity includes 12G-SDI, 3G-SDI, SFP+ fiber and IP with full NDI, NDI|HX, SRT and RTMP(S), plus RS-422 control and FreeD data output for AR/VR. It weighs roughly 9kg and pans 350 degrees / tilts -30 to +210 degrees."
+      "description": "A rugged IP65-rated outdoor 4K/60p PTZ with a 1/2.5-inch MOS sensor and a 24x optical zoom (4.12-98.9mm, F1.8-4.0, 74.1 to 3.3 degree horizontal field of view), extendable via i.Zoom. Built for harsh environments (-15 to +45 Celsius), it combines optical 2-axis OIS with Panasonic's D.I.S.S. hybrid stabilization, a built-in ND filter and IR-through night mode. Professional connectivity includes 12G-SDI, 3G-SDI, SFP+ fiber and IP with full NDI, NDI|HX, SRT and RTMP(S), plus RS-422 control and FreeD data output for AR/VR. It weighs roughly 9kg and pans 350 degrees / tilts -30 to +210 degrees.",
+      "productUrl": "https://pro-av.panasonic.net/en/products/aw-ur100/spec.html"
     }
   ]
 }

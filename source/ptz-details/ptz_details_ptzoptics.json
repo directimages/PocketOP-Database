@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "ptzoptics-pt12x-4k-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -51,11 +51,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 12x zoom favours wider rooms and medium throws."
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 12x zoom favours wider rooms and medium throws.",
+      "productUrl": "https://ptzoptics.com/move-4k/"
     },
     {
       "id": "ptzoptics-pt12x-link-4k",
-      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -105,11 +106,12 @@
         "RTMP",
         "Dante AV-H"
       ],
-      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
+      "productUrl": "https://ptzoptics.com/move-4k/"
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
-      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -154,11 +156,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 12x zoom favours wider rooms and medium throws, the everyday reach in the SDI-G2 line."
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 12x zoom favours wider rooms and medium throws, the everyday reach in the SDI-G2 line.",
+      "productUrl": "https://ptzoptics.com/sdi/"
     },
     {
       "id": "ptzoptics-pt12x-se-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -207,11 +210,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 12x zoom favours wider rooms and medium throws."
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 12x zoom favours wider rooms and medium throws.",
+      "productUrl": "https://ptzoptics.com/move-se/"
     },
     {
       "id": "ptzoptics-pt20x-4k-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -260,11 +264,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 20x zoom suits mid to large venues, balancing reach against wide coverage.",
+      "productUrl": "https://ptzoptics.com/move-4k/"
     },
     {
       "id": "ptzoptics-pt20x-link-4k",
-      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -314,11 +319,12 @@
         "RTMP",
         "Dante AV-H"
       ],
-      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
+      "productUrl": "https://ptzoptics.com/move-4k/"
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
-      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -363,11 +369,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 20x zoom suits mid to large venues, trading some wide coverage for extra reach."
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 20x zoom suits mid to large venues, trading some wide coverage for extra reach.",
+      "productUrl": "https://ptzoptics.com/sdi/"
     },
     {
       "id": "ptzoptics-pt20x-se-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -416,11 +423,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 20x zoom suits mid to large venues, balancing reach against wide coverage."
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 20x zoom suits mid to large venues, balancing reach against wide coverage.",
+      "productUrl": "https://ptzoptics.com/move-se/"
     },
     {
       "id": "ptzoptics-pt30x-4k-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -469,11 +477,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
+      "description": "The 4K tier of PTZOptics' Move line, with built-in auto-tracking and Presenter Lock that follow a chosen presenter without an external computer, native NDI|HX3, and SDI, HDMI, USB and IP output for streaming and multi-camera production. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject.",
+      "productUrl": "https://ptzoptics.com/move-4k/"
     },
     {
       "id": "ptzoptics-pt30x-link-4k",
-      "manufacturerUrl": "https://ptzoptics.com/link-4k/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D RS-232",
@@ -519,11 +528,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60."
+      "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
+      "productUrl": "https://ptzoptics.com/link-4k/"
     },
     {
       "id": "ptzoptics-pt30x-sdi-g2",
-      "manufacturerUrl": "https://ptzoptics.com/sdi/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -568,11 +578,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject. Note it cannot run 1080p60 over SDI/HDMI and the IP stream simultaneously; one output must drop to 1080p30 or lower."
+      "description": "A Generation 2 HD PTZ built around an SDI backbone, with simultaneous 3G-SDI, HDMI and IP streaming and an NDI upgrade path, suited to live streaming, recording and conferencing where an SDI signal chain is the anchor. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject. Note it cannot run 1080p60 over SDI/HDMI and the IP stream simultaneously; one output must drop to 1080p30 or lower.",
+      "productUrl": "https://ptzoptics.com/sdi/"
     },
     {
       "id": "ptzoptics-pt30x-se-g3",
-      "manufacturerUrl": "https://ptzoptics.com/move-se/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -621,11 +632,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject."
+      "description": "The HD tier of PTZOptics' Move line, bringing the same built-in auto-tracking and Presenter Lock to a 1080p camera at a lower entry point, with SDI, HDMI, USB-C and IP output and NDI|HX available as a free firmware upgrade. The 30x zoom is the long-reach option for large venues where the camera sits far from the subject.",
+      "productUrl": "https://ptzoptics.com/move-se/"
     },
     {
       "id": "ptzoptics-simpltrack3",
-      "manufacturerUrl": "https://ptzoptics.com/simpltrack3/",
+      "manufacturerUrl": "https://www.ptzoptics.com/ptz-cameras",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -682,7 +694,8 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "A 1080p60 auto-tracking PTZ built around a Sony 1/2.8-inch CMOS sensor with a 20x optical zoom (4.7-94mm, F1.6-3.55, 59.5 to 3.0 degree horizontal field of view). Its defining feature is a standalone dual-sensor tracking system that pairs the main zoom lens with a wide 86-degree reference lens for AI-assisted motion and facial auto-tracking and auto-framing, requiring no external PC or operator. It outputs over 3G-SDI, HDMI and USB, streams via NDI|HX2, SRT, RTSP and RTMP(S), supports VISCA/Pelco and ONVIF control, and runs on 802.3af PoE or 12V DC."
+      "description": "A 1080p60 auto-tracking PTZ built around a Sony 1/2.8-inch CMOS sensor with a 20x optical zoom (4.7-94mm, F1.6-3.55, 59.5 to 3.0 degree horizontal field of view). Its defining feature is a standalone dual-sensor tracking system that pairs the main zoom lens with a wide 86-degree reference lens for AI-assisted motion and facial auto-tracking and auto-framing, requiring no external PC or operator. It outputs over 3G-SDI, HDMI and USB, streams via NDI|HX2, SRT, RTSP and RTMP(S), supports VISCA/Pelco and ONVIF control, and runs on 802.3af PoE or 12V DC.",
+      "productUrl": "https://ptzoptics.com/simpltrack3/"
     }
   ]
 }

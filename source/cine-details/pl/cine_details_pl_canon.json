@@ -3,7 +3,7 @@
     {
       "id": "canon-cn10x25-ias-s-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cine-servo-25-250mm-t2-95-3-95-pl",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3060,
       "lengthMm": 274.1,
       "frontDiameterMm": 114,
@@ -33,12 +33,13 @@
       "maxApertureWide": 2.95,
       "maxApertureTele": 3.95,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cine-servo-25-250mm-t2-95-3-95-pl"
     },
     {
       "id": "canon-cn20x50-ias-h-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl450.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 6600,
       "lengthMm": 405.2,
       "frontDiameterMm": 136,
@@ -71,12 +72,13 @@
       "maxApertureWide": 5.0,
       "maxApertureTele": 8.9,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl450.html"
     },
     {
       "id": "canon-cn30x40-ias-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 6600,
       "lengthMm": 405.2,
       "frontDiameterMm": 136,
@@ -116,12 +118,13 @@
       "maxApertureWide": 5.0,
       "maxApertureTele": 10.8,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl"
     },
     {
       "id": "canon-cn5x11-ias-t-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 2920,
       "lengthMm": 269.0,
       "frontDiameterMm": 114,
@@ -152,12 +155,13 @@
       "maxApertureWide": 2.95,
       "maxApertureTele": 3.95,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product"
     },
     {
       "id": "canon-cn7x17-kas-s-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl449.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 2900,
       "lengthMm": 254.9,
       "frontDiameterMm": 114,
@@ -186,12 +190,13 @@
       "maxApertureWide": 2.95,
       "maxApertureTele": 3.9,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl449.html"
     },
     {
       "id": "canon-cn7x17-kas-t-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cine-servo-17-120mm-t2-95-3-9-pl",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3110,
       "lengthMm": 286.9,
       "frontDiameterMm": 114,
@@ -219,12 +224,13 @@
       "maxApertureWide": 2.95,
       "maxApertureTele": 3.9,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cine-servo-17-120mm-t2-95-3-9-pl"
     },
     {
       "id": "canon-cn8x15-ias-s-p1",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl520.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3400,
       "lengthMm": 286.9,
       "frontDiameterMm": 114,
@@ -254,12 +260,13 @@
       "maxApertureWide": 2.95,
       "maxApertureTele": 3.95,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl520.html"
     },
     {
       "id": "canon-cne135mm-t2-2-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl447.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1400,
       "lengthMm": 115.6,
       "frontDiameterMm": 114,
@@ -298,12 +305,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl447.html"
     },
     {
       "id": "canon-cne14-35mm-t1-7",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3400,
       "lengthMm": 233.3,
       "frontDiameterMm": 114,
@@ -331,12 +339,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s"
     },
     {
       "id": "canon-cne14mm-t3-1-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl446.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1200,
       "lengthMm": 94.0,
       "frontDiameterMm": 114,
@@ -375,12 +384,13 @@
       "maxApertureWide": 3.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl446.html"
     },
     {
       "id": "canon-cne15-5-47mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl445.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 2200,
       "lengthMm": 214.0,
       "frontDiameterMm": 114,
@@ -407,12 +417,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl445.html"
     },
     {
       "id": "canon-cne24mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl441.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1200,
       "lengthMm": 101.5,
       "frontDiameterMm": 114,
@@ -451,12 +462,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl441.html"
     },
     {
       "id": "canon-cne30-105mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl444.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 2200,
       "lengthMm": 210.0,
       "frontDiameterMm": 114,
@@ -483,12 +495,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl444.html"
     },
     {
       "id": "canon-cne31-5-95mm-t1-7",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-sp",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3500,
       "lengthMm": 238.4,
       "frontDiameterMm": 114,
@@ -515,12 +528,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-sp"
     },
     {
       "id": "canon-cne35mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl448.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1100,
       "lengthMm": 101.5,
       "frontDiameterMm": 114,
@@ -559,12 +573,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl448.html"
     },
     {
       "id": "canon-cne50mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl442.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1100,
       "lengthMm": 101.5,
       "frontDiameterMm": 114,
@@ -603,12 +618,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl442.html"
     },
     {
       "id": "canon-cne85mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://global.canon/en/c-museum/product/cesl443.html",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 1300,
       "lengthMm": 101.5,
       "frontDiameterMm": 114,
@@ -647,12 +663,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://global.canon/en/c-museum/product/cesl443.html"
     },
     {
       "id": "canon-cne20-50mm-t2-4-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3300,
       "lengthMm": 241.3,
       "frontDiameterMm": 114,
@@ -678,12 +695,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp"
     },
     {
       "id": "canon-cne45-135mm-t2-4-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 3400,
       "lengthMm": 246.4,
       "frontDiameterMm": 114,
@@ -710,7 +728,8 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp"
     }
   ]
 }

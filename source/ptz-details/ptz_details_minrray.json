@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "minrray-uv430e0",
-      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -50,11 +50,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a 12x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and conferencing, with NDI|HX3 and Dante AV-H available as options."
+      "description": "A 4K AI PTZ with a 12x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and conferencing, with NDI|HX3 and Dante AV-H available as options.",
+      "productUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html"
     },
     {
       "id": "minrray-uv430e2",
-      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -102,11 +103,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a long 25x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and larger-venue production, with NDI|HX3 and Dante AV-H available as options."
+      "description": "A 4K AI PTZ with a long 25x zoom and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and larger-venue production, with NDI|HX3 and Dante AV-H available as options.",
+      "productUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html"
     },
     {
       "id": "minrray-uv430e3",
-      "manufacturerUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -154,11 +156,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a very long 31x zoom for reach across large venues and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and broadcast, with NDI|HX3 and Dante AV-H available as options."
+      "description": "A 4K AI PTZ with a very long 31x zoom for reach across large venues and AI auto-tracking that follows a presenter hands-free using presenter and zone modes, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming, education and broadcast, with NDI|HX3 and Dante AV-H available as options.",
+      "productUrl": "https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html"
     },
     {
       "id": "minrray-uv510e0",
-      "manufacturerUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -204,11 +207,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ built on a 1/2.8-inch sensor with a 12x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. A value option for A/V broadcasting, conferencing and live streaming."
+      "description": "A Full HD PTZ built on a 1/2.8-inch sensor with a 12x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. A value option for A/V broadcasting, conferencing and live streaming.",
+      "productUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv510e2",
-      "manufacturerUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -254,11 +258,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. Suited to A/V broadcasting, conferencing and live production that needs extra reach."
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom, outputting 1080p60 over HDMI, SDI, USB and IP with H.264/H.265 streaming. Suited to A/V broadcasting, conferencing and live production that needs extra reach.",
+      "productUrl": "https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv950e0",
-      "manufacturerUrl": "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -305,11 +310,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 12x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live streaming."
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 12x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live streaming.",
+      "productUrl": "https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv950e2",
-      "manufacturerUrl": "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -357,11 +363,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live production with extra reach."
+      "description": "A Full HD PTZ on a 1/2.8-inch sensor with a 20x zoom and a wide-dynamic-range sensor for even exposure in high-contrast light, outputting 1080p60 over HDMI, SDI, USB and IP. A value camera for broadcasting, conferencing and live production with extra reach.",
+      "productUrl": "https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv420",
-      "manufacturerUrl": "https://www.minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -416,11 +423,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A 4K PTZ with a 12x optical zoom, AI real-time and zone tracking, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming and broadcast, with SRT and RTMP push for low-latency delivery."
+      "description": "A 4K PTZ with a 12x optical zoom, AI real-time and zone tracking, outputting UHD over HDMI, SDI, USB and IP. Built for live streaming and broadcast, with SRT and RTMP push for low-latency delivery.",
+      "productUrl": "https://www.minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html"
     },
     {
       "id": "minrray-uv470-12x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -478,11 +486,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "fieldNotes": {}
+      "fieldNotes": {},
+      "productUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html"
     },
     {
       "id": "minrray-uv470-20x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -540,11 +549,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "fieldNotes": {}
+      "fieldNotes": {},
+      "productUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html"
     },
     {
       "id": "minrray-uv470-31x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -602,11 +612,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "fieldNotes": {}
+      "fieldNotes": {},
+      "productUrl": "https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html"
     },
     {
       "id": "minrray-uv490",
-      "manufacturerUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -662,11 +673,12 @@
       "description": "A 4K dual-lens auto-tracking PTZ: a 12x imaging lens follows the subject while a fixed panoramic lens watches the whole room, with AI plus voice localization for hands-free framing over HDMI, USB and IP.",
       "fieldNotes": {
         "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html"
     },
     {
       "id": "minrray-uv100t-12x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -728,11 +740,12 @@
       "description": "A dual-lens education auto-tracking camera: a 12x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
         "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },
     {
       "id": "minrray-uv100t-20x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -794,11 +807,12 @@
       "description": "A dual-lens education auto-tracking camera: a 20x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
         "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },
     {
       "id": "minrray-uv515-3x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -846,11 +860,12 @@
       "description": "A compact FHD USB PTZ with a 3x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
       "fieldNotes": {
         "hFOVWide": "Datasheet 'Viewing Angle' 85.0/34.1 confirmed diagonal against Tier-1 (matches geometric D 85.6); HFOV 77.2/29.9 derived via 16:9 rectilinear (POS-D60), lands on geometric H."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv515-10x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -898,11 +913,12 @@
       "description": "A compact FHD USB PTZ with a 10x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
       "fieldNotes": {
         "hFOVWide": "Datasheet 'Viewing Angle' 66.0/8.8 confirmed horizontal against Tier-1 (matches geometric H 64.0, not diagonal); staged as published HFOV, no conversion (Martijn 2026-08-10)."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv540-5x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -955,11 +971,12 @@
       "description": "A flexible FHD PTZ with a 5x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
       "fieldNotes": {
         "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv540-10x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -1012,11 +1029,12 @@
       "description": "A flexible FHD PTZ with a 10x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
       "fieldNotes": {
         "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv570-12x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1072,11 +1090,12 @@
       "description": "A FHD AI PTZ with a 12x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
       "fieldNotes": {
         "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=4.1-49.2, HFOV 70.3/6.6); primary optic staged here."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv570-20x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1132,11 +1151,12 @@
       "description": "A FHD AI PTZ with a 20x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
       "fieldNotes": {
         "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=5.1-94.5, HFOV 60/3.5, F1.8-2.9); primary optic staged here."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html"
     },
     {
       "id": "minrray-uv601-12x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1189,11 +1209,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A FHD PTZ with a 12x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi."
+      "description": "A FHD PTZ with a 12x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi.",
+      "productUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html"
     },
     {
       "id": "minrray-uv601-20x",
-      "manufacturerUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1246,11 +1267,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A FHD PTZ with a 20x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi."
+      "description": "A FHD PTZ with a 20x optical zoom and HDMI/SDI/USB output, marketed for video conferencing and streaming, with PoE and optional 5G-WiFi.",
+      "productUrl": "https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html"
     },
     {
       "id": "minrray-bc420t",
-      "manufacturerUrl": "https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1304,11 +1326,12 @@
       "description": "A 4K streaming PTZ with a 12x optical zoom, laser-rangefinder-assisted autofocus, and HDMI, USB and IP output, built for live streaming.",
       "fieldNotes": {
         "minFocalLengthMM": "Focal not published on the BC420T datasheet. Filled from the UV490 imaging lens (f=3.4-40.3), which matches BC420T on every discriminating optical field (HFOV 80.5/7.6, F1.8-3.6, 12x, 1/2.8-inch, 4K 8.51MP): same physical optical block. Approved shared-block derivation, Martijn 2026-08-09."
-      }
+      },
+      "productUrl": "https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html"
     },
     {
       "id": "minrray-bc570",
-      "manufacturerUrl": "https://www.minrraycam.com/live-hd-ptz-camera-bc570.html",
+      "manufacturerUrl": "https://www.minrraycam.com/products.html",
       "controlProtocols": [
         "VISCA",
         "VISCA IP",
@@ -1361,7 +1384,8 @@
       ],
       "trackingDataOut": [],
       "description": "A FHD live PTZ with a 12x optical zoom and horizontal/vertical screen switching for social and vertical-format streaming.",
-      "fieldNotes": {}
+      "fieldNotes": {},
+      "productUrl": "https://www.minrraycam.com/live-hd-ptz-camera-bc570.html"
     }
   ]
 }

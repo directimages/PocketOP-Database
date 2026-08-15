@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "fomako-fmk12uh",
-      "manufacturerUrl": "https://www.fomako.net/",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -47,11 +47,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A compact Full HD NDI PTZ with a 12x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget wide-room option for church, education and live streaming."
+      "description": "A compact Full HD NDI PTZ with a 12x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget wide-room option for church, education and live streaming.",
+      "productUrl": "https://www.fomako.net/"
     },
     {
       "id": "fomako-fmk20uh",
-      "manufacturerUrl": "https://www.fomako.net/product/FMK20UH-NDI.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -97,11 +98,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD NDI PTZ with a 20x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget option for church, education and live streaming that needs more reach."
+      "description": "A Full HD NDI PTZ with a 20x zoom, NDI|HX3 certified and carrying Gen 3 AI auto-tracking, with SDI, HDMI, USB and IP output. A budget option for church, education and live streaming that needs more reach.",
+      "productUrl": "https://www.fomako.net/product/FMK20UH-NDI.html"
     },
     {
       "id": "fomako-k20",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -147,11 +149,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An affordable Full HD PTZ with a 20x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value option for church, education and streaming that can move to NDI later."
+      "description": "An affordable Full HD PTZ with a 20x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value option for church, education and streaming that can move to NDI later.",
+      "productUrl": "https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-k30",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -197,11 +200,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An affordable Full HD PTZ with a long 30x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value reach option for church, education and streaming that can add NDI later."
+      "description": "An affordable Full HD PTZ with a long 30x zoom and AI auto-tracking, built HDMI-first with SDI, USB and IP output and NDI available as a paid upgrade. A value reach option for church, education and streaming that can add NDI later.",
+      "productUrl": "https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html"
     },
     {
       "id": "fomako-k30ns",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -248,11 +252,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K NDI PTZ with a long 30x zoom, NDI 6 and NDI|HX3 support and Gen 3 AI auto-tracking, outputting 4K over SDI, HDMI, USB and IP. Fomako's long-reach 4K option for church, education and live production."
+      "description": "A 4K NDI PTZ with a long 30x zoom, NDI 6 and NDI|HX3 support and Gen 3 AI auto-tracking, outputting 4K over SDI, HDMI, USB and IP. Fomako's long-reach 4K option for church, education and live production.",
+      "productUrl": "https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html"
     },
     {
       "id": "fomako-k600n",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -299,11 +304,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K NDI PTZ with a 20x zoom and a 1/1.8-inch UHD sensor, NDI|HX3 certified with 4K60 output and Gen 3 AI auto-tracking across SDI, HDMI, USB and IP. Built for church, live studio and larger-venue streaming in 4K."
+      "description": "A 4K NDI PTZ with a 20x zoom and a 1/1.8-inch UHD sensor, NDI|HX3 certified with 4K60 output and Gen 3 AI auto-tracking across SDI, HDMI, USB and IP. Built for church, live studio and larger-venue streaming in 4K.",
+      "productUrl": "https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-k820",
-      "manufacturerUrl": "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -350,11 +356,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K PTZ with a 1/1.8-inch UHD sensor and a 20x zoom, an onboard LCD and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Aimed at church, studio and large-venue production, with NDI available as an upgrade."
+      "description": "A 4K PTZ with a 1/1.8-inch UHD sensor and a 20x zoom, an onboard LCD and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Aimed at church, studio and large-venue production, with NDI available as an upgrade.",
+      "productUrl": "https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html"
     },
     {
       "id": "fomako-k820n",
-      "manufacturerUrl": "https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -403,11 +410,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K NDI PTZ built on a 1/1.8-inch UHD sensor with a 20x zoom, an onboard LCD, NDI|HX3 with the license included and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Built for 4K church streaming, studio recording and large events on an NDI backbone."
+      "description": "A 4K NDI PTZ built on a 1/1.8-inch UHD sensor with a 20x zoom, an onboard LCD, NDI|HX3 with the license included and Gen 3 AI auto-tracking, outputting 4K over HDMI, SDI, USB and IP. Built for 4K church streaming, studio recording and large events on an NDI backbone.",
+      "productUrl": "https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html"
     },
     {
       "id": "fomako-kn20",
-      "manufacturerUrl": "https://www.fomako.net/",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -454,11 +462,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An affordable Full HD NDI PTZ with a 20x zoom and built-in NDI that needs no extra license, plus AI auto-tracking to follow a presenter hands-free. Built for church, education and live-streaming setups on a budget, with simultaneous SDI, HDMI, USB and IP output."
+      "description": "An affordable Full HD NDI PTZ with a 20x zoom and built-in NDI that needs no extra license, plus AI auto-tracking to follow a presenter hands-free. Built for church, education and live-streaming setups on a budget, with simultaneous SDI, HDMI, USB and IP output.",
+      "productUrl": "https://www.fomako.net/"
     },
     {
       "id": "fomako-kn20a",
-      "manufacturerUrl": "https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -505,11 +514,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 20x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 20x line, aimed at church, education and multi-camera live streaming."
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 20x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 20x line, aimed at church, education and multi-camera live streaming.",
+      "productUrl": "https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html"
     },
     {
       "id": "fomako-kn30",
-      "manufacturerUrl": "https://www.fomako.net/",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -556,11 +566,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An affordable Full HD NDI PTZ with a long 30x zoom and built-in NDI that needs no extra license, plus AI auto-tracking for hands-free presenter following. Built for church, education and streaming in larger rooms, with SDI, HDMI, USB and IP output."
+      "description": "An affordable Full HD NDI PTZ with a long 30x zoom and built-in NDI that needs no extra license, plus AI auto-tracking for hands-free presenter following. Built for church, education and streaming in larger rooms, with SDI, HDMI, USB and IP output.",
+      "productUrl": "https://www.fomako.net/"
     },
     {
       "id": "fomako-kn30a",
-      "manufacturerUrl": "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -607,11 +618,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 30x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 30x line, for church, education and multi-camera streaming in larger venues."
+      "description": "A Full HD NDI PTZ on Fomako's X300 platform, NDI|HX3 certified with a 30x zoom and Gen 3 AI auto-tracking, outputting SDI, HDMI, USB and IP at once. The Pro version of the 30x line, for church, education and multi-camera streaming in larger venues.",
+      "productUrl": "https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html"
     },
     {
       "id": "fomako-fmk12uh-pro",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk12uh%20pro%2820x%29-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -659,11 +671,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A Full HD PTZ on Fomako's newer 20x module with built-in AI human tracking, output over HDMI, USB and IP. A budget wide-to-tele option for church, studio and education live streaming."
+      "description": "A Full HD PTZ on Fomako's newer 20x module with built-in AI human tracking, output over HDMI, USB and IP. A budget wide-to-tele option for church, studio and education live streaming.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk12uh%20pro%2820x%29-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-fmk20uh-ndi",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk20uh-ndi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -712,11 +725,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "The NDI edition of Fomako's 20x Full HD PTZ, NDI|HX3 certified with built-in AI human tracking and simultaneous HDMI, USB and IP output. A budget NDI option for church, studio and education."
+      "description": "The NDI edition of Fomako's 20x Full HD PTZ, NDI|HX3 certified with built-in AI human tracking and simultaneous HDMI, USB and IP output. A budget NDI option for church, studio and education.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk20uh-ndi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-fmk30uh",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30uh-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -764,11 +778,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A long-reach Full HD PTZ with a 30x zoom and built-in AI human tracking, output over HDMI, USB and IP. A budget option for church, education and streaming in larger rooms."
+      "description": "A long-reach Full HD PTZ with a 30x zoom and built-in AI human tracking, output over HDMI, USB and IP. A budget option for church, education and streaming in larger rooms.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk30uh-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
     },
     {
       "id": "fomako-fmk30uh-ndi",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30uh-ndi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -817,11 +832,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "The NDI edition of Fomako's 30x Full HD PTZ, NDI|HX3 certified with built-in AI human tracking and simultaneous HDMI, USB and IP output. A budget long-reach NDI option for church and education."
+      "description": "The NDI edition of Fomako's 30x Full HD PTZ, NDI|HX3 certified with built-in AI human tracking and simultaneous HDMI, USB and IP output. A budget long-reach NDI option for church and education.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk30uh-ndi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
     },
     {
       "id": "fomako-k20uh",
-      "manufacturerUrl": "https://www.fomako.net/product/K20UH-4K-PTZ-Camera.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -869,11 +885,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A 4K PTZ on a 1/2.8-inch Sony UHD sensor with a 20x zoom and built-in AI human tracking, output over HDMI, USB and IP, with NDI as an optional upgrade. A value 4K option for church and education."
+      "description": "A 4K PTZ on a 1/2.8-inch Sony UHD sensor with a 20x zoom and built-in AI human tracking, output over HDMI, USB and IP, with NDI as an optional upgrade. A value 4K option for church and education.",
+      "productUrl": "https://www.fomako.net/product/K20UH-4K-PTZ-Camera.html"
     },
     {
       "id": "fomako-k20ns",
-      "manufacturerUrl": "https://www.fomako.net/",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -923,11 +940,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A 4K NDI PTZ with a 1/2.8-inch Sony UHD sensor and a 20x zoom, NDI 6 and NDI|HX3 certified with built-in AI human tracking, outputting 4K over SDI, HDMI, USB and IP. A value 4K NDI option for church, education and live production."
+      "description": "A 4K NDI PTZ with a 1/2.8-inch Sony UHD sensor and a 20x zoom, NDI 6 and NDI|HX3 certified with built-in AI human tracking, outputting 4K over SDI, HDMI, USB and IP. A value 4K NDI option for church, education and live production.",
+      "productUrl": "https://www.fomako.net/"
     },
     {
       "id": "fomako-fmk20sdi-pro",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk20sdi-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -975,11 +993,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A Full HD SDI-first PTZ on Fomako's X300 platform with a 20x zoom, an OLED status display and simultaneous 3G-SDI, HDMI, USB and IP output. AI Auto-Tracking Gen 3 is a free firmware feature; NDI is available as an upgrade. Aimed at studios, theatres and multi-camera live events."
+      "description": "A Full HD SDI-first PTZ on Fomako's X300 platform with a 20x zoom, an OLED status display and simultaneous 3G-SDI, HDMI, USB and IP output. AI Auto-Tracking Gen 3 is a free firmware feature; NDI is available as an upgrade. Aimed at studios, theatres and multi-camera live events.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk20sdi-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-fmk30sdi-pro",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-fmk30sdi-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1027,11 +1046,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A long-reach Full HD SDI-first PTZ on Fomako's X300 platform with a 30x zoom, an OLED status display and simultaneous 3G-SDI, HDMI, USB and IP output. AI Auto-Tracking Gen 3 is a free firmware feature; NDI is available as an upgrade. Aimed at studios, theatres and multi-camera live events."
+      "description": "A long-reach Full HD SDI-first PTZ on Fomako's X300 platform with a 30x zoom, an OLED status display and simultaneous 3G-SDI, HDMI, USB and IP output. AI Auto-Tracking Gen 3 is a free firmware feature; NDI is available as an upgrade. Aimed at studios, theatres and multi-camera live events.",
+      "productUrl": "https://www.fomako.net/product/fomako-fmk30sdi-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html"
     },
     {
       "id": "fomako-k600nw",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k600nw-ndi-camera-4k-60fps-20x-optical-zoom-white.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1080,11 +1100,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "The white, OLED-equipped edition of Fomako's K600N 4K60 NDI PTZ: a 1/2.8-inch UHD sensor with a 20x zoom, NDI HX2/HX3 and built-in AI human tracking, output over HDMI 2.0, SDI, USB and IP. Built for lecture capture, webcasts and enterprise conferencing."
+      "description": "The white, OLED-equipped edition of Fomako's K600N 4K60 NDI PTZ: a 1/2.8-inch UHD sensor with a 20x zoom, NDI HX2/HX3 and built-in AI human tracking, output over HDMI 2.0, SDI, USB and IP. Built for lecture capture, webcasts and enterprise conferencing.",
+      "productUrl": "https://www.fomako.net/product/fomako-k600nw-ndi-camera-4k-60fps-20x-optical-zoom-white.html"
     },
     {
       "id": "fomako-k630n",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k630n-ndi-camera-4k-60fps-30x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1133,11 +1154,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A long-reach 4K60 NDI PTZ on a 1/2.8-inch UHD sensor with a 30x zoom, NDI HX2/HX3 and built-in AI human tracking, output over HDMI 2.0, SDI, USB and IP. Built for lecture capture, webcasts and enterprise conferencing in larger rooms."
+      "description": "A long-reach 4K60 NDI PTZ on a 1/2.8-inch UHD sensor with a 30x zoom, NDI HX2/HX3 and built-in AI human tracking, output over HDMI 2.0, SDI, USB and IP. Built for lecture capture, webcasts and enterprise conferencing in larger rooms.",
+      "productUrl": "https://www.fomako.net/product/fomako-k630n-ndi-camera-4k-60fps-30x-optical-zoom.html"
     },
     {
       "id": "fomako-k800n",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k800n-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1186,11 +1208,12 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "A 4K60 NDI PTZ with a 1/2.8-inch UHD sensor and a 20x zoom, NDI 6 and NDI|HX3 with built-in AI human tracking, output over SDI, HDMI, USB and IP. Aimed at TV studios, theatres and larger venues."
+      "description": "A 4K60 NDI PTZ with a 1/2.8-inch UHD sensor and a 20x zoom, NDI 6 and NDI|HX3 with built-in AI human tracking, output over SDI, HDMI, USB and IP. Aimed at TV studios, theatres and larger venues.",
+      "productUrl": "https://www.fomako.net/product/fomako-k800n-ndi-camera-4k-60fps-20x-optical-zoom.html"
     },
     {
       "id": "fomako-k820s",
-      "manufacturerUrl": "https://www.fomako.net/product/fomako-k820s-12g-sdi-ndi-camera-4k-60fps-20x-optical-zoom.html",
+      "manufacturerUrl": "https://fomako.net",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1240,7 +1263,8 @@
       ],
       "trackingDataOut": [],
       "fieldNotes": {},
-      "description": "The 12G-SDI edition of Fomako's K820 4K60 PTZ: a 1/1.8-inch UHD sensor with a 20x zoom delivering uncompressed 4K60 over a single 12G-SDI cable, plus HDMI 2.0, USB, IP and NDI|HX3, with built-in AI human tracking. Aimed at high-end studios, theatres and large-venue production."
+      "description": "The 12G-SDI edition of Fomako's K820 4K60 PTZ: a 1/1.8-inch UHD sensor with a 20x zoom delivering uncompressed 4K60 over a single 12G-SDI cable, plus HDMI 2.0, USB, IP and NDI|HX3, with built-in AI human tracking. Aimed at high-end studios, theatres and large-venue production.",
+      "productUrl": "https://www.fomako.net/product/fomako-k820s-12g-sdi-ndi-camera-4k-60fps-20x-optical-zoom.html"
     }
   ]
 }

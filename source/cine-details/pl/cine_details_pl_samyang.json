@@ -3,7 +3,7 @@
     {
       "id": "xeen-135mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1382,
       "lengthMm": 113.7,
       "frontDiameterMm": 114,
@@ -42,12 +42,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-14mm-t3-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1170,
       "lengthMm": 80.3,
       "frontDiameterMm": 114,
@@ -86,12 +87,13 @@
       "maxApertureWide": 3.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-16mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1175,
       "lengthMm": 87.3,
       "frontDiameterMm": 114,
@@ -130,12 +132,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-24mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1180,
       "lengthMm": 113.7,
       "frontDiameterMm": 114,
@@ -174,12 +177,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1360,
       "lengthMm": 113.7,
       "frontDiameterMm": 114,
@@ -218,12 +222,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1160,
       "lengthMm": 113.7,
       "frontDiameterMm": 114,
@@ -262,12 +267,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-85mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1245,
       "lengthMm": 113.7,
       "frontDiameterMm": 114,
@@ -306,12 +312,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen.php"
     },
     {
       "id": "xeen-cf-135mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1400,
       "lengthMm": 113.7,
       "frontDiameterMm": 95,
@@ -350,12 +357,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     },
     {
       "id": "xeen-cf-16mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 900,
       "lengthMm": 82.3,
       "frontDiameterMm": 95,
@@ -394,12 +402,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     },
     {
       "id": "xeen-cf-24mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 900,
       "lengthMm": 90.5,
       "frontDiameterMm": 95,
@@ -438,12 +447,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     },
     {
       "id": "xeen-cf-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1100,
       "lengthMm": 113.7,
       "frontDiameterMm": 95,
@@ -482,12 +492,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     },
     {
       "id": "xeen-cf-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 900,
       "lengthMm": 90.5,
       "frontDiameterMm": 95,
@@ -526,12 +537,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     },
     {
       "id": "xeen-cf-85mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.xeenglobal.com/en/xeen-cf.php",
+      "manufacturerUrl": "https://xeenglobal.com/en/index.php",
       "weightG": 1000,
       "lengthMm": 90.5,
       "frontDiameterMm": 95,
@@ -570,7 +582,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.xeenglobal.com/en/xeen-cf.php"
     }
   ]
 }

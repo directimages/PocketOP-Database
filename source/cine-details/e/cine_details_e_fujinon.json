@@ -3,7 +3,7 @@
     {
       "id": "fujinon-mk18-55mm-t2-9-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 980,
       "lengthMm": 206.0,
       "frontDiameterMm": 85,
@@ -47,7 +47,7 @@
     {
       "id": "fujinon-mk50-135mm-t2-9-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk-series",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 980,
       "lengthMm": 206.0,
       "frontDiameterMm": 85,

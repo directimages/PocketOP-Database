@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "jvc-ky-pz100",
-      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz100bu/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -50,11 +50,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "JVC's first robotic PTZ, a Full HD camera with a long 30x zoom and a silent Direct Drive motor, plus a built-in IP streaming engine with Wi-Fi and 4G/LTE options and a built-in microSD recorder. Outputs 3G-SDI, HDMI and IP for webcasting, lectures, concerts and worship."
+      "description": "JVC's first robotic PTZ, a Full HD camera with a long 30x zoom and a silent Direct Drive motor, plus a built-in IP streaming engine with Wi-Fi and 4G/LTE options and a built-in microSD recorder. Outputs 3G-SDI, HDMI and IP for webcasting, lectures, concerts and worship.",
+      "productUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz100bu/"
     },
     {
       "id": "jvc-ky-pz200",
-      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -105,11 +106,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "A Full HD PTZ with a 20x zoom, built for remote IP production with SRT streaming and H.265/H.264 encoding plus VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events."
+      "description": "A Full HD PTZ with a 20x zoom, built for remote IP production with SRT streaming and H.265/H.264 encoding plus VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events.",
+      "productUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/"
     },
     {
       "id": "jvc-ky-pz200n",
-      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -155,11 +157,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "A Full HD PTZ with a 20x zoom, adding NDI|HX for IP production alongside SRT streaming, H.265/H.264 encoding and VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events on an NDI network."
+      "description": "A Full HD PTZ with a 20x zoom, adding NDI|HX for IP production alongside SRT streaming, H.265/H.264 encoding and VITC multi-camera synchronisation. Outputs 3G-SDI, HDMI and IP, for education, corporate and live events on an NDI network.",
+      "productUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/"
     },
     {
       "id": "jvc-ky-pz400n",
-      "manufacturerUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -206,11 +209,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "JVC's first 4K robotic PTZ, a wide-angle 12x camera with NDI|HX and SRT streaming, HEVC encoding and VITC multi-camera synchronisation for reliable remote production. A one-wire PoE camera for education, corporate, live events and sport."
+      "description": "JVC's first 4K robotic PTZ, a wide-angle 12x camera with NDI|HX and SRT streaming, HEVC encoding and VITC multi-camera synchronisation for reliable remote production. A one-wire PoE camera for education, corporate, live events and sport.",
+      "productUrl": "https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/"
     },
     {
       "id": "jvc-ky-pz510",
-      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -256,11 +260,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, adding SMART auto-tracking that follows a presenter automatically. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport."
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, adding SMART auto-tracking that follows a presenter automatically. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport.",
+      "productUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
     },
     {
       "id": "jvc-ky-pz510n",
-      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -306,11 +311,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, pairing SMART auto-tracking with NDI|HX3 and NDI 5 for IP production. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport on an NDI network."
+      "description": "An ultra-wide 4K60 PTZ with a 12x zoom and an 80-degree field of view, pairing SMART auto-tracking with NDI|HX3 and NDI 5 for IP production. With HEVC encoding, SRT streaming and VITC multi-camera sync, it suits education, corporate, live events and sport on an NDI network.",
+      "productUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/"
     },
     {
       "id": "jvc-ky-pz540n",
-      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/",
+      "manufacturerUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/",
       "controlProtocols": [
         "JVC IP",
         "RS-232C",
@@ -361,7 +367,8 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "A 4K60 auto-tracking PTZ built on a 1/1.8-inch sensor with a long 20x optical zoom (40x in HD), pairing advanced SMART auto-tracking with NDI|HX3 and NDI 5. With HEVC encoding and SRT streaming, it is built for sports, large events and long-reach live production."
+      "description": "A 4K60 auto-tracking PTZ built on a 1/1.8-inch sensor with a long 20x optical zoom (40x in HD), pairing advanced SMART auto-tracking with NDI|HX3 and NDI 5. With HEVC encoding and SRT streaming, it is built for sports, large events and long-reach live production.",
+      "productUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/"
     }
   ]
 }

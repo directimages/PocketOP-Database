@@ -3,7 +3,7 @@
     {
       "id": "canon-cn30x40-ias-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf",
+      "manufacturerUrl": "https://www.canon-europe.com/pro/cinema-lenses/",
       "weightG": 6700,
       "lengthMm": 437.2,
       "frontDiameterMm": 136,
@@ -43,7 +43,8 @@
       "maxApertureWide": 5.0,
       "maxApertureTele": 10.8,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf"
     }
   ]
 }

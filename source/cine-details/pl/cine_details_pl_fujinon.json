@@ -3,7 +3,7 @@
     {
       "id": "fujinon-hk3-1x14-5-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 6500,
       "lengthMm": 310.0,
       "frontDiameterMm": 136,
@@ -42,12 +42,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
     },
     {
       "id": "fujinon-hk4-7x18-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 7000,
       "lengthMm": 352.0,
       "frontDiameterMm": 136,
@@ -86,12 +87,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
     },
     {
       "id": "fujinon-hk5-3x75-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 8900,
       "lengthMm": 444.0,
       "frontDiameterMm": 136,
@@ -130,12 +132,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 3.8,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
     },
     {
       "id": "fujinon-hk7-5x24-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 8900,
       "lengthMm": 405.0,
       "frontDiameterMm": 136,
@@ -174,12 +177,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
     },
     {
       "id": "fujinon-hzk14-100mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk14-100",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2540,
       "lengthMm": 266.9,
       "frontDiameterMm": 114.0,
@@ -209,12 +213,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": 3.9,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk14-100"
     },
     {
       "id": "fujinon-hzk24-300mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk24-300",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2950,
       "lengthMm": 270.5,
       "frontDiameterMm": 114.0,
@@ -248,12 +253,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": 4.2,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk24-300"
     },
     {
       "id": "fujinon-hzk25-1000mm-f2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk25-1000",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 28000,
       "lengthMm": 669,
       "frontDiameterMm": null,
@@ -290,12 +296,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 5.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk25-1000"
     },
     {
       "id": "fujinon-premista19-45mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 3300,
       "lengthMm": 228.0,
       "frontDiameterMm": 114.0,
@@ -325,12 +332,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
     },
     {
       "id": "fujinon-premista28-100mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 3800,
       "lengthMm": 255.0,
       "frontDiameterMm": 114.0,
@@ -360,12 +368,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
     },
     {
       "id": "fujinon-premista80-250mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 3800,
       "lengthMm": 255.0,
       "frontDiameterMm": 114.0,
@@ -395,12 +404,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": 3.5,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista"
     },
     {
       "id": "fujinon-xk20-120mm",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/xk",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2400,
       "lengthMm": 239.0,
       "frontDiameterMm": 114.0,
@@ -428,12 +438,13 @@
       "maxApertureWide": 3.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/xk"
     },
     {
       "id": "fujinon-zk14-35mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2400,
       "lengthMm": 231.0,
       "frontDiameterMm": 114.0,
@@ -463,12 +474,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
     },
     {
       "id": "fujinon-zk19-90mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2300,
       "lengthMm": 226.0,
       "frontDiameterMm": 114.0,
@@ -496,12 +508,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
     },
     {
       "id": "fujinon-zk25-300mm",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 8400,
       "lengthMm": 401.0,
       "frontDiameterMm": 136.0,
@@ -532,12 +545,13 @@
       "maxApertureWide": 3.5,
       "maxApertureTele": 3.85,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
     },
     {
       "id": "fujinon-zk85-300mm",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk",
+      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens",
       "weightG": 2600,
       "lengthMm": 249.0,
       "frontDiameterMm": 114.0,
@@ -565,7 +579,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": 4.0,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk"
     }
   ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "angenieux-optimo-15-40",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1920,
       "lengthMm": 235,
       "frontDiameterMm": 114,
@@ -38,12 +38,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-17-80",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 5500,
       "lengthMm": 325,
       "frontDiameterMm": 136,
@@ -77,12 +78,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-19-5-94",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 5600,
       "lengthMm": 335,
       "frontDiameterMm": 136,
@@ -117,12 +119,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-24-290",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 11000,
       "lengthMm": 440,
       "frontDiameterMm": 162,
@@ -157,12 +160,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-28-340",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 11100,
       "lengthMm": 454,
       "frontDiameterMm": 162,
@@ -196,12 +200,13 @@
       "maxApertureWide": 3.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-28-76",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1920,
       "lengthMm": 247,
       "frontDiameterMm": 114,
@@ -236,12 +241,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-45-120",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1950,
       "lengthMm": 190,
       "frontDiameterMm": 114,
@@ -276,12 +282,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo"
     },
     {
       "id": "angenieux-optimo-dp-16-42mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema-lenses/optimo-dp/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1920,
       "lengthMm": 190.0,
       "frontDiameterMm": 114,
@@ -320,12 +327,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema-lenses/optimo-dp/"
     },
     {
       "id": "angenieux-optimo-dp-30-80mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema-lenses/optimo-dp/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1900,
       "lengthMm": 186.0,
       "frontDiameterMm": 114,
@@ -364,12 +372,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema-lenses/optimo-dp/"
     },
     {
       "id": "angenieux-optimo-style-16-40",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-16-40/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1920,
       "lengthMm": 186,
       "frontDiameterMm": 114,
@@ -408,12 +417,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-16-40/"
     },
     {
       "id": "angenieux-optimo-style-25-250",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/cinema/optimo-style",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 7200,
       "lengthMm": 377,
       "frontDiameterMm": 136,
@@ -449,12 +459,13 @@
       "maxApertureWide": 3.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/cinema/optimo-style"
     },
     {
       "id": "angenieux-optimo-style-30-76",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-30-76/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1920,
       "lengthMm": 186,
       "frontDiameterMm": 114,
@@ -492,12 +503,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-30-76/"
     },
     {
       "id": "angenieux-optimo-style-48-130",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/legacy-series/optimo-style-48-130/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 1950,
       "lengthMm": 206,
       "frontDiameterMm": 114,
@@ -533,12 +545,13 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/legacy-series/optimo-style-48-130/"
     },
     {
       "id": "angenieux-optimo-ultra-12x",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/optimo-ultra-12x/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 12247,
       "lengthMm": 472,
       "frontDiameterMm": 162,
@@ -576,12 +589,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/optimo-ultra-12x/"
     },
     {
       "id": "angenieux-optimo-ultra-compact-21-56",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/optimo-ultra-compact/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 2800,
       "lengthMm": 235,
       "frontDiameterMm": 114,
@@ -619,12 +633,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/optimo-ultra-compact/"
     },
     {
       "id": "angenieux-optimo-ultra-compact-37-102",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/optimo-ultra-compact/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 2800,
       "lengthMm": 235,
       "frontDiameterMm": 114,
@@ -662,12 +677,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/optimo-ultra-compact/"
     },
     {
       "id": "angenieux-type-ez-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/type-ez-series/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 2150,
       "lengthMm": 226,
       "frontDiameterMm": 114,
@@ -703,12 +719,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/type-ez-series/"
     },
     {
       "id": "angenieux-type-ez-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/type-ez-series/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 2120,
       "lengthMm": 210,
       "frontDiameterMm": 114,
@@ -744,12 +761,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/type-ez-series/"
     },
     {
       "id": "angenieux-type-ez-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.angenieux.com/lenses/type-ez-series/",
+      "manufacturerUrl": "https://www.angenieux.com/lenses/",
       "weightG": 2600,
       "lengthMm": 264,
       "frontDiameterMm": 114,
@@ -785,7 +803,8 @@
       "maxApertureWide": 2.3,
       "maxApertureTele": 3.0,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.angenieux.com/lenses/type-ez-series/"
     }
   ]
 }

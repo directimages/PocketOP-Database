@@ -3,7 +3,7 @@
     {
       "id": "cooke-cxx-15-40mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3600,
       "lengthMm": 229,
       "frontDiameterMm": 136,
@@ -46,7 +46,7 @@
     {
       "id": "cooke-minis4i-100mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 137,
       "frontDiameterMm": 87,
@@ -86,12 +86,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-135mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1800,
       "lengthMm": 158,
       "frontDiameterMm": 87,
@@ -131,12 +132,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-18mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1300,
       "lengthMm": 118,
       "frontDiameterMm": 110,
@@ -173,12 +175,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-25mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1400,
       "lengthMm": 105,
       "frontDiameterMm": 87,
@@ -218,12 +221,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-32mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 110,
       "frontDiameterMm": 87,
@@ -263,12 +267,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-40mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1700,
       "lengthMm": 110,
       "frontDiameterMm": 87,
@@ -308,12 +313,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-50mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1500,
       "lengthMm": 137,
       "frontDiameterMm": 87,
@@ -353,12 +359,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-65mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 135,
       "frontDiameterMm": 87,
@@ -398,12 +405,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-minis4i-75mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/minis4-i/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 135,
       "frontDiameterMm": 87,
@@ -443,12 +451,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/minis4-i/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-100mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1800,
       "lengthMm": 161,
       "frontDiameterMm": 110,
@@ -488,12 +497,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-135mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2100,
       "lengthMm": 168,
       "frontDiameterMm": 110,
@@ -533,12 +543,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-152mm-t3-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2100,
       "lengthMm": 168,
       "frontDiameterMm": 110,
@@ -578,12 +589,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-18mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2200,
       "lengthMm": 127,
       "frontDiameterMm": 110,
@@ -623,12 +635,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-21mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1900,
       "lengthMm": 127,
       "frontDiameterMm": 110,
@@ -668,12 +681,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-25mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2000,
       "lengthMm": 125,
       "frontDiameterMm": 110,
@@ -713,12 +727,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-27mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2100,
       "lengthMm": 127,
       "frontDiameterMm": 110,
@@ -758,12 +773,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-32mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1900,
       "lengthMm": 110,
       "frontDiameterMm": 110,
@@ -803,12 +819,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-40mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1500,
       "lengthMm": 103,
       "frontDiameterMm": 110,
@@ -848,12 +865,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-50mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1400,
       "lengthMm": 113,
       "frontDiameterMm": 110,
@@ -893,12 +911,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-65mm-macro-t2-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2800,
       "lengthMm": 199,
       "frontDiameterMm": 110,
@@ -939,12 +958,13 @@
       "hasMacro": true,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-panchro-i-classic-ff-75mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1800,
       "lengthMm": 155,
       "frontDiameterMm": 110,
@@ -984,12 +1004,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
     },
     {
       "id": "cooke-s4i-100mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2000,
       "lengthMm": 136,
       "frontDiameterMm": 110,
@@ -1029,12 +1050,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-135mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2250,
       "lengthMm": 184,
       "frontDiameterMm": 110,
@@ -1074,12 +1096,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-14mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2200,
       "lengthMm": 122,
       "frontDiameterMm": 110,
@@ -1116,12 +1139,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-150mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3500,
       "lengthMm": 157,
       "frontDiameterMm": 125,
@@ -1161,12 +1185,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M120 x 1.0 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-16mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2450,
       "lengthMm": 126,
       "frontDiameterMm": 110,
@@ -1206,12 +1231,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-180mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 4300,
       "lengthMm": 185,
       "frontDiameterMm": 136,
@@ -1251,12 +1277,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M131 x 1.0 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-18mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1750,
       "lengthMm": 107,
       "frontDiameterMm": 110,
@@ -1296,12 +1323,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-21mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2000,
       "lengthMm": 107,
       "frontDiameterMm": 110,
@@ -1341,12 +1369,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-25mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 107,
       "frontDiameterMm": 110,
@@ -1386,12 +1415,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-27mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 111,
       "frontDiameterMm": 110,
@@ -1431,12 +1461,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-32mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1850,
       "lengthMm": 123,
       "frontDiameterMm": 110,
@@ -1476,12 +1507,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-35mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1900,
       "lengthMm": 127,
       "frontDiameterMm": 110,
@@ -1521,12 +1553,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-40mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 2000,
       "lengthMm": 135,
       "frontDiameterMm": 110,
@@ -1566,12 +1599,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-50mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1500,
       "lengthMm": 120,
       "frontDiameterMm": 110,
@@ -1611,12 +1645,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-65mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1600,
       "lengthMm": 122,
       "frontDiameterMm": 110,
@@ -1656,12 +1691,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s4i-75mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s4-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 1750,
       "lengthMm": 120,
       "frontDiameterMm": 110,
@@ -1701,12 +1737,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s4-i-prime/"
     },
     {
       "id": "cooke-s7i-100mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3300,
       "lengthMm": 189,
       "frontDiameterMm": 110,
@@ -1746,12 +1783,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-135mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3700,
       "lengthMm": 189,
       "frontDiameterMm": 110,
@@ -1791,12 +1829,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-180mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3600,
       "lengthMm": 198,
       "frontDiameterMm": 110,
@@ -1836,12 +1875,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-18mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3500,
       "lengthMm": 197,
       "frontDiameterMm": 110,
@@ -1878,12 +1918,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-25mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3300,
       "lengthMm": 182,
       "frontDiameterMm": 110,
@@ -1923,12 +1964,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-32mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3400,
       "lengthMm": 177,
       "frontDiameterMm": 110,
@@ -1968,12 +2010,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-40mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3500,
       "lengthMm": 189,
       "frontDiameterMm": 110,
@@ -2013,12 +2056,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-50mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3400,
       "lengthMm": 189,
       "frontDiameterMm": 110,
@@ -2058,12 +2102,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s7i-75mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s7-i-prime/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3000,
       "lengthMm": 189,
       "frontDiameterMm": 110,
@@ -2103,12 +2148,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s7-i-prime/"
     },
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2134,12 +2180,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2165,12 +2212,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2193,12 +2241,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-25mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2224,12 +2273,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2255,12 +2305,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2286,12 +2337,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2317,12 +2369,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/s8-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -2348,12 +2401,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/s8-i-ff/"
     },
     {
       "id": "cooke-varotal-18-100mm-t3-0",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 5500,
       "lengthMm": 320,
       "frontDiameterMm": 150,
@@ -2396,7 +2450,7 @@
     {
       "id": "cooke-varotal-25-250mm-t3-7",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 8600,
       "lengthMm": 381,
       "frontDiameterMm": 150,
@@ -2439,7 +2493,7 @@
     {
       "id": "cooke-varotal-ff-19-40mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/varotal-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 3500,
       "lengthMm": 228,
       "frontDiameterMm": 114,
@@ -2480,12 +2534,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/varotal-i-ff/"
     },
     {
       "id": "cooke-varotal-ff-30-95mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/varotal-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 4000,
       "lengthMm": 255,
       "frontDiameterMm": 114,
@@ -2526,12 +2581,13 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/varotal-i-ff/"
     },
     {
       "id": "cooke-varotal-ff-85-215mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/varotal-i-ff/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 4000,
       "lengthMm": 255,
       "frontDiameterMm": 114,
@@ -2572,7 +2628,8 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      },
+      "productUrl": "https://cookeoptics.com/lens/varotal-i-ff/"
     }
   ]
 }

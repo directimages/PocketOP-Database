@@ -3,7 +3,7 @@
     {
       "id": "sigma-af-cine-28-105mm-t3-ff-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1300,
       "lengthMm": 157.9,
       "frontDiameterMm": 95,
@@ -45,12 +45,13 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/"
     },
     {
       "id": "sigma-af-cine-28-45mm-t2-ff-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1200,
       "lengthMm": 151.3,
       "frontDiameterMm": 95,
@@ -92,7 +93,8 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/"
     }
   ]
 }

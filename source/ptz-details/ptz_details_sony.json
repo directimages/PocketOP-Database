@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "sony-brc-am7",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "S700PTP"
@@ -50,11 +50,12 @@
         "SRT",
         "RTSP"
       ],
-      "description": "Sony's premium 4K AI auto-framing PTZ, pairing a 20x zoom and 4K60 imaging with advanced AI that tracks and frames subjects automatically, from a single presenter to a group or ball-sports action. With an electronic variable ND filter, S-Cinetone and S-Log3, it targets high-end sports, events and productions run with fewer operators."
+      "description": "Sony's premium 4K AI auto-framing PTZ, pairing a 20x zoom and 4K60 imaging with advanced AI that tracks and frames subjects automatically, from a single presenter to a group or ball-sports action. With an electronic variable ND filter, S-Cinetone and S-Log3, it targets high-end sports, events and productions run with fewer operators.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7"
     },
     {
       "id": "sony-brc-h800",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -102,11 +103,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A Full HD IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, pairing shallow depth of field with 1080p output. The HD counterpart to Sony's 1-inch 4K line, for broadcast and high-end live production."
+      "description": "A Full HD IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, pairing shallow depth of field with 1080p output. The HD counterpart to Sony's 1-inch 4K line, for broadcast and high-end live production.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
     },
     {
       "id": "sony-brc-h900",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422"
@@ -153,11 +155,12 @@
       "hasND": false,
       "ndDetail": null,
       "autoTrackingNote": null,
-      "description": "A Full HD robotic studio PTZ built on a three-chip 1/2-inch Exmor CMOS block with a 14x zoom and on-board image stabilization, delivering broadcast-grade colour for unattended studio positions. With dual tally lamps and HD-SDI output, it suits newsrooms, remote studios, worship and courtrooms."
+      "description": "A Full HD robotic studio PTZ built on a three-chip 1/2-inch Exmor CMOS block with a 14x zoom and on-board image stabilization, delivering broadcast-grade colour for unattended studio positions. With dual tally lamps and HD-SDI output, it suits newsrooms, remote studios, worship and courtrooms.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
     },
     {
       "id": "sony-brc-x1000",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -209,11 +212,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A premium 4K IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, delivering shallow depth of field and clean images in demanding light. A high-end broadcast and live-production camera where image quality leads."
+      "description": "A premium 4K IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, delivering shallow depth of field and clean images in demanding light. A high-end broadcast and live-production camera where image quality leads.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000"
     },
     {
       "id": "sony-brc-x400",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -267,11 +271,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K IP PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom and Sony's colour science, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With genlock, a tally lamp and built-in image stabilization, it suits broadcast studios, sports, arenas, worship and lecture halls."
+      "description": "A 4K IP PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom and Sony's colour science, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With genlock, a tally lamp and built-in image stabilization, it suits broadcast studios, sports, arenas, worship and lecture halls.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400"
     },
     {
       "id": "sony-srg-300h",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -320,11 +325,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom, HDMI and IP output and built-in image stabilization, plus Sony's View-DR wide dynamic range for tricky lighting. Built for corporate boardrooms, lecture theatres, worship and videoconferencing."
+      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom, HDMI and IP output and built-in image stabilization, plus Sony's View-DR wide dynamic range for tricky lighting. Built for corporate boardrooms, lecture theatres, worship and videoconferencing.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
     },
     {
       "id": "sony-srg-360she",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -375,11 +381,12 @@
       "streamingProtocols": [
         "IP"
       ],
-      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom and triple simultaneous output over 3G-SDI, HDMI and IP, plus built-in image stabilization and a tally lamp. Built for lecture capture, auditoriums, faith centres, corporate and telemedicine, and capable enough for broadcast."
+      "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom and triple simultaneous output over 3G-SDI, HDMI and IP, plus built-in image stabilization and a tally lamp. Built for lecture capture, auditoriums, faith centres, corporate and telemedicine, and capable enough for broadcast.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she"
     },
     {
       "id": "sony-srg-x120",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -428,11 +435,12 @@
       "streamingProtocols": [
         "RTSP"
       ],
-      "description": "A compact PTZ on a 1/2.5-inch Exmor R sensor with a 12x optical zoom, shipping in Full HD and upgradeable to 4K, with NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync and built-in image stabilization, it suits classrooms, meeting spaces and medical environments."
+      "description": "A compact PTZ on a 1/2.5-inch Exmor R sensor with a 12x optical zoom, shipping in Full HD and upgradeable to 4K, with NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync and built-in image stabilization, it suits classrooms, meeting spaces and medical environments.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120"
     },
     {
       "id": "sony-srg-x400",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-422"
@@ -485,11 +493,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync, Picture Freeze and built-in image stabilization, it suits classrooms, meeting spaces, faith centres, lecture halls and medical settings."
+      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R sensor with a 20x optical zoom, adding NDI|HX via optional licence alongside 3G-SDI, HDMI and IP output. With PTZ Motion Sync, Picture Freeze and built-in image stabilization, it suits classrooms, meeting spaces, faith centres, lecture halls and medical settings.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400"
     },
     {
       "id": "sony-srg-a40",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA",
         "VISCA over IP",
@@ -543,11 +552,12 @@
         "RTSP"
       ],
       "trackingDataOut": [],
-      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extendable to 30x in 4K and 40x in FHD via Clear Image Zoom. Its defining feature is built-in AI PTZ Auto Framing, which detects a subject's skeleton and head to keep them composed automatically and can track groups of up to eight people without an operator. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, SRT and optional NDI|HX, runs on PoE++, stores 256 presets, and pans 340 degrees / tilts -20 to +90 degrees."
+      "description": "A 4K PTZ built on a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extendable to 30x in 4K and 40x in FHD via Clear Image Zoom. Its defining feature is built-in AI PTZ Auto Framing, which detects a subject's skeleton and head to keep them composed automatically and can track groups of up to eight people without an operator. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, SRT and optional NDI|HX, runs on PoE++, stores 256 presets, and pans 340 degrees / tilts -20 to +90 degrees.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40"
     },
     {
       "id": "sony-srg-a12",
-      "manufacturerUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA",
         "VISCA over IP",
@@ -603,11 +613,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The shorter-zoom sibling of the SRG-A40, sharing the same 1/2.5-inch Exmor R CMOS sensor, 4K capability and built-in AI PTZ Auto Framing but with a 12x optical zoom (4.4-52.8mm, F2.0-3.7) and no Clear Image Zoom. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, RTMP(S), SRT and optional NDI|HX, runs on PoE++, and stores 256 presets. Mechanically identical to the A40 (340 degree pan, -20 to +90 tilt, 2.0kg), it targets operator-free capture where a wide-to-moderate framing range is enough."
+      "description": "The shorter-zoom sibling of the SRG-A40, sharing the same 1/2.5-inch Exmor R CMOS sensor, 4K capability and built-in AI PTZ Auto Framing but with a 12x optical zoom (4.4-52.8mm, F2.0-3.7) and no Clear Image Zoom. It outputs over 3G-SDI and HDMI with IP streaming over RTSP, RTMP(S), SRT and optional NDI|HX, runs on PoE++, and stores 256 presets. Mechanically identical to the A40 (340 degree pan, -20 to +90 tilt, 2.0kg), it targets operator-free capture where a wide-to-moderate framing range is enough.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12"
     },
     {
       "id": "sony-srg-x40uh",
-      "manufacturerUrl": "https://pro.sony/en_EC/pdf/srg-x40uh",
+      "manufacturerUrl": "https://pro.sony/products/ptz-network-cameras",
       "controlProtocols": [
         "VISCA",
         "VISCA over IP"

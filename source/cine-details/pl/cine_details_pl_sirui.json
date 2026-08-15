@@ -3,7 +3,7 @@
     {
       "id": "sirui-jupiter-28-85mm-t3-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html",
+      "manufacturerUrl": "https://store.sirui.com/",
       "weightG": 2520,
       "lengthMm": 215.0,
       "frontDiameterMm": 114,
@@ -42,7 +42,8 @@
       "maxApertureWide": 3.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html"
     }
   ]
 }

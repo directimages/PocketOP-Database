@@ -3,7 +3,7 @@
     {
       "id": "masterbuilt-cfz-27-60mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://masterbuiltlenses.com",
+      "manufacturerUrl": "https://www.masterbuiltlenses.com/lenses",
       "weightG": 1910,
       "lengthMm": 168,
       "frontDiameterMm": 114,
@@ -42,7 +42,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://masterbuiltlenses.com"
     }
   ]
 }

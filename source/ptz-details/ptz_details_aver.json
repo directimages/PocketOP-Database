@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "aver-ptc310uv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310uv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -48,11 +48,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. Aimed at lecture capture, worship and corporate streaming without a camera operator."
+      "description": "A 4K AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. Aimed at lecture capture, worship and corporate streaming without a camera operator.",
+      "productUrl": "https://presentation.aver.com/model/ptc310uv2"
     },
     {
       "id": "aver-ptz231",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz231",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -99,11 +100,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An HD PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, carrying NDI|HX and SmartShoot AI that auto-frames a presenter across preset zones without an operator. Built for conference rooms, event spaces and worship streaming that need reach at 1080p."
+      "description": "An HD PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, carrying NDI|HX and SmartShoot AI that auto-frames a presenter across preset zones without an operator. Built for conference rooms, event spaces and worship streaming that need reach at 1080p.",
+      "productUrl": "https://presentation.aver.com/model/ptz231"
     },
     {
       "id": "aver-ptz310unv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz310unv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -151,11 +153,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms running an NDI-based workflow, with 4K capture and no dedicated operator."
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms running an NDI-based workflow, with 4K capture and no dedicated operator.",
+      "productUrl": "https://presentation.aver.com/model/ptz310unv2"
     },
     {
       "id": "aver-ptz310uv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz310uv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -203,11 +206,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms that want 4K without a dedicated operator."
+      "description": "A 4K AI PTZ with a wide 12x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Suited to conferencing, education and pro AV rooms that want 4K without a dedicated operator.",
+      "productUrl": "https://presentation.aver.com/model/ptz310uv2"
     },
     {
       "id": "aver-ptz330unv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz330unv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -256,11 +260,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K on an NDI-based production network."
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, built as the native-NDI edition with NDI|HX3 for IP production and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K on an NDI-based production network.",
+      "productUrl": "https://presentation.aver.com/model/ptz330unv2"
     },
     {
       "id": "aver-ptz330uv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz330uv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -308,11 +313,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K."
+      "description": "A 4K AI PTZ with a long 30x zoom and simultaneous SDI, HDMI, USB and IP output, including NDI|HX3 and SmartShoot auto-framing across preset zones. Built for larger rooms and venues that need reach in 4K.",
+      "productUrl": "https://presentation.aver.com/model/ptz330uv2"
     },
     {
       "id": "aver-tr211",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr211",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -358,11 +364,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "An entry-level Full HD AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. A cost-effective tracking camera for lectures, sermons and training at 1080p."
+      "description": "An entry-level Full HD AI auto-tracking PTZ with a 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with SDI, HDMI, USB and IP output and an NDI upgrade path. A cost-effective tracking camera for lectures, sermons and training at 1080p.",
+      "productUrl": "https://presentation.aver.com/model/tr211"
     },
     {
       "id": "aver-tr315",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr315",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -408,11 +415,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms."
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms.",
+      "productUrl": "https://presentation.aver.com/model/tr315"
     },
     {
       "id": "aver-tr315n",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr315n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -458,11 +466,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms on an NDI backbone."
+      "description": "A 4K AI auto-tracking PTZ with a wide 12x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for lecture capture, worship and enterprise streaming in wider rooms on an NDI backbone.",
+      "productUrl": "https://presentation.aver.com/model/tr315n"
     },
     {
       "id": "aver-tr335",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr335",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -508,11 +517,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters."
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, with simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters.",
+      "productUrl": "https://presentation.aver.com/model/tr335"
     },
     {
       "id": "aver-tr335n",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr335n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -561,11 +571,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters, on an NDI-based workflow."
+      "description": "A 4K AI auto-tracking PTZ with a long 30x zoom that follows a presenter hands-free using Presenter, Zone and Hybrid modes, built as the native-NDI edition with NDI|HX3 alongside simultaneous SDI, HDMI, USB and IP output. Built for larger venues and broadcasting where reach matters, on an NDI-based workflow.",
+      "productUrl": "https://presentation.aver.com/model/tr335n"
     },
     {
       "id": "aver-tr535",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr535",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -614,11 +625,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, so it tracks and frames presenters across a whole stage using Wide Area, Stage and Segment modes. Built for multi-presenter productions in larger venues and broadcast."
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, so it tracks and frames presenters across a whole stage using Wide Area, Stage and Segment modes. Built for multi-presenter productions in larger venues and broadcast.",
+      "productUrl": "https://presentation.aver.com/model/tr535"
     },
     {
       "id": "aver-tr535n",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr535n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -667,11 +679,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, tracking and framing presenters across a whole stage using Wide Area, Stage and Segment modes, and built as the native-NDI edition with full NDI for IP production. Built for multi-presenter productions in larger venues and broadcast on an NDI backbone."
+      "description": "A dual-lens 4K AI auto-tracking camera pairing a 30x zoom head with a panoramic wide lens, tracking and framing presenters across a whole stage using Wide Area, Stage and Segment modes, and built as the native-NDI edition with full NDI for IP production. Built for multi-presenter productions in larger venues and broadcast on an NDI backbone.",
+      "productUrl": "https://presentation.aver.com/model/tr535n"
     },
     {
       "id": "aver-tr615",
-      "manufacturerUrl": "https://presentation.aver.com/model/tr615",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -721,11 +734,12 @@
         "RTMP",
         "HLS"
       ],
-      "description": "AVer's broadcast-grade flagship auto-tracking PTZ, built around a 1-inch Sony Exmor RS sensor with a 19x zoom and four tracking modes including voice. It integrates like a production camera, with dual 12G-SDI, NDI|HX3, Genlock, FreeD and XLR audio plus a Dante AV-H upgrade path, for live events, worship, corporate and broadcast."
+      "description": "AVer's broadcast-grade flagship auto-tracking PTZ, built around a 1-inch Sony Exmor RS sensor with a 19x zoom and four tracking modes including voice. It integrates like a production camera, with dual 12G-SDI, NDI|HX3, Genlock, FreeD and XLR audio plus a Dante AV-H upgrade path, for live events, worship, corporate and broadcast.",
+      "productUrl": "https://presentation.aver.com/model/tr615"
     },
     {
       "id": "aver-ptc310",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -774,11 +788,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An entry HD 12x AI auto-tracking PTZ that follows a presenter hands-free with Presenter and Zone modes, built for classrooms, lecture capture and worship streaming."
+      "description": "An entry HD 12x AI auto-tracking PTZ that follows a presenter hands-free with Presenter and Zone modes, built for classrooms, lecture capture and worship streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc310"
     },
     {
       "id": "aver-ptc310h",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310h",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -826,11 +841,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 12x AI auto-tracking PTZ with HDMI and USB output that follows a presenter hands-free, for lecture capture, worship and corporate streaming."
+      "description": "A 4K 12x AI auto-tracking PTZ with HDMI and USB output that follows a presenter hands-free, for lecture capture, worship and corporate streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc310h"
     },
     {
       "id": "aver-ptc310n",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -879,11 +895,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 12x AI auto-tracking PTZ, the native-NDI edition of the PTC310, that follows a presenter hands-free for NDI-based lecture capture and streaming."
+      "description": "An HD 12x AI auto-tracking PTZ, the native-NDI edition of the PTC310, that follows a presenter hands-free for NDI-based lecture capture and streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc310n"
     },
     {
       "id": "aver-ptc310u",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310u",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -932,11 +949,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 12x AI auto-tracking PTZ with USB, SDI and IP output that follows a presenter hands-free, for lecture capture and streaming."
+      "description": "A 4K 12x AI auto-tracking PTZ with USB, SDI and IP output that follows a presenter hands-free, for lecture capture and streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc310u"
     },
     {
       "id": "aver-ptc310hn",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310hn",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -984,11 +1002,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 12x AI auto-tracking PTZ with HDMI/USB output and native NDI|HX that follows a presenter hands-free on an NDI network."
+      "description": "A 4K 12x AI auto-tracking PTZ with HDMI/USB output and native NDI|HX that follows a presenter hands-free on an NDI network.",
+      "productUrl": "https://presentation.aver.com/model/ptc310hn"
     },
     {
       "id": "aver-ptc310un",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310un",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1038,11 +1057,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 12x AI auto-tracking PTZ with USB and native NDI|HX that follows a presenter hands-free, for NDI-based production."
+      "description": "A 4K 12x AI auto-tracking PTZ with USB and native NDI|HX that follows a presenter hands-free, for NDI-based production.",
+      "productUrl": "https://presentation.aver.com/model/ptc310un"
     },
     {
       "id": "aver-ptc330n",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc330n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1091,11 +1111,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 30x AI auto-tracking PTZ in a native-NDI edition, with long reach for larger rooms and venues, following presenters across Presenter, Zone and Hybrid modes."
+      "description": "An HD 30x AI auto-tracking PTZ in a native-NDI edition, with long reach for larger rooms and venues, following presenters across Presenter, Zone and Hybrid modes.",
+      "productUrl": "https://presentation.aver.com/model/ptc330n"
     },
     {
       "id": "aver-ptc330u",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc330u",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1143,11 +1164,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 30x AI auto-tracking PTZ with long reach and USB output, following a presenter hands-free for larger venues and broadcast."
+      "description": "A 4K 30x AI auto-tracking PTZ with long reach and USB output, following a presenter hands-free for larger venues and broadcast.",
+      "productUrl": "https://presentation.aver.com/model/ptc330u"
     },
     {
       "id": "aver-ptc310hwv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc310hwv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1194,11 +1216,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A second-generation HD 12x AI auto-tracking PTZ with Click & Track and HDMI/USB output, for lecture capture, worship and corporate streaming."
+      "description": "A second-generation HD 12x AI auto-tracking PTZ with Click & Track and HDMI/USB output, for lecture capture, worship and corporate streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc310hwv2"
     },
     {
       "id": "aver-ptc320uv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc320uv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1246,11 +1269,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 21x AI auto-tracking PTZ with mid-range reach and Click & Track, for medium rooms and venues; NDI available via license."
+      "description": "A 4K 21x AI auto-tracking PTZ with mid-range reach and Click & Track, for medium rooms and venues; NDI available via license.",
+      "productUrl": "https://presentation.aver.com/model/ptc320uv2"
     },
     {
       "id": "aver-ptc320unv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc320unv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1299,11 +1323,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 21x AI auto-tracking PTZ with built-in NDI|HX and Click & Track, for NDI-based production in medium rooms and venues."
+      "description": "A 4K 21x AI auto-tracking PTZ with built-in NDI|HX and Click & Track, for NDI-based production in medium rooms and venues.",
+      "productUrl": "https://presentation.aver.com/model/ptc320unv2"
     },
     {
       "id": "aver-ptc330uv2",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc330uv2",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1351,11 +1376,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 30x AI auto-tracking PTZ with long reach and Click & Track, for larger rooms and venues; NDI available via license."
+      "description": "A 4K 30x AI auto-tracking PTZ with long reach and Click & Track, for larger rooms and venues; NDI available via license.",
+      "productUrl": "https://presentation.aver.com/model/ptc330uv2"
     },
     {
       "id": "aver-ptz310",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz310",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1403,11 +1429,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 12x professional PTZ with SmartFrame one-touch auto-framing and SmartShoot preset automation, for classrooms, worship and events."
+      "description": "An HD 12x professional PTZ with SmartFrame one-touch auto-framing and SmartShoot preset automation, for classrooms, worship and events.",
+      "productUrl": "https://presentation.aver.com/model/ptz310"
     },
     {
       "id": "aver-ptz310n",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz310n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1456,11 +1483,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 12x professional PTZ in a native-NDI edition, with SmartFrame auto-framing and SmartShoot preset automation for NDI-based production."
+      "description": "An HD 12x professional PTZ in a native-NDI edition, with SmartFrame auto-framing and SmartShoot preset automation for NDI-based production.",
+      "productUrl": "https://presentation.aver.com/model/ptz310n"
     },
     {
       "id": "aver-ptz330",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz330",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1508,11 +1536,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 30x professional PTZ with long reach, SmartFrame auto-framing and SmartShoot preset automation, for larger venues, worship and sports."
+      "description": "An HD 30x professional PTZ with long reach, SmartFrame auto-framing and SmartShoot preset automation, for larger venues, worship and sports.",
+      "productUrl": "https://presentation.aver.com/model/ptz330"
     },
     {
       "id": "aver-ptz330n",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptz330n",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1561,11 +1590,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 30x professional PTZ in a native-NDI edition, with long reach, SmartFrame auto-framing and SmartShoot preset automation."
+      "description": "An HD 30x professional PTZ in a native-NDI edition, with long reach, SmartFrame auto-framing and SmartShoot preset automation.",
+      "productUrl": "https://presentation.aver.com/model/ptz330n"
     },
     {
       "id": "aver-dl30",
-      "manufacturerUrl": "https://presentation.aver.com/model/dl30",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "CGI"
@@ -1608,11 +1638,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 12x AI auto-tracking camera for distance learning that follows a moving teacher automatically for hybrid classrooms, with IP and USB output."
+      "description": "An HD 12x AI auto-tracking camera for distance learning that follows a moving teacher automatically for hybrid classrooms, with IP and USB output.",
+      "productUrl": "https://presentation.aver.com/model/dl30"
     },
     {
       "id": "aver-dl50",
-      "manufacturerUrl": "https://presentation.aver.com/model/dl30",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "CGI"
@@ -1660,7 +1691,7 @@
     },
     {
       "id": "aver-tr313v2",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr313v2-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1709,11 +1740,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 12x single-lens AI auto-tracking PTZ that follows a presenter hands-free, for lecture capture, worship and streaming."
+      "description": "A 4K 12x single-lens AI auto-tracking PTZ that follows a presenter hands-free, for lecture capture, worship and streaming.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr313v2-datasheet.pdf"
     },
     {
       "id": "aver-tr323nv2",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr323nv2-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1767,7 +1799,7 @@
     },
     {
       "id": "aver-tr331",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr331-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1816,11 +1848,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 30x single-lens AI auto-tracking PTZ with long reach, following a presenter hands-free for lecture halls, worship and corporate training."
+      "description": "An HD 30x single-lens AI auto-tracking PTZ with long reach, following a presenter hands-free for lecture halls, worship and corporate training.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr331-datasheet.pdf"
     },
     {
       "id": "aver-tr333v2",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr333v2-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1868,11 +1901,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 30x single-lens AI auto-tracking PTZ with long reach and voice tracking, for larger venues, worship and broadcast."
+      "description": "A 4K 30x single-lens AI auto-tracking PTZ with long reach and voice tracking, for larger venues, worship and broadcast.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr333v2-datasheet.pdf"
     },
     {
       "id": "aver-tr311hwv2",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr311hwv2-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -1919,11 +1953,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD 12x single-lens AI auto-tracking PTZ with HDMI/USB output, following a presenter hands-free for lecture capture and streaming."
+      "description": "An HD 12x single-lens AI auto-tracking PTZ with HDMI/USB output, following a presenter hands-free for lecture capture and streaming.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr311hwv2-datasheet.pdf"
     },
     {
       "id": "aver-tr320",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr320-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -1968,11 +2003,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 22x AI auto-tracking camera that holds the room with a fixed panoramic sensor while the PTZ head frames and follows the presenter."
+      "description": "An HD dual-lens 22x AI auto-tracking camera that holds the room with a fixed panoramic sensor while the PTZ head frames and follows the presenter.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr320-datasheet.pdf"
     },
     {
       "id": "aver-tr530",
-      "manufacturerUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr530-datasheet.pdf",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2017,11 +2053,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 30x AI auto-tracking camera with long reach, using a fixed panoramic sensor to track while the PTZ head frames the presenter."
+      "description": "An HD dual-lens 30x AI auto-tracking camera with long reach, using a fixed panoramic sensor to track while the PTZ head frames the presenter.",
+      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr530-datasheet.pdf"
     },
     {
       "id": "aver-ptc500",
-      "manufacturerUrl": "https://presentation.aver.com/model/averptc500",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2067,11 +2104,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 30x auto-tracking camera for lecture capture that follows a presenter within a defined zone using a fixed panoramic camera and a moving PTZ head."
+      "description": "An HD dual-lens 30x auto-tracking camera for lecture capture that follows a presenter within a defined zone using a fixed panoramic camera and a moving PTZ head.",
+      "productUrl": "https://presentation.aver.com/model/averptc500"
     },
     {
       "id": "aver-ptc500s",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc500s",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2118,11 +2156,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 30x auto-tracking camera with three tracking modes and multi-presenter detection, for lecture capture and events."
+      "description": "An HD dual-lens 30x auto-tracking camera with three tracking modes and multi-presenter detection, for lecture capture and events.",
+      "productUrl": "https://presentation.aver.com/model/ptc500s"
     },
     {
       "id": "aver-ptc500plus",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc500plus",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2170,11 +2209,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 30x AI auto-tracking camera with USB and PoE, using Wide Area, Stage and Segment tracking for multi-presenter lecture capture and streaming."
+      "description": "An HD dual-lens 30x AI auto-tracking camera with USB and PoE, using Wide Area, Stage and Segment tracking for multi-presenter lecture capture and streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc500plus"
     },
     {
       "id": "aver-ptc115",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc115",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2221,11 +2261,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 15x auto-tracking camera with three tracking modes and multi-presenter detection, for classrooms and lecture capture."
+      "description": "An HD dual-lens 15x auto-tracking camera with three tracking modes and multi-presenter detection, for classrooms and lecture capture.",
+      "productUrl": "https://presentation.aver.com/model/ptc115"
     },
     {
       "id": "aver-ptc115plus",
-      "manufacturerUrl": "https://presentation.aver.com/model/ptc115plus",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA RS-232",
         "Pelco-D",
@@ -2274,11 +2315,12 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "An HD dual-lens 15x AI auto-tracking camera with USB and PoE, using Wide Area, Stage and Segment tracking for multi-presenter lecture capture and streaming."
+      "description": "An HD dual-lens 15x AI auto-tracking camera with USB and PoE, using Wide Area, Stage and Segment tracking for multi-presenter lecture capture and streaming.",
+      "productUrl": "https://presentation.aver.com/model/ptc115plus"
     },
     {
       "id": "aver-ptz211",
-      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/ptz211",
+      "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
       "controlProtocols": [
         "VISCA",
         "VISCA over IP",
@@ -2338,7 +2380,8 @@
         "HLS"
       ],
       "trackingDataOut": [],
-      "description": "A compact 1080p60 PTZ built on a 1/2.8-inch Sony Exmor CMOS sensor with a 12x optical zoom (3.9-46.8mm, F1.6-2.8) and a 72.8 to 6.7 degree horizontal field of view. It features AVer's built-in AI tracking, SmartShoot and SmartFrame, for operator-free capture across preset zones, plus PTZ Link voice tracking. Connectivity covers 3G-SDI, HDMI and USB with NDI|HX3, SRT, RTSP and RTMP streaming, VISCA/ONVIF/Pelco control, PoE+, and 256 presets. It suits lecture capture, worship and streaming."
+      "description": "A compact 1080p60 PTZ built on a 1/2.8-inch Sony Exmor CMOS sensor with a 12x optical zoom (3.9-46.8mm, F1.6-2.8) and a 72.8 to 6.7 degree horizontal field of view. It features AVer's built-in AI tracking, SmartShoot and SmartFrame, for operator-free capture across preset zones, plus PTZ Link voice tracking. Connectivity covers 3G-SDI, HDMI and USB with NDI|HX3, SRT, RTSP and RTMP streaming, VISCA/ONVIF/Pelco control, PoE+, and 256 presets. It suits lecture capture, worship and streaming.",
+      "productUrl": "https://www.averusa.com/products/ptz-camera/ptz211"
     }
   ]
 }
