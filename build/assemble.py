@@ -120,7 +120,7 @@ OUTPUTS = [
      "pools": ["ptz_cameras"],                     "baseline": "ptz_cameras.json"},
     {"name": "ptz_details.json",             "meta": "meta_ptz_details.json",
      "array_key": "cameras",    "order": ["version", "updatedAt", "cameras"],
-     "pools": ["ptz_details"],                     "baseline": "ptz-details.json"},
+     "pools": ["ptz_details"],                     "baseline": "ptz_details.json"},
     {"name": "ptz-details.json",             "meta": "meta_ptz_details.json",
      "array_key": "cameras",    "order": ["version", "updatedAt", "cameras"],
      "pools": ["ptz_details"],                     "baseline": "ptz-details.json"},
@@ -131,11 +131,11 @@ OUTPUTS = [
 
 # Baselines used by --check. Each maps to a current root file keyed by id.
 BASELINE_FILES = ["lenses.json", "lens-details.json", "ptz_cameras.json",
-                  "ptz-details.json", "devices.json"]
+                  "ptz_details.json", "ptz-details.json", "devices.json"]
 BASELINE_ARRAY_KEY = {
     "lenses.json": "lenses", "lens-details.json": "lenses",
-    "ptz_cameras.json": "ptzCameras", "ptz-details.json": "cameras",
-    "devices.json": "devices",
+    "ptz_cameras.json": "ptzCameras", "ptz_details.json": "cameras",
+    "ptz-details.json": "cameras", "devices.json": "devices",
 }
 
 
