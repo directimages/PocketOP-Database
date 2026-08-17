@@ -42,7 +42,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk"
     },
     {
       "id": "fujinon-mk50-135mm-t2-9-e",
@@ -86,7 +87,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk"
     }
   ]
 }

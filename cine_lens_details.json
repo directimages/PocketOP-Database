@@ -11370,7 +11370,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk"
     },
     {
       "id": "fujinon-mk50-135mm-t2-9-e",
@@ -11414,7 +11415,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk"
     },
     {
       "id": "fujinon-premista19-45mm-t2-9",
@@ -16682,7 +16684,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://cf.sirui.com/Jupiter28-85mmT3.2PL.html"
+      "productUrl": "https://cf.sirui.com/lens/Product/jupiter?lang=en-us"
     },
     {
       "id": "sirui-nightwalker-16mm-t1-2-s35-l",
@@ -17392,7 +17394,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-18mm-t1-5",
@@ -17421,7 +17423,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-21mm-t1-5",
@@ -17450,7 +17452,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-25mm-t1-5",
@@ -17479,7 +17481,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-35mm-t1-5",
@@ -17508,7 +17510,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-50mm-t1-5",
@@ -17537,7 +17539,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-cinema-vista-85mm-t1-5",
@@ -17566,7 +17568,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://tokinacinemausa.com"
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-prime-t15"
     },
     {
       "id": "tokina-vista-16-28mm-t3-0",

@@ -1698,7 +1698,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD 12x single-lens AI auto-tracking PTZ with HDMI/USB output, following a presenter hands-free for lecture capture and streaming.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr311hwv2-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr311hwv2"
     },
     {
       "id": "aver-tr313v2",
@@ -1752,7 +1752,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 12x single-lens AI auto-tracking PTZ that follows a presenter hands-free, for lecture capture, worship and streaming.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr313v2-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr313v2"
     },
     {
       "id": "aver-tr315",
@@ -1904,7 +1904,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD dual-lens 22x AI auto-tracking camera that holds the room with a fixed panoramic sensor while the PTZ head frames and follows the presenter.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr320-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr320"
     },
     {
       "id": "aver-tr323nv2",
@@ -1958,7 +1958,8 @@
       ],
       "fieldNotes": {},
       "trackingDataOut": [],
-      "description": "A 4K 21x single-lens AI auto-tracking PTZ with native NDI|HX, following a presenter hands-free across medium-to-large rooms."
+      "description": "A 4K 21x single-lens AI auto-tracking PTZ with native NDI|HX, following a presenter hands-free across medium-to-large rooms.",
+      "productUrl": "https://www.averusa.com/support/#tr323nv2"
     },
     {
       "id": "aver-tr331",
@@ -2012,7 +2013,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD 30x single-lens AI auto-tracking PTZ with long reach, following a presenter hands-free for lecture halls, worship and corporate training.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr331-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr331"
     },
     {
       "id": "aver-tr333v2",
@@ -2065,7 +2066,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 30x single-lens AI auto-tracking PTZ with long reach and voice tracking, for larger venues, worship and broadcast.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr333v2-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr333v2"
     },
     {
       "id": "aver-tr335",
@@ -2220,7 +2221,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD dual-lens 30x AI auto-tracking camera with long reach, using a fixed panoramic sensor to track while the PTZ head frames the presenter.",
-      "productUrl": "https://www.averusa.com/pro-av/downloads/datasheet-brochure/tr530-datasheet.pdf"
+      "productUrl": "https://www.averusa.com/support/#tr530"
     },
     {
       "id": "aver-tr535",
@@ -14078,7 +14079,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [],
       "trackingDataOut": [],
-      "description": "The USB/HDMI variant of Sony's compact 4K PTZ line, using a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extended to 30x in 4K and 40x in FHD via Clear Image Zoom. Unlike the A-series it has no AI auto-framing and no IP video: video is delivered over plug-and-play USB Type-C (UVC) and HDMI, with control over VISCA and VISCA over IP. It runs on PoE+ or DC 12V, stores 100 presets, and at roughly 1.6kg is lighter than the SDI-equipped A-series. It targets UVC-based conferencing and simple production workflows."
+      "description": "The USB/HDMI variant of Sony's compact 4K PTZ line, using a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extended to 30x in 4K and 40x in FHD via Clear Image Zoom. Unlike the A-series it has no AI auto-framing and no IP video: video is delivered over plug-and-play USB Type-C (UVC) and HDMI, with control over VISCA and VISCA over IP. It runs on PoE+ or DC 12V, stores 100 presets, and at roughly 1.6kg is lighter than the SDI-equipped A-series. It targets UVC-based conferencing and simple production workflows.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
     }
   ]
 }

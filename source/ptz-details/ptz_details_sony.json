@@ -666,7 +666,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [],
       "trackingDataOut": [],
-      "description": "The USB/HDMI variant of Sony's compact 4K PTZ line, using a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extended to 30x in 4K and 40x in FHD via Clear Image Zoom. Unlike the A-series it has no AI auto-framing and no IP video: video is delivered over plug-and-play USB Type-C (UVC) and HDMI, with control over VISCA and VISCA over IP. It runs on PoE+ or DC 12V, stores 100 presets, and at roughly 1.6kg is lighter than the SDI-equipped A-series. It targets UVC-based conferencing and simple production workflows."
+      "description": "The USB/HDMI variant of Sony's compact 4K PTZ line, using a 1/2.5-inch Exmor R CMOS sensor with a 20x optical zoom (4.4-88mm, F2.0-3.8), extended to 30x in 4K and 40x in FHD via Clear Image Zoom. Unlike the A-series it has no AI auto-framing and no IP video: video is delivered over plug-and-play USB Type-C (UVC) and HDMI, with control over VISCA and VISCA over IP. It runs on PoE+ or DC 12V, stores 100 presets, and at roughly 1.6kg is lighter than the SDI-equipped A-series. It targets UVC-based conferencing and simple production workflows.",
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
     }
   ]
 }

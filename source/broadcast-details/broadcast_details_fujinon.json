@@ -29,7 +29,7 @@
       "maxApertureTele": 2.6,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -60,7 +60,7 @@
       "maxApertureTele": 2.8,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha16x6-3",
@@ -91,7 +91,7 @@
       "maxApertureTele": 2.9,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha18x5-5",
@@ -122,7 +122,7 @@
       "maxApertureTele": 2.9,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha18x7-6",
@@ -153,7 +153,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha19x7-4",
@@ -184,7 +184,7 @@
       "maxApertureTele": 2.6,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha22x7-3",
@@ -215,7 +215,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha22x7-8",
@@ -246,7 +246,7 @@
       "maxApertureTele": 2.5,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha23x7-6",
@@ -277,7 +277,7 @@
       "maxApertureTele": 2.65,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha25x11-5",
@@ -308,7 +308,7 @@
       "maxApertureTele": 2.8,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha25x16-5",
@@ -339,7 +339,7 @@
       "maxApertureTele": 4.0,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha27x6-5",
@@ -372,7 +372,7 @@
       "maxApertureTele": 2.2,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -406,7 +406,7 @@
       "fieldNotes": {
         "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
       },
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha42x9-7",
@@ -440,7 +440,7 @@
       "fieldNotes": {
         "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
       },
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-la16x8",
@@ -471,7 +471,7 @@
       "maxApertureTele": 2.8,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-la30x7-8",
@@ -502,7 +502,7 @@
       "maxApertureTele": 3.9,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua107x8-4",
@@ -533,7 +533,7 @@
       "maxApertureTele": 4.5,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua107x8-4-af",
@@ -564,7 +564,7 @@
       "maxApertureTele": 4.5,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua125x8",
@@ -595,7 +595,7 @@
       "maxApertureTele": 5.0,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua13x4-5",
@@ -626,7 +626,7 @@
       "maxApertureTele": 2.6,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua14x4-5",
@@ -657,7 +657,7 @@
       "maxApertureTele": 2.8,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua16x4berd",
@@ -689,7 +689,7 @@
       "maxApertureTele": "unknown",
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      "productUrl": null
     },
     {
       "id": "fujinon-ua18x5-5",
@@ -720,7 +720,7 @@
       "maxApertureTele": 2.9,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua18x7-6",
@@ -751,7 +751,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua22x4-8",
@@ -782,7 +782,7 @@
       "maxApertureTele": 3.15,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujinon.com/fujinon-product-guide/"
     },
     {
       "id": "fujinon-ua22x8",
@@ -813,7 +813,7 @@
       "maxApertureTele": 2.55,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua23x7-6",
@@ -844,7 +844,7 @@
       "maxApertureTele": 2.65,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua24x7-8",
@@ -875,7 +875,7 @@
       "maxApertureTele": 2.85,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua27x6-5",
@@ -906,7 +906,7 @@
       "maxApertureTele": 2.2,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua30x7-3berd",
@@ -940,7 +940,7 @@
       "maxApertureTele": "unknown",
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
+      "productUrl": null
     },
     {
       "id": "fujinon-ua46x13-5",
@@ -971,7 +971,7 @@
       "maxApertureTele": 5.5,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua46x9-5",
@@ -1002,7 +1002,7 @@
       "maxApertureTele": 3.9,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua70x8-7",
@@ -1033,7 +1033,7 @@
       "maxApertureTele": 3.05,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua80x9",
@@ -1064,7 +1064,7 @@
       "maxApertureTele": 3.5,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua94x8-7besm",
@@ -1096,7 +1096,7 @@
       "maxApertureTele": "unknown",
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens"
+      "productUrl": "https://www.fujinon.com/fujinon-product-guide/"
     },
     {
       "id": "fujinon-xa101x8-9",
@@ -1129,7 +1129,7 @@
       "maxApertureTele": 4.7,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -1160,7 +1160,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa17x7-6brm",
@@ -1191,7 +1191,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa20sx8-5b",
@@ -1222,7 +1222,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5bemd",
@@ -1253,7 +1253,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1284,7 +1284,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5bmd",
@@ -1315,7 +1315,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa22x7",
@@ -1346,7 +1346,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -1377,7 +1377,7 @@
       "maxApertureTele": 2.9,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -1408,7 +1408,7 @@
       "maxApertureTele": 3.5,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa72x9-3",
@@ -1439,7 +1439,7 @@
       "maxApertureTele": 3.5,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa77x9-5",
@@ -1470,7 +1470,7 @@
       "maxApertureTele": 3.8,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -1504,7 +1504,7 @@
       "fieldNotes": {
         "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
       },
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa88x8-8",
@@ -1535,7 +1535,7 @@
       "maxApertureTele": 3.8,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa99x8-4",
@@ -1566,7 +1566,7 @@
       "maxApertureTele": 4.15,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-za12x4-5",
@@ -1597,7 +1597,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     },
     {
       "id": "fujinon-za17x7-6",
@@ -1628,7 +1628,7 @@
       "maxApertureTele": 2.3,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     },
     {
       "id": "fujinon-za22x7-6",
@@ -1659,7 +1659,7 @@
       "maxApertureTele": 2.5,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     }
   ]
 }
