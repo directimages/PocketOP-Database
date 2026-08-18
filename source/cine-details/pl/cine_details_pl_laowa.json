@@ -3,7 +3,7 @@
     {
       "id": "laowa-ooom-25-100mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ooom-25-100mm-t2-9-cine/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 2700,
       "lengthMm": 240,
       "frontDiameterMm": 102,
@@ -42,12 +42,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ooom-25-100mm-t2-9-cine/"
     },
     {
       "id": "laowa-ranger-16-30mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 799,
       "lengthMm": 107.4,
       "frontDiameterMm": 80,
@@ -86,12 +87,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-28-75mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 1400,
       "lengthMm": 179.3,
       "frontDiameterMm": 80,
@@ -130,12 +132,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-75-180mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 1400,
       "lengthMm": 189,
       "frontDiameterMm": 80,
@@ -174,12 +177,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-lite-16-30mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 717,
       "lengthMm": 107.4,
       "frontDiameterMm": 80,
@@ -218,12 +222,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-lite-28-75mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 1264,
       "lengthMm": 179.3,
       "frontDiameterMm": 80,
@@ -262,12 +267,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-lite-75-180mm-t2-9-ff",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 1226,
       "lengthMm": 189,
       "frontDiameterMm": 80,
@@ -306,12 +312,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-11-18mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 745,
       "lengthMm": 108,
       "frontDiameterMm": 80,
@@ -350,12 +357,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-17-50mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 865,
       "lengthMm": 117,
       "frontDiameterMm": 80,
@@ -394,12 +402,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-50-130mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 760,
       "lengthMm": 135.9,
       "frontDiameterMm": 80,
@@ -438,12 +447,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-lite-11-18mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 660,
       "lengthMm": 108,
       "frontDiameterMm": 80,
@@ -482,12 +492,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-lite-17-50mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 775,
       "lengthMm": 117,
       "frontDiameterMm": 80,
@@ -526,12 +537,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ranger-s35-lite-50-130mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/",
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 665,
       "lengthMm": 135.9,
       "frontDiameterMm": 80,
@@ -570,12 +582,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/"
     },
     {
       "id": "laowa-ultima-25-600mm-t4-s35",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://laowacine.com/products",
       "weightG": 12300,
       "lengthMm": 470,
       "frontDiameterMm": null,

@@ -3,7 +3,7 @@
     {
       "id": "vantage-lightweight-zoom-17-35mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/",
       "weightG": 3200,
       "lengthMm": 210,
       "frontDiameterMm": null,
@@ -45,7 +45,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.vantagefilm.com/en/lenses"
     }
   ]
 }

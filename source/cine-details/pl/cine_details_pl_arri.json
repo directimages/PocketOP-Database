@@ -3,7 +3,7 @@
     {
       "id": "arri-alura-15-5-45mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 228,
       "frontDiameterMm": 114,
@@ -39,12 +39,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms"
     },
     {
       "id": "arri-alura-18-80mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 4700,
       "lengthMm": 285,
       "frontDiameterMm": 134,
@@ -80,12 +81,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms"
     },
     {
       "id": "arri-alura-30-80mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 228,
       "frontDiameterMm": 114,
@@ -121,12 +123,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms"
     },
     {
       "id": "arri-alura-45-250mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 7500,
       "lengthMm": 370,
       "frontDiameterMm": 134,
@@ -162,12 +165,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms"
     },
     {
       "id": "arri-master-prime-100mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2900,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -202,12 +206,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-12mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -242,12 +247,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-135mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2800,
       "lengthMm": 224,
       "frontDiameterMm": 114,
@@ -282,12 +288,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-14mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -322,12 +329,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-150mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 4000,
       "lengthMm": 262,
       "frontDiameterMm": 134,
@@ -362,12 +370,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-16mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -402,12 +411,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-18mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -442,12 +452,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-21mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -482,12 +493,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-25mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -522,12 +534,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-27mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2300,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -562,12 +575,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-32mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -602,12 +616,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-35mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2200,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -642,12 +657,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-40mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2300,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -682,12 +698,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-50mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2700,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -722,12 +739,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-65mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2600,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -762,12 +780,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-prime-75mm-t1-3",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2800,
       "lengthMm": 205,
       "frontDiameterMm": 114,
@@ -802,12 +821,13 @@
       "maxApertureWide": 1.3,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes"
     },
     {
       "id": "arri-master-zoom-16-5-110mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-zoom",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 12600,
       "lengthMm": 442,
       "frontDiameterMm": 165,
@@ -843,12 +863,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-zoom"
     },
     {
       "id": "arri-ultra-prime-100mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1200,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -882,12 +903,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-135mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1600,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -921,12 +943,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-14mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1800,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -960,12 +983,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-16mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1200,
       "lengthMm": 94,
       "frontDiameterMm": 95,
@@ -999,12 +1023,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-180mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2600,
       "lengthMm": 166,
       "frontDiameterMm": 114,
@@ -1038,12 +1063,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-20mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1200,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1077,12 +1103,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-24mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1000,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1116,12 +1143,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-28mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1000,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1155,12 +1183,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-32mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1100,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1194,12 +1223,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-40mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1000,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1233,12 +1263,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-50mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1000,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1272,12 +1303,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-65mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1100,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1311,12 +1343,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-ultra-prime-85mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1200,
       "lengthMm": 91,
       "frontDiameterMm": 95,
@@ -1350,12 +1383,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses"
     },
     {
       "id": "arri-uwz-9-5-18",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 4800,
       "lengthMm": 335.5,
       "frontDiameterMm": 134,
@@ -1391,7 +1425,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom"
     }
   ]
 }

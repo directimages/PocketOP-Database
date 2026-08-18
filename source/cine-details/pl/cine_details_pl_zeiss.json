@@ -3,7 +3,7 @@
     {
       "id": "zeiss-cp2-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1500,
       "lengthMm": 132,
       "frontDiameterMm": 114,
@@ -14,7 +14,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -45,7 +45,7 @@
     {
       "id": "zeiss-cp2-135mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1600,
       "lengthMm": 149,
       "frontDiameterMm": 114,
@@ -56,7 +56,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -87,7 +87,7 @@
     {
       "id": "zeiss-cp2-15mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 900,
       "lengthMm": 86,
       "frontDiameterMm": 114,
@@ -98,7 +98,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -129,7 +129,7 @@
     {
       "id": "zeiss-cp2-18mm-t3-6",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 900,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -140,7 +140,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -171,7 +171,7 @@
     {
       "id": "zeiss-cp2-21mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1000,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -182,7 +182,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -213,7 +213,7 @@
     {
       "id": "zeiss-cp2-25mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 900,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -224,7 +224,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -255,7 +255,7 @@
     {
       "id": "zeiss-cp2-28mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1000,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -266,7 +266,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -297,7 +297,7 @@
     {
       "id": "zeiss-cp2-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1000,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -308,7 +308,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -339,7 +339,7 @@
     {
       "id": "zeiss-cp2-50mm-macro-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1400,
       "lengthMm": 132,
       "frontDiameterMm": 134,
@@ -350,7 +350,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -381,7 +381,7 @@
     {
       "id": "zeiss-cp2-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 900,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -392,7 +392,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -423,7 +423,7 @@
     {
       "id": "zeiss-cp2-85mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 900,
       "lengthMm": 80,
       "frontDiameterMm": 114,
@@ -434,7 +434,7 @@
       "filterType": "matte_box",
       "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "significant",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
@@ -465,7 +465,7 @@
     {
       "id": "zeiss-cp3-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1010,
       "lengthMm": 126.5,
       "frontDiameterMm": 95,
@@ -503,12 +503,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-135mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1150,
       "lengthMm": 126.5,
       "frontDiameterMm": 95,
@@ -546,12 +547,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-15mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 870,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -589,12 +591,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-18mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 860,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -632,12 +635,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-21mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 820,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -675,12 +679,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-25mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 820,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -718,12 +723,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-28mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 840,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -761,12 +767,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 800,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -804,12 +811,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 770,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -847,12 +855,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cp3-85mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 880,
       "lengthMm": 83.7,
       "frontDiameterMm": 95,
@@ -890,12 +899,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html"
     },
     {
       "id": "zeiss-cz2-15-30mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2600,
       "lengthMm": 198,
       "frontDiameterMm": 114,
@@ -930,12 +940,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
     },
     {
       "id": "zeiss-cz2-28-80mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2500,
       "lengthMm": 196,
       "frontDiameterMm": 95,
@@ -970,12 +981,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
     },
     {
       "id": "zeiss-cz2-70-200mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2800,
       "lengthMm": 250,
       "frontDiameterMm": 95,
@@ -1010,12 +1022,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html"
     },
     {
       "id": "zeiss-lwz-2-15-5-45mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2000,
       "lengthMm": 209,
       "frontDiameterMm": 114,
@@ -1056,7 +1069,7 @@
     {
       "id": "zeiss-lwz3-21-100mm",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/lightweight-zoom-lwz-3.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2000,
       "lengthMm": 226,
       "frontDiameterMm": 114,
@@ -1093,12 +1106,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": 3.9,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/lightweight-zoom-lwz-3.html"
     },
     {
       "id": "zeiss-supreme-prime-100mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1700,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -1134,12 +1148,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-135mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2270,
       "lengthMm": 146,
       "frontDiameterMm": 114,
@@ -1175,12 +1190,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-150mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2270,
       "lengthMm": 146,
       "frontDiameterMm": 114,
@@ -1216,12 +1232,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-15mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2240,
       "lengthMm": 149,
       "frontDiameterMm": 114,
@@ -1257,12 +1274,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-18mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2270,
       "lengthMm": 163,
       "frontDiameterMm": 114,
@@ -1298,12 +1316,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-200mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2870,
       "lengthMm": 183,
       "frontDiameterMm": 114,
@@ -1339,12 +1358,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-21mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1610,
       "lengthMm": 120,
       "frontDiameterMm": 95,
@@ -1380,12 +1400,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-25mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1420,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -1421,12 +1442,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-29mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1610,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -1462,12 +1484,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1400,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -1503,12 +1526,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-40mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1490,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -1544,12 +1568,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1220,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -1585,12 +1610,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-65mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1630,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -1626,12 +1652,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-85mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1420,
       "lengthMm": 119,
       "frontDiameterMm": 95,
@@ -1667,12 +1694,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-radiance-135mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2270,
       "lengthMm": 146,
       "frontDiameterMm": 114,
@@ -1710,12 +1738,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"
     },
     {
       "id": "zeiss-supreme-prime-radiance-18mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2270,
       "lengthMm": 163,
       "frontDiameterMm": 114,
@@ -1753,12 +1782,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"
     },
     {
       "id": "zeiss-supreme-zoom-radiance-15-30mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2950,
       "lengthMm": 198,
       "frontDiameterMm": 114,
@@ -1794,12 +1824,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
     },
     {
       "id": "zeiss-supreme-zoom-radiance-28-80mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 2760,
       "lengthMm": 198,
       "frontDiameterMm": 114,
@@ -1835,12 +1866,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
     },
     {
       "id": "zeiss-supreme-zoom-radiance-70-200mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 3180,
       "lengthMm": 232,
       "frontDiameterMm": 114,
@@ -1876,7 +1908,8 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html"
     }
   ]
 }

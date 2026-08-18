@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "birddog-p100",
-      "manufacturerUrl": "https://birddog.tv/p100-overview/p100-techspecs/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -45,11 +45,12 @@
         "NDI",
         "RTSP"
       ],
-      "description": "An entry-level full NDI PTZ built on BirdDog's custom NDI silicon and a Sony sensor, with a 10x zoom and Full HD output over NDI, SDI, HDMI and USB. A flexible, professional starting point for boardrooms, worship and live sports streaming."
+      "description": "An entry-level full NDI PTZ built on BirdDog's custom NDI silicon and a Sony sensor, with a 10x zoom and Full HD output over NDI, SDI, HDMI and USB. A flexible, professional starting point for boardrooms, worship and live sports streaming.",
+      "productUrl": "https://birddog.tv/p100-overview/p100-techspecs/"
     },
     {
       "id": "birddog-p110",
-      "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -99,11 +100,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "An entry-level Full HD full NDI PTZ built on BirdDog's custom NDI silicon with a 10x wide-angle zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Suited to boardrooms, worship and education where wide coverage matters more than reach."
+      "description": "An entry-level Full HD full NDI PTZ built on BirdDog's custom NDI silicon with a 10x wide-angle zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Suited to boardrooms, worship and education where wide coverage matters more than reach.",
+      "productUrl": "https://birddog.tv/p110p120-overview/"
     },
     {
       "id": "birddog-p120",
-      "manufacturerUrl": "https://birddog.tv/p110p120-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -153,11 +155,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Full HD full NDI PTZ on BirdDog's custom NDI silicon with a 20x zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Built for worship, education and live events that need extra reach on an NDI network."
+      "description": "A Full HD full NDI PTZ on BirdDog's custom NDI silicon with a 20x zoom, outputting NDI, SDI, HDMI and USB with BirdDog's free colour-matching tools. Built for worship, education and live events that need extra reach on an NDI network.",
+      "productUrl": "https://birddog.tv/p110p120-overview/"
     },
     {
       "id": "birddog-p200",
-      "manufacturerUrl": "https://birddog.tv/p200-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -203,11 +206,12 @@
         "SRT",
         "RTSP"
       ],
-      "description": "BirdDog's long-reach Full HD full NDI PTZ, pairing a Sony Exmor R sensor with a powerful 30x zoom for capturing action from across a venue. A favourite for sports, worship and live events on an NDI network, with simultaneous NDI, SDI and HDMI output."
+      "description": "BirdDog's long-reach Full HD full NDI PTZ, pairing a Sony Exmor R sensor with a powerful 30x zoom for capturing action from across a venue. A favourite for sports, worship and live events on an NDI network, with simultaneous NDI, SDI and HDMI output.",
+      "productUrl": "https://birddog.tv/p200-overview/"
     },
     {
       "id": "birddog-p240",
-      "manufacturerUrl": "https://birddog.tv/p240-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -255,11 +259,12 @@
         "SRT",
         "RTSP"
       ],
-      "description": "A Full HD full NDI PTZ built on a larger 1/2.5-inch sensor with a 20x optical zoom (40x with Super Resolution Zoom in HD) and built-in, switchable image stabilization for steadier shots. With XLR audio and NDI, SDI and HDMI output, it suits worship, sports and live production."
+      "description": "A Full HD full NDI PTZ built on a larger 1/2.5-inch sensor with a 20x optical zoom (40x with Super Resolution Zoom in HD) and built-in, switchable image stabilization for steadier shots. With XLR audio and NDI, SDI and HDMI output, it suits worship, sports and live production.",
+      "productUrl": "https://birddog.tv/p240-overview/"
     },
     {
       "id": "birddog-p400",
-      "manufacturerUrl": "https://birddog.tv/p400-overview/p400-techspecs/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -306,11 +311,12 @@
         "NDI|HX",
         "RTSP"
       ],
-      "description": "A 4K full NDI PTZ pairing a 1/2.5-inch Sony sensor with BirdDog's custom NDI silicon and a 20x zoom, debuting 10-bit 4:2:2 NDI for professional colour and shading. With built-in image stabilization and free colour-matching tools, it suits broadcast, live events and high-end worship."
+      "description": "A 4K full NDI PTZ pairing a 1/2.5-inch Sony sensor with BirdDog's custom NDI silicon and a 20x zoom, debuting 10-bit 4:2:2 NDI for professional colour and shading. With built-in image stabilization and free colour-matching tools, it suits broadcast, live events and high-end worship.",
+      "productUrl": "https://birddog.tv/p400-overview/p400-techspecs/"
     },
     {
       "id": "birddog-p4k",
-      "manufacturerUrl": "https://birddog.tv/p4k-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -359,11 +365,12 @@
         "NDI|HX",
         "RTSP"
       ],
-      "description": "A flagship 4K full NDI PTZ built around a large 1-inch Sony sensor with a 12x zoom, built-in ND filters and switchable image stabilization for clean, cinematic images in demanding light. Outputs full NDI, HDMI and 6G-SDI, for broadcast, live production and high-end worship."
+      "description": "A flagship 4K full NDI PTZ built around a large 1-inch Sony sensor with a 12x zoom, built-in ND filters and switchable image stabilization for clean, cinematic images in demanding light. Outputs full NDI, HDMI and 6G-SDI, for broadcast, live production and high-end worship.",
+      "productUrl": "https://birddog.tv/p4k-overview/"
     },
     {
       "id": "birddog-x1",
-      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
@@ -409,11 +416,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ in BirdDog's X-series with a 12x zoom, NDI|HX3 and built-in Wi-Fi, adding AI tracking, a halo tally and an E-Ink identification display, plus an integrated NDI|HX decoder for confidence monitoring or teleprompting. Built for streamlined live production, worship and corporate on an NDI network."
+      "description": "A Full HD PTZ in BirdDog's X-series with a 12x zoom, NDI|HX3 and built-in Wi-Fi, adding AI tracking, a halo tally and an E-Ink identification display, plus an integrated NDI|HX decoder for confidence monitoring or teleprompting. Built for streamlined live production, worship and corporate on an NDI network.",
+      "productUrl": "https://birddog.tv/x1-overview/"
     },
     {
       "id": "birddog-x1-30x",
-      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
@@ -458,11 +466,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ in BirdDog's X-series with a long 30x zoom, NDI|HX3 and built-in Wi-Fi, plus AI tracking, a halo tally, an E-Ink display and an integrated NDI|HX decoder for confidence feeds. Built for larger venues, worship and sports on an NDI network."
+      "description": "A Full HD PTZ in BirdDog's X-series with a long 30x zoom, NDI|HX3 and built-in Wi-Fi, plus AI tracking, a halo tally, an E-Ink display and an integrated NDI|HX decoder for confidence feeds. Built for larger venues, worship and sports on an NDI network.",
+      "productUrl": "https://birddog.tv/x1-overview/"
     },
     {
       "id": "birddog-x1-ultra",
-      "manufacturerUrl": "https://birddog.tv/x1-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
@@ -508,11 +517,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The 4K member of BirdDog's X-series, a 4K30 PTZ with a 12x zoom and a 1/2.8-inch Sony sensor, carrying NDI|HX3, Wi-Fi, AI auto-framing, a halo tally, an E-Ink display and an integrated NDI|HX decoder. Built for accessible 4K live production, worship and corporate streaming."
+      "description": "The 4K member of BirdDog's X-series, a 4K30 PTZ with a 12x zoom and a 1/2.8-inch Sony sensor, carrying NDI|HX3, Wi-Fi, AI auto-framing, a halo tally, an E-Ink display and an integrated NDI|HX decoder. Built for accessible 4K live production, worship and corporate streaming.",
+      "productUrl": "https://birddog.tv/x1-overview/"
     },
     {
       "id": "birddog-max",
-      "manufacturerUrl": "https://birddog.tv/max-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-485",
@@ -564,11 +574,12 @@
         "RTMP"
       ],
       "trackingDataOut": [],
-      "description": "The BirdDog MAX is a 4K UHD PTZ built on a Sony 1/2.8-inch CMOS with a 12x optical zoom (3.42-40.02mm, F1.88-3.77) and an unusually wide 80.56 degree field of view. BirdDog positions it to bridge the gap between everyday webcams and full production cameras, working as both a USB-C UVC webcam and a networked NDI|HX camera with HDMI out. It adds on-camera AI tracking with auto-framing, motorized pan and tilt and 255 presets, powered by DC 12V or PoE. It suits worship, education, corporate and hybrid meeting rooms."
+      "description": "The BirdDog MAX is a 4K UHD PTZ built on a Sony 1/2.8-inch CMOS with a 12x optical zoom (3.42-40.02mm, F1.88-3.77) and an unusually wide 80.56 degree field of view. BirdDog positions it to bridge the gap between everyday webcams and full production cameras, working as both a USB-C UVC webcam and a networked NDI|HX camera with HDMI out. It adds on-camera AI tracking with auto-framing, motorized pan and tilt and 255 presets, powered by DC 12V or PoE. It suits worship, education, corporate and hybrid meeting rooms.",
+      "productUrl": "https://birddog.tv/max-overview/"
     },
     {
       "id": "birddog-x4-ultra",
-      "manufacturerUrl": "https://birddog.tv/x4-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
@@ -624,11 +635,12 @@
         "RTMP"
       ],
       "trackingDataOut": [],
-      "description": "The BirdDog X4 Ultra is a 4K60 PTZ built around a 1/1.8-inch Sony UHD CMOS and a 20x optical zoom (6.25-125mm, F1.58-3.95) covering a 60 to 3.5 degree horizontal field of view. Fully motorized with 255 presets and built-in AI tracking (Presenter and Zone modes), it carries 3G-SDI, HDMI, USB-C UVC and NDI|HX2/HX3 with RTSP, RTMP and SRT. Uniquely in its class it adds WiFi 6 and an internal battery for up to six hours of untethered operation, and runs on DC 12V, PoE+ or USB-C. It targets flexible multi-camera live production, worship and corporate."
+      "description": "The BirdDog X4 Ultra is a 4K60 PTZ built around a 1/1.8-inch Sony UHD CMOS and a 20x optical zoom (6.25-125mm, F1.58-3.95) covering a 60 to 3.5 degree horizontal field of view. Fully motorized with 255 presets and built-in AI tracking (Presenter and Zone modes), it carries 3G-SDI, HDMI, USB-C UVC and NDI|HX2/HX3 with RTSP, RTMP and SRT. Uniquely in its class it adds WiFi 6 and an internal battery for up to six hours of untethered operation, and runs on DC 12V, PoE+ or USB-C. It targets flexible multi-camera live production, worship and corporate.",
+      "productUrl": "https://birddog.tv/x4-overview/"
     },
     {
       "id": "birddog-x4e-ultra",
-      "manufacturerUrl": "https://birddog.tv/x4e-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA IP",
@@ -677,11 +689,12 @@
         "RTMP"
       ],
       "trackingDataOut": [],
-      "description": "The BirdDog X4E Ultra is the wired-first sibling of the X4 Ultra: the same 1/1.8-inch Sony UHD CMOS, 20x zoom (6.25-125mm, F1.58-3.95), 4K60 capture, built-in AI auto-tracking and identical I/O (3G-SDI, HDMI, USB-C UVC and IP over a single PoE+ cable), but without WiFi 6 or the internal battery. Streaming is via NDI|HX3/HX2, RTSP, RTMP and SRT, with control over VISCA, VISCA over IP and ONVIF. A 360 degree halo tally, 255 presets and an e-ink label round it out. It targets simpler, lower-cost wired multi-camera installs."
+      "description": "The BirdDog X4E Ultra is the wired-first sibling of the X4 Ultra: the same 1/1.8-inch Sony UHD CMOS, 20x zoom (6.25-125mm, F1.58-3.95), 4K60 capture, built-in AI auto-tracking and identical I/O (3G-SDI, HDMI, USB-C UVC and IP over a single PoE+ cable), but without WiFi 6 or the internal battery. Streaming is via NDI|HX3/HX2, RTSP, RTMP and SRT, with control over VISCA, VISCA over IP and ONVIF. A 360 degree halo tally, 255 presets and an e-ink label round it out. It targets simpler, lower-cost wired multi-camera installs.",
+      "productUrl": "https://birddog.tv/x4e-overview/"
     },
     {
       "id": "birddog-x5-ultra",
-      "manufacturerUrl": "https://birddog.tv/x5-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -732,11 +745,12 @@
         "RTMP"
       ],
       "trackingDataOut": [],
-      "description": "The BirdDog X5 Ultra is a 4K60 PTZ on a 1/2.8-inch Sony UHD CMOS with a 20x optical zoom (5.4-104mm, F1.6-3.6, 56.6 to 3.0 degrees horizontal). Its broad I/O spans 12G-SDI, dual HDMI, USB-C UVC and gigabit network, streaming NDI|HX2/HX3, SRT, RTSP and RTMP, with an integrated NDI|HX decoder for return feeds. Built-in AI auto-tracking, a fast motor drive up to 200 degrees/second, 128 speed-adjustable presets, dual e-ink displays, a halo tally and a 49mm filter thread round it out. Powered by PoE+ or DC 12V, it suits demanding live production and worship."
+      "description": "The BirdDog X5 Ultra is a 4K60 PTZ on a 1/2.8-inch Sony UHD CMOS with a 20x optical zoom (5.4-104mm, F1.6-3.6, 56.6 to 3.0 degrees horizontal). Its broad I/O spans 12G-SDI, dual HDMI, USB-C UVC and gigabit network, streaming NDI|HX2/HX3, SRT, RTSP and RTMP, with an integrated NDI|HX decoder for return feeds. Built-in AI auto-tracking, a fast motor drive up to 200 degrees/second, 128 speed-adjustable presets, dual e-ink displays, a halo tally and a 49mm filter thread round it out. Powered by PoE+ or DC 12V, it suits demanding live production and worship.",
+      "productUrl": "https://birddog.tv/x5-overview/"
     },
     {
       "id": "birddog-xl-ultra",
-      "manufacturerUrl": "https://birddog.tv/xl/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -801,11 +815,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The BirdDog XL Ultra is a flagship 4K PTZ on a 4/3-inch Sony 5K CMOS with a 20x zoom (9.8-186mm, F2.8-4.5) and a 71 to 4 degree horizontal field of view. Built for broadcast, virtual production and high-end AV, it has the broadest I/O of the range: 12G-SDI, dual 3G-SDI, HDMI, USB-C and SFP+ fiber, plus High-Bandwidth (full) NDI and NDI|HX2/HX3 with SRT, RTSP and RTMP. It supports FreeD position output for AR and virtual sets, advanced AI tracking, a built-in ND filter and digital stabilization, with control over VISCA, serial VISCA, Pelco-P/D and RS-232/422. It runs on PoE++ or DC 12V."
+      "description": "The BirdDog XL Ultra is a flagship 4K PTZ on a 4/3-inch Sony 5K CMOS with a 20x zoom (9.8-186mm, F2.8-4.5) and a 71 to 4 degree horizontal field of view. Built for broadcast, virtual production and high-end AV, it has the broadest I/O of the range: 12G-SDI, dual 3G-SDI, HDMI, USB-C and SFP+ fiber, plus High-Bandwidth (full) NDI and NDI|HX2/HX3 with SRT, RTSP and RTMP. It supports FreeD position output for AR and virtual sets, advanced AI tracking, a built-in ND filter and digital stabilization, with control over VISCA, serial VISCA, Pelco-P/D and RS-232/422. It runs on PoE++ or DC 12V.",
+      "productUrl": "https://birddog.tv/xl/"
     },
     {
       "id": "birddog-o4",
-      "manufacturerUrl": "https://birddog.tv/o4-overview/",
+      "manufacturerUrl": "https://birddog.tv",
       "controlProtocols": [
         "VISCA RS-232",
         "VISCA RS-422",
@@ -865,7 +880,8 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The BirdDog O4 is an outdoor 4K60 PTZ on a Sony 1/1.8-inch UHD CMOS with a 30x optical zoom (6.9-215mm; 60x in HD mode) in an IP66 die-cast aluminium body rated -40 to +60 Celsius with an integrated heater. It streams High-Bandwidth NDI plus NDI|HX2/HX3 and SRT, RTMP and RTSP, with native 12G-SDI and SFP fiber output and PoE++ power. A built-in AI tracking engine follows subjects, and a 500m IR laser with IR-cut filter enables total-darkness capture. FreeD position data (over UDP and embedded in NDI) supports AR and virtual-set workflows, with control over VISCA over IP, Pelco and RS-232/422."
+      "description": "The BirdDog O4 is an outdoor 4K60 PTZ on a Sony 1/1.8-inch UHD CMOS with a 30x optical zoom (6.9-215mm; 60x in HD mode) in an IP66 die-cast aluminium body rated -40 to +60 Celsius with an integrated heater. It streams High-Bandwidth NDI plus NDI|HX2/HX3 and SRT, RTMP and RTSP, with native 12G-SDI and SFP fiber output and PoE++ power. A built-in AI tracking engine follows subjects, and a 500m IR laser with IR-cut filter enables total-darkness capture. FreeD position data (over UDP and embedded in NDI) supports AR and virtual-set workflows, with control over VISCA over IP, Pelco and RS-232/422.",
+      "productUrl": "https://birddog.tv/o4-overview/"
     }
   ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "irix-cine-150mm-t3-0-tele-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-150mm-t3-0-tele/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 1202,
       "lengthMm": 159.0,
       "frontDiameterMm": 95,
@@ -43,12 +43,13 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "hasMacro": true
+      "hasMacro": true,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-150mm-t3-0-tele/"
     },
     {
       "id": "irix-cine-15mm-t2-6-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-15mm-t2-6/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 962,
       "lengthMm": 115.0,
       "frontDiameterMm": 95,
@@ -87,12 +88,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-15mm-t2-6/"
     },
     {
       "id": "irix-cine-21mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-21mm-t1-5/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 1209,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -131,12 +133,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-21mm-t1-5/"
     },
     {
       "id": "irix-cine-30mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-30mm-t1-5/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 1223,
       "lengthMm": 131.0,
       "frontDiameterMm": 95,
@@ -175,12 +178,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-30mm-t1-5/"
     },
     {
       "id": "irix-cine-45mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-45mm-t1-5/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 1203,
       "lengthMm": 136.0,
       "frontDiameterMm": 95,
@@ -219,12 +223,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-45mm-t1-5/"
     },
     {
       "id": "irix-cine-65mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://irixusa.com/lenses/irix-cine-65mm-t1-5/",
+      "manufacturerUrl": "https://www.irixusa.com/cine-lenses",
       "weightG": 1395,
       "lengthMm": 137.0,
       "frontDiameterMm": 95,
@@ -263,7 +268,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://irixusa.com/lenses/irix-cine-65mm-t1-5/"
     }
   ]
 }

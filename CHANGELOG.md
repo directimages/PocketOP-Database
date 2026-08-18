@@ -3,6 +3,11 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.36.1 — 2026-08-18
+
+- db-v20 payload item E4: `generation` corrected "Cinema" -> "Photography" on 30 Canon EF L-series photographic lenses (series "EF") that had been misclassified during import. The genuine Cinema EOS CN-E primes (series "CN-E") are untouched. cine_lenses.json split bumped to v1.33.1 (same 30 corrections). Entry count unchanged, 730
+- Staged for release db-v20 (branch `tim/linkmodel-stap3`; the merge to main that cuts the tag is a separate step)
+
 ### v1.36.0 — 2026-08-11
 
 - 5 new cine lens entries: 3 Sony FE G Master lenses (E mount, fullFrame, generation "Photography"): FE 35mm F1.4 GM, FE 70-200mm F2.8 GM OSS, FE 70-200mm F2.8 GM OSS II; 2 Canon CN-E Flex Zoom EF-mount entries (canon-cne20-50mm-t2-4-ff-ef, canon-cne45-135mm-t2-4-ff-ef), matching the existing PL-mount twins
@@ -137,6 +142,12 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.54.1 — 2026-08-18
+
+- db-v20 payload item C16: `hasFocusBreathing` corrected on 12 entries (11 Zeiss CP.2 primes -> "significant"; sony-fe-35mm-f1-4-gm -> "moderate"); `focusRingRotationDeg` corrected on angenieux-optimo-19-5-94 (320 -> 329). Entry count unchanged, 606
+- Both fields are carried by the legacy union (lens-details.json), which bumps alongside
+- Staged for release db-v20
+
 ### v1.54.0 — 2026-08-11
 
 - Sidecars for the 5 new cine lens entries above: 3 Sony FE G Master (weightG/lengthMm/closeFocusM/opticalElements/filterThreadMm/hasIS from sony.co.uk specifications, tier-1; imageCircleMm 43.3 reasoned from full-frame coverage, Sony does not publish an exact image circle) + 2 Canon CN-E Flex Zoom EF entries (specs identical to the PL siblings; mount split per POS-D09; B&H 5726C007 / 5915C007 spec tables)
@@ -183,6 +194,12 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.53.1 — 2026-08-18
+
+- db-v20 payload item PURL (Canon broadcast half): `productUrl` corrected/added on 3 entries: canon-cj45ex13-6b and canon-cj45ex9-7b to their live canon-europe.com product pages, canon-j35ex15b to its canon-europe.com support/manuals page (no live product page exists). Entry count unchanged, 124
+- `productUrl` is not carried by the legacy union (lens-details.json), so that file does not bump for this change
+- Staged for release db-v20
+
 ### v1.53.0 — 2026-07-23
 
 - Broadcast aperture/IS batch: maxApertureWide, maxApertureTele, apertureType and hasIS populated for all 124 broadcast lenses via build/apply_fields.py. First population of these fields for broadcast; schema-registered and gated, now filled. Values Kay-supplied and verified (broadcast aperture/IS B5 consolidation). 499 fields applied to 124 ids across 5 shards, zero orphans (pre-flight verified against db-v10)
@@ -218,6 +235,11 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.56.1 — 2026-08-18
+
+- Legacy union rebuild aggregating the cine_lens_details v1.54.1 db-v20 item C16 corrections above (hasFocusBreathing on 12 entries, focusRingRotationDeg on 1). The db-v20 PURL productUrl corrections (broadcast_lens_details v1.53.1) do not touch this file: productUrl is not in the union's legacy whitelist. Entry count unchanged, 730
+- Staged for release db-v20
+
 ### v1.56.0 — 2026-08-11
 
 - Legacy union rebuild aggregating the cine_lens_details v1.54.0 sidecars above (5 new entries) and the cine_lenses v1.33.0 core mirror (5 additions plus the RF -> PL mount correction on the 2 existing Flex Zoom twins). Entry count: lenses union 725 -> 730
@@ -693,6 +715,18 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.24.1 — 2026-08-18
+
+db-v20 payload, four items land in ptz_details.json (and its shared-meta hyphen alias ptz-details.json):
+
+- E3: 7 Minrray fieldNotes entries cleaned up per POS-D41 (nuance-mechanism misuse) across minrray-uv515-3x, minrray-uv515-10x, minrray-uv540-5x, minrray-uv540-10x, minrray-bc420t (fieldNotes object removed entirely, 5 entries) and minrray-uv570-12x, minrray-uv570-20x (hFOVWide note text rewritten, 2 entries). `fieldNotes` is in the alias's legacy whitelist, so ptz-details.json's own bytes change here too
+- C16 (PTZ half): `autoTracking` set on fomako-kn20 ("ai"), canon-cr-x300 and canon-cr-x500 ("basic", plus a verbatim `autoTrackingNote` matching the existing Canon CR-N app-based-tracking models)
+- PURL (AVer half): `productUrl` corrected on aver-ptc500 (live model page), and cleared to null on aver-tr323nv2 (dead support page) and aver-ptc330u (only an unrelated v2 model page lives; no cross-model link)
+- B3b/E2: `streamingProtocols` corrected on 17 entries. 14 bare `["IP"]` placeholders plus a bonus (streamingProtocols was entirely absent on sony-brc-h900) resolved to real protocol lists or an evidence-of-absence `[]`: ptzoptics-pt30x/pt12x/pt20x-link-4k -> `["SRT","RTSP","RTMP","RTMPS","Dante AV-H"]` (the 12x/20x also correct a prior wrong set that carried NDI|HX3 instead of RTMPS); panasonic-aw-he130/he38/he40 -> `["RTSP"]`; panasonic-aw-he20 -> `["RTSP","RTMP","RTMPS"]`; panasonic-aw-he42 -> `["RTSP","RTMP"]`; panasonic-aw-ue150 -> `["NDI|HX2","SRT","RTSP","RTMP"]`; bolin-b2-210/b2-220/b6-420 -> `["RTSP","RTMP","RTMPS","SRT","MPEG-TS"]`; sony-srg-360she -> `["RTSP"]`; sony-srg-300h, sony-brc-h800, sony-brc-x1000, sony-brc-h900 -> `[]` (no IP video streaming, evidence of absence per POS-D63). Plus `productUrl` corrected on ptzoptics-pt12x-link-4k and ptzoptics-pt20x-link-4k, moved from the move-4k product page to the correct link-4k page
+- `autoTracking`, `streamingProtocols` and `productUrl` are not in the legacy alias's whitelist, so ptz-details.json's own bytes are unaffected by the C16/PURL/B3b items above; its reported version still bumps because it shares meta_ptz_details.json with ptz_details.json (POS-W44 shared-meta case)
+- Entry count unchanged, 254
+- Staged for release db-v20
 
 ### v1.24.0 — 2026-08-11
 

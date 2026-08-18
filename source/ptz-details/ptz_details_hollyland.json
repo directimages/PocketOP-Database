@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "hollyland-astra-p1",
-      "manufacturerUrl": "https://hollyland.com/product/astra-p1",
+      "manufacturerUrl": "https://www.hollyland.com/collections",
       "controlProtocols": [
         "VISCA",
         "Pelco-D"
@@ -47,11 +47,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "Hollyland's first PTZ camera and its move beyond wireless gear into live production, a 4K60 camera built on a large 1/1.8-inch sensor with a 30x zoom for clean footage in dim halls. It pairs AI auto-tracking, with presenter and multi-zone modes, and face-detection auto-exposure with a free NDI|HX3 licence and single-cable PoE+ operation. Aimed at houses of worship, auditoriums and live events where a small team needs professional, hands-free coverage."
+      "description": "Hollyland's first PTZ camera and its move beyond wireless gear into live production, a 4K60 camera built on a large 1/1.8-inch sensor with a 30x zoom for clean footage in dim halls. It pairs AI auto-tracking, with presenter and multi-zone modes, and face-detection auto-exposure with a free NDI|HX3 licence and single-cable PoE+ operation. Aimed at houses of worship, auditoriums and live events where a small team needs professional, hands-free coverage.",
+      "productUrl": "https://hollyland.com/product/astra-p1"
     },
     {
       "id": "hollyland-arocam-c2",
-      "manufacturerUrl": "https://www.hollyland.com/product/arocam-c2",
+      "manufacturerUrl": "https://www.hollyland.com/collections",
       "controlProtocols": [
         "VISCA",
         "Pelco-D",
@@ -105,7 +106,8 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "A compact 1080p60 PTZ with a 1/2.8-inch CMOS sensor and a genuine 12x optical zoom (3.5-42.3mm, F1.8-2.8, 72.5 to 6.9 degree horizontal field of view). It offers motorized pan/tilt with 255 presets, ToF instantaneous autofocus, and native portrait/vertical output aimed at live streaming, live commerce and webinars. Connectivity is via HDMI and USB-C (UVC) plus a network interface with RTSP and RTMP(S), ONVIF and RS-232 VISCA/Pelco control; there is no SDI, NDI, PoE, built-in subject tracking or FreeD output. It is powered by DC 12V or USB 5V and weighs 1.5kg."
+      "description": "A compact 1080p60 PTZ with a 1/2.8-inch CMOS sensor and a genuine 12x optical zoom (3.5-42.3mm, F1.8-2.8, 72.5 to 6.9 degree horizontal field of view). It offers motorized pan/tilt with 255 presets, ToF instantaneous autofocus, and native portrait/vertical output aimed at live streaming, live commerce and webinars. Connectivity is via HDMI and USB-C (UVC) plus a network interface with RTSP and RTMP(S), ONVIF and RS-232 VISCA/Pelco control; there is no SDI, NDI, PoE, built-in subject tracking or FreeD output. It is powered by DC 12V or USB 5V and weighs 1.5kg.",
+      "productUrl": "https://www.hollyland.com/product/arocam-c2"
     }
   ]
 }

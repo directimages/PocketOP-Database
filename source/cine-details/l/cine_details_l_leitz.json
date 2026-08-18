@@ -3,7 +3,7 @@
     {
       "id": "leitz-hektor-100mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 970,
       "lengthMm": 123.0,
       "frontDiameterMm": 80,
@@ -36,12 +36,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hektor-18mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 840,
       "lengthMm": 88.2,
       "frontDiameterMm": 80,
@@ -74,12 +75,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hektor-25mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 770,
       "lengthMm": 88.2,
       "frontDiameterMm": 80,
@@ -112,12 +114,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hektor-35mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 710,
       "lengthMm": 88.2,
       "frontDiameterMm": 80,
@@ -150,12 +153,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hektor-50mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 660,
       "lengthMm": 88.2,
       "frontDiameterMm": 80,
@@ -188,12 +192,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hektor-73mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hektor/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 720,
       "lengthMm": 88.2,
       "frontDiameterMm": 80,
@@ -226,12 +231,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hektor/"
     },
     {
       "id": "leitz-hugo-135mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 722,
       "lengthMm": 119.0,
       "frontDiameterMm": 95,
@@ -266,12 +272,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-18mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1040,
       "lengthMm": 71.0,
       "frontDiameterMm": 95,
@@ -306,12 +313,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-21mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 857,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -346,12 +354,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-24mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 878,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -386,12 +395,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-28mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 820,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -426,12 +436,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-35mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 810,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -466,12 +477,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-40mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 860,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -506,12 +518,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-50mm-t1-0-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1160,
       "lengthMm": 81.0,
       "frontDiameterMm": 95,
@@ -546,12 +559,13 @@
       "maxApertureWide": 1.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-50mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 840,
       "lengthMm": 68.5,
       "frontDiameterMm": 95,
@@ -586,12 +600,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-66mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 820,
       "lengthMm": 81.0,
       "frontDiameterMm": 95,
@@ -626,12 +641,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-75mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1405,
       "lengthMm": 112.0,
       "frontDiameterMm": 95,
@@ -666,12 +682,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-75mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 898,
       "lengthMm": 81.0,
       "frontDiameterMm": 95,
@@ -706,12 +723,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-90mm-t1-5-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1375,
       "lengthMm": 112.0,
       "frontDiameterMm": 95,
@@ -746,12 +764,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     },
     {
       "id": "leitz-hugo-90mm-t2-1-l",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/hugo/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 907,
       "lengthMm": 81.0,
       "frontDiameterMm": 95,
@@ -786,7 +805,8 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/hugo/"
     }
   ]
 }

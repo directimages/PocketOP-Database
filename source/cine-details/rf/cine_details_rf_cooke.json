@@ -3,7 +3,7 @@
     {
       "id": "cooke-sp3-100mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 690,
       "lengthMm": 124,
       "frontDiameterMm": null,
@@ -36,12 +36,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     },
     {
       "id": "cooke-sp3-18mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 688,
       "lengthMm": 109,
       "frontDiameterMm": null,
@@ -75,12 +76,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     },
     {
       "id": "cooke-sp3-25mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 575,
       "lengthMm": 98,
       "frontDiameterMm": null,
@@ -113,12 +115,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     },
     {
       "id": "cooke-sp3-32mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 520,
       "lengthMm": 94,
       "frontDiameterMm": null,
@@ -151,12 +154,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     },
     {
       "id": "cooke-sp3-50mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 500,
       "lengthMm": 94,
       "frontDiameterMm": null,
@@ -189,12 +193,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     },
     {
       "id": "cooke-sp3-75mm-t2-4-rf",
       "lensType": "cine",
-      "manufacturerUrl": "https://cookeoptics.com/lens/sp3/",
+      "manufacturerUrl": "https://cookeoptics.com/lenses/",
       "weightG": 520,
       "lengthMm": 98,
       "frontDiameterMm": null,
@@ -227,7 +232,8 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://cookeoptics.com/lens/sp3/"
     }
   ]
 }

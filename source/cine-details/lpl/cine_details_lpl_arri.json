@@ -3,7 +3,7 @@
     {
       "id": "arri-signature-prime-125mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2300,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -37,12 +37,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-12mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2800,
       "lengthMm": 239,
       "frontDiameterMm": 134,
@@ -76,12 +77,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-150mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 3250,
       "lengthMm": 208,
       "frontDiameterMm": 114,
@@ -115,12 +117,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-15mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2800,
       "lengthMm": 197,
       "frontDiameterMm": 156,
@@ -154,12 +157,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-18mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2000,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -193,12 +197,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-200mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 3100,
       "lengthMm": 218,
       "frontDiameterMm": 114,
@@ -232,12 +237,13 @@
       "maxApertureWide": 2.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-21mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1900,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -271,12 +277,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-25mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1900,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -310,12 +317,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-280mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 4300,
       "lengthMm": 278,
       "frontDiameterMm": 134,
@@ -349,12 +357,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-29mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1800,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -388,12 +397,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-35mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1700,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -427,12 +437,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-40mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1800,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -466,12 +477,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-47mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1800,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -505,12 +517,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-58mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 2000,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -544,12 +557,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-75mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1900,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -583,12 +597,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-prime-95mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 1900,
       "lengthMm": 178,
       "frontDiameterMm": 114,
@@ -622,12 +637,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes"
     },
     {
       "id": "arri-signature-zoom-16-32",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 3200,
       "lengthMm": 212,
       "frontDiameterMm": 156,
@@ -663,12 +679,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
     },
     {
       "id": "arri-signature-zoom-24-75",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 3700,
       "lengthMm": 244,
       "frontDiameterMm": 114,
@@ -704,12 +721,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
     },
     {
       "id": "arri-signature-zoom-45-135",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 3600,
       "lengthMm": 300,
       "frontDiameterMm": 114,
@@ -745,12 +763,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
     },
     {
       "id": "arri-signature-zoom-65-300",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms",
+      "manufacturerUrl": "https://www.arri.com/en/cine-lenses",
       "weightG": 8100,
       "lengthMm": 420,
       "frontDiameterMm": 156,
@@ -786,7 +805,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms"
     }
   ]
 }

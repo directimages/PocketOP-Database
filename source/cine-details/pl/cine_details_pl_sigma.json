@@ -3,7 +3,7 @@
     {
       "id": "sigma-cine-18-35mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/18_35_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1400,
       "lengthMm": 121.5,
       "frontDiameterMm": 95,
@@ -45,12 +45,13 @@
       "hasIS": false,
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/18_35_2/"
     },
     {
       "id": "sigma-cine-50-100mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/50_100_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1900,
       "lengthMm": 167.2,
       "frontDiameterMm": 95,
@@ -92,12 +93,13 @@
       "hasIS": false,
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/50_100_2/"
     },
     {
       "id": "sigma-ff-prime-105mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/105_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 126.2,
       "frontDiameterMm": 95,
@@ -136,12 +138,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/105_15/"
     },
     {
       "id": "sigma-ff-prime-135mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/135_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1500,
       "lengthMm": 106.9,
       "frontDiameterMm": 95,
@@ -180,12 +183,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/135_2/"
     },
     {
       "id": "sigma-ff-prime-14mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/14_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1400,
       "lengthMm": 111.5,
       "frontDiameterMm": 95,
@@ -224,12 +228,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/14_2/"
     },
     {
       "id": "sigma-ff-prime-20mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/20_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1300,
       "lengthMm": 110.0,
       "frontDiameterMm": 95,
@@ -268,12 +273,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/20_15/"
     },
     {
       "id": "sigma-ff-prime-24mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/24_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1100,
       "lengthMm": 87.0,
       "frontDiameterMm": 95,
@@ -312,12 +318,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/24_15/"
     },
     {
       "id": "sigma-ff-prime-28mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/28_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1300,
       "lengthMm": 99.7,
       "frontDiameterMm": 95,
@@ -356,12 +363,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/28_15/"
     },
     {
       "id": "sigma-ff-prime-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/35_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1100,
       "lengthMm": 87.0,
       "frontDiameterMm": 95,
@@ -400,12 +408,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/35_15/"
     },
     {
       "id": "sigma-ff-prime-40mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/40_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1500,
       "lengthMm": 123.0,
       "frontDiameterMm": 95,
@@ -444,12 +453,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/40_15/"
     },
     {
       "id": "sigma-ff-prime-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/50_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1200,
       "lengthMm": 94.0,
       "frontDiameterMm": 95,
@@ -488,12 +498,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/50_15/"
     },
     {
       "id": "sigma-ff-prime-65mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/65_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1500,
       "lengthMm": 120.6,
       "frontDiameterMm": 95,
@@ -532,12 +543,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/65_15/"
     },
     {
       "id": "sigma-ff-prime-85mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/85_15/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1400,
       "lengthMm": 118.9,
       "frontDiameterMm": 95,
@@ -576,7 +588,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/85_15/"
     }
   ]
 }

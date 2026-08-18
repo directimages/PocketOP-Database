@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "obsbot-tail-2",
-      "manufacturerUrl": "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs",
+      "manufacturerUrl": "https://www.obsbot.com",
       "controlProtocols": [
         "VISCA",
         "VISCA over IP",
@@ -55,7 +55,8 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "An AI-tracking PTZR live-production camera built on a 1/1.5-inch CMOS sensor with a 5x optical zoom and a 81 to 18 degree horizontal field of view, shooting 4K at 60fps. Its motorized head adds a 90-degree lens roll to pan and tilt for vertical 4K, and its built-in AI Tracking 2.0 follows people, animals and objects without an external PC. It carries pro-AV connectivity including 3G-SDI, HDMI 2.0, USB-C and IP with NDI|HX3, SRT, RTSP and RTMP, plus VISCA over IP and RS-232 control, FreeD output and PoE+. It is battery-powered and targets solo live production and virtual sets."
+      "description": "An AI-tracking PTZR live-production camera built on a 1/1.5-inch CMOS sensor with a 5x optical zoom and a 81 to 18 degree horizontal field of view, shooting 4K at 60fps. Its motorized head adds a 90-degree lens roll to pan and tilt for vertical 4K, and its built-in AI Tracking 2.0 follows people, animals and objects without an external PC. It carries pro-AV connectivity including 3G-SDI, HDMI 2.0, USB-C and IP with NDI|HX3, SRT, RTSP and RTMP, plus VISCA over IP and RS-232 control, FreeD output and PoE+. It is battery-powered and targets solo live production and virtual sets.",
+      "productUrl": "https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs"
     }
   ]
 }

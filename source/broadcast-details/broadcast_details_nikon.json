@@ -3,7 +3,7 @@
     {
       "id": "nikon-s13x9",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 2200,
       "lengthMm": 241,
       "frontDiameterMm": null,
@@ -33,7 +33,7 @@
     {
       "id": "nikon-s15x8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 1250,
       "lengthMm": 177,
       "frontDiameterMm": null,
@@ -63,7 +63,7 @@
     {
       "id": "nikon-s19x8",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 1650,
       "lengthMm": 215,
       "frontDiameterMm": null,
@@ -93,7 +93,7 @@
     {
       "id": "nikon-s9x5-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 2150,
       "lengthMm": 232,
       "frontDiameterMm": null,

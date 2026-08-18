@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "bolin-b2-210",
-      "manufacturerUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -44,13 +44,18 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
-      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach."
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach.",
+      "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
     },
     {
       "id": "bolin-b2-220",
-      "manufacturerUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -93,13 +98,18 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
-      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget."
+      "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget.",
+      "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
     },
     {
       "id": "bolin-b6-420",
-      "manufacturerUrl": "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -142,13 +152,18 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
-      "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues."
+      "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues.",
+      "productUrl": "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera"
     },
     {
       "id": "bolin-d2-210h",
-      "manufacturerUrl": "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -195,11 +210,12 @@
         "RTMP",
         "Dante AV-H"
       ],
-      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with Dante AV-H video and audio over IP alongside HDMI and USB. Built for conference rooms and Pro AV installations already running a Dante network."
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with Dante AV-H video and audio over IP alongside HDMI and USB. Built for conference rooms and Pro AV installations already running a Dante network.",
+      "productUrl": "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera"
     },
     {
       "id": "bolin-d2-220h",
-      "manufacturerUrl": "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -247,11 +263,12 @@
         "RTMP",
         "Dante AV-H"
       ],
-      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with Dante AV-H over IP and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on a Dante backbone."
+      "description": "The Dante AV-H version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with Dante AV-H over IP and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on a Dante backbone.",
+      "productUrl": "https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera"
     },
     {
       "id": "bolin-n2-210x",
-      "manufacturerUrl": "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -297,11 +314,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with certified NDI|HX3 alongside HDMI, USB and IP. Built for conference rooms, studios and worship spaces on an NDI network."
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 10x wide-angle zoom with certified NDI|HX3 alongside HDMI, USB and IP. Built for conference rooms, studios and worship spaces on an NDI network.",
+      "productUrl": "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera"
     },
     {
       "id": "bolin-n2-220x",
-      "manufacturerUrl": "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -349,11 +367,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with certified NDI|HX3 and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on an NDI backbone."
+      "description": "The NDI|HX3 version of Bolin's Blue Line Full HD PTZ, pairing a 1/2.8-inch Sony sensor and 20x zoom with certified NDI|HX3 and adding 3G-SDI alongside HDMI and USB. Built for lecture halls, event spaces and mid-sized venues on an NDI backbone.",
+      "productUrl": "https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera"
     },
     {
       "id": "bolin-r9-230h",
-      "manufacturerUrl": "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -407,11 +426,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Red Line Full HD PTZ built for low light and high motion, pairing a 1/1.8-inch Sony image block with a 30x zoom and Super Image Stabilization Plus for steady shots in sports, concerts and dim venues. It carries broadcast features including dual 3G-SDI, optical SDI, Genlock, FreeD and XLR audio, and is certified for medical spaces."
+      "description": "A Red Line Full HD PTZ built for low light and high motion, pairing a 1/1.8-inch Sony image block with a 30x zoom and Super Image Stabilization Plus for steady shots in sports, concerts and dim venues. It carries broadcast features including dual 3G-SDI, optical SDI, Genlock, FreeD and XLR audio, and is certified for medical spaces.",
+      "productUrl": "https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz"
     },
     {
       "id": "bolin-r9-418f",
-      "manufacturerUrl": "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -464,11 +484,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, for broadcast studios, theatres, worship and corporate production. It outputs dual 6G-SDI, HDMI and optical SDI with an SFP+ slot for 12G fiber, plus FreeD tracking and XLR audio, and is certified for medical use."
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, for broadcast studios, theatres, worship and corporate production. It outputs dual 6G-SDI, HDMI and optical SDI with an SFP+ slot for 12G fiber, plus FreeD tracking and XLR audio, and is certified for medical use.",
+      "productUrl": "https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera"
     },
     {
       "id": "bolin-r9-418n",
-      "manufacturerUrl": "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA IP",
         "VISCA RS-232",
@@ -523,11 +544,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, foregrounding NDI High Bandwidth and NDI|HX3 with NDI Embedded Bridge for remote and multi-venue production. Alongside NDI it carries dual 6G-SDI, HDMI, optical SDI, FreeD tracking and XLR audio for broadcast, live events and worship."
+      "description": "A Red Line 4K PTZ built around a 1-inch Sony sensor with an 18x Zeiss zoom, built-in ND filters and optical stabilization, foregrounding NDI High Bandwidth and NDI|HX3 with NDI Embedded Bridge for remote and multi-venue production. Alongside NDI it carries dual 6G-SDI, HDMI, optical SDI, FreeD tracking and XLR audio for broadcast, live events and worship.",
+      "productUrl": "https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera"
     },
     {
       "id": "bolin-range",
-      "manufacturerUrl": "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -583,11 +605,12 @@
       "description": "Bolin's all-weather 4K60 PTZ, built to go where standard PTZ cameras cannot, with a 1/1.8-inch sensor, a 25x zoom and gyro stabilization across pan, tilt and roll plus a 270-degree roll axis for horizon correction and creative angles. Weatherproof and fast-moving, with built-in subject tracking and simultaneous 12G-SDI, HDMI, USB-C and NDI output, for sports, arenas, touring, outdoor events and worship.",
       "trackingDataOut": [
         "FreeD"
-      ]
+      ],
+      "productUrl": "https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz"
     },
     {
       "id": "bolin-exu420f",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -639,11 +662,12 @@
         "FreeD"
       ],
       "fieldNotes": {},
-      "description": "Bolin's flagship EX-Ultra outdoor PTZ: a weatherproof, IP67-rated 4K60 pan/tilt/zoom head for broadcast, sports and situational-awareness work in harsh conditions. Outputs baseband and IP simultaneously, with a built-in rain wiper, heater and sun shield, and FreeD support for virtual production."
+      "description": "Bolin's flagship EX-Ultra outdoor PTZ: a weatherproof, IP67-rated 4K60 pan/tilt/zoom head for broadcast, sports and situational-awareness work in harsh conditions. Outputs baseband and IP simultaneously, with a built-in rain wiper, heater and sun shield, and FreeD support for virtual production.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-exu420n",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -697,11 +721,12 @@
         "FreeD"
       ],
       "fieldNotes": {},
-      "description": "The NDI edition of Bolin's flagship EX-Ultra outdoor 4K60 PTZ, adding certified NDI High Bandwidth and NDI|HX3 with an NDI Embedded Bridge alongside the same weatherproof, FreeD-enabled feature set for IP-based live production outdoors."
+      "description": "The NDI edition of Bolin's flagship EX-Ultra outdoor 4K60 PTZ, adding certified NDI High Bandwidth and NDI|HX3 with an NDI Embedded Bridge alongside the same weatherproof, FreeD-enabled feature set for IP-based live production outdoors.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-exu248f",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -755,11 +780,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A long-range outdoor 4K PTZ pairing a Sony 1-inch sensor with a Zeiss Vario-Sonnar T zoom, built for reach in POV, sports and broadcast work. Weatherproof IP67 body with optical stabilisation, built-in ND, rain wiper, heater and FreeD support."
+      "description": "A long-range outdoor 4K PTZ pairing a Sony 1-inch sensor with a Zeiss Vario-Sonnar T zoom, built for reach in POV, sports and broadcast work. Weatherproof IP67 body with optical stabilisation, built-in ND, rain wiper, heater and FreeD support.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-exu248n",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -814,11 +840,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The NDI edition of Bolin's long-range outdoor 4K PTZ with a Sony 1-inch sensor and Zeiss Vario-Sonnar T zoom, adding NDI|HX3 streaming to the same weatherproof, stabilised, FreeD-enabled platform."
+      "description": "The NDI edition of Bolin's long-range outdoor 4K PTZ with a Sony 1-inch sensor and Zeiss Vario-Sonnar T zoom, adding NDI|HX3 streaming to the same weatherproof, stabilised, FreeD-enabled platform.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-exu230h",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -872,11 +899,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "An outdoor low-light PTZ built on a Sony 1/1.8-inch STARVIS II sensor with a 30x zoom and a powerful super image stabiliser, aimed at broadcast and situational awareness in extreme conditions. IP67 weatherproofing, rain wiper, heater and FreeD support."
+      "description": "An outdoor low-light PTZ built on a Sony 1/1.8-inch STARVIS II sensor with a 30x zoom and a powerful super image stabiliser, aimed at broadcast and situational awareness in extreme conditions. IP67 weatherproofing, rain wiper, heater and FreeD support.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-exu230nx",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -931,11 +959,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The NDI HX3 edition of Bolin's outdoor low-light 1/1.8-inch STARVIS II PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, weatherproof, FreeD-enabled platform."
+      "description": "The NDI HX3 edition of Bolin's outdoor low-light 1/1.8-inch STARVIS II PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, weatherproof, FreeD-enabled platform.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-ex1030h",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -986,11 +1015,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A ruggedised long-range outdoor PTZ from Bolin's Red Line, upgraded from the legacy EX1000 series. Nitrogen-filled IP67 body with 360-degree continuous pan, a built-in laser IR illuminator for long-distance night work, roll-axis levelling and FreeD support for aerospace, security and broadcast use."
+      "description": "A ruggedised long-range outdoor PTZ from Bolin's Red Line, upgraded from the legacy EX1000 series. Nitrogen-filled IP67 body with 360-degree continuous pan, a built-in laser IR illuminator for long-distance night work, roll-axis levelling and FreeD support for aerospace, security and broadcast use.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-ex1030nx",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -1042,11 +1072,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The NDI HX3 edition of Bolin's Red Line long-range outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the nitrogen-filled, laser-IR-equipped, FreeD-enabled platform with 360-degree continuous pan."
+      "description": "The NDI HX3 edition of Bolin's Red Line long-range outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the nitrogen-filled, laser-IR-equipped, FreeD-enabled platform with 360-degree continuous pan.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-sd530h",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -1097,11 +1128,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A compact ruggedised outdoor PTZ from Bolin's Red Line (SD500 series, Gen 3), pairing a Sony 1/2.8-inch STARVIS II sensor and 30x zoom with a super image stabiliser, roll-axis levelling and FreeD support in a weatherproof IP67 body for POV, sports and broadcast work."
+      "description": "A compact ruggedised outdoor PTZ from Bolin's Red Line (SD500 series, Gen 3), pairing a Sony 1/2.8-inch STARVIS II sensor and 30x zoom with a super image stabiliser, roll-axis levelling and FreeD support in a weatherproof IP67 body for POV, sports and broadcast work.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-sd530nx",
-      "manufacturerUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -1153,11 +1185,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "The NDI HX3 edition of Bolin's Red Line compact outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, roll-axis, FreeD-enabled weatherproof platform."
+      "description": "The NDI HX3 edition of Bolin's Red Line compact outdoor PTZ, adding NDI|HX3 with an NDI Embedded Bridge to the same 30x, super-stabilised, roll-axis, FreeD-enabled weatherproof platform.",
+      "productUrl": "https://bolintechnology.com/professional-outdoor-ptz-camera-line"
     },
     {
       "id": "bolin-r9-l420n",
-      "manufacturerUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera",
+      "manufacturerUrl": "https://www.bolintechnology.com",
       "controlProtocols": [
         "VISCA RS-422",
         "VISCA IP",
@@ -1211,7 +1244,8 @@
         "FreeD"
       ],
       "fieldNotes": {},
-      "description": "Bolin's large-sensor indoor broadcast PTZ, introduced at NAB 2026. A 1-inch 4K60 head with a 20x zoom and 1080p120 high-frame-rate capture, phase- and contrast-detection autofocus, a mechanical ND filter, genlock and LTC timecode, plus local SSD recording, aimed at demanding multi-camera studio and live production."
+      "description": "Bolin's large-sensor indoor broadcast PTZ, introduced at NAB 2026. A 1-inch 4K60 head with a 20x zoom and 1080p120 high-frame-rate capture, phase- and contrast-detection autofocus, a mechanical ND filter, genlock and LTC timecode, plus local SSD recording, aimed at demanding multi-camera studio and live production.",
+      "productUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
     }
   ]
 }

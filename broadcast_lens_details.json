@@ -1,11 +1,11 @@
 {
-  "version": "1.53.0",
-  "updatedAt": "2026-07-23",
+  "version": "1.53.1",
+  "updatedAt": "2026-08-18",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 5200,
       "lengthMm": 345,
       "frontDiameterMm": null,
@@ -35,7 +35,7 @@
     {
       "id": "angenieux-t15x8-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 5500,
       "lengthMm": 372,
       "frontDiameterMm": null,
@@ -65,7 +65,7 @@
     {
       "id": "angenieux-t19x7-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 1840,
       "lengthMm": 216,
       "frontDiameterMm": null,
@@ -99,7 +99,7 @@
     {
       "id": "angenieux-t26x7-8b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 1980,
       "lengthMm": 245,
       "frontDiameterMm": null,
@@ -131,7 +131,7 @@
     {
       "id": "canon-cj12ex4-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2100,
       "lengthMm": 247.8,
       "frontDiameterMm": null,
@@ -161,7 +161,7 @@
     {
       "id": "canon-cj14ex4-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2110,
       "lengthMm": 247.8,
       "frontDiameterMm": null,
@@ -193,7 +193,7 @@
     {
       "id": "canon-cj15ex4-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2190,
       "lengthMm": 249.6,
       "frontDiameterMm": null,
@@ -223,7 +223,7 @@
     {
       "id": "canon-cj15ex8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2030,
       "lengthMm": 239.5,
       "frontDiameterMm": null,
@@ -253,7 +253,7 @@
     {
       "id": "canon-cj18ex28b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2760,
       "lengthMm": 268.3,
       "frontDiameterMm": null,
@@ -283,7 +283,7 @@
     {
       "id": "canon-cj18ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1650,
       "lengthMm": 206.2,
       "frontDiameterMm": null,
@@ -315,7 +315,7 @@
     {
       "id": "canon-cj20ex5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2240,
       "lengthMm": 251.7,
       "frontDiameterMm": null,
@@ -347,7 +347,7 @@
     {
       "id": "canon-cj20ex7-8b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2180,
       "lengthMm": 230.0,
       "frontDiameterMm": null,
@@ -377,7 +377,7 @@
     {
       "id": "canon-cj24ex7-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1820,
       "lengthMm": 221.4,
       "frontDiameterMm": null,
@@ -407,7 +407,7 @@
     {
       "id": "canon-cj25ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1990,
       "lengthMm": 223.6,
       "frontDiameterMm": null,
@@ -439,7 +439,7 @@
     {
       "id": "canon-cj27ex7-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2100,
       "lengthMm": 229.0,
       "frontDiameterMm": null,
@@ -473,7 +473,7 @@
     {
       "id": "canon-cj45ex13-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5640,
       "lengthMm": 355.0,
       "frontDiameterMm": null,
@@ -499,12 +499,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 5.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/cj45ex13-6b/"
     },
     {
       "id": "canon-cj45ex9-7b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5600,
       "lengthMm": 337,
       "frontDiameterMm": null,
@@ -530,12 +531,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": 3.9,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/cj45ex9.7b/"
     },
     {
       "id": "canon-hj11ex4-7b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1940,
       "lengthMm": 241.0,
       "frontDiameterMm": null,
@@ -565,7 +567,7 @@
     {
       "id": "canon-hj11x4-7b-kll-sc",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1600,
       "lengthMm": 260.0,
       "frontDiameterMm": null,
@@ -597,7 +599,7 @@
     {
       "id": "canon-hj14ex4-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1990,
       "lengthMm": 247.8,
       "frontDiameterMm": null,
@@ -629,7 +631,7 @@
     {
       "id": "canon-hj15ex8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1990,
       "lengthMm": 239.1,
       "frontDiameterMm": null,
@@ -659,7 +661,7 @@
     {
       "id": "canon-hj17ex6-2b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1970,
       "lengthMm": 240.5,
       "frontDiameterMm": null,
@@ -689,7 +691,7 @@
     {
       "id": "canon-hj17ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1600,
       "lengthMm": 206.4,
       "frontDiameterMm": null,
@@ -719,7 +721,7 @@
     {
       "id": "canon-hj18ex28b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2500,
       "lengthMm": 268.3,
       "frontDiameterMm": null,
@@ -749,7 +751,7 @@
     {
       "id": "canon-hj18ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1600,
       "lengthMm": 206.4,
       "frontDiameterMm": null,
@@ -779,7 +781,7 @@
     {
       "id": "canon-hj21ex7-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2630,
       "lengthMm": 260.1,
       "frontDiameterMm": null,
@@ -809,7 +811,7 @@
     {
       "id": "canon-hj21x7-5b-kll-sc",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2400,
       "lengthMm": 260.0,
       "frontDiameterMm": null,
@@ -841,7 +843,7 @@
     {
       "id": "canon-hj22ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1830,
       "lengthMm": 221.4,
       "frontDiameterMm": null,
@@ -871,7 +873,7 @@
     {
       "id": "canon-hj24ex7-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1780,
       "lengthMm": 221.4,
       "frontDiameterMm": null,
@@ -903,7 +905,7 @@
     {
       "id": "canon-hj40ex10b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5400,
       "lengthMm": 335.4,
       "frontDiameterMm": null,
@@ -935,7 +937,7 @@
     {
       "id": "canon-hj40ex14b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5450,
       "lengthMm": 355.5,
       "frontDiameterMm": null,
@@ -967,7 +969,7 @@
     {
       "id": "canon-hj40x10b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5400,
       "lengthMm": 335.5,
       "frontDiameterMm": null,
@@ -999,7 +1001,7 @@
     {
       "id": "canon-hj8x5-5b-kll-sc",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 2000,
       "lengthMm": 245.2,
       "frontDiameterMm": null,
@@ -1031,7 +1033,7 @@
     {
       "id": "canon-j35ex11b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 4500,
       "lengthMm": 316.0,
       "frontDiameterMm": null,
@@ -1061,7 +1063,7 @@
     {
       "id": "canon-j35ex15b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 4510,
       "lengthMm": 330.0,
       "frontDiameterMm": null,
@@ -1087,12 +1089,13 @@
       "maxApertureWide": 2.7,
       "maxApertureTele": 4.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/support/consumer/products/lenses/bctv/j35ex15b4-iase-h-sx12.html?type=manuals&language=EN"
     },
     {
       "id": "canon-kj10ex4-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1830,
       "lengthMm": 237.7,
       "frontDiameterMm": null,
@@ -1124,7 +1127,7 @@
     {
       "id": "canon-kj13x6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1590,
       "lengthMm": 211.7,
       "frontDiameterMm": null,
@@ -1156,7 +1159,7 @@
     {
       "id": "canon-kj16ex7-7b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1470,
       "lengthMm": 197.4,
       "frontDiameterMm": null,
@@ -1186,7 +1189,7 @@
     {
       "id": "canon-kj17ex7-7b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1480,
       "lengthMm": 197.8,
       "frontDiameterMm": null,
@@ -1218,7 +1221,7 @@
     {
       "id": "canon-kj20x8-2b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1420,
       "lengthMm": 208.0,
       "frontDiameterMm": null,
@@ -1250,7 +1253,7 @@
     {
       "id": "canon-kj20x8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1270,
       "lengthMm": 170.4,
       "frontDiameterMm": null,
@@ -1280,7 +1283,7 @@
     {
       "id": "canon-kj21ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1790,
       "lengthMm": 218.6,
       "frontDiameterMm": null,
@@ -1310,7 +1313,7 @@
     {
       "id": "canon-kj22ex7-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 1820,
       "lengthMm": 218.6,
       "frontDiameterMm": null,
@@ -1344,7 +1347,7 @@
     {
       "id": "canon-uj111x8-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 26600,
       "lengthMm": 637.4,
       "frontDiameterMm": null,
@@ -1381,7 +1384,7 @@
     {
       "id": "canon-uj122x8-2b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 26600,
       "lengthMm": 637.4,
       "frontDiameterMm": null,
@@ -1418,7 +1421,7 @@
     {
       "id": "canon-uj122x8-2b-af",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 26600,
       "lengthMm": 637.4,
       "frontDiameterMm": null,
@@ -1451,7 +1454,7 @@
     {
       "id": "canon-uj27x6-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 21500,
       "lengthMm": 550,
       "frontDiameterMm": null,
@@ -1485,7 +1488,7 @@
     {
       "id": "canon-uj66x9b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -1517,7 +1520,7 @@
     {
       "id": "canon-uj86x9-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 27000,
       "lengthMm": 637.4,
       "frontDiameterMm": null,
@@ -1551,7 +1554,7 @@
     {
       "id": "canon-uj90x9b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -1583,7 +1586,7 @@
     {
       "id": "canon-xj100x9-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23500,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -1613,7 +1616,7 @@
     {
       "id": "canon-xj22x7-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 6100,
       "lengthMm": 336,
       "frontDiameterMm": null,
@@ -1650,7 +1653,7 @@
     {
       "id": "canon-xj23x7b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 19500,
       "lengthMm": 525,
       "frontDiameterMm": null,
@@ -1687,7 +1690,7 @@
     {
       "id": "canon-xj25x6-8b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 21500,
       "lengthMm": 557.8,
       "frontDiameterMm": null,
@@ -1722,7 +1725,7 @@
     {
       "id": "canon-xj27x6-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 21900,
       "lengthMm": 550,
       "frontDiameterMm": null,
@@ -1759,7 +1762,7 @@
     {
       "id": "canon-xj60x9b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 19900,
       "lengthMm": 547.8,
       "frontDiameterMm": null,
@@ -1793,7 +1796,7 @@
     {
       "id": "canon-xj72x9-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 21500,
       "lengthMm": 569,
       "frontDiameterMm": null,
@@ -1826,7 +1829,7 @@
     {
       "id": "canon-xj75x9-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 22000,
       "lengthMm": 591.5,
       "frontDiameterMm": null,
@@ -1858,7 +1861,7 @@
     {
       "id": "canon-xj76x9b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23000,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -1890,7 +1893,7 @@
     {
       "id": "canon-xj80x8-8b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -1922,7 +1925,7 @@
     {
       "id": "canon-xj86x13-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 24300,
       "lengthMm": 618.4,
       "frontDiameterMm": null,
@@ -1954,7 +1957,7 @@
     {
       "id": "canon-xj86x9-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23500,
       "lengthMm": 591.5,
       "frontDiameterMm": null,
@@ -1988,7 +1991,7 @@
     {
       "id": "canon-xj86x9-3b-af",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 26800,
       "lengthMm": 661.5,
       "frontDiameterMm": null,
@@ -2020,7 +2023,7 @@
     {
       "id": "canon-xj95x12-4b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -2052,7 +2055,7 @@
     {
       "id": "canon-xj95x8-6b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -2084,7 +2087,7 @@
     {
       "id": "fujinon-ha13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2109,12 +2112,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2140,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2139,12 +2143,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha16x6-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2169,12 +2174,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1970,
       "lengthMm": 240.5,
       "frontDiameterMm": 95,
@@ -2199,12 +2205,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1650,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -2229,12 +2236,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha19x7-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2150,
       "lengthMm": 238.5,
       "frontDiameterMm": 100,
@@ -2259,12 +2267,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha22x7-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 3000,
       "lengthMm": 287.3,
       "frontDiameterMm": 110,
@@ -2289,12 +2298,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha22x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1780,
       "lengthMm": 218.6,
       "frontDiameterMm": 100,
@@ -2319,12 +2329,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.5,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1880,
       "lengthMm": 223.6,
       "frontDiameterMm": 100,
@@ -2349,12 +2360,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.65,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ha25x11-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2810,
       "lengthMm": 265.0,
       "frontDiameterMm": 110.0,
@@ -2379,12 +2391,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha25x16-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2900,
       "lengthMm": 276.0,
       "frontDiameterMm": 110.0,
@@ -2409,12 +2422,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 4.0,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 19700,
       "lengthMm": 539,
       "frontDiameterMm": null,
@@ -2441,12 +2455,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": 2.2,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-ha42x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 5400,
       "lengthMm": 357.5,
       "frontDiameterMm": 130.0,
@@ -2474,12 +2489,13 @@
       "hasIS": false,
       "fieldNotes": {
         "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
-      }
+      },
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-ha42x9-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 5300,
       "lengthMm": 338.5,
       "frontDiameterMm": 130.0,
@@ -2507,12 +2523,13 @@
       "hasIS": false,
       "fieldNotes": {
         "hasIS": "OS-TECH optical image stabilization is offered on the U48 and G48 factory variants; the standard S48/F48 variants have none."
-      }
+      },
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha"
     },
     {
       "id": "fujinon-la16x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 163.8,
       "frontDiameterMm": 85,
@@ -2537,12 +2554,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-la30x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1700,
       "lengthMm": 190.0,
       "frontDiameterMm": 100,
@@ -2567,12 +2585,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": 3.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua107x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 23900,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -2597,12 +2616,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua107x8-4-af",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 26000,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -2627,12 +2647,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua125x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 26600,
       "lengthMm": 635.0,
       "frontDiameterMm": null,
@@ -2657,12 +2678,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 5.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2280,
       "lengthMm": 253.0,
       "frontDiameterMm": 95.0,
@@ -2687,12 +2709,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2210,
       "lengthMm": 238.5,
       "frontDiameterMm": 95.0,
@@ -2717,12 +2740,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua16x4berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2290,
       "lengthMm": 252.6,
       "frontDiameterMm": 95,
@@ -2748,12 +2772,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": "unknown",
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ua18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2040,
       "lengthMm": 240.5,
       "frontDiameterMm": 95.0,
@@ -2778,12 +2803,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 204.0,
       "frontDiameterMm": 85.0,
@@ -2808,12 +2834,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua22x4-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2170,
       "lengthMm": 251.0,
       "frontDiameterMm": null,
@@ -2838,12 +2865,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 3.15,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujinon.com/fujinon-product-guide/"
     },
     {
       "id": "fujinon-ua22x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2550,
       "lengthMm": 241.5,
       "frontDiameterMm": 110.0,
@@ -2868,12 +2896,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.55,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1950,
       "lengthMm": 221.4,
       "frontDiameterMm": 100.0,
@@ -2898,12 +2927,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.65,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua24x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 220.5,
       "frontDiameterMm": 100.0,
@@ -2928,12 +2958,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.85,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 22800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -2958,12 +2989,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": 2.2,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua30x7-3berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2260,
       "lengthMm": 230.9,
       "frontDiameterMm": 95,
@@ -2991,12 +3023,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": "unknown",
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-ua46x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 5800,
       "lengthMm": 364.2,
       "frontDiameterMm": 146.5,
@@ -3021,12 +3054,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 5.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua46x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 5700,
       "lengthMm": 345.8,
       "frontDiameterMm": 146.5,
@@ -3051,12 +3085,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": 3.9,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
     },
     {
       "id": "fujinon-ua70x8-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 23800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3081,12 +3116,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.05,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua80x9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 23700,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3111,12 +3147,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens"
     },
     {
       "id": "fujinon-ua94x8-7besm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/box-lens/4k-uh-box-lens",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 24300,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -3142,12 +3179,13 @@
       "maxApertureWide": "unknown",
       "maxApertureTele": "unknown",
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujinon.com/fujinon-product-guide/"
     },
     {
       "id": "fujinon-xa101x8-9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 22900,
       "lengthMm": 660,
       "frontDiameterMm": null,
@@ -3174,12 +3212,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.7,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa17x7-6berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1580,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -3204,12 +3243,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa17x7-6brm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1530,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -3234,12 +3274,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa20sx8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": 85.0,
@@ -3264,12 +3305,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5bemd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.8,
       "frontDiameterMm": null,
@@ -3294,12 +3336,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.4,
       "frontDiameterMm": 85.0,
@@ -3324,12 +3367,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa20sx8-5bmd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": null,
@@ -3354,12 +3398,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
     },
     {
       "id": "fujinon-xa22x7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 6600,
       "lengthMm": 340.0,
       "frontDiameterMm": 127,
@@ -3384,12 +3429,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa55x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 20800,
       "lengthMm": 876.0,
       "frontDiameterMm": null,
@@ -3414,12 +3460,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa66x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 634.0,
       "frontDiameterMm": null,
@@ -3444,12 +3491,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.5,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa72x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 21000,
       "lengthMm": 656.0,
       "frontDiameterMm": null,
@@ -3474,12 +3522,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.5,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa77x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 22400,
       "lengthMm": 656.4,
       "frontDiameterMm": null,
@@ -3504,12 +3553,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.8,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-xa87x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 631,
       "frontDiameterMm": null,
@@ -3537,12 +3587,13 @@
       "hasIS": false,
       "fieldNotes": {
         "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
-      }
+      },
+      "productUrl": null
     },
     {
       "id": "fujinon-xa88x8-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 24500,
       "lengthMm": 575.0,
       "frontDiameterMm": null,
@@ -3567,12 +3618,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.8,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": null
     },
     {
       "id": "fujinon-xa99x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 24000,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3597,12 +3649,13 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.15,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
     },
     {
       "id": "fujinon-za12x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 2070,
       "lengthMm": 237.5,
       "frontDiameterMm": 95.0,
@@ -3627,12 +3680,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     },
     {
       "id": "fujinon-za17x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 203.0,
       "frontDiameterMm": 85.0,
@@ -3657,12 +3711,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.3,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     },
     {
       "id": "fujinon-za22x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
       "weightG": 1920,
       "lengthMm": 220.4,
       "frontDiameterMm": 100.0,
@@ -3687,12 +3742,13 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.5,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za"
     },
     {
       "id": "nikon-s13x9",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 2200,
       "lengthMm": 241,
       "frontDiameterMm": null,
@@ -3722,7 +3778,7 @@
     {
       "id": "nikon-s15x8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 1250,
       "lengthMm": 177,
       "frontDiameterMm": null,
@@ -3752,7 +3808,7 @@
     {
       "id": "nikon-s19x8",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 1650,
       "lengthMm": 215,
       "frontDiameterMm": null,
@@ -3782,7 +3838,7 @@
     {
       "id": "nikon-s9x5-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 2150,
       "lengthMm": 232,
       "frontDiameterMm": null,
@@ -3812,7 +3868,7 @@
     {
       "id": "zeiss-digizoom-17-112",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/home.html",
       "weightG": 4000,
       "lengthMm": 300,
       "frontDiameterMm": null,
@@ -3844,7 +3900,7 @@
     {
       "id": "zeiss-digizoom-6-24",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/home.html",
       "weightG": 2760,
       "lengthMm": 250,
       "frontDiameterMm": null,

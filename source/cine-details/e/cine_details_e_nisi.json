@@ -3,7 +3,7 @@
     {
       "id": "nisi-athena-135mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -26,12 +26,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-14mm-t2-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -54,12 +55,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-18mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -82,12 +84,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-25mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -110,12 +113,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-35mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -138,12 +142,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-40mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -166,12 +171,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-50mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -194,12 +200,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     },
     {
       "id": "nisi-athena-85mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "manufacturerUrl": "https://en.nisioptics.com/",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -222,7 +229,8 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
     }
   ]
 }

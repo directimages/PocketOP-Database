@@ -3,7 +3,7 @@
     {
       "id": "angenieux-t12x5-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 5200,
       "lengthMm": 345,
       "frontDiameterMm": null,
@@ -33,7 +33,7 @@
     {
       "id": "angenieux-t15x8-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 5500,
       "lengthMm": 372,
       "frontDiameterMm": null,
@@ -63,7 +63,7 @@
     {
       "id": "angenieux-t19x7-3b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 1840,
       "lengthMm": 216,
       "frontDiameterMm": null,
@@ -97,7 +97,7 @@
     {
       "id": "angenieux-t26x7-8b",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.angenieux.com/",
       "weightG": 1980,
       "lengthMm": 245,
       "frontDiameterMm": null,

@@ -3,7 +3,7 @@
     {
       "id": "tokina-atx-11-20mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://tokinacinema.com/11-20mm-t29",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1030,
       "lengthMm": 99.6,
       "frontDiameterMm": 95,
@@ -42,12 +42,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://tokinacinema.com/11-20mm-t29"
     },
     {
       "id": "tokina-atx-25-75mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinema.com/2575mm-t29",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1960,
       "lengthMm": 174.0,
       "frontDiameterMm": 95,
@@ -86,12 +87,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinema.com/2575mm-t29"
     },
     {
       "id": "tokina-atx-50-135mm-t2-9-mkii",
       "lensType": "cine",
-      "manufacturerUrl": "https://tokinalens.com/product/50_135mm_t2_9_mkii/",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1450,
       "lengthMm": 147.7,
       "frontDiameterMm": 95,
@@ -130,12 +132,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://tokinalens.com/product/50_135mm_t2_9_mkii/"
     },
     {
       "id": "tokina-vista-16-28mm-t3-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://tokinacinema.com/1628mm-t30-mkii",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1750,
       "lengthMm": 142.0,
       "frontDiameterMm": 114,
@@ -174,12 +177,13 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://tokinacinema.com/1628mm-t30-mkii"
     },
     {
       "id": "tokina-vista-c-105mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2560,
       "lengthMm": 147,
       "frontDiameterMm": 114,
@@ -212,12 +216,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-135mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2990,
       "lengthMm": 173,
       "frontDiameterMm": 114,
@@ -250,12 +255,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-180mm-t1-9-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 3260,
       "lengthMm": 181,
       "frontDiameterMm": 114,
@@ -288,12 +294,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-18mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2680,
       "lengthMm": 168,
       "frontDiameterMm": 114,
@@ -326,12 +333,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-21mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2330,
       "lengthMm": 148,
       "frontDiameterMm": 114,
@@ -364,12 +372,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-25mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2190,
       "lengthMm": 141,
       "frontDiameterMm": 114,
@@ -402,12 +411,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-29mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2250,
       "lengthMm": 151,
       "frontDiameterMm": 114,
@@ -440,12 +450,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-35mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1950,
       "lengthMm": 131,
       "frontDiameterMm": 114,
@@ -478,12 +489,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-40mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2240,
       "lengthMm": 146,
       "frontDiameterMm": 114,
@@ -516,12 +528,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-50mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2110,
       "lengthMm": 131,
       "frontDiameterMm": 114,
@@ -554,12 +567,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-65mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2290,
       "lengthMm": 147,
       "frontDiameterMm": 114,
@@ -592,12 +606,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-c-85mm-t1-5-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2150,
       "lengthMm": 131,
       "frontDiameterMm": 114,
@@ -630,12 +645,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/products/vista-c-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-105mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2560,
       "lengthMm": 161.0,
       "frontDiameterMm": 114,
@@ -670,12 +686,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-135mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2990,
       "lengthMm": 187.0,
       "frontDiameterMm": 114,
@@ -710,12 +727,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-180mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 3260,
       "lengthMm": 195.0,
       "frontDiameterMm": 114,
@@ -750,12 +768,13 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-18mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2680,
       "lengthMm": 182.0,
       "frontDiameterMm": 114,
@@ -790,12 +809,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-21mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2330,
       "lengthMm": 162.0,
       "frontDiameterMm": 114,
@@ -830,12 +850,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-25mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2190,
       "lengthMm": 155.0,
       "frontDiameterMm": 114,
@@ -870,12 +891,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-29mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2250,
       "lengthMm": 165.0,
       "frontDiameterMm": 114,
@@ -910,12 +932,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 1950,
       "lengthMm": 145.0,
       "frontDiameterMm": 114,
@@ -950,12 +973,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-40mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2240,
       "lengthMm": 160.0,
       "frontDiameterMm": 114,
@@ -990,12 +1014,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2110,
       "lengthMm": 145.0,
       "frontDiameterMm": 114,
@@ -1030,12 +1055,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-65mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2290,
       "lengthMm": 161.0,
       "frontDiameterMm": 114,
@@ -1070,12 +1096,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     },
     {
       "id": "tokina-vista-p-85mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5",
+      "manufacturerUrl": "https://tokinalens.com/catalog/cinema/lenses/",
       "weightG": 2150,
       "lengthMm": 145.0,
       "frontDiameterMm": 114,
@@ -1110,7 +1137,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5"
     }
   ]
 }

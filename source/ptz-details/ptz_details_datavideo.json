@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "datavideo-ptc-140",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-140",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -52,11 +52,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ with a 20x zoom and a Sony CMOS sensor, outputting over HDMI, 3G-SDI and IP for live production and lecture capture. An affordable, straightforward camera for hybrid events, education and Pro AV, part of Datavideo's end-to-end production ecosystem."
+      "description": "A Full HD PTZ with a 20x zoom and a Sony CMOS sensor, outputting over HDMI, 3G-SDI and IP for live production and lecture capture. An affordable, straightforward camera for hybrid events, education and Pro AV, part of Datavideo's end-to-end production ecosystem.",
+      "productUrl": "https://www.datavideo.com/product/PTC-140"
     },
     {
       "id": "datavideo-ptc-150",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-150",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -106,11 +107,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ with a long 30x zoom and a Sony CMOS sensor, outputting HDMI, 3G-SDI and IP for reach in larger rooms and venues. A dependable live-production camera for events, education and worship."
+      "description": "A Full HD PTZ with a long 30x zoom and a Sony CMOS sensor, outputting HDMI, 3G-SDI and IP for reach in larger rooms and venues. A dependable live-production camera for events, education and worship.",
+      "productUrl": "https://www.datavideo.com/product/PTC-150"
     },
     {
       "id": "datavideo-ptc-150t",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-150T",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -157,11 +159,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A Full HD PTZ with a long 30x zoom built around HDBaseT, carrying video, control, power and tally over a single cable for clean long-run installs. Suited to larger venues and Pro AV setups that standardise on HDBaseT."
+      "description": "A Full HD PTZ with a long 30x zoom built around HDBaseT, carrying video, control, power and tally over a single cable for clean long-run installs. Suited to larger venues and Pro AV setups that standardise on HDBaseT.",
+      "productUrl": "https://www.datavideo.com/product/PTC-150T"
     },
     {
       "id": "datavideo-ptc-280",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-280",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -210,11 +213,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K PTZ with a 12x zoom and a wide field of view, outputting UHD over HDMI, 3G-SDI and IP for live production and event capture. A compact 4K camera for hybrid events, education and worship."
+      "description": "A 4K PTZ with a 12x zoom and a wide field of view, outputting UHD over HDMI, 3G-SDI and IP for live production and event capture. A compact 4K camera for hybrid events, education and worship.",
+      "productUrl": "https://www.datavideo.com/product/PTC-280"
     },
     {
       "id": "datavideo-ptc-285",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-285",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -262,11 +266,12 @@
         "RTSP",
         "RTMPS"
       ],
-      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking that follows a chosen presenter with full-body, half-body or close-up framing. Outputs UHD over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live events."
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking that follows a chosen presenter with full-body, half-body or close-up framing. Outputs UHD over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live events.",
+      "productUrl": "https://www.datavideo.com/product/PTC-285"
     },
     {
       "id": "datavideo-ptc-285t",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-285T",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -314,11 +319,12 @@
         "RTSP",
         "RTMPS"
       ],
-      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking, built around HDBaseT so video, control, power and tally run over a single cable. Follows a chosen presenter with full, half or close-up framing, for hands-free lecture capture, worship and Pro AV installs."
+      "description": "A 4K PTZ with a 12x zoom and built-in AI auto-tracking, built around HDBaseT so video, control, power and tally run over a single cable. Follows a chosen presenter with full, half or close-up framing, for hands-free lecture capture, worship and Pro AV installs.",
+      "productUrl": "https://www.datavideo.com/product/PTC-285T"
     },
     {
       "id": "datavideo-ptc-300",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-300",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -366,11 +372,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A 4K PTZ with a 20x zoom and a 1/1.8-inch Sony sensor, capturing UHD up to 60fps over HDMI, 3G-SDI and IP. A broadcast-grade camera for live production, events and larger venues in Datavideo's production ecosystem."
+      "description": "A 4K PTZ with a 20x zoom and a 1/1.8-inch Sony sensor, capturing UHD up to 60fps over HDMI, 3G-SDI and IP. A broadcast-grade camera for live production, events and larger venues in Datavideo's production ecosystem.",
+      "productUrl": "https://www.datavideo.com/product/PTC-300"
     },
     {
       "id": "datavideo-ptc-305",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-305",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -418,11 +425,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A broadcast-grade 4K PTZ with a 20x zoom and a 1/1.8-inch sensor, adding built-in AI auto-tracking that follows a chosen subject with full-body, half-body or close-up framing. Captures UHD up to 60fps over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live broadcast."
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and a 1/1.8-inch sensor, adding built-in AI auto-tracking that follows a chosen subject with full-body, half-body or close-up framing. Captures UHD up to 60fps over HDMI, SDI and IP with NDI|HX3, for hands-free lecture capture, worship and live broadcast.",
+      "productUrl": "https://www.datavideo.com/product/PTC-305"
     },
     {
       "id": "datavideo-ptc-305t",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-305T",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -470,11 +478,12 @@
         "RTSP",
         "RTMP"
       ],
-      "description": "A broadcast-grade 4K PTZ with a 20x zoom and built-in AI auto-tracking, built around HDBaseT for video, control, power and tally over a single cable. Captures UHD up to 60fps and follows a chosen subject with full, half or close-up framing, for hands-free lecture capture, worship and larger venues."
+      "description": "A broadcast-grade 4K PTZ with a 20x zoom and built-in AI auto-tracking, built around HDBaseT for video, control, power and tally over a single cable. Captures UHD up to 60fps and follows a chosen subject with full, half or close-up framing, for hands-free lecture capture, worship and larger venues.",
+      "productUrl": "https://www.datavideo.com/product/PTC-305T"
     },
     {
       "id": "datavideo-ptc-325",
-      "manufacturerUrl": "https://www.datavideo.com/product/PTC-325",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -533,11 +542,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "A professional 4K auto-tracking PTZ built on a Sony 1/2.8-inch CMOS sensor with a 30x optical zoom (4.5-135mm, F1.8-4.7), delivering UHD up to 60fps over HDMI and 3G-SDI. A built-in AI auto-tracking engine locks onto and smoothly follows a subject hands-free, backed by 255 presets and VISCA, VISCA over IP, Pelco, DVIP and ONVIF control. It pairs a gigabit IP port with NDI|HX3, SRT, RTSP and RTMP(S) streaming and single-cable PoE+ power. It is the base of the PTC-325 series, below the HDBaseT PTC-325T and 12G-SDI PTC-325G."
+      "description": "A professional 4K auto-tracking PTZ built on a Sony 1/2.8-inch CMOS sensor with a 30x optical zoom (4.5-135mm, F1.8-4.7), delivering UHD up to 60fps over HDMI and 3G-SDI. A built-in AI auto-tracking engine locks onto and smoothly follows a subject hands-free, backed by 255 presets and VISCA, VISCA over IP, Pelco, DVIP and ONVIF control. It pairs a gigabit IP port with NDI|HX3, SRT, RTSP and RTMP(S) streaming and single-cable PoE+ power. It is the base of the PTC-325 series, below the HDBaseT PTC-325T and 12G-SDI PTC-325G.",
+      "productUrl": "https://www.datavideo.com/product/PTC-325"
     },
     {
       "id": "datavideo-ptc-140t",
-      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140T",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -588,11 +598,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The HDBaseT variant of the Datavideo PTC-140, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its defining feature is a single HDBaseT connection carrying video, control, power and tally to a receiver box up to 100 metres away, for clean long-run installs, alongside 3G-SDI, HDMI and an IP port with RTSP, RTMP(S) and SRT. Control is over VISCA, VISCA over IP, Pelco and DVIP. It suits larger venues and Pro AV setups that standardise on HDBaseT."
+      "description": "The HDBaseT variant of the Datavideo PTC-140, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its defining feature is a single HDBaseT connection carrying video, control, power and tally to a receiver box up to 100 metres away, for clean long-run installs, alongside 3G-SDI, HDMI and an IP port with RTSP, RTMP(S) and SRT. Control is over VISCA, VISCA over IP, Pelco and DVIP. It suits larger venues and Pro AV setups that standardise on HDBaseT.",
+      "productUrl": "https://www.datavideo.com/us/product/PTC-140T"
     },
     {
       "id": "datavideo-ptc-140ndi",
-      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-140NDI",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -649,11 +660,12 @@
         "RTMP"
       ],
       "trackingDataOut": [],
-      "description": "The NDI variant of the Datavideo PTC-140 and the first NDI camera Datavideo launched, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its distinguishing feature is native NDI|HX video over a single 100M network port, simultaneous with 3G-SDI and HDMI up to 1080p60, plus RTSP and RTMP. Control is over VISCA, VISCA over IP, Pelco and DVIP, with 802.3af PoE, 255 presets and 340 degree pan / 120 degree tilt. Now a legacy model in Datavideo's line, retained for database completeness."
+      "description": "The NDI variant of the Datavideo PTC-140 and the first NDI camera Datavideo launched, sharing the identical 1/2.8-inch 2.07MP sensor, 5.2-98mm (20x) lens and 54.7 to 3.3 degree field of view. Its distinguishing feature is native NDI|HX video over a single 100M network port, simultaneous with 3G-SDI and HDMI up to 1080p60, plus RTSP and RTMP. Control is over VISCA, VISCA over IP, Pelco and DVIP, with 802.3af PoE, 255 presets and 340 degree pan / 120 degree tilt. Now a legacy model in Datavideo's line, retained for database completeness.",
+      "productUrl": "https://www.datavideo.com/us/product/PTC-140NDI"
     },
     {
       "id": "datavideo-ptc-280ndi",
-      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-280NDI",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -711,11 +723,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The NDI variant of the Datavideo PTC-280, a 4K 12x PTZ sharing the identical 1/2.5-inch CMOS, 4.4-52.8mm lens (F1.8-2.6) and wide 71 degree field of view. Its distinguishing feature is native NDI|HX streaming alongside RTSP, RTMP(S), SRT, ONVIF and Multicast, over gigabit RJ45 with HDMI 2.0 and 3G-SDI outputs. It runs on PoE+ with 255 presets, 300 degree pan and +130/-15 degree tilt, and control over VISCA, VISCA over IP, Pelco and DVIP. It suits hybrid events, education and worship on an IP network."
+      "description": "The NDI variant of the Datavideo PTC-280, a 4K 12x PTZ sharing the identical 1/2.5-inch CMOS, 4.4-52.8mm lens (F1.8-2.6) and wide 71 degree field of view. Its distinguishing feature is native NDI|HX streaming alongside RTSP, RTMP(S), SRT, ONVIF and Multicast, over gigabit RJ45 with HDMI 2.0 and 3G-SDI outputs. It runs on PoE+ with 255 presets, 300 degree pan and +130/-15 degree tilt, and control over VISCA, VISCA over IP, Pelco and DVIP. It suits hybrid events, education and worship on an IP network.",
+      "productUrl": "https://www.datavideo.com/global/product/PTC-280NDI"
     },
     {
       "id": "datavideo-ptc-300ndi",
-      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-300NDI",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -772,11 +785,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The NDI variant of the broadcast-grade PTC-300, a 4K (up to 60fps) 20x PTZ on a 1/1.8-inch CMOS with 6.7-125mm optics (F1.58-3.95) and a 60 degree wide field of view. Its defining difference is NDI|HX streaming over a single Ethernet cable, added alongside HDMI 2.0, 3G-SDI and RTSP, RTMP(S), SRT, ONVIF and Multicast. It offers 255 presets, 300 degree pan, +90/-15 degree tilt and control over VISCA, VISCA over IP, Pelco and DVIP, on DC 12V or PoE+. The auto-tracking sibling is the PTC-305NDI."
+      "description": "The NDI variant of the broadcast-grade PTC-300, a 4K (up to 60fps) 20x PTZ on a 1/1.8-inch CMOS with 6.7-125mm optics (F1.58-3.95) and a 60 degree wide field of view. Its defining difference is NDI|HX streaming over a single Ethernet cable, added alongside HDMI 2.0, 3G-SDI and RTSP, RTMP(S), SRT, ONVIF and Multicast. It offers 255 presets, 300 degree pan, +90/-15 degree tilt and control over VISCA, VISCA over IP, Pelco and DVIP, on DC 12V or PoE+. The auto-tracking sibling is the PTC-305NDI.",
+      "productUrl": "https://www.datavideo.com/global/product/PTC-300NDI"
     },
     {
       "id": "datavideo-ptc-305ndi",
-      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305NDI",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -835,11 +849,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The NDI member of the broadcast-grade 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95). It adds built-in auto-tracking that follows a designated subject with full-body, half-body or close-up framing. Video I/O is HDMI 2.0 and 3G-SDI plus gigabit PoE IP, with NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast streaming. It offers 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP."
+      "description": "The NDI member of the broadcast-grade 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95). It adds built-in auto-tracking that follows a designated subject with full-body, half-body or close-up framing. Video I/O is HDMI 2.0 and 3G-SDI plus gigabit PoE IP, with NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast streaming. It offers 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP.",
+      "productUrl": "https://www.datavideo.com/global/product/PTC-305NDI"
     },
     {
       "id": "datavideo-ptc-305g",
-      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-305G",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA IP",
@@ -899,11 +914,12 @@
         "RTMPS"
       ],
       "trackingDataOut": [],
-      "description": "The 12G-SDI member of the 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95) and built-in auto-tracking. Its distinguishing feature is a 12G-SDI output carrying full 4Kp60 over a single SDI cable, alongside HDMI 2.0, 3G-SDI and gigabit PoE IP. Streaming includes NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast, with 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP."
+      "description": "The 12G-SDI member of the 4K PTC-305 family, sharing the PTC-300/305 optics: a Sony 1/1.8-inch CMOS with a 20x optical zoom (6.7-125mm, F1.58-3.95) and built-in auto-tracking. Its distinguishing feature is a 12G-SDI output carrying full 4Kp60 over a single SDI cable, alongside HDMI 2.0, 3G-SDI and gigabit PoE IP. Streaming includes NDI|HX3, RTSP, RTMP(S), SRT, ONVIF and Multicast, with 255 presets, 300 degree pan, +90/-15 degree tilt, ceiling brackets and control over VISCA, VISCA over IP, Pelco and DVIP.",
+      "productUrl": "https://www.datavideo.com/global/product/PTC-305G"
     },
     {
       "id": "datavideo-ptc-100",
-      "manufacturerUrl": "https://www.datavideo.com/us/product/PTC-100",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA RS-422",
@@ -947,11 +963,12 @@
       "autoTrackingNote": null,
       "streamingProtocols": [],
       "trackingDataOut": [],
-      "description": "One of Datavideo's earlier professional PTZ cameras, built around a 1/3-inch Sony Exmor CMOS sensor and a 20x motorized optical zoom (4.7-94mm) for HD/SD-SDI live production. It is a pure baseband camera with HD-SDI, HDMI and SD composite outputs and no IP streaming, reflecting its pre-network-video generation. Control is over serial VISCA and Pelco-D/P with a DVIP daughter board for Datavideo's control ecosystem. Its weatherproof, vandal-proof housing and wide pan/tilt range suited studio and semi-outdoor installs."
+      "description": "One of Datavideo's earlier professional PTZ cameras, built around a 1/3-inch Sony Exmor CMOS sensor and a 20x motorized optical zoom (4.7-94mm) for HD/SD-SDI live production. It is a pure baseband camera with HD-SDI, HDMI and SD composite outputs and no IP streaming, reflecting its pre-network-video generation. Control is over serial VISCA and Pelco-D/P with a DVIP daughter board for Datavideo's control ecosystem. Its weatherproof, vandal-proof housing and wide pan/tilt range suited studio and semi-outdoor installs.",
+      "productUrl": "https://www.datavideo.com/us/product/PTC-100"
     },
     {
       "id": "datavideo-ptc-150tl",
-      "manufacturerUrl": "https://www.datavideo.com/global/product/PTC-150TL",
+      "manufacturerUrl": "https://datavideo.com/global/category/cameras",
       "controlProtocols": [
         "DVIP",
         "VISCA RS-422",
@@ -1005,7 +1022,8 @@
       "autoTrackingNote": null,
       "streamingProtocols": [],
       "trackingDataOut": [],
-      "description": "The HDBaseT variant of Datavideo's PTC-150 PTZ, sharing the same 1/2.8-inch CMOS sensor and 30x optical zoom (4.3-129mm, F1.6-4.7) but sending HD/SD video, control and power over a single Cat.6 HDBaseT link up to 100 metres. The 'TL' model is the camera unit sold without the HDBaseT receiver box (the PTC-150T includes it; the '-11' bundle adds the HBT-11 receiver). Alongside HDBaseT it keeps local HDMI, HD/SD-SDI and composite outputs, suiting cabling-constrained studio and auditorium installs. It is controlled via VISCA and DVIP and, like its generation, has no IP/NDI streaming or auto-tracking."
+      "description": "The HDBaseT variant of Datavideo's PTC-150 PTZ, sharing the same 1/2.8-inch CMOS sensor and 30x optical zoom (4.3-129mm, F1.6-4.7) but sending HD/SD video, control and power over a single Cat.6 HDBaseT link up to 100 metres. The 'TL' model is the camera unit sold without the HDBaseT receiver box (the PTC-150T includes it; the '-11' bundle adds the HBT-11 receiver). Alongside HDBaseT it keeps local HDMI, HD/SD-SDI and composite outputs, suiting cabling-constrained studio and auditorium installs. It is controlled via VISCA and DVIP and, like its generation, has no IP/NDI streaming or auto-tracking.",
+      "productUrl": "https://www.datavideo.com/global/product/PTC-150TL"
     }
   ]
 }

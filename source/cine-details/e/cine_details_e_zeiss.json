@@ -3,7 +3,7 @@
     {
       "id": "zeiss-nano-prime-100mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1260,
       "lengthMm": 112,
       "frontDiameterMm": 95,
@@ -42,12 +42,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     },
     {
       "id": "zeiss-nano-prime-18mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1190,
       "lengthMm": 112,
       "frontDiameterMm": 95,
@@ -86,12 +87,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     },
     {
       "id": "zeiss-nano-prime-24mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 880,
       "lengthMm": 89,
       "frontDiameterMm": 95,
@@ -130,12 +132,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     },
     {
       "id": "zeiss-nano-prime-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 870,
       "lengthMm": 89,
       "frontDiameterMm": 95,
@@ -174,12 +177,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     },
     {
       "id": "zeiss-nano-prime-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 920,
       "lengthMm": 89,
       "frontDiameterMm": 95,
@@ -218,12 +222,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     },
     {
       "id": "zeiss-nano-prime-75mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html",
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html",
       "weightG": 1130,
       "lengthMm": 112,
       "frontDiameterMm": 95,
@@ -262,7 +267,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html"
     }
   ]
 }

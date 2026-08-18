@@ -3,7 +3,7 @@
     {
       "id": "meike-ff-cine-105mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -26,12 +26,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-135mm-t2-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -54,12 +55,13 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-16mm-t2-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -82,12 +84,13 @@
       "maxApertureWide": 2.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-24mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -110,12 +113,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -138,12 +142,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -166,12 +171,13 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     },
     {
       "id": "meike-ff-cine-85mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set",
+      "manufacturerUrl": "https://meikeglobal.com/collections/meike-cine-lens",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -194,7 +200,8 @@
       "maxApertureWide": 2.1,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
     }
   ]
 }

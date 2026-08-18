@@ -3,7 +3,7 @@
     {
       "id": "sigma-af-cine-28-105mm-t3-ff-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1300,
       "lengthMm": 159.9,
       "frontDiameterMm": 95,
@@ -45,12 +45,13 @@
       "maxApertureWide": 3.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/"
     },
     {
       "id": "sigma-af-cine-28-45mm-t2-ff-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1200,
       "lengthMm": 153.3,
       "frontDiameterMm": 95,
@@ -92,12 +93,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/"
     },
     {
       "id": "sigma-cine-24-35mm-t2-2-ff-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 148.7,
       "frontDiameterMm": 95,
@@ -139,7 +141,8 @@
       "hasIS": false,
       "fieldNotes": {
         "isParfocal": "Near-parfocal: Sigma minimizes focus shift across the zoom range."
-      }
+      },
+      "productUrl": "https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/"
     }
   ]
 }

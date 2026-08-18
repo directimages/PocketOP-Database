@@ -2,7 +2,7 @@
   "cameras": [
     {
       "id": "canon-cr-n100",
-      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -57,11 +57,12 @@
         "RTMP",
         "RTMPS"
       ],
-      "description": "A compact 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science, a built-in ND filter and a USB-C UVC output for use as a standalone webcam. With NDI|HX and RTMP streaming plus auto-tracking via Canon's RA-AT001 app, it suits conferencing, keynotes and lecture streaming."
+      "description": "A compact 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science, a built-in ND filter and a USB-C UVC output for use as a standalone webcam. With NDI|HX and RTMP streaming plus auto-tracking via Canon's RA-AT001 app, it suits conferencing, keynotes and lecture streaming.",
+      "productUrl": "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
     },
     {
       "id": "canon-cr-n300",
-      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -120,11 +121,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, pairing Canon colour science and a built-in ND filter with hybrid autofocus and face detection. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and broadcast."
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, pairing Canon colour science and a built-in ND filter with hybrid autofocus and face detection. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and broadcast.",
+      "productUrl": "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
     },
     {
       "id": "canon-cr-n350",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n350",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -183,11 +185,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science and a built-in ND filter with SRT and FreeD as standard. With NDI|HX streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and live production."
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, bringing Canon colour science and a built-in ND filter with SRT and FreeD as standard. With NDI|HX streaming and auto-tracking via the RA-AT001 app, it suits education, corporate, worship and live production.",
+      "productUrl": "https://www.usa.canon.com/shop/p/cr-n350"
     },
     {
       "id": "canon-cr-n400",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-n400",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -247,11 +250,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, adding broadcast connectivity with 12G-SDI, Genlock and dual XLR audio to Canon colour science and a built-in ND filter. With NDI|HX, SRT and FreeD plus auto-tracking via the RA-AT001 app, it suits broadcast, live events and worship."
+      "description": "A 4K PTZ with a 1/2.3-inch sensor and a 20x optically stabilized zoom, adding broadcast connectivity with 12G-SDI, Genlock and dual XLR audio to Canon colour science and a built-in ND filter. With NDI|HX, SRT and FreeD plus auto-tracking via the RA-AT001 app, it suits broadcast, live events and worship.",
+      "productUrl": "https://www.usa.canon.com/shop/p/cr-n400"
     },
     {
       "id": "canon-cr-n500",
-      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -309,11 +313,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A 4K PTZ built around a large 1-inch sensor with a 15x optically stabilized zoom, Dual Pixel autofocus and Canon colour science, with a built-in ND filter for control in bright light. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits broadcast, worship, sports and high-end live production."
+      "description": "A 4K PTZ built around a large 1-inch sensor with a 15x optically stabilized zoom, Dual Pixel autofocus and Canon colour science, with a built-in ND filter for control in bright light. With NDI|HX and SRT streaming and auto-tracking via the RA-AT001 app, it suits broadcast, worship, sports and high-end live production.",
+      "productUrl": "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
     },
     {
       "id": "canon-cr-n700",
-      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Standard Serial",
@@ -372,11 +377,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "Canon's flagship 4K60 broadcast PTZ, pairing a 1-inch sensor and DIGIC DV7 processing with 4:2:2 10-bit output, a 15x optically stabilized zoom, Dual Pixel autofocus and Canon Log 3. With 12G-SDI, dual XLR, Genlock, a built-in ND filter, NDI|HX and SRT plus auto-tracking and Auto Loop via Canon's apps, it is built for broadcast and high-end live production."
+      "description": "Canon's flagship 4K60 broadcast PTZ, pairing a 1-inch sensor and DIGIC DV7 processing with 4:2:2 10-bit output, a 15x optically stabilized zoom, Dual Pixel autofocus and Canon Log 3. With 12G-SDI, dual XLR, Genlock, a built-in ND filter, NDI|HX and SRT plus auto-tracking and Auto Loop via Canon's apps, it is built for broadcast and high-end live production.",
+      "productUrl": "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
     },
     {
       "id": "canon-cr-x300",
-      "manufacturerUrl": "https://www.usa.canon.com/shop/p/cr-x300",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon XC",
         "Canon NU",
@@ -418,14 +424,14 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "autoTracking": "unknown",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
       "fieldNotes": {
         "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
         "NDI|HX2",
         "SRT",
@@ -436,11 +442,12 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "description": "A rugged outdoor 4K PTZ with a 1/2.3-inch sensor and a 20x zoom stabilized by four-axis optical IS with a powered mode for telephoto, plus a built-in ND filter and Canon colour science. Weatherproof and broadcast-ready with 4:2:2 10-bit SDI and HDMI output and auto-tracking via the RA-AT001 app, it suits sports venues, news and outdoor production."
+      "description": "A rugged outdoor 4K PTZ with a 1/2.3-inch sensor and a 20x zoom stabilized by four-axis optical IS with a powered mode for telephoto, plus a built-in ND filter and Canon colour science. Weatherproof and broadcast-ready with 4:2:2 10-bit SDI and HDMI output and auto-tracking via the RA-AT001 app, it suits sports venues, news and outdoor production.",
+      "productUrl": "https://www.usa.canon.com/shop/p/cr-x300"
     },
     {
       "id": "canon-cr-x500",
-      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/",
+      "manufacturerUrl": "https://www.canon-europe.com/ptz-cameras/",
       "controlProtocols": [
         "Canon NU",
         "Standard Serial"
@@ -480,17 +487,18 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 4.5,
       "apertureType": "f",
-      "autoTracking": "none",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Built-in motor-driven ND: Off, 1/4, 1/16, 1/64",
       "fieldNotes": {
         "hasIS": "Optical-shift image stabilization, lens-based"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [],
       "trackingDataOut": [],
-      "description": "A weatherproof IP55-rated outdoor 4K PTZ built around a 1-inch CMOS sensor and dual DIGIC DV processing, with a 15x optically stabilized zoom (8.3-124.5mm, F2.8-4.5) giving a 73.0 to 5.7 degree horizontal field of view. The salt-resistant housing has a built-in wiper and operates from -15 to +40 Celsius. Video is delivered over 12G-SDI with genlock and the camera is controlled over RS-422 serial using Canon's NU protocol; there is no IP streaming, PoE or auto-tracking. It suits stadiums, outdoor venues and fixed long-range installations."
+      "description": "A weatherproof IP55-rated outdoor 4K PTZ built around a 1-inch CMOS sensor and dual DIGIC DV processing, with a 15x optically stabilized zoom (8.3-124.5mm, F2.8-4.5) giving a 73.0 to 5.7 degree horizontal field of view. The salt-resistant housing has a built-in wiper and operates from -15 to +40 Celsius. Video is delivered over 12G-SDI with genlock and the camera is controlled over RS-422 serial using Canon's NU protocol; there is no IP streaming, PoE or auto-tracking. It suits stadiums, outdoor venues and fixed long-range installations.",
+      "productUrl": "https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/"
     }
   ]
 }

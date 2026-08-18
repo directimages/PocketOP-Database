@@ -3,7 +3,7 @@
     {
       "id": "leitz-summicron-c-100mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1361,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -38,12 +38,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-15mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1814,
       "lengthMm": 118.0,
       "frontDiameterMm": 95,
@@ -78,12 +79,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-18mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1317,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -118,12 +120,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-21mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1317,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -158,12 +161,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-25mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1550,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -198,12 +202,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-29mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1361,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -238,12 +243,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-35mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1317,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -278,12 +284,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-40mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": null,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -318,12 +325,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-50mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1317,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -358,12 +366,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summicron-c-75mm-t2-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summicron-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1361,
       "lengthMm": 101.6,
       "frontDiameterMm": 95,
@@ -398,12 +407,13 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summicron-c/"
     },
     {
       "id": "leitz-summilux-c-100mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -437,12 +447,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-16mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -476,12 +487,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-18mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -515,12 +527,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-21mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -554,12 +567,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-25mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -593,12 +607,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-29mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -632,12 +647,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-35mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -671,12 +687,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-40mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -710,12 +727,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-50mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -749,12 +767,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-65mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -788,12 +807,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-summilux-c-75mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/summilux-c/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1724,
       "lengthMm": 142.0,
       "frontDiameterMm": 95,
@@ -827,12 +847,13 @@
       "maxApertureWide": 1.4,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/summilux-c/"
     },
     {
       "id": "leitz-thalia-65-100mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1160,
       "lengthMm": 124.5,
       "frontDiameterMm": 95,
@@ -867,12 +888,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-120mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1660,
       "lengthMm": 175.0,
       "frontDiameterMm": 95,
@@ -908,12 +930,13 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "hasMacro": true
+      "hasMacro": true,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-180mm-t3-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1620,
       "lengthMm": 154.5,
       "frontDiameterMm": 95,
@@ -948,12 +971,13 @@
       "maxApertureWide": 3.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-20mm-t3-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1950,
       "lengthMm": 131.5,
       "frontDiameterMm": 95,
@@ -988,12 +1012,13 @@
       "maxApertureWide": 3.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-24mm-t3-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1420,
       "lengthMm": 124.5,
       "frontDiameterMm": 95,
@@ -1029,12 +1054,13 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "hasMacro": true
+      "hasMacro": true,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-30mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1500,
       "lengthMm": 131.5,
       "frontDiameterMm": 95,
@@ -1069,12 +1095,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-35mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1400,
       "lengthMm": 131.5,
       "frontDiameterMm": 95,
@@ -1109,12 +1136,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-45mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1460,
       "lengthMm": 131.5,
       "frontDiameterMm": 95,
@@ -1149,12 +1177,13 @@
       "maxApertureWide": 2.9,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-55mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1640,
       "lengthMm": 154.5,
       "frontDiameterMm": 95,
@@ -1190,12 +1219,13 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "hasMacro": true
+      "hasMacro": true,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-70mm-t2-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1060,
       "lengthMm": 124.5,
       "frontDiameterMm": 95,
@@ -1230,12 +1260,13 @@
       "maxApertureWide": 2.6,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-thalia-65-90mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/thalia/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 1040,
       "lengthMm": 124.5,
       "frontDiameterMm": 95,
@@ -1270,12 +1301,13 @@
       "maxApertureWide": 2.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/thalia/"
     },
     {
       "id": "leitz-zoom-25-75mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/leitz-zoom/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 3700,
       "lengthMm": 266.6,
       "frontDiameterMm": 114,
@@ -1312,12 +1344,13 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/leitz-zoom/"
     },
     {
       "id": "leitz-zoom-55-125mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.leitz-cine.com/product/leitz-zoom/",
+      "manufacturerUrl": "https://www.leitz-cine.com/products",
       "weightG": 4400,
       "lengthMm": 279.9,
       "frontDiameterMm": 114,
@@ -1354,7 +1387,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.leitz-cine.com/product/leitz-zoom/"
     }
   ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "zeiss-digizoom-17-112",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/home.html",
       "weightG": 4000,
       "lengthMm": 300,
       "frontDiameterMm": null,
@@ -35,7 +35,7 @@
     {
       "id": "zeiss-digizoom-6-24",
       "lensType": "broadcast",
-      "manufacturerUrl": null,
+      "manufacturerUrl": "https://www.zeiss.com/photonics-and-optics/en/home.html",
       "weightG": 2760,
       "lengthMm": 250,
       "frontDiameterMm": null,

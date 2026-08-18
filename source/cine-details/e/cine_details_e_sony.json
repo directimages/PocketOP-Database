@@ -3,7 +3,7 @@
     {
       "id": "sony-fe-pz-28-135mm-f4-g-oss",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sony.com/electronics/camera-lenses/selp28135g",
+      "manufacturerUrl": "https://electronics.sony.com/imaging/c/lenses",
       "weightG": 1215,
       "lengthMm": 162.5,
       "frontDiameterMm": 105,
@@ -48,12 +48,13 @@
       "maxApertureWide": 4.0,
       "maxApertureTele": null,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.sony.com/electronics/camera-lenses/selp28135g"
     },
     {
       "id": "sony-fe-35mm-f1-4-gm",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications",
+      "manufacturerUrl": "https://electronics.sony.com/imaging/c/lenses",
       "weightG": 524,
       "lengthMm": 96,
       "frontDiameterMm": null,
@@ -64,7 +65,7 @@
       "filterType": "front_thread",
       "filterThreadMm": 67,
       "isParfocal": null,
-      "hasFocusBreathing": "unknown",
+      "hasFocusBreathing": "moderate",
       "hasFrontRotation": false,
       "focusRingRotationDeg": null,
       "gearPitch": null,
@@ -87,12 +88,13 @@
       },
       "webSources": [
         "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications"
-      ]
+      ],
+      "productUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications"
     },
     {
       "id": "sony-fe-70-200mm-f2-8-gm-oss",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications",
+      "manufacturerUrl": "https://electronics.sony.com/imaging/c/lenses",
       "weightG": 1480,
       "lengthMm": 200,
       "frontDiameterMm": null,
@@ -127,12 +129,13 @@
       },
       "webSources": [
         "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications"
-      ]
+      ],
+      "productUrl": "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications"
     },
     {
       "id": "sony-fe-70-200mm-f2-8-gm-oss-ii",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications",
+      "manufacturerUrl": "https://electronics.sony.com/imaging/c/lenses",
       "weightG": 1045,
       "lengthMm": 200,
       "frontDiameterMm": null,
@@ -167,7 +170,8 @@
       },
       "webSources": [
         "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications"
-      ]
+      ],
+      "productUrl": "https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications"
     }
   ]
 }

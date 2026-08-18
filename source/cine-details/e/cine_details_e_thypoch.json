@@ -3,7 +3,7 @@
     {
       "id": "thypoch-simera-c-21mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "manufacturerUrl": "https://thypoch.com/en",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -26,12 +26,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://thypoch.com/en/simera-c/"
     },
     {
       "id": "thypoch-simera-c-28mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "manufacturerUrl": "https://thypoch.com/en",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -54,12 +55,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://thypoch.com/en/simera-c/"
     },
     {
       "id": "thypoch-simera-c-35mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "manufacturerUrl": "https://thypoch.com/en",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -82,12 +84,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://thypoch.com/en/simera-c/"
     },
     {
       "id": "thypoch-simera-c-50mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "manufacturerUrl": "https://thypoch.com/en",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -110,12 +113,13 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://thypoch.com/en/simera-c/"
     },
     {
       "id": "thypoch-simera-c-75mm-t1-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://thypoch.com/en/simera-c/",
+      "manufacturerUrl": "https://thypoch.com/en",
       "weightG": null,
       "lengthMm": null,
       "frontDiameterMm": null,
@@ -141,7 +145,8 @@
       "hasIS": false,
       "fieldNotes": {
         "filterThreadMm": "Front filter thread is M67; the lens also has an inner M62 thread."
-      }
+      },
+      "productUrl": "https://thypoch.com/en/simera-c/"
     }
   ]
 }
