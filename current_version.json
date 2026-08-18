@@ -1,6 +1,6 @@
 {
-  "latest": "db-v20",
-  "updatedAt": "2026-08-18T18:49:19Z",
+  "latest": "db-v21",
+  "updatedAt": "2026-08-18T23:25:11Z",
   "files": {
     "broadcast_lenses.json": {
       "version": "1.32.0",
@@ -15,11 +15,11 @@
       "entries": 730
     },
     "broadcast_lens_details.json": {
-      "version": "1.53.1",
+      "version": "1.53.2",
       "entries": 124
     },
     "cine_lens_details.json": {
-      "version": "1.54.1",
+      "version": "1.54.2",
       "entries": 606
     },
     "lens-details.json": {
