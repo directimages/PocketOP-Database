@@ -1,6 +1,6 @@
 {
-  "version": "1.54.1",
-  "updatedAt": "2026-08-18",
+  "version": "1.54.2",
+  "updatedAt": "2026-08-19",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -12992,7 +12992,8 @@
       "maxApertureWide": 4.2,
       "maxApertureTele": null,
       "apertureType": "T",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://laowacine.com/product/ultima-s35-25-600mm-t4-2-zoom/"
     },
     {
       "id": "leitz-hektor-100mm-t2-1-l",

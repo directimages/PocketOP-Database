@@ -28,7 +28,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/cj12ex4.3b/"
     },
     {
       "id": "canon-cj14ex4-3b",
@@ -60,7 +61,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj14ex4-3b-iase-s/"
     },
     {
       "id": "canon-cj15ex4-3b",
@@ -90,7 +92,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon.co.uk/lenses/cj15ex4-3b-iase-t/"
     },
     {
       "id": "canon-cj15ex8-5b",
@@ -150,7 +153,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 4.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj18ex28b-iase-t/"
     },
     {
       "id": "canon-cj18ex7-6b",
@@ -182,7 +186,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj18ex7-6b-iase-s/"
     },
     {
       "id": "canon-cj20ex5b",
@@ -214,7 +219,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.95,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj20ex5b-iase-s/"
     },
     {
       "id": "canon-cj20ex7-8b",
@@ -244,7 +250,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/cj20ex7-8b/"
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -274,7 +281,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj24ex7-5b-iase-s/"
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -308,7 +316,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.95,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/lenses/cj27ex7-3b-iase-t/"
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -466,7 +475,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj14ex43b/"
     },
     {
       "id": "canon-hj15ex8-5b",
@@ -496,7 +506,8 @@
       "maxApertureWide": 2.5,
       "maxApertureTele": 4.7,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj15ex85bkrse-v/"
     },
     {
       "id": "canon-hj17ex6-2b",
@@ -526,7 +537,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj17ex62b/"
     },
     {
       "id": "canon-hj17ex7-6b",
@@ -616,7 +628,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.4,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj18ex7.6b/"
     },
     {
       "id": "canon-hj21ex7-5b",
@@ -708,7 +721,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.65,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj22ex76b/"
     },
     {
       "id": "canon-hj24ex7-5b",
@@ -740,7 +754,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/hj24ex7.5b/"
     },
     {
       "id": "canon-hj40ex10b",
@@ -994,7 +1009,8 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/kj13x6bkrs/"
     },
     {
       "id": "canon-kj16ex7-7b",
@@ -1056,7 +1072,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.3,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/kj17ex77birse-iase/"
     },
     {
       "id": "canon-kj20x8-2b",
@@ -1088,7 +1105,8 @@
       "maxApertureWide": 1.9,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/kj20x82birsd/"
     },
     {
       "id": "canon-kj20x8-5b",
@@ -1118,7 +1136,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/kj20x85bkrsd/"
     },
     {
       "id": "canon-kj21ex7-6b",
@@ -1182,7 +1201,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/eng-efp-pro/kj22ex76birse-iase/"
     },
     {
       "id": "canon-uj111x8-3b",
@@ -1219,7 +1239,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.65,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/lenses/uhd_digisuper_111/"
     },
     {
       "id": "canon-uj122x8-2b",
@@ -1256,7 +1277,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 5.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/lenses/uhd_digisuper_122/"
     },
     {
       "id": "canon-uj122x8-2b-af",
@@ -1289,7 +1311,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 5.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/lenses/uhd-digisuper-122-af/"
     },
     {
       "id": "canon-uj27x6-5b",
@@ -1323,7 +1346,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": 2.2,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_27/"
     },
     {
       "id": "canon-uj66x9b",
@@ -1355,7 +1379,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/lenses/uj66x9b/"
     },
     {
       "id": "canon-uj86x9-3b",
@@ -1389,7 +1414,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_86/"
     },
     {
       "id": "canon-uj90x9b",
@@ -1421,7 +1447,8 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": 4.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_90/"
     },
     {
       "id": "canon-xj100x9-3b",
@@ -1451,7 +1478,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.7,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_100af/"
     },
     {
       "id": "canon-xj22x7-3b",
@@ -1488,7 +1516,8 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.6,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_22/"
     },
     {
       "id": "canon-xj23x7b",
@@ -1525,7 +1554,8 @@
       "maxApertureWide": 1.6,
       "maxApertureTele": 1.95,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_23_xs/"
     },
     {
       "id": "canon-xj25x6-8b",
@@ -1597,7 +1627,8 @@
       "maxApertureWide": 1.5,
       "maxApertureTele": 2.2,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_27/"
     },
     {
       "id": "canon-xj60x9b",
@@ -1664,7 +1695,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.45,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_72_xs/"
     },
     {
       "id": "canon-xj75x9-3b",
@@ -1696,7 +1728,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.6,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_75_xs/"
     },
     {
       "id": "canon-xj76x9b",
@@ -1728,7 +1761,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.45,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_76/"
     },
     {
       "id": "canon-xj80x8-8b",
@@ -1760,7 +1794,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 3.55,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_80/"
     },
     {
       "id": "canon-xj86x13-5b",
@@ -1792,7 +1827,8 @@
       "maxApertureWide": 2.4,
       "maxApertureTele": 5.8,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_86_ii_tele_xs/"
     },
     {
       "id": "canon-xj86x9-3b",
@@ -1826,7 +1862,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_86_xs/"
     },
     {
       "id": "canon-xj86x9-3b-af",
@@ -1890,7 +1927,8 @@
       "maxApertureWide": 2.5,
       "maxApertureTele": 6.0,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.usa.canon.com/shop/p/digisuper-95-tele"
     },
     {
       "id": "canon-xj95x8-6b",
@@ -1922,7 +1960,8 @@
       "maxApertureWide": 1.7,
       "maxApertureTele": 4.1,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_95/"
     },
     {
       "id": "canon-cj25ex7-6b",

@@ -142,6 +142,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.54.2 — 2026-08-19
+
+- productUrl filled on 1 entry: laowa-ultima-25-600mm-t4-s35 -> its laowacine.com product page. Researched and owner-verified but not applied during db-v20 (applymap blindspot, closed 2026-08-19); a pure fill of a previously-null field, no other field touched, entry count unchanged, 606. Via build/apply_fields.py, zero orphans
+- Released as db-v21
+
 ### v1.54.1 — 2026-08-18
 
 - db-v20 payload item C16: `hasFocusBreathing` corrected on 12 entries (11 Zeiss CP.2 primes -> "significant"; sony-fe-35mm-f1-4-gm -> "moderate"); `focusRingRotationDeg` corrected on angenieux-optimo-19-5-94 (320 -> 329). Entry count unchanged, 606
@@ -194,6 +199,12 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.53.2 — 2026-08-19
+
+- productUrl filled on 39 Canon broadcast entries (CJ/HJ/KJ series to canon-europe.com / canon.co.uk model pages, UJ/XJ DIGISUPER series to their canon-europe.com series pages, canon-xj95x12-4b to its usa.canon.com shop page). Researched and owner-verified but not applied during db-v20 (applymap blindspot, closed 2026-08-19); a pure fill of previously-null fields, no other field touched, entry count unchanged, 124. Via build/apply_fields.py, zero orphans
+- `productUrl` is not carried by the legacy union (lens-details.json), so that file does not bump for this change
+- Released as db-v21
+
 ### v1.53.1 — 2026-08-18
 
 - db-v20 payload item PURL (Canon broadcast half): `productUrl` corrected/added on 3 entries: canon-cj45ex13-6b and canon-cj45ex9-7b to their live canon-europe.com product pages, canon-j35ex15b to its canon-europe.com support/manuals page (no live product page exists). Entry count unchanged, 124
