@@ -100,14 +100,14 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "NDI|HX3",
         "SRT",
         "RTSP",
         "RTMP",
+        "RTMPS",
         "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
-      "productUrl": "https://ptzoptics.com/move-4k/"
+      "productUrl": "https://ptzoptics.com/link-4k/"
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
@@ -313,14 +313,14 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "NDI|HX3",
         "SRT",
         "RTSP",
         "RTMP",
+        "RTMPS",
         "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
-      "productUrl": "https://ptzoptics.com/move-4k/"
+      "productUrl": "https://ptzoptics.com/link-4k/"
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
@@ -526,7 +526,11 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "IP"
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
       "productUrl": "https://ptzoptics.com/link-4k/"

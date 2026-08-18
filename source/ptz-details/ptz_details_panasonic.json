@@ -56,7 +56,7 @@
       "ndDetail": "1/8, 1/64",
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130"
@@ -173,7 +173,9 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ],
       "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20"
@@ -229,7 +231,7 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
@@ -286,7 +288,7 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s"
@@ -343,7 +345,8 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP"
       ],
       "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
@@ -458,7 +461,10 @@
       "ndDetail": "1/4, 1/16, 1/64",
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ],
       "trackingDataOut": [
         "FreeD"

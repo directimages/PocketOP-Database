@@ -1165,7 +1165,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 30x AI auto-tracking PTZ with long reach and USB output, following a presenter hands-free for larger venues and broadcast.",
-      "productUrl": "https://presentation.aver.com/model/ptc330u"
+      "productUrl": null
     },
     {
       "id": "aver-ptc310hwv2",
@@ -1796,7 +1796,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 21x single-lens AI auto-tracking PTZ with native NDI|HX, following a presenter hands-free across medium-to-large rooms.",
-      "productUrl": "https://www.averusa.com/support/#tr323nv2"
+      "productUrl": null
     },
     {
       "id": "aver-tr331",
@@ -2106,7 +2106,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD dual-lens 30x auto-tracking camera for lecture capture that follows a presenter within a defined zone using a fixed panoramic camera and a moving PTZ head.",
-      "productUrl": "https://presentation.aver.com/model/averptc500"
+      "productUrl": "https://presentation.aver.com/model/ptc500plus"
     },
     {
       "id": "aver-ptc500s",

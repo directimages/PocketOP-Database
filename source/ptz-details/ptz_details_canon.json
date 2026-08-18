@@ -424,14 +424,14 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "autoTracking": "unknown",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
       "fieldNotes": {
         "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
         "NDI|HX2",
         "SRT",
@@ -487,14 +487,14 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 4.5,
       "apertureType": "f",
-      "autoTracking": "none",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Built-in motor-driven ND: Off, 1/4, 1/16, 1/64",
       "fieldNotes": {
         "hasIS": "Optical-shift image stabilization, lens-based"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [],
       "trackingDataOut": [],
       "description": "A weatherproof IP55-rated outdoor 4K PTZ built around a 1-inch CMOS sensor and dual DIGIC DV processing, with a 15x optically stabilized zoom (8.3-124.5mm, F2.8-4.5) giving a 73.0 to 5.7 degree horizontal field of view. The salt-resistant housing has a built-in wiper and operates from -15 to +40 Celsius. Video is delivered over 12G-SDI with genlock and the camera is controlled over RS-422 serial using Canon's NU protocol; there is no IP streaming, PoE or auto-tracking. It suits stadiums, outdoor venues and fixed long-range installations.",

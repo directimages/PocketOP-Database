@@ -44,7 +44,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach.",
       "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
@@ -94,7 +98,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget.",
       "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
@@ -144,7 +152,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues.",
       "productUrl": "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera"

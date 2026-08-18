@@ -1,6 +1,6 @@
 {
-  "version": "1.53.0",
-  "updatedAt": "2026-07-23",
+  "version": "1.53.1",
+  "updatedAt": "2026-08-18",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -499,7 +499,8 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 5.5,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/cj45ex13-6b/"
     },
     {
       "id": "canon-cj45ex9-7b",
@@ -530,7 +531,8 @@
       "maxApertureWide": 2.0,
       "maxApertureTele": 3.9,
       "apertureType": "f",
-      "hasIS": true
+      "hasIS": true,
+      "productUrl": "https://www.canon-europe.com/broadcast/cj45ex9.7b/"
     },
     {
       "id": "canon-hj11ex4-7b",
@@ -1087,7 +1089,8 @@
       "maxApertureWide": 2.7,
       "maxApertureTele": 4.7,
       "apertureType": "f",
-      "hasIS": false
+      "hasIS": false,
+      "productUrl": "https://www.canon-europe.com/support/consumer/products/lenses/bctv/j35ex15b4-iase-h-sx12.html?type=manuals&language=EN"
     },
     {
       "id": "canon-kj10ex4-5b",

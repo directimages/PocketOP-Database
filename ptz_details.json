@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "updatedAt": "2026-08-11",
+  "version": "1.24.1",
+  "updatedAt": "2026-08-18",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -842,7 +842,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 30x AI auto-tracking PTZ with long reach and USB output, following a presenter hands-free for larger venues and broadcast.",
-      "productUrl": "https://presentation.aver.com/model/ptc330u"
+      "productUrl": null
     },
     {
       "id": "aver-ptc330uv2",
@@ -946,7 +946,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "An HD dual-lens 30x auto-tracking camera for lecture capture that follows a presenter within a defined zone using a fixed panoramic camera and a moving PTZ head.",
-      "productUrl": "https://presentation.aver.com/model/averptc500"
+      "productUrl": "https://presentation.aver.com/model/ptc500plus"
     },
     {
       "id": "aver-ptc500plus",
@@ -1959,7 +1959,7 @@
       "fieldNotes": {},
       "trackingDataOut": [],
       "description": "A 4K 21x single-lens AI auto-tracking PTZ with native NDI|HX, following a presenter hands-free across medium-to-large rooms.",
-      "productUrl": "https://www.averusa.com/support/#tr323nv2"
+      "productUrl": null
     },
     {
       "id": "aver-tr331",
@@ -3313,7 +3313,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor, a 10x wide-angle zoom and HDMI, USB and IP output. A budget-friendly pick for conference rooms, huddle spaces and video calls where wide coverage matters more than reach.",
       "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
@@ -3363,7 +3367,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A compact Full HD PTZ on Bolin's Blue Line platform with a 1/2.8-inch Sony sensor and a 20x zoom, adding 3G-SDI alongside HDMI, USB and IP output. Suited to lecture halls, event spaces and mid-sized venues that need reach on a budget.",
       "productUrl": "https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera"
@@ -3413,7 +3421,11 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "SRT",
+        "MPEG-TS"
       ],
       "description": "A 4K PTZ on Bolin's Blue Line platform with a 20x zoom, outputting 4K over HDMI, 3G-SDI and IP. A cost-effective 4K option for conference rooms, studios, event spaces and mid-sized venues.",
       "productUrl": "https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera"
@@ -4928,14 +4940,14 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.8,
       "apertureType": "f",
-      "autoTracking": "unknown",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
       "fieldNotes": {
         "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
         "NDI|HX2",
         "SRT",
@@ -4991,14 +5003,14 @@
       "maxApertureWide": 2.8,
       "maxApertureTele": 4.5,
       "apertureType": "f",
-      "autoTracking": "none",
+      "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
       "ndDetail": "Built-in motor-driven ND: Off, 1/4, 1/16, 1/64",
       "fieldNotes": {
         "hasIS": "Optical-shift image stabilization, lens-based"
       },
-      "autoTrackingNote": null,
+      "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [],
       "trackingDataOut": [],
       "description": "A weatherproof IP55-rated outdoor 4K PTZ built around a 1-inch CMOS sensor and dual DIGIC DV processing, with a 15x optically stabilized zoom (8.3-124.5mm, F2.8-4.5) giving a 73.0 to 5.7 degree horizontal field of view. The salt-resistant housing has a built-in wiper and operates from -15 to +40 Celsius. Video is delivered over 12G-SDI with genlock and the camera is controlled over RS-422 serial using Canon's NU protocol; there is no IP streaming, PoE or auto-tracking. It suits stadiums, outdoor venues and fixed long-range installations.",
@@ -7125,7 +7137,7 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "autoTracking": "unknown",
+      "autoTracking": "ai",
       "hasIS": false,
       "hasND": false,
       "ndDetail": null,
@@ -10388,9 +10400,6 @@
       ],
       "trackingDataOut": [],
       "description": "A 4K streaming PTZ with a 12x optical zoom, laser-rangefinder-assisted autofocus, and HDMI, USB and IP output, built for live streaming.",
-      "fieldNotes": {
-        "minFocalLengthMM": "Focal not published on the BC420T datasheet. Filled from the UV490 imaging lens (f=3.4-40.3), which matches BC420T on every discriminating optical field (HFOV 80.5/7.6, F1.8-3.6, 12x, 1/2.8-inch, 4K 8.51MP): same physical optical block. Approved shared-block derivation, Martijn 2026-08-09."
-      },
       "productUrl": "https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html"
     },
     {
@@ -11204,9 +11213,6 @@
       "streamingProtocols": [],
       "trackingDataOut": [],
       "description": "A compact FHD USB PTZ with a 10x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
-      "fieldNotes": {
-        "hFOVWide": "Datasheet 'Viewing Angle' 66.0/8.8 confirmed horizontal against Tier-1 (matches geometric H 64.0, not diagonal); staged as published HFOV, no conversion (Martijn 2026-08-10)."
-      },
       "productUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html"
     },
     {
@@ -11257,9 +11263,6 @@
       "streamingProtocols": [],
       "trackingDataOut": [],
       "description": "A compact FHD USB PTZ with a 3x optical zoom and UVC output over USB, aimed at UC and simple room capture. No IP streaming or SDI.",
-      "fieldNotes": {
-        "hFOVWide": "Datasheet 'Viewing Angle' 85.0/34.1 confirmed diagonal against Tier-1 (matches geometric D 85.6); HFOV 77.2/29.9 derived via 16:9 rectilinear (POS-D60), lands on geometric H."
-      },
       "productUrl": "https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html"
     },
     {
@@ -11315,9 +11318,6 @@
       ],
       "trackingDataOut": [],
       "description": "A flexible FHD PTZ with a 10x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
-      "fieldNotes": {
-        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      },
       "productUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html"
     },
     {
@@ -11373,9 +11373,6 @@
       ],
       "trackingDataOut": [],
       "description": "A flexible FHD PTZ with a 5x optical zoom, offered in SDI, HDMI and USB output variants for streaming and production.",
-      "fieldNotes": {
-        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      },
       "productUrl": "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html"
     },
     {
@@ -11435,7 +11432,7 @@
       "trackingDataOut": [],
       "description": "A FHD AI PTZ with a 12x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
       "fieldNotes": {
-        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=4.1-49.2, HFOV 70.3/6.6); primary optic staged here."
+        "hFOVWide": "Also offered with an alternate lens with a wider view (about 70 degrees at the wide end)."
       },
       "productUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html"
     },
@@ -11496,7 +11493,7 @@
       "trackingDataOut": [],
       "description": "A FHD AI PTZ with a 20x optical zoom, real-time and zone tracking, and HDMI/SDI/USB output plus optional NDI|HX, built for live streaming and production.",
       "fieldNotes": {
-        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=5.1-94.5, HFOV 60/3.5, F1.8-2.9); primary optic staged here."
+        "hFOVWide": "Also offered with an alternate lens (about 60 degrees at the wide end)."
       },
       "productUrl": "https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html"
     },
@@ -11835,7 +11832,7 @@
       "ndDetail": "1/8, 1/64",
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "A professional Full HD PTZ built on a three-chip 3MOS sensor for clean, broadcast-grade colour, with a 20x zoom, built-in ND and optical stabilization. A long-standing choice for broadcast and pro AV installations.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130"
@@ -11952,7 +11949,9 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP",
+        "RTMPS"
       ],
       "description": "A compact Pro Series Full HD PTZ with a 12x zoom, aimed at streaming small spaces such as meeting rooms, boardrooms and classrooms. It shares its lens block with the 4K UE20, here paired with a Full HD sensor.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20"
@@ -12008,7 +12007,7 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "An entry-level Full HD PTZ with a 22x zoom and digital stabilization, a cost-effective remote camera for education, corporate and worship capture.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h"
@@ -12065,7 +12064,7 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "A compact Full HD PTZ with a long 30x zoom and digital stabilization, built for telephoto reach from a small, discreet body. Suited to broadcast and pro AV rooms that need extra reach.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s"
@@ -12122,7 +12121,8 @@
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "RTSP",
+        "RTMP"
       ],
       "description": "A broadcast-ready Full HD PTZ with a 20x zoom and optical stabilization backed by a four-axis hybrid stabilizer for steadier shots. Positioned for broadcast and pro AV production.",
       "productUrl": "https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42"
@@ -12237,7 +12237,10 @@
       "ndDetail": "1/4, 1/16, 1/64",
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Panasonic's separate AW-SF100 (single camera) or AW-SF200 (multi-camera) software on a networked PC, a paid option with a 30-day trial.",
       "streamingProtocols": [
-        "IP"
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -12816,14 +12819,14 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "NDI|HX3",
         "SRT",
         "RTSP",
         "RTMP",
+        "RTMPS",
         "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 12x zoom for wider rooms and medium throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
-      "productUrl": "https://ptzoptics.com/move-4k/"
+      "productUrl": "https://ptzoptics.com/link-4k/"
     },
     {
       "id": "ptzoptics-pt12x-sdi-g2",
@@ -13029,14 +13032,14 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "NDI|HX3",
         "SRT",
         "RTSP",
         "RTMP",
+        "RTMPS",
         "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 20x zoom for mid to large venues. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
-      "productUrl": "https://ptzoptics.com/move-4k/"
+      "productUrl": "https://ptzoptics.com/link-4k/"
     },
     {
       "id": "ptzoptics-pt20x-sdi-g2",
@@ -13242,7 +13245,11 @@
       "ndDetail": null,
       "autoTrackingNote": "Built-in on-camera auto-tracking using computer-vision processing on the camera. No separate software or computer is required to follow a subject.",
       "streamingProtocols": [
-        "IP"
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "Dante AV-H"
       ],
       "description": "The Dante tier of PTZOptics' Move line: a 4K auto-tracking PTZ with built-in Dante AV-H, so it drops into a Dante-managed network for both video and audio, alongside SDI, HDMI, USB and IP output and the same Presenter Lock tracking. Aimed at larger AV installations built on Dante, with a 30x zoom for large venues and long throws. Note its Dante AV-H output is limited to 1080p60, while HDMI and IP carry the full 4K60.",
       "productUrl": "https://ptzoptics.com/link-4k/"
@@ -13513,9 +13520,7 @@
       "hasND": true,
       "ndDetail": null,
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
-      "streamingProtocols": [
-        "IP"
-      ],
+      "streamingProtocols": [],
       "description": "A Full HD IP PTZ built around a large 1-inch Exmor R sensor with a 12x zoom and built-in ND filters, pairing shallow depth of field with 1080p output. The HD counterpart to Sony's 1-inch 4K line, for broadcast and high-end live production.",
       "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800"
     },
@@ -13569,7 +13574,8 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "description": "A Full HD robotic studio PTZ built on a three-chip 1/2-inch Exmor CMOS block with a 14x zoom and on-board image stabilization, delivering broadcast-grade colour for unattended studio positions. With dual tally lamps and HD-SDI output, it suits newsrooms, remote studios, worship and courtrooms.",
-      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900"
+      "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900",
+      "streamingProtocols": []
     },
     {
       "id": "sony-brc-x1000",
@@ -13619,9 +13625,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "autoTrackingNote": "Auto-tracking is not built into the camera. It needs Sony's external REA-C1000 Edge Analytics Appliance and a paid REA-L0200 license, and follows a presenter by panning only.",
-      "streamingProtocols": [
-        "IP"
-      ],
+      "streamingProtocols": [],
       "trackingDataOut": [
         "FreeD"
       ],
@@ -13735,9 +13739,7 @@
       "hasND": false,
       "ndDetail": null,
       "autoTrackingNote": null,
-      "streamingProtocols": [
-        "IP"
-      ],
+      "streamingProtocols": [],
       "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom, HDMI and IP output and built-in image stabilization, plus Sony's View-DR wide dynamic range for tricky lighting. Built for corporate boardrooms, lecture theatres, worship and videoconferencing.",
       "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h"
     },
@@ -13792,7 +13794,7 @@
       "ndDetail": null,
       "autoTrackingNote": null,
       "streamingProtocols": [
-        "IP"
+        "RTSP"
       ],
       "description": "A Full HD PTZ on a 1/2.8-inch Exmor sensor with a long 30x zoom and triple simultaneous output over 3G-SDI, HDMI and IP, plus built-in image stabilization and a tally lamp. Built for lecture capture, auditoriums, faith centres, corporate and telemedicine, and capable enough for broadcast.",
       "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she"

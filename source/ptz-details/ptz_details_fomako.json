@@ -451,7 +451,7 @@
       "maxApertureWide": 1.8,
       "maxApertureTele": 2.9,
       "apertureType": "f",
-      "autoTracking": "unknown",
+      "autoTracking": "ai",
       "hasIS": false,
       "hasND": false,
       "ndDetail": null,

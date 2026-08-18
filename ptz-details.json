@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "updatedAt": "2026-08-11",
+  "version": "1.24.1",
+  "updatedAt": "2026-08-18",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -7028,10 +7028,7 @@
       "sources": [
         "https://www.minrraycam.com/upload/6373/4k-ultra-hd-ptz-streaming-camera-bc420t_555480.pdf",
         "https://www.minrraycam.com/"
-      ],
-      "fieldNotes": {
-        "minFocalLengthMM": "Focal not published on the BC420T datasheet. Filled from the UV490 imaging lens (f=3.4-40.3), which matches BC420T on every discriminating optical field (HFOV 80.5/7.6, F1.8-3.6, 12x, 1/2.8-inch, 4K 8.51MP): same physical optical block. Approved shared-block derivation, Martijn 2026-08-09."
-      }
+      ]
     },
     {
       "id": "minrray-bc570",
@@ -7609,10 +7606,7 @@
       "sources": [
         "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
         "https://www.minrraycam.com/"
-      ],
-      "fieldNotes": {
-        "hFOVWide": "Datasheet 'Viewing Angle' 66.0/8.8 confirmed horizontal against Tier-1 (matches geometric H 64.0, not diagonal); staged as published HFOV, no conversion (Martijn 2026-08-10)."
-      }
+      ]
     },
     {
       "id": "minrray-uv515-3x",
@@ -7649,10 +7643,7 @@
       "sources": [
         "https://www.minrraycam.com/upload/6373/uv515-series-full-hd-ptz-camera_722443.pdf",
         "https://www.minrraycam.com/"
-      ],
-      "fieldNotes": {
-        "hFOVWide": "Datasheet 'Viewing Angle' 85.0/34.1 confirmed diagonal against Tier-1 (matches geometric D 85.6); HFOV 77.2/29.9 derived via 16:9 rectilinear (POS-D60), lands on geometric H."
-      }
+      ]
     },
     {
       "id": "minrray-uv540-10x",
@@ -7691,10 +7682,7 @@
       "sources": [
         "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
         "https://www.minrraycam.com/"
-      ],
-      "fieldNotes": {
-        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      }
+      ]
     },
     {
       "id": "minrray-uv540-5x",
@@ -7733,10 +7721,7 @@
       "sources": [
         "https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html",
         "https://www.minrraycam.com/"
-      ],
-      "fieldNotes": {
-        "streamingProtocols": "LAN-equipped; RTSP/RTMP assumed from Minrray platform, not explicitly listed on page. Verify at import."
-      }
+      ]
     },
     {
       "id": "minrray-uv570-12x",
@@ -7779,7 +7764,7 @@
         "https://www.minrraycam.com/"
       ],
       "fieldNotes": {
-        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=4.1-49.2, HFOV 70.3/6.6); primary optic staged here."
+        "hFOVWide": "Also offered with an alternate lens with a wider view (about 70 degrees at the wide end)."
       }
     },
     {
@@ -7823,7 +7808,7 @@
         "https://www.minrraycam.com/"
       ],
       "fieldNotes": {
-        "hFOVWide": "Datasheet lists an alternate lens variant (alt optic: f=5.1-94.5, HFOV 60/3.5, F1.8-2.9); primary optic staged here."
+        "hFOVWide": "Also offered with an alternate lens (about 60 degrees at the wide end)."
       }
     },
     {
