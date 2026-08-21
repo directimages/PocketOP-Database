@@ -1,6 +1,6 @@
 {
-  "latest": "db-v21",
-  "updatedAt": "2026-08-18T23:25:11Z",
+  "latest": "db-v22",
+  "updatedAt": "2026-08-21T07:56:18Z",
   "releases": [
     {
       "tag": "db-v1",
@@ -960,6 +960,52 @@
         },
         "ptz-details.json": {
           "version": "1.24.1",
+          "entries": 254
+        },
+        "devices.json": {
+          "version": "1.6.1",
+          "entries": 19
+        }
+      }
+    },
+    {
+      "tag": "db-v22",
+      "timestamp": "2026-08-21T07:56:18Z",
+      "files": {
+        "broadcast_lenses.json": {
+          "version": "1.32.0",
+          "entries": 124
+        },
+        "cine_lenses.json": {
+          "version": "1.33.1",
+          "entries": 606
+        },
+        "lenses.json": {
+          "version": "1.36.1",
+          "entries": 730
+        },
+        "broadcast_lens_details.json": {
+          "version": "1.53.2",
+          "entries": 124
+        },
+        "cine_lens_details.json": {
+          "version": "1.54.2",
+          "entries": 606
+        },
+        "lens-details.json": {
+          "version": "1.56.1",
+          "entries": 730
+        },
+        "ptz_cameras.json": {
+          "version": "1.13.1",
+          "entries": 254
+        },
+        "ptz_details.json": {
+          "version": "1.24.2",
+          "entries": 254
+        },
+        "ptz-details.json": {
+          "version": "1.24.2",
           "entries": 254
         },
         "devices.json": {
