@@ -1,6 +1,6 @@
 {
-  "version": "1.53.2",
-  "updatedAt": "2026-08-19",
+  "version": "1.53.3",
+  "updatedAt": "2026-08-21",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -1388,7 +1388,7 @@
         "https://asia.canon/en/business/uhd-digisuper-111-4k-premium/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
@@ -1426,7 +1426,7 @@
         "https://asia.canon/en/business/uhd-digisuper-122-4k-premium/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
@@ -1462,7 +1462,7 @@
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
@@ -1665,7 +1665,7 @@
         "http://hk.canon/en/business/digisuper-22-xs/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -1703,7 +1703,7 @@
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -1740,7 +1740,7 @@
         "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
@@ -1776,7 +1776,7 @@
         "http://hk.canon/en/business/digisuper-27/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -1846,7 +1846,7 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
@@ -3056,7 +3056,7 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
       "fieldNotes": {
-        "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
+        "filterThreadMm": "Also offered with a 107 mm front thread."
       },
       "description": "A 30x ENG and field zoom from Fujinon's UA 4K Premier line, fitted with the BERD drive and 16-bit encoders that feed lens data to virtual studio and AR tracking systems. It resolves 4K across the zoom range with HDR and HT-EBC coating, and combines a built-in 2x extender with a digital servo compatible with standard 2/3-inch broadcast controllers.",
       "maxApertureWide": 1.8,

@@ -142,6 +142,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.54.3 — 2026-08-21
+
+- fieldNotes copyedit pass (db-v23), Kay-finalized apply-map, 54 mutations in this file: 53 Cooke PL entries (miniS4/i, Panchro/i Classic, S4/i, S7/i, S8/i, Varotal) had their `fieldNotes.filterThreadMm` boilerplate ("Has an M-size front filter thread; also designed for matte-box use.") removed outright — the numeric filter size already renders bare from the `filterThreadMm` field itself, so the note only duplicated it; removing it leaves `fieldNotes` as `{}`, not `null`. 1 Thypoch entry (thypoch-simera-c-75mm-t1-5) had its `filterThreadMm` note reworded from restating both thread sizes to naming only the additive inner thread the primary field can't show. Every op validated against its exact current text before writing; no other field touched. Entry count unchanged, 606
+- Released as db-v23
+
 ### v1.54.2 — 2026-08-19
 
 - productUrl filled on 1 entry: laowa-ultima-25-600mm-t4-s35 -> its laowacine.com product page. Researched and owner-verified but not applied during db-v20 (applymap blindspot, closed 2026-08-19); a pure fill of a previously-null field, no other field touched, entry count unchanged, 606. Via build/apply_fields.py, zero orphans
@@ -199,6 +204,11 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.53.3 — 2026-08-21
+
+- fieldNotes copyedit pass (db-v23), Kay-finalized apply-map, 9 mutations in this file: 8 Canon broadcast entries (uj111x8-3b, uj122x8-2b, uj122x8-2b-af, xj22x7-3b, xj23x7b, xj25x6-8b, xj27x6-5b, xj72x9-3b) had a terminal period added to `fieldNotes.hasMacro`. 1 Fujinon entry (fujinon-ua30x7-3berd) had `fieldNotes.filterThreadMm` reworded from restating both thread sizes to naming only the additive second thread. Every op validated against its exact current text before writing; no other field touched. Entry count unchanged, 124
+- Released as db-v23
+
 ### v1.53.2 — 2026-08-19
 
 - productUrl filled on 39 Canon broadcast entries (CJ/HJ/KJ series to canon-europe.com / canon.co.uk model pages, UJ/XJ DIGISUPER series to their canon-europe.com series pages, canon-xj95x12-4b to its usa.canon.com shop page). Researched and owner-verified but not applied during db-v20 (applymap blindspot, closed 2026-08-19); a pure fill of previously-null fields, no other field touched, entry count unchanged, 124. Via build/apply_fields.py, zero orphans
@@ -246,6 +256,11 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.56.2 — 2026-08-21
+
+- Legacy union rebuild aggregating the fieldNotes copyedit pass above: cine_lens_details v1.54.3 (54 mutations: 53 Cooke PL filterThreadMm notes removed, 1 Thypoch filterThreadMm note reworded) and broadcast_lens_details v1.53.3 (9 mutations: 8 Canon hasMacro terminal-period fixes, 1 Fujinon filterThreadMm note reworded). Entry count unchanged, 730
+- Released as db-v23
+
 ### v1.56.1 — 2026-08-18
 
 - Legacy union rebuild aggregating the cine_lens_details v1.54.1 db-v20 item C16 corrections above (hasFocusBreathing on 12 entries, focusRingRotationDeg on 1). The db-v20 PURL productUrl corrections (broadcast_lens_details v1.53.1) do not touch this file: productUrl is not in the union's legacy whitelist. Entry count unchanged, 730
@@ -726,6 +741,11 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.24.3 — 2026-08-21
+
+- fieldNotes copyedit pass (db-v23), Kay-finalized apply-map, 15 mutations in this file (shared meta with ptz_details.json): 3 Minrray dual-lens entries (uv100t-12x, uv100t-20x, uv490) had `fieldNotes.hFOVWide` reworded — the earlier text called the modeled lens the "tracking lens", ambiguous; corrected to state the app models the main imaging lens while a separate panoramic lens handles auto-tracking. 10 entries (8 Canon CR-N/CR-X, 1 BirdDog XL Ultra, 1 Panasonic AW-UR100) had a terminal period added to `fieldNotes.hasIS`. 2 Datavideo entries (ptc-140, ptc-150) had a terminal period added to `fieldNotes.poeClass`. Every op validated against its exact current text before writing; no other field touched. Entry count unchanged, 254
+- Released as db-v23
 
 ### v1.24.2 — 2026-08-21
 

@@ -672,7 +672,7 @@
       "trackingDataOut": [],
       "description": "A 4K dual-lens auto-tracking PTZ: a 12x imaging lens follows the subject while a fixed panoramic lens watches the whole room, with AI plus voice localization for hands-free framing over HDMI, USB and IP.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html"
     },
@@ -739,7 +739,7 @@
       "trackingDataOut": [],
       "description": "A dual-lens education auto-tracking camera: a 12x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },
@@ -806,7 +806,7 @@
       "trackingDataOut": [],
       "description": "A dual-lens education auto-tracking camera: a 20x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },

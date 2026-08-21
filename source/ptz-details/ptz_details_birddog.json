@@ -801,7 +801,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Digital image stabilization",
+        "hasIS": "Digital image stabilization.",
         "ndDetail": "Built-in ND."
       },
       "autoTrackingNote": "Built-in AI presenter tracking and auto-framing, aided by a fixed secondary 100-degree wide-angle camera (a built-in second imager) for full-scene awareness during tracking. The Advanced tracking mode can additionally coordinate with a second camera. No external software required.",

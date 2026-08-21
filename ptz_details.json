@@ -1,5 +1,5 @@
 {
-  "version": "1.24.2",
+  "version": "1.24.3",
   "updatedAt": "2026-08-21",
   "cameras": [
     {
@@ -3252,7 +3252,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Digital image stabilization",
+        "hasIS": "Digital image stabilization.",
         "ndDetail": "Built-in ND."
       },
       "autoTrackingNote": "Built-in AI presenter tracking and auto-framing, aided by a fixed secondary 100-degree wide-angle camera (a built-in second imager) for full-scene awareness during tracking. The Advanced tracking mode can additionally coordinate with a second camera. No external software required.",
@@ -4566,7 +4566,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4628,7 +4628,7 @@
       "hasND": true,
       "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized filter wheel with graduated ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4693,7 +4693,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4759,7 +4759,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4823,7 +4823,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4888,7 +4888,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -4954,7 +4954,7 @@
       "hasND": true,
       "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto",
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto.",
         "ndDetail": "Internal graduated ND; an optional external enhanced ND extends the range to 1/256."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -5018,7 +5018,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical-shift image stabilization, lens-based",
+        "hasIS": "Optical-shift image stabilization, lens-based.",
         "ndDetail": "Built-in motor-driven ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -5112,7 +5112,7 @@
         "https://www.soundpro.com/item/50247"
       ],
       "fieldNotes": {
-        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)."
       },
       "introductionYear": 2019,
       "maxApertureWide": 1.6,
@@ -5285,7 +5285,7 @@
         "https://datavideo.com/global/product/ptc-150"
       ],
       "fieldNotes": {
-        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)."
       },
       "introductionYear": 2015,
       "maxApertureWide": 1.6,
@@ -10534,7 +10534,7 @@
       "trackingDataOut": [],
       "description": "A dual-lens education auto-tracking camera: a 12x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },
@@ -10601,7 +10601,7 @@
       "trackingDataOut": [],
       "description": "A dual-lens education auto-tracking camera: a 20x tracking lens follows the lecturer or students while a built-in panoramic camera handles detection, purpose-built for classroom and lecture capture.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html"
     },
@@ -11070,7 +11070,7 @@
       "trackingDataOut": [],
       "description": "A 4K dual-lens auto-tracking PTZ: a 12x imaging lens follows the subject while a fixed panoramic lens watches the whole room, with AI plus voice localization for hands-free framing over HDMI, USB and IP.",
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       },
       "productUrl": "https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html"
     },
@@ -12713,7 +12713,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic",
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic.",
         "ndDetail": "Built-in ND, with an IR-Through night mode."
       },
       "autoTrackingNote": "No built-in tracking. Auto-tracking is available via Panasonic's separate Auto Tracking Software (a paid plug-in within the Media Production Suite).",

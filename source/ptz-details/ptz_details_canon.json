@@ -47,7 +47,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -109,7 +109,7 @@
       "hasND": true,
       "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized filter wheel with graduated ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -174,7 +174,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -240,7 +240,7 @@
       "hasND": true,
       "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -304,7 +304,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -369,7 +369,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -435,7 +435,7 @@
       "hasND": true,
       "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto",
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto.",
         "ndDetail": "Internal graduated ND; an optional external enhanced ND extends the range to 1/256."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
@@ -499,7 +499,7 @@
       "hasND": true,
       "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical-shift image stabilization, lens-based",
+        "hasIS": "Optical-shift image stabilization, lens-based.",
         "ndDetail": "Built-in motor-driven ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",

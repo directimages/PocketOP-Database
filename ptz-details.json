@@ -1,5 +1,5 @@
 {
-  "version": "1.24.2",
+  "version": "1.24.3",
   "updatedAt": "2026-08-21",
   "cameras": [
     {
@@ -2222,7 +2222,7 @@
         "https://birddog.tv/xl-techspecs/"
       ],
       "fieldNotes": {
-        "hasIS": "Digital image stabilization",
+        "hasIS": "Digital image stabilization.",
         "ndDetail": "Built-in ND."
       }
     },
@@ -3077,7 +3077,7 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       }
     },
@@ -3121,7 +3121,7 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized filter wheel with graduated ND."
       }
     },
@@ -3165,7 +3165,7 @@
         "https://www.usa.canon.com/shop/p/cr-n350"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       }
     },
@@ -3210,7 +3210,7 @@
         "https://www.usa.canon.com/shop/p/cr-n400"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized gradation ND."
       }
     },
@@ -3253,7 +3253,7 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       }
     },
@@ -3297,7 +3297,7 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based",
+        "hasIS": "Optical image stabilization, lens-based.",
         "ndDetail": "Built-in motorized ND."
       }
     },
@@ -3342,7 +3342,7 @@
         "https://www.usa.canon.com/shop/p/cr-x300"
       ],
       "fieldNotes": {
-        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto",
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto.",
         "ndDetail": "Internal graduated ND; an optional external enhanced ND extends the range to 1/256."
       }
     },
@@ -3385,7 +3385,7 @@
         "https://asia.canon/en/business/cr-x500/specification"
       ],
       "fieldNotes": {
-        "hasIS": "Optical-shift image stabilization, lens-based",
+        "hasIS": "Optical-shift image stabilization, lens-based.",
         "ndDetail": "Built-in motor-driven ND."
       }
     },
@@ -3461,7 +3461,7 @@
         "https://www.soundpro.com/item/50247"
       ],
       "fieldNotes": {
-        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)."
       }
     },
     {
@@ -3583,7 +3583,7 @@
         "https://datavideo.com/global/product/ptc-150"
       ],
       "fieldNotes": {
-        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)"
+        "poeClass": "DC 12V only; PoE input via optional AD-POE140 adapter (sold separately)."
       }
     },
     {
@@ -7131,7 +7131,7 @@
         "https://www.minrraycam.com/"
       ],
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       }
     },
     {
@@ -7182,7 +7182,7 @@
         "https://www.minrraycam.com/"
       ],
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the tracking lens. Built-in panoramic detection camera offers 4mm and 6mm fixed lens options."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       }
     },
     {
@@ -7507,7 +7507,7 @@
         "https://www.minrraycam.com/"
       ],
       "fieldNotes": {
-        "hFOVWide": "Dual-lens camera. Modeled FOV is the 12x imaging lens. Second fixed panoramic lens: f=1.89mm, F2.0, FOV 110.2/101.8/69.5 (D/H/V), used for wide-scene detection only."
+        "hFOVWide": "FOV shown in app is the main imaging lens. A separate panoramic tracking lens handles auto-tracking."
       }
     },
     {
@@ -8684,7 +8684,7 @@
         "https://connect.na.panasonic.com/av/video/ptz/aw-ur100-4k-outdoor-ptz-camera"
       ],
       "fieldNotes": {
-        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic",
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic.",
         "ndDetail": "Built-in ND, with an IR-Through night mode."
       }
     },

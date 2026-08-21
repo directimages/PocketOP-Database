@@ -1,6 +1,6 @@
 {
-  "version": "1.56.1",
-  "updatedAt": "2026-08-18",
+  "version": "1.56.2",
+  "updatedAt": "2026-08-21",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -5742,7 +5742,7 @@
         "https://asia.canon/en/business/uhd-digisuper-111-4k-premium/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
@@ -5774,7 +5774,7 @@
         "https://asia.canon/en/business/uhd-digisuper-122-4k-premium/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html",
@@ -5804,7 +5804,7 @@
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/2947870/Canon-Uj122x8-2b-Af.html"
@@ -5971,7 +5971,7 @@
         "http://hk.canon/en/business/digisuper-22-xs/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -6003,7 +6003,7 @@
         "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -6034,7 +6034,7 @@
         "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
@@ -6065,7 +6065,7 @@
         "http://hk.canon/en/business/digisuper-27/main/specification"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -6124,7 +6124,7 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory"
+        "hasMacro": "Macro available via optional MCJ-S02 accessory."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
@@ -6422,9 +6422,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-135mm-t2-8",
@@ -6462,9 +6460,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-18mm-t2-8",
@@ -6539,9 +6535,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-32mm-t2-8",
@@ -6579,9 +6573,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-40mm-t2-8",
@@ -6619,9 +6611,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-50mm-t2-8",
@@ -6659,9 +6649,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-65mm-t2-8",
@@ -6699,9 +6687,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-minis4i-75mm-t2-8",
@@ -6739,9 +6725,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/minis4-i/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M82 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-100mm-t2-6",
@@ -6779,9 +6763,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-135mm-t2-8",
@@ -6819,9 +6801,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-152mm-t3-0",
@@ -6859,9 +6839,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-18mm-t2-2",
@@ -6899,9 +6877,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-21mm-t2-2",
@@ -6939,9 +6915,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-25mm-t2-2",
@@ -6979,9 +6953,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-27mm-t2-2",
@@ -7019,9 +6991,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-32mm-t2-2",
@@ -7059,9 +7029,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-40mm-t2-2",
@@ -7099,9 +7067,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-50mm-t2-2",
@@ -7139,9 +7105,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-65mm-macro-t2-4",
@@ -7180,9 +7144,7 @@
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
       "hasMacro": true,
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-panchro-i-classic-ff-75mm-t2-2",
@@ -7220,9 +7182,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-100mm-t2-0",
@@ -7260,9 +7220,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-135mm-t2-0",
@@ -7300,9 +7258,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-14mm-t2-0",
@@ -7377,9 +7333,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M120 x 1.0 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-16mm-t2-0",
@@ -7417,9 +7371,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-180mm-t2-0",
@@ -7457,9 +7409,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M131 x 1.0 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-18mm-t2-0",
@@ -7497,9 +7447,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-21mm-t2-0",
@@ -7537,9 +7485,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-25mm-t2-0",
@@ -7577,9 +7523,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-27mm-t2-0",
@@ -7617,9 +7561,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-32mm-t2-0",
@@ -7657,9 +7599,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-35mm-t2-0",
@@ -7697,9 +7637,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-40mm-t2-0",
@@ -7737,9 +7675,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-50mm-t2-0",
@@ -7777,9 +7713,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-65mm-t2-0",
@@ -7817,9 +7751,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s4i-75mm-t2-0",
@@ -7857,9 +7789,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s4-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-100mm-t2-0",
@@ -7897,9 +7827,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-135mm-t2-0",
@@ -7937,9 +7865,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-180mm-t2-0",
@@ -7977,9 +7903,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-18mm-t2-0",
@@ -8054,9 +7978,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-32mm-t2-0",
@@ -8094,9 +8016,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-40mm-t2-0",
@@ -8134,9 +8054,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-50mm-t2-0",
@@ -8174,9 +8092,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s7i-75mm-t2-0",
@@ -8214,9 +8130,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s7-i-prime/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M105 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-100mm-t1-6",
@@ -8240,9 +8154,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-135mm-t2-0",
@@ -8266,9 +8178,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-18mm-t1-6",
@@ -8315,9 +8225,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-32mm-t1-6",
@@ -8341,9 +8249,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-40mm-t1-6",
@@ -8367,9 +8273,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-50mm-t1-6",
@@ -8393,9 +8297,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-s8i-ff-75mm-t1-6",
@@ -8419,9 +8321,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/s8-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M99 x 0.75 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-sp3-100mm-t2-4-e",
@@ -9133,9 +9033,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-varotal-ff-30-95mm-t2-9",
@@ -9174,9 +9072,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "cooke-varotal-ff-85-215mm-t2-9",
@@ -9215,9 +9111,7 @@
       "webSources": [
         "https://cookeoptics.com/lens/varotal-i-ff/"
       ],
-      "fieldNotes": {
-        "filterThreadMm": "Has an M112.5 x 0.5 front filter thread; also designed for matte-box use."
-      }
+      "fieldNotes": {}
     },
     {
       "id": "dzofilm-arles-100mm-t1-4",
@@ -12342,7 +12236,7 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens"
       ],
       "fieldNotes": {
-        "filterThreadMm": "Two filter thread options: M95x1 and M107x1."
+        "filterThreadMm": "Also offered with a 107 mm front thread."
       }
     },
     {
@@ -17893,7 +17787,7 @@
         "https://thypoch.com/en/simera-c/"
       ],
       "fieldNotes": {
-        "filterThreadMm": "Front filter thread is M67; the lens also has an inner M62 thread."
+        "filterThreadMm": "Also has an inner 62 mm thread."
       }
     },
     {
