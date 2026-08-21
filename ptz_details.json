@@ -1,6 +1,6 @@
 {
-  "version": "1.24.1",
-  "updatedAt": "2026-08-18",
+  "version": "1.24.2",
+  "updatedAt": "2026-08-21",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -3250,9 +3250,10 @@
       "autoTracking": "ai",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in ND: 1, 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Digital image stabilization"
+        "hasIS": "Digital image stabilization",
+        "ndDetail": "Built-in ND."
       },
       "autoTrackingNote": "Built-in AI presenter tracking and auto-framing, aided by a fixed secondary 100-degree wide-angle camera (a built-in second imager) for full-scene awareness during tracking. The Advanced tracking mode can additionally coordinate with a second camera. No external software required.",
       "streamingProtocols": [
@@ -4325,7 +4326,7 @@
       "autoTracking": "none",
       "hasIS": null,
       "hasND": true,
-      "ndDetail": "Mechanical ND: Through, 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "autoTrackingNote": "AI Framing and AI Tracking announced as future firmware updates; not present at launch. Current AI is face-detection AF/AE only. Recheck to 'ai' once the firmware ships.",
       "streamingProtocols": [
         "NDI",
@@ -4338,7 +4339,9 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "fieldNotes": {},
+      "fieldNotes": {
+        "ndDetail": "Mechanical ND."
+      },
       "description": "Bolin's large-sensor indoor broadcast PTZ, introduced at NAB 2026. A 1-inch 4K60 head with a 20x zoom and 1080p120 high-frame-rate capture, phase- and contrast-detection autofocus, a mechanical ND filter, genlock and LTC timecode, plus local SSD recording, aimed at demanding multi-camera studio and live production.",
       "productUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
     },
@@ -4561,9 +4564,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4622,9 +4626,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized filter wheel: clear plus graduated 3-stop (1/8) ND",
+      "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized filter wheel with graduated ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4686,9 +4691,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4751,9 +4757,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized gradation ND, up to 1/8",
+      "ndDetail": "up to 1/8",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4814,9 +4821,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4878,9 +4886,10 @@
       "autoTracking": "ai",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motorized ND, 3 densities: 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -4943,9 +4952,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Internal 1/8 graduated ND, optional external 1/32 enhanced ND (extends range to 1/256)",
+      "ndDetail": "1/8",
       "fieldNotes": {
-        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto",
+        "ndDetail": "Internal graduated ND; an optional external enhanced ND extends the range to 1/256."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [
@@ -5006,9 +5016,10 @@
       "autoTracking": "basic",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in motor-driven ND: Off, 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "Optical-shift image stabilization, lens-based"
+        "hasIS": "Optical-shift image stabilization, lens-based",
+        "ndDetail": "Built-in motor-driven ND."
       },
       "autoTrackingNote": "On-camera auto-tracking through Canon's RA-AT001 Auto Tracking Application. The analysis runs on the camera itself, but the application needs a paid per-camera license, with a 30-day trial.",
       "streamingProtocols": [],
@@ -12700,9 +12711,10 @@
       "autoTracking": "external",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in ND: Through, 1/4, 1/16, 1/64, plus IR-Through night mode",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic"
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic",
+        "ndDetail": "Built-in ND, with an IR-Through night mode."
       },
       "autoTrackingNote": "No built-in tracking. Auto-tracking is available via Panasonic's separate Auto Tracking Software (a paid plug-in within the Media Production Suite).",
       "streamingProtocols": [
@@ -13463,7 +13475,10 @@
       "autoTracking": "ai",
       "hasIS": false,
       "hasND": true,
-      "ndDetail": "electronic variable ND, 1/4 to 1/128",
+      "ndDetail": "1/4 to 1/128",
+      "fieldNotes": {
+        "ndDetail": "Electronic variable ND."
+      },
       "autoTrackingNote": "Built-in on-camera AI auto-framing and tracking, running on the camera itself with no external appliance or software required.",
       "streamingProtocols": [
         "NDI|HX",

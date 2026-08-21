@@ -727,6 +727,11 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+### v1.24.2 — 2026-08-21
+
+ndDetail-cleanup: 12 PTZ entries had narrative text baked into `ndDetail` (built-in/internal/mechanical/motorized qualifiers, plus the clear/through/off empty-position marker). Split per the fieldNotes contract: `ndDetail` now carries only the compact density/stops value, the qualifying narrative moves to `fieldNotes.ndDetail` (renders inline under the ND row), and the clear/through/off/1x position is dropped entirely (not an ND value). Pure reorganization of already-sourced text — no new research, `sources` arrays unchanged (POS-D23-safe). Entries: canon-cr-x300 ("1/8"), canon-cr-n300 ("1/8"), panasonic-aw-ur100 ("1/4, 1/16, 1/64"), canon-cr-n700 ("1/4, 1/16, 1/64"), canon-cr-n500 ("1/4, 1/16, 1/64"), canon-cr-x500 ("1/4, 1/16, 1/64"), canon-cr-n400 ("up to 1/8"), canon-cr-n350 ("up to 1/8"), canon-cr-n100 ("up to 1/8"), bolin-r9-l420n ("1/4, 1/16, 1/64"), sony-brc-am7 ("1/4 to 1/128"), birddog-xl-ultra ("1/4, 1/16, 1/64"). Existing `fieldNotes.hasIS` entries preserved unchanged where present (canon x8, panasonic-aw-ur100, birddog-xl-ultra); sony-brc-am7 and bolin-r9-l420n gained a `fieldNotes` object where none/empty existed before
+- Entry count and every other field unchanged, 254
+
 ### v1.24.1 — 2026-08-18
 
 db-v20 payload, four items land in ptz_details.json (and its shared-meta hyphen alias ptz-details.json):

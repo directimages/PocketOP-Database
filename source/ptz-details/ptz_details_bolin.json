@@ -1230,7 +1230,7 @@
       "autoTracking": "none",
       "hasIS": null,
       "hasND": true,
-      "ndDetail": "Mechanical ND: Through, 1/4, 1/16, 1/64",
+      "ndDetail": "1/4, 1/16, 1/64",
       "autoTrackingNote": "AI Framing and AI Tracking announced as future firmware updates; not present at launch. Current AI is face-detection AF/AE only. Recheck to 'ai' once the firmware ships.",
       "streamingProtocols": [
         "NDI",
@@ -1243,7 +1243,9 @@
       "trackingDataOut": [
         "FreeD"
       ],
-      "fieldNotes": {},
+      "fieldNotes": {
+        "ndDetail": "Mechanical ND."
+      },
       "description": "Bolin's large-sensor indoor broadcast PTZ, introduced at NAB 2026. A 1-inch 4K60 head with a 20x zoom and 1080p120 high-frame-rate capture, phase- and contrast-detection autofocus, a mechanical ND filter, genlock and LTC timecode, plus local SSD recording, aimed at demanding multi-camera studio and live production.",
       "productUrl": "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
     }

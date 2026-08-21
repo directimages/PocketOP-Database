@@ -924,9 +924,10 @@
       "autoTracking": "external",
       "hasIS": true,
       "hasND": true,
-      "ndDetail": "Built-in ND: Through, 1/4, 1/16, 1/64, plus IR-Through night mode",
+      "ndDetail": "1/4, 1/16, 1/64",
       "fieldNotes": {
-        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic"
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic",
+        "ndDetail": "Built-in ND, with an IR-Through night mode."
       },
       "autoTrackingNote": "No built-in tracking. Auto-tracking is available via Panasonic's separate Auto Tracking Software (a paid plug-in within the Media Production Suite).",
       "streamingProtocols": [

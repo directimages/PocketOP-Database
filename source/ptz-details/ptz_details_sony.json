@@ -43,7 +43,10 @@
       "autoTracking": "ai",
       "hasIS": false,
       "hasND": true,
-      "ndDetail": "electronic variable ND, 1/4 to 1/128",
+      "ndDetail": "1/4 to 1/128",
+      "fieldNotes": {
+        "ndDetail": "Electronic variable ND."
+      },
       "autoTrackingNote": "Built-in on-camera AI auto-framing and tracking, running on the camera itself with no external appliance or software required.",
       "streamingProtocols": [
         "NDI|HX",

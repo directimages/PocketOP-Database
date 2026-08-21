@@ -1,6 +1,6 @@
 {
-  "version": "1.24.1",
-  "updatedAt": "2026-08-18",
+  "version": "1.24.2",
+  "updatedAt": "2026-08-21",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -2222,7 +2222,8 @@
         "https://birddog.tv/xl-techspecs/"
       ],
       "fieldNotes": {
-        "hasIS": "Digital image stabilization"
+        "hasIS": "Digital image stabilization",
+        "ndDetail": "Built-in ND."
       }
     },
     {
@@ -2921,7 +2922,9 @@
       "sources": [
         "https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera"
       ],
-      "fieldNotes": {}
+      "fieldNotes": {
+        "ndDetail": "Mechanical ND."
+      }
     },
     {
       "id": "bolin-range",
@@ -3074,7 +3077,8 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       }
     },
     {
@@ -3117,7 +3121,8 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized filter wheel with graduated ND."
       }
     },
     {
@@ -3160,7 +3165,8 @@
         "https://www.usa.canon.com/shop/p/cr-n350"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       }
     },
     {
@@ -3204,7 +3210,8 @@
         "https://www.usa.canon.com/shop/p/cr-n400"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized gradation ND."
       }
     },
     {
@@ -3246,7 +3253,8 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized ND."
       }
     },
     {
@@ -3289,7 +3297,8 @@
         "https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/"
       ],
       "fieldNotes": {
-        "hasIS": "Optical image stabilization, lens-based"
+        "hasIS": "Optical image stabilization, lens-based",
+        "ndDetail": "Built-in motorized ND."
       }
     },
     {
@@ -3333,7 +3342,8 @@
         "https://www.usa.canon.com/shop/p/cr-x300"
       ],
       "fieldNotes": {
-        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto"
+        "hasIS": "Optical 4-axis image stabilization, with powered IS mode for telephoto",
+        "ndDetail": "Internal graduated ND; an optional external enhanced ND extends the range to 1/256."
       }
     },
     {
@@ -3375,7 +3385,8 @@
         "https://asia.canon/en/business/cr-x500/specification"
       ],
       "fieldNotes": {
-        "hasIS": "Optical-shift image stabilization, lens-based"
+        "hasIS": "Optical-shift image stabilization, lens-based",
+        "ndDetail": "Built-in motor-driven ND."
       }
     },
     {
@@ -8673,7 +8684,8 @@
         "https://connect.na.panasonic.com/av/video/ptz/aw-ur100-4k-outdoor-ptz-camera"
       ],
       "fieldNotes": {
-        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic"
+        "hasIS": "D.I.S.S. hybrid stabilization: optical 2-axis OIS plus electronic",
+        "ndDetail": "Built-in ND, with an IR-Through night mode."
       }
     },
     {
@@ -9192,7 +9204,10 @@
       "sources": [
         "https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7",
         "https://helpguide.sony.net/rc/brc-am7/v1/en/contents/specifications.html"
-      ]
+      ],
+      "fieldNotes": {
+        "ndDetail": "Electronic variable ND."
+      }
     },
     {
       "id": "sony-brc-h800",
