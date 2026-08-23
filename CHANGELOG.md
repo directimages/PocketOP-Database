@@ -2,6 +2,12 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## search-synonyms.json
+### v1 — 2026-08-23
+
+- New authored root file: search synonym layer mapping professional terminology to the tokens round-B search already matches (65 groups covering lens type, format, mount, filter/thread, video interface, control protocol, tracking, PoE class, stabilization, extenders, ND, macro, infrared)
+- Served from @main like announcements.json; not part of the assemble pipeline, not referenced in assemble.py, OUTPUTS, or manifest.json, no db-vN tag cut for this change
+
 ## lenses.json
 ### v1.36.1 — 2026-08-18
 
