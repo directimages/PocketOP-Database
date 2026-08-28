@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "announcement": {
-    "id": "2026-06-update-1-1-0",
-    "message": "Update 1.1.0 is here. Export scout lists as CSV, adjust bracket thickness for wide and tele independently, edit or duplicate custom lenses from the picker, plus a rebuilt cine lens selector and performance improvements.",
+    "id": "2026-08-update-1-2-0",
+    "message": "Update 1.2.0 is here. What's new: the full lens and camera database is now searchable in the app, tap any lens or PTZ for a full detail sheet with manufacturer links, copy a full spec sheet to your clipboard (Pro), and build a custom lens from copied specs. The pickers now open on your active or compare selection, plus UI improvements and fixes throughout. Update to get it.",
     "type": "info"
   }
 }

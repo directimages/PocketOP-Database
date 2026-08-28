@@ -426,6 +426,11 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm lengthMm=109 marked unconfirmed (Gemini source); all other SP3 values from Cooke spec sheet PDF (Tier 1)
 
 ## announcements.json
+### v1.0.7 — 2026-08-28
+
+- Update 1.2.0 release announcement: id "2026-08-update-1-2-0", type info. Searchable database, lens/PTZ detail sheets with manufacturer links, spec sheet clipboard copy (Pro), custom lens from copied specs, pickers open on active/compare selection, plus UI improvements and fixes
+- Framed as "update is here" since this popup is also served to users still on 1.1.0, to prompt the update
+
 ### v1.0.6 — 2026-06-12
 
 - Fix: converted announcement from flat string to required object structure (id, message, type). id: "2026-06-update-1-1-0", type: "info". Flat string was not parsed by the app; popup was not showing.
