@@ -682,6 +682,13 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.15.0 — 2026-08-29
+
+- 11 new Telycam PTZ core entries, born-complete, in source/ptz-cameras/ptz_cameras_telycam.json: Vision+ 6 (4KN 12X, 4KN 20X, 4KN 30X, N3 20X, N3 30X, SE), Drive+ 3 (N 12X, N 20X, SE), Meet+ 2 (12, 20)
+- Vision+ entries use the newly-widened `streamingProtocols` WebRTC enum value (PR #33)
+- PTZ core count 257 -> 268
+- Released as db-v26
+
 ### v1.14.1 — 2026-08-29
 
 - Completion fix: `addedDate` filled "2026-08-29" on the 3 Telycam Explore Gen2 entries added in v1.14.0 (telycam-explore-500, telycam-explore-300, telycam-explore-100), which had shipped without it. No other field touched, entry count unchanged, 257
@@ -764,6 +771,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.26.0 — 2026-08-29
+
+- Sidecars for the 11 new Telycam core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_telycam.json
+- Entry count 257 -> 268
+- Released as db-v26
 
 ### v1.25.0 — 2026-08-29
 
