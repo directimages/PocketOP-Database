@@ -14,7 +14,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Telycam Explore Gen2 flagship. Sony 4/3 inch 9MP UHD CMOS, 20x optical, f=9.79 to 186.5mm, F2.8 to F4.5. HFOV 71 deg (wide) to 4.05 deg (tele); lens and HFOV Telycam-published (product page plus 2026 catalog). App renders from published HFOV. Published wide HFOV plus focal imply an effective 16:9 imaging width near 13.97mm (1 inch class), narrower than a nominal 4/3 inch; sensorWidthMM and sensorHeightMM are effective 16:9 values derived from the published wide HFOV and focal (working values pending manufacturer confirmation on whether 4K capture windows the 4/3 inch sensor). Built-in variable ND. Part TLC-900-IP-20-4K(NDI)-AB-G2."
+      "notes": "Telycam Explore Gen2 flagship. Sony 4/3 inch 9MP UHD CMOS, 20x optical, f=9.79 to 186.5mm, F2.8 to F4.5. HFOV 71 deg (wide) to 4.05 deg (tele); lens and HFOV Telycam-published (product page plus 2026 catalog). App renders from published HFOV. Published wide HFOV plus focal imply an effective 16:9 imaging width near 13.97mm (1 inch class), narrower than a nominal 4/3 inch; sensorWidthMM and sensorHeightMM are effective 16:9 values derived from the published wide HFOV and focal (working values pending manufacturer confirmation on whether 4K capture windows the 4/3 inch sensor). Built-in variable ND. Part TLC-900-IP-20-4K(NDI)-AB-G2.",
+      "addedDate": "2026-08-29"
     },
     {
       "id": "telycam-explore-300",
@@ -30,7 +31,8 @@
       "opticalZoom": 20,
       "isFree": false,
       "isCustom": false,
-      "notes": "Telycam Explore Gen2, professional broadcast AV tier. Shares the flagship optical block: Sony 4/3 inch 9MP UHD CMOS, 20x optical, f=9.79 to 186.5mm, F2.8 to F4.5, HFOV 71 deg to 4.05 deg (Telycam-published, product page plus 2026 catalog). App renders from published HFOV. Effective 16:9 width near 13.97mm derived as for the Explore 500 (working value pending manufacturer confirmation). Leaner output set than the 500 (no 12G-SDI, SFP+ or full NDI), PoE+. Built-in variable ND. Part TLC-900-IP-20-4K(NDI)-AB-XE-G2."
+      "notes": "Telycam Explore Gen2, professional broadcast AV tier. Shares the flagship optical block: Sony 4/3 inch 9MP UHD CMOS, 20x optical, f=9.79 to 186.5mm, F2.8 to F4.5, HFOV 71 deg to 4.05 deg (Telycam-published, product page plus 2026 catalog). App renders from published HFOV. Effective 16:9 width near 13.97mm derived as for the Explore 500 (working value pending manufacturer confirmation). Leaner output set than the 500 (no 12G-SDI, SFP+ or full NDI), PoE+. Built-in variable ND. Part TLC-900-IP-20-4K(NDI)-AB-XE-G2.",
+      "addedDate": "2026-08-29"
     },
     {
       "id": "telycam-explore-100",
@@ -46,7 +48,8 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Telycam Explore Gen2 entry tier. Sony 1/1.8 inch 9MP UHD CMOS, 30x optical, f=6.91 to 214.64mm, F1.35 to F4.6. HFOV 63 deg (wide) to 2.1 deg (tele); Telycam-published (product page plus 2026 catalog). App renders from published HFOV. Published wide HFOV plus focal imply an effective 16:9 width near 8.47mm; sensorWidthMM and sensorHeightMM are effective 16:9 values derived from the published wide HFOV and focal (working values pending manufacturer confirmation). No built-in ND. Part TLC-900-IP-30-4K(NDI)-AB-G2."
+      "notes": "Telycam Explore Gen2 entry tier. Sony 1/1.8 inch 9MP UHD CMOS, 30x optical, f=6.91 to 214.64mm, F1.35 to F4.6. HFOV 63 deg (wide) to 2.1 deg (tele); Telycam-published (product page plus 2026 catalog). App renders from published HFOV. Published wide HFOV plus focal imply an effective 16:9 width near 8.47mm; sensorWidthMM and sensorHeightMM are effective 16:9 values derived from the published wide HFOV and focal (working values pending manufacturer confirmation). No built-in ND. Part TLC-900-IP-30-4K(NDI)-AB-G2.",
+      "addedDate": "2026-08-29"
     }
   ]
 }

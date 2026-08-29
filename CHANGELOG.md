@@ -682,6 +682,11 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.14.1 — 2026-08-29
+
+- Completion fix: `addedDate` filled "2026-08-29" on the 3 Telycam Explore Gen2 entries added in v1.14.0 (telycam-explore-500, telycam-explore-300, telycam-explore-100), which had shipped without it. No other field touched, entry count unchanged, 257
+- Released as db-v25
+
 ### v1.14.0 — 2026-08-29
 
 - New brand: Telycam (source/ptz-cameras/ptz_cameras_telycam.json, paired with source/ptz-details/ptz_details_telycam.json). 3 new born-complete PTZ core entries, Explore Gen2 broadcast series: Explore 500 (flagship, 4/3 inch, 20x, 9.79-186.5mm, HFOV 71.0-4.05 deg), Explore 300 (same optical block, leaner output set), Explore 100 (entry tier, 1/1.8 inch, 30x, 6.91-214.64mm, HFOV 63.0-2.1 deg)
