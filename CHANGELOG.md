@@ -682,6 +682,13 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.14.0 — 2026-08-29
+
+- New brand: Telycam (source/ptz-cameras/ptz_cameras_telycam.json, paired with source/ptz-details/ptz_details_telycam.json). 3 new born-complete PTZ core entries, Explore Gen2 broadcast series: Explore 500 (flagship, 4/3 inch, 20x, 9.79-186.5mm, HFOV 71.0-4.05 deg), Explore 300 (same optical block, leaner output set), Explore 100 (entry tier, 1/1.8 inch, 30x, 6.91-214.64mm, HFOV 63.0-2.1 deg)
+- Explore 500 and Explore 100 sensorWidthMM/sensorHeightMM are working values (effective 16:9 dimensions derived from published wide HFOV and focal length), pending manufacturer confirmation; documented per entry in notes
+- PTZ core count 254 -> 257
+- Released as db-v24
+
 ### v1.13.1 — 2026-08-12
 
 - minrray-uv420: focal length filled, minFocalLengthMM 3.5, maxFocalLengthMM 42, from Minrray support mail for the UV420B2 output variant, which shares the base 12x optics. Datasheet HFOV (70.9/6.5) retained as the render value, unchanged. hFOVWide, hFOVTele, and every other field on this entry unchanged. Closes the null-focalrange gap that kept this entry from loading in the released 1.1.0 app (253/254 to 254/254) without an app update
@@ -752,6 +759,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.25.0 — 2026-08-29
+
+- Sidecars for the 3 new Telycam Explore Gen2 core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_telycam.json
+- Entry count 254 -> 257
+- Released as db-v24
 
 ### v1.24.3 — 2026-08-21
 
