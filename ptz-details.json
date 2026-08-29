@@ -1,6 +1,6 @@
 {
-  "version": "1.24.3",
-  "updatedAt": "2026-08-21",
+  "version": "1.25.0",
+  "updatedAt": "2026-08-29",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -9657,6 +9657,144 @@
         "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
       ],
       "fieldNotes": {}
+    },
+    {
+      "id": "telycam-explore-100",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "USB-C"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 4600,
+      "widthMm": 264,
+      "heightMm": 273,
+      "depthMm": 232.5,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/explore-100.html"
+      ]
+    },
+    {
+      "id": "telycam-explore-300",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 4600,
+      "widthMm": 264,
+      "heightMm": 273,
+      "depthMm": 232.5,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/explore-300.html"
+      ]
+    },
+    {
+      "id": "telycam-explore-500",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "Fiber",
+        "USB-C"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 180,
+      "maxPanSpeedDegS": 150,
+      "maxTiltSpeedDegS": 150,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 4600,
+      "widthMm": 264,
+      "heightMm": 273,
+      "depthMm": 232.5,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/explore-500.html"
+      ]
     }
   ]
 }
