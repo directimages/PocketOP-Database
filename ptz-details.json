@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
+  "version": "1.26.0",
   "updatedAt": "2026-08-29",
   "cameras": [
     {
@@ -9659,6 +9659,144 @@
       "fieldNotes": {}
     },
     {
+      "id": "telycam-drive-plus-n-12x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/drive-n.html"
+      ]
+    },
+    {
+      "id": "telycam-drive-plus-n-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/drive-n.html"
+      ]
+    },
+    {
+      "id": "telycam-drive-plus-se",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://www.telycam.com/product-item/drive-se"
+      ],
+      "fieldNotes": {
+        "videoOutputs": "Sold as either a 3G-SDI output model or an HDMI output model; USB-C on both."
+      }
+    },
+    {
       "id": "telycam-explore-100",
       "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
       "controlProtocols": [
@@ -9795,6 +9933,349 @@
       "sources": [
         "https://telycam.com/explore-500.html"
       ]
+    },
+    {
+      "id": "telycam-meet-plus-12",
+      "manufacturerUrl": "https://telycam.com/video-conference-camera",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature",
+        "One Push"
+      ],
+      "minLux": 0.7,
+      "weightG": 1250,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/meet-12-20.html"
+      ]
+    },
+    {
+      "id": "telycam-meet-plus-20",
+      "manufacturerUrl": "https://telycam.com/video-conference-camera",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature",
+        "One Push"
+      ],
+      "minLux": 0.7,
+      "weightG": 1250,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/meet-12-20.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-12x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-30x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-n3-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-n3.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-n3-30x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-n3.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-se",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://telycam.com/vision-se.html"
+      ],
+      "fieldNotes": {
+        "videoOutputs": "Sold as either an NDI/3G-SDI output model or an HDMI output model; USB-C on both."
+      }
     }
   ]
 }

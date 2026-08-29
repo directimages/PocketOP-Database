@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
+  "version": "1.26.0",
   "updatedAt": "2026-08-29",
   "cameras": [
     {
@@ -14100,6 +14100,198 @@
       "productUrl": "https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh"
     },
     {
+      "id": "telycam-drive-plus-n-12x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/drive-n.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Wide-angle entry in Telycam's Drive+ N family, an NDI HX 1080p60 PTZ on a 1/2.8 inch sensor with a 12x zoom for a broad 72.5 degree opening. It keeps costs down while offering NDI HX, HDMI, 3G-SDI and USB-C output, smooth PTZ motion, tally and PoE+, a practical pick for streaming, worship and classrooms.",
+      "sources": [
+        "https://telycam.com/drive-n.html"
+      ]
+    },
+    {
+      "id": "telycam-drive-plus-n-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/drive-n.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Longer-reach entry in the Drive+ N family, an NDI HX 1080p60 PTZ on a 1/2.8 inch sensor with a 20x zoom (55.8 degree wide). It shares the line's flexible NDI HX / HDMI / 3G-SDI / USB-C output, tally and PoE+, trading a little width for extra telephoto reach in budget-minded live production.",
+      "sources": [
+        "https://telycam.com/drive-n.html"
+      ]
+    },
+    {
+      "id": "telycam-drive-plus-se",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/drive-se.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "ATW",
+        "Manual",
+        "Auto",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "Sodium",
+        "Fluorescent"
+      ],
+      "minLux": 0.7,
+      "weightG": 1350,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Enterprise-tier value PTZ in Telycam's Drive+ line, an NDI HX 1080p60 camera on a 1/2.8 inch sensor with a 20x zoom and a 60 degree wide field. It ships as either a 3G-SDI or an HDMI output model with USB-C on both, and pairs simple tally and PoE+ operation with dependable image quality for streaming and worship.",
+      "sources": [
+        "https://www.telycam.com/product-item/drive-se"
+      ],
+      "fieldNotes": {
+        "videoOutputs": "Sold as either a 3G-SDI output model or an HDMI output model; USB-C on both."
+      }
+    },
+    {
       "id": "telycam-explore-100",
       "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
       "productUrl": "https://telycam.com/explore-100.html",
@@ -14302,6 +14494,513 @@
       "sources": [
         "https://telycam.com/explore-500.html"
       ]
+    },
+    {
+      "id": "telycam-meet-plus-12",
+      "manufacturerUrl": "https://telycam.com/video-conference-camera",
+      "productUrl": "https://telycam.com/meet-12-20.html",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485"
+      ],
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature",
+        "One Push"
+      ],
+      "minLux": 0.7,
+      "weightG": 1250,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Wide-angle model in Telycam's Meet+ 12/20 conferencing PTZ pair, a 1080p60 camera on a Panasonic 1/2.8 inch sensor with a 12x zoom for a broad 72.5 degree field. It outputs over HDMI and USB-C at once and powers from a single USB-C cable, a plug-and-play PTZ for meeting rooms and simple live setups.",
+      "sources": [
+        "https://telycam.com/meet-12-20.html"
+      ]
+    },
+    {
+      "id": "telycam-meet-plus-20",
+      "manufacturerUrl": "https://telycam.com/video-conference-camera",
+      "productUrl": "https://telycam.com/meet-12-20.html",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA RS-485"
+      ],
+      "streamingProtocols": [],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature",
+        "One Push"
+      ],
+      "minLux": 0.7,
+      "weightG": 1250,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Longer-reach model in the Meet+ 12/20 conferencing PTZ pair, a 1080p60 camera on a Panasonic 1/2.8 inch sensor with a 20x zoom (60 degree wide). It keeps the simultaneous HDMI and USB-C output and single-cable USB-C power, trading width for reach in larger meeting rooms.",
+      "sources": [
+        "https://telycam.com/meet-12-20.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-12x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-4kn.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-based auto-tracking and auto-framing; track, switch, area and size control without third-party software.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Widest member of Telycam's Vision+ 4KN family, a 4K60 NDI HX3 PTZ built around a 1/2.8 inch 9MP sensor and a 12x zoom for an 80.5 degree wide field. It pairs native AI auto-tracking and auto-framing with FreeD data out for virtual sets, NDI HX3 plus HDMI 2.0, 3G-SDI and USB-C outputs, and PoE+. A good fit where a broad opening angle matters more than reach.",
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-4kn.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.58,
+      "maxApertureTele": 3.95,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-based auto-tracking and auto-framing; track, switch, area and size control without third-party software.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Mid-reach member of the Vision+ 4KN family, a 4K60 NDI HX3 PTZ on a larger 1/1.8 inch 9MP sensor with a 20x zoom (61 degree wide). It carries the same native AI auto-tracking, FreeD output and flexible NDI HX3 / HDMI 2.0 / 3G-SDI / USB-C connectivity as the rest of the line, balancing framing width and telephoto reach for live production and virtual sets.",
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-4kn-30x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-4kn.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 352,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.35,
+      "maxApertureTele": 4.6,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-based auto-tracking and auto-framing; track, switch, area and size control without third-party software.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "Longest-reach member of the Vision+ 4KN family, a 4K60 NDI HX3 PTZ on a 1/1.8 inch 9MP sensor with a 30x zoom that still opens to a 63 degree wide field. It shares the line's native AI auto-tracking, FreeD output and NDI HX3 / HDMI 2.0 / 3G-SDI / USB-C connectivity, and suits venues that need tight framing at distance.",
+      "sources": [
+        "https://telycam.com/vision-4kn.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-n3-20x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-n3.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-based auto-tracking; track, switch, area and size control without third-party software.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "1080p60 member of Telycam's Vision+ N3 family, a certified NDI HX3 PTZ on a 1/2.8 inch 2.4MP sensor with a 20x zoom (55.8 degree wide). It offers native AI auto-tracking, FreeD output and simultaneous NDI HX3 / HDMI / 3G-SDI / USB-C output at Full HD, a cost-effective pick for streaming and virtual production.",
+      "sources": [
+        "https://telycam.com/vision-n3.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-n3-30x",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-n3.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1900,
+      "widthMm": 190,
+      "heightMm": 193.5,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.35,
+      "maxApertureTele": 4.6,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-based auto-tracking; track, switch, area and size control without third-party software.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "1080p60 member of the Vision+ N3 family, a certified NDI HX3 PTZ on a 1/1.8 inch 9MP sensor with a long 30x zoom opening to a 63 degree wide field. It shares the N3 line's native AI auto-tracking, FreeD output and NDI HX3 / HDMI / 3G-SDI / USB-C connectivity, giving tight reach at Full HD for live production.",
+      "sources": [
+        "https://telycam.com/vision-n3.html"
+      ]
+    },
+    {
+      "id": "telycam-vision-plus-se",
+      "manufacturerUrl": "https://telycam.com/ndi-ip-ptz-camera",
+      "productUrl": "https://telycam.com/vision-se.html",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS",
+        "MPEG-TS",
+        "WebRTC"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "One Push",
+        "Indoor",
+        "Outdoor",
+        "Color Temperature"
+      ],
+      "minLux": 0.5,
+      "weightG": 1500,
+      "widthMm": 190,
+      "heightMm": 173,
+      "depthMm": 220,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "hasIS": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "Native AI-powered auto-tracking, one-touch activation via web UI, remote or keyboard.",
+      "hasND": false,
+      "ndDetail": null,
+      "introductionYear": 2024,
+      "description": "True 4K60 12x PTZ from Telycam's Vision+ line, built around a 1/2.8 inch sensor with an 80.5 degree wide field and one-touch native AI auto-tracking. It adds FreeD data out for virtual sets and USB-C alongside its IP output, and ships as either an NDI/3G-SDI model or an HDMI model. A streamlined single-zoom option for streaming, worship and events.",
+      "sources": [
+        "https://telycam.com/vision-se.html"
+      ],
+      "fieldNotes": {
+        "videoOutputs": "Sold as either an NDI/3G-SDI output model or an HDMI output model; USB-C on both."
+      }
     }
   ]
 }
