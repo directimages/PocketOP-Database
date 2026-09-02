@@ -777,6 +777,10 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz-details.json
 
+### v1.27.1 — 2026-09-02
+
+- Description-only correction on the 4 Panasonic AW-UE200/UE210/UER200/UER210 entries: removed the leading release-timing phrase ("Announced in 2026 for a 2027 release, ..."). Release timing lives in introductionYear, not description. No other field changed. Count unchanged, 272
+
 ### v1.27.0 — 2026-09-02
 
 - Sidecars for the 4 new Panasonic core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_panasonic.json: AW-UE200, AW-UE210, AW-UER200, AW-UER210. Carries trackingDataOut ["FreeD", "OpenTrackIO"], first live use of the newly-widened enum value

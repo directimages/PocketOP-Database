@@ -978,7 +978,7 @@
       "autoTrackingNote": "Built-in AI-based Auto Framing runs on the camera and recomposes automatically to keep the subject framed.",
       "streamingProtocols": ["NDI", "SRT"],
       "trackingDataOut": ["FreeD", "OpenTrackIO"],
-      "description": "Announced in 2026 for a 2027 release, the AW-UE200 is the standard model of Panasonic's first PTZ line built around a large 1.2-type global-shutter sensor, which suppresses the skew and flash banding that rolling shutters show on fast motion and against LED walls. With a 22x zoom and system-camera integration over 12G-SDI, HDMI and IP, it targets the high end of live production, sports and studio work.",
+      "description": "The AW-UE200 is the standard model of Panasonic's first PTZ line built around a large 1.2-type global-shutter sensor, which suppresses the skew and flash banding that rolling shutters show on fast motion and against LED walls. With a 22x zoom and system-camera integration over 12G-SDI, HDMI and IP, it targets the high end of live production, sports and studio work.",
       "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue200-210/spec.html"
     },
     {
@@ -1015,7 +1015,7 @@
       "autoTrackingNote": "Built-in AI-based Auto Framing runs on the camera and recomposes automatically to keep the subject framed.",
       "streamingProtocols": ["NDI", "SRT", "SMPTE ST 2110"],
       "trackingDataOut": ["FreeD", "OpenTrackIO"],
-      "description": "Announced in 2026 for a 2027 release, the AW-UE210 is the IP-native member of Panasonic's first global-shutter PTZ line, adding SMPTE ST 2110 and Dante over SFP+ on top of its 12G-SDI and HDMI outputs. The global-shutter sensor keeps fast motion and LED-wall content clean, and with a 22x zoom it is aimed at large-scale broadcast and IP-based production infrastructures.",
+      "description": "The AW-UE210 is the IP-native member of Panasonic's first global-shutter PTZ line, adding SMPTE ST 2110 and Dante over SFP+ on top of its 12G-SDI and HDMI outputs. The global-shutter sensor keeps fast motion and LED-wall content clean, and with a 22x zoom it is aimed at large-scale broadcast and IP-based production infrastructures.",
       "productUrl": "https://pro-av.panasonic.net/en/products/aw-ue200-210/spec.html"
     },
     {
@@ -1052,7 +1052,7 @@
       "autoTrackingNote": "Built-in AI-based Auto Framing runs on the camera and recomposes automatically to keep the subject framed.",
       "streamingProtocols": ["NDI", "SRT"],
       "trackingDataOut": ["FreeD", "OpenTrackIO"],
-      "description": "Announced in 2026 for a 2027 release, the AW-UER200 pairs Panasonic's first global-shutter PTZ platform with a +-200-degree roll mechanism, enabling rolling camera moves, one-touch horizon leveling and simultaneous 16:9 and rotated 9:16 output. It carries the same 22x zoom and 12G-SDI, HDMI and IP integration as the AW-UE200, aimed at creative live production and studio work.",
+      "description": "The AW-UER200 pairs Panasonic's first global-shutter PTZ platform with a +-200-degree roll mechanism, enabling rolling camera moves, one-touch horizon leveling and simultaneous 16:9 and rotated 9:16 output. It carries the same 22x zoom and 12G-SDI, HDMI and IP integration as the AW-UE200, aimed at creative live production and studio work.",
       "productUrl": "https://pro-av.panasonic.net/en/products/aw-uer200-210/spec.html"
     },
     {
@@ -1089,7 +1089,7 @@
       "autoTrackingNote": "Built-in AI-based Auto Framing runs on the camera and recomposes automatically to keep the subject framed.",
       "streamingProtocols": ["NDI", "SRT", "SMPTE ST 2110"],
       "trackingDataOut": ["FreeD", "OpenTrackIO"],
-      "description": "Announced in 2026 for a 2027 release, the AW-UER210 combines Panasonic's roll-capable global-shutter PTZ body with full IP infrastructure, adding SMPTE ST 2110 and Dante over SFP+ to its 12G-SDI and HDMI outputs. Its +-200-degree roll mechanism drives rolling moves, horizon leveling and rotated 9:16 output, while the global-shutter sensor keeps fast motion and LED-wall shoots clean for high-end broadcast.",
+      "description": "The AW-UER210 combines Panasonic's roll-capable global-shutter PTZ body with full IP infrastructure, adding SMPTE ST 2110 and Dante over SFP+ to its 12G-SDI and HDMI outputs. Its +-200-degree roll mechanism drives rolling moves, horizon leveling and rotated 9:16 output, while the global-shutter sensor keeps fast motion and LED-wall shoots clean for high-end broadcast.",
       "productUrl": "https://pro-av.panasonic.net/en/products/aw-uer200-210/spec.html"
     }
   ]
