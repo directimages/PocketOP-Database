@@ -682,6 +682,11 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.16.0 — 2026-09-02
+
+- 4 new Panasonic PTZ core entries, born-complete, in source/ptz-cameras/ptz_cameras_panasonic.json: AW-UE200, AW-UE210, AW-UER200, AW-UER210. Shared 1.2-type global-shutter lens block, HFOV 80-4 deg published by Panasonic (render source). Announced 2026-09-02, ships 2027 (core render fields complete, POS-D30-herziening)
+- PTZ core count 268 -> 272
+
 ### v1.15.0 — 2026-08-29
 
 - 11 new Telycam PTZ core entries, born-complete, in source/ptz-cameras/ptz_cameras_telycam.json: Vision+ 6 (4KN 12X, 4KN 20X, 4KN 30X, N3 20X, N3 30X, SE), Drive+ 3 (N 12X, N 20X, SE), Meet+ 2 (12, 20)
@@ -771,6 +776,11 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.27.0 — 2026-09-02
+
+- Sidecars for the 4 new Panasonic core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_panasonic.json: AW-UE200, AW-UE210, AW-UER200, AW-UER210. Carries trackingDataOut ["FreeD", "OpenTrackIO"], first live use of the newly-widened enum value
+- Entry count 268 -> 272
 
 ### v1.26.0 — 2026-08-29
 
