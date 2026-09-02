@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "updatedAt": "2026-08-29",
+  "version": "1.27.0",
+  "updatedAt": "2026-09-02",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -8487,6 +8487,76 @@
       }
     },
     {
+      "id": "panasonic-aw-ue200",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 400,
+      "maxTiltSpeedDegS": 400,
+      "hasIR": null,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 7500,
+      "widthMm": 212,
+      "heightMm": 308,
+      "depthMm": 248,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue200-210/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-ue200-210/features.html",
+        "https://news.panasonic.com/global/press/en260902-4"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "panasonic-aw-ue210",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 400,
+      "maxTiltSpeedDegS": 400,
+      "hasIR": null,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 7500,
+      "widthMm": 212,
+      "heightMm": 308,
+      "depthMm": 248,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-ue200-210/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-ue200-210/features.html",
+        "https://news.panasonic.com/global/press/en260902-4"
+      ],
+      "fieldNotes": {}
+    },
+    {
       "id": "panasonic-aw-ue30",
       "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
       "controlProtocols": [
@@ -8642,6 +8712,76 @@
       "fieldNotes": {
         "hasIS": "Two-axis optical stabilization, with separate modes for a locked-off shot and for pan/tilt moves."
       }
+    },
+    {
+      "id": "panasonic-aw-uer200",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": null,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 9000,
+      "widthMm": 270,
+      "heightMm": 324,
+      "depthMm": 258,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-uer200-210/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-uer200-210/features.html",
+        "https://news.panasonic.com/global/press/en260902-4"
+      ],
+      "fieldNotes": {}
+    },
+    {
+      "id": "panasonic-aw-uer210",
+      "manufacturerUrl": "https://pro-av.panasonic.net/en/products/ptz_camera_systems.html",
+      "controlProtocols": [
+        "Panasonic AW IP",
+        "RS-422"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": null,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": null,
+      "whiteBalanceModes": null,
+      "minLux": null,
+      "weightG": 9000,
+      "widthMm": 270,
+      "heightMm": 324,
+      "depthMm": 258,
+      "mountThreads": null,
+      "hasCeilingMount": null,
+      "hasWallMount": null,
+      "sources": [
+        "https://pro-av.panasonic.net/en/products/aw-uer200-210/spec.html",
+        "https://pro-av.panasonic.net/en/products/aw-uer200-210/features.html",
+        "https://news.panasonic.com/global/press/en260902-4"
+      ],
+      "fieldNotes": {}
     },
     {
       "id": "panasonic-aw-ur100",

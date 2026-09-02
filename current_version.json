@@ -1,6 +1,6 @@
 {
-  "latest": "db-v26",
-  "updatedAt": "2026-08-29T15:19:22Z",
+  "latest": "db-v27",
+  "updatedAt": "2026-09-02T17:50:24Z",
   "files": {
     "broadcast_lenses.json": {
       "version": "1.32.0",
@@ -27,16 +27,16 @@
       "entries": 730
     },
     "ptz_cameras.json": {
-      "version": "1.15.0",
-      "entries": 268
+      "version": "1.16.0",
+      "entries": 272
     },
     "ptz_details.json": {
-      "version": "1.26.0",
-      "entries": 268
+      "version": "1.27.0",
+      "entries": 272
     },
     "ptz-details.json": {
-      "version": "1.26.0",
-      "entries": 268
+      "version": "1.27.0",
+      "entries": 272
     },
     "devices.json": {
       "version": "1.6.1",

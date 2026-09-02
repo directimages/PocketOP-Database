@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
+  "version": "1.16.0",
   "ptzCameras": [
     {
       "id": "aver-dl30",
@@ -3810,6 +3810,40 @@
       "addedDate": null
     },
     {
+      "id": "panasonic-aw-ue200",
+      "brand": "panasonic",
+      "model": "AW-UE200",
+      "sensorLabel": "1.2 inch",
+      "sensorWidthMM": 13.93,
+      "sensorHeightMM": 7.84,
+      "minFocalLengthMM": 8.3,
+      "maxFocalLengthMM": 183.0,
+      "hFOVWide": 80.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 22,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1.2-type global shutter 5K MOS (~14MP), 22x. HFOV 80-4 deg published by Panasonic (render source, POS-D01). Focal 8.3-183mm. Sensor dims derived from published HFOV + focal, 16:9 active area (dims not published). Standard model, no IP video out. Announced 2026-09-02, ships 2027. Shares lens block with UE210/UER200/UER210. Finishes: Pearl White (W) / Black (K).",
+      "addedDate": "2026-09-02"
+    },
+    {
+      "id": "panasonic-aw-ue210",
+      "brand": "panasonic",
+      "model": "AW-UE210",
+      "sensorLabel": "1.2 inch",
+      "sensorWidthMM": 13.93,
+      "sensorHeightMM": 7.84,
+      "minFocalLengthMM": 8.3,
+      "maxFocalLengthMM": 183.0,
+      "hFOVWide": 80.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 22,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1.2-type global shutter 5K MOS (~14MP), 22x. HFOV 80-4 deg published (render source, POS-D01). Focal 8.3-183mm. Sensor dims derived from published HFOV + focal. IP-native: adds SMPTE ST 2110 and Dante over SFP+ on top of 12G-SDI/HDMI. Announced 2026-09-02, ships 2027. Shares lens block with UE200/UER200/UER210. Finishes: W / K.",
+      "addedDate": "2026-09-02"
+    },
+    {
       "id": "panasonic-aw-ue30",
       "brand": "panasonic",
       "model": "AW-UE30",
@@ -3876,6 +3910,40 @@
       "isCustom": false,
       "notes": "1/2.5-inch CMOS, 24x. HFOV 74.1°–3.3°, focal 4.12–98.9mm from Panasonic spec sheet. (Addendum A Section A.5)",
       "addedDate": null
+    },
+    {
+      "id": "panasonic-aw-uer200",
+      "brand": "panasonic",
+      "model": "AW-UER200",
+      "sensorLabel": "1.2 inch",
+      "sensorWidthMM": 13.93,
+      "sensorHeightMM": 7.84,
+      "minFocalLengthMM": 8.3,
+      "maxFocalLengthMM": 183.0,
+      "hFOVWide": 80.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 22,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1.2-type global shutter 5K MOS (~14MP), 22x. HFOV 80-4 deg published (render source, POS-D01). Focal 8.3-183mm. Sensor dims derived from published HFOV + focal. UER = Roll: +-200 deg roll mechanism (horizon leveling, rotated 9:16 output). Optics identical to UE200. Announced 2026-09-02, ships 2027. Finishes: W / K.",
+      "addedDate": "2026-09-02"
+    },
+    {
+      "id": "panasonic-aw-uer210",
+      "brand": "panasonic",
+      "model": "AW-UER210",
+      "sensorLabel": "1.2 inch",
+      "sensorWidthMM": 13.93,
+      "sensorHeightMM": 7.84,
+      "minFocalLengthMM": 8.3,
+      "maxFocalLengthMM": 183.0,
+      "hFOVWide": 80.0,
+      "hFOVTele": 4.0,
+      "opticalZoom": 22,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1.2-type global shutter 5K MOS (~14MP), 22x. HFOV 80-4 deg published (render source, POS-D01). Focal 8.3-183mm. Sensor dims derived from published HFOV + focal. Roll + full IP: +-200 deg roll mechanism plus SMPTE ST 2110 and Dante over SFP+. Optics identical to UE200. Announced 2026-09-02, ships 2027. Finishes: W / K.",
+      "addedDate": "2026-09-02"
     },
     {
       "id": "panasonic-aw-ur100",
