@@ -1,6 +1,6 @@
 {
-  "latest": "db-v27",
-  "updatedAt": "2026-09-02T17:50:24Z",
+  "latest": "db-v28",
+  "updatedAt": "2026-09-02T18:26:29Z",
   "files": {
     "broadcast_lenses.json": {
       "version": "1.32.0",
@@ -31,11 +31,11 @@
       "entries": 272
     },
     "ptz_details.json": {
-      "version": "1.27.0",
+      "version": "1.27.1",
       "entries": 272
     },
     "ptz-details.json": {
-      "version": "1.27.0",
+      "version": "1.27.1",
       "entries": 272
     },
     "devices.json": {
