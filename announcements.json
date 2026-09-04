@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "announcement": {
-    "id": "2026-08-update-1-2-0",
-    "message": "Update 1.2.0 is here. What's new: the full lens and camera database is now searchable in the app, tap any lens or PTZ for a full detail sheet with manufacturer links, copy a full spec sheet to your clipboard (Pro), and build a custom lens from copied specs. The pickers now open on your active or compare selection, plus UI improvements and fixes throughout. Update to get it.",
+    "id": "2026-09-update-1-2-1",
+    "message": "PocketOP 1.2.1. This maintenance update keeps your search active when you switch between the Broadcast, Cine and PTZ tabs, and improves how the interface scales across iPhone models. Update to get the latest, with improvements and fixes throughout.",
     "type": "info"
   }
 }
