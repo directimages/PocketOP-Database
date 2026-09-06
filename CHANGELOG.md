@@ -9,6 +9,11 @@ Most recent changes at the top. One line per file changed per commit.
 - Served from @main like announcements.json; not part of the assemble pipeline, not referenced in assemble.py, OUTPUTS, or manifest.json, no db-vN tag cut for this change
 
 ## lenses.json
+### v1.37.0 — 2026-09-06
+
+- 16 new Sigma Aizu Prime cine core entries: 8 focals (25/27/32/35/40/50/65/75mm T1.3), each in PL and Sony E (POS-D09); sensorFormat fullFrame, image circle 46.3mm per POS-D28. addedDate 2026-09-06. cine_lenses.json split bumped to v1.34.0 (same 16 additions). Entry count: cine 606 -> 622, lenses union 730 -> 746
+- Released as db-v29
+
 ### v1.36.1 — 2026-08-18
 
 - db-v20 payload item E4: `generation` corrected "Cinema" -> "Photography" on 30 Canon EF L-series photographic lenses (series "EF") that had been misclassified during import. The genuine Cinema EOS CN-E primes (series "CN-E") are untouched. cine_lenses.json split bumped to v1.33.1 (same 30 corrections). Entry count unchanged, 730
@@ -148,6 +153,13 @@ Most recent changes at the top. One line per file changed per commit.
 - 18mm introductionYear: 2024; 25–100mm introductionYear: 2023
 
 ## cine_lens_details.json
+### v1.55.0 — 2026-09-06
+
+- 16 new Sigma Aizu Prime cine detail entries, paired with the core additions (PL + Sony E; 25/27/32/35/40/50/65/75mm T1.3). Entry count: cine details 606 -> 622
+- NiSi Athena Prime (E mount, 8 entries: 14/18/25/35/40/50/85/135mm) Kay-verified fills (POS-D23): weightG, closeFocusM, frontDiameterMm (80), filterThreadMm; lengthMm on the original five only (14/25/35/50/85). nisi-athena-14mm-t2-4 also filterType none -> internal, with a filterThreadMm fieldNote (no front thread; E-mount version takes a rear drop-in filter, 875 g without). hasFocusBreathing unchanged ("minimal"). Per-field sources added (NiSi Athena Prime 2024 brochure; lengthMm from the en.nisioptics.com/athena spec-table image)
+- Zeiss Supreme Prime Radiance (PL, 2 entries: 18mm, 135mm): filterType "none", filterThreadMm "none", hasFocusBreathing "minimal", focusRingRotationDeg 300, gearPitch 0.8; isParfocal unchanged (null). Values taken from the non-Radiance Supreme Prime twin of each focal (shared optical body; the T* coating does not affect these fields), sourced per field
+- Released as db-v29
+
 ### v1.54.3 — 2026-08-21
 
 - fieldNotes copyedit pass (db-v23), Kay-finalized apply-map, 54 mutations in this file: 53 Cooke PL entries (miniS4/i, Panchro/i Classic, S4/i, S7/i, S8/i, Varotal) had their `fieldNotes.filterThreadMm` boilerplate ("Has an M-size front filter thread; also designed for matte-box use.") removed outright — the numeric filter size already renders bare from the `filterThreadMm` field itself, so the note only duplicated it; removing it leaves `fieldNotes` as `{}`, not `null`. 1 Thypoch entry (thypoch-simera-c-75mm-t1-5) had its `filterThreadMm` note reworded from restating both thread sizes to naming only the additive inner thread the primary field can't show. Every op validated against its exact current text before writing; no other field touched. Entry count unchanged, 606
@@ -210,6 +222,11 @@ Most recent changes at the top. One line per file changed per commit.
 - opticalElements descriptive string → element integer: 48 Tokina Vista-C (12 focal lengths × E/EF/LPL/PL). 18→17, 21→19, 25→16, 29→18, 35→14, 40→15, 50→13, 65→14, 85→14, 105→16, 135→16, 180→17. Group count dropped from the value; per-field sources note retained. 8 Angénieux Optimo opticalElements "unknown" untouched.
 
 ## broadcast_lens_details.json
+### v1.53.4 — 2026-09-06
+
+- Nikon S19x8B (nikon-s19x8): introductionYear -> 1993 (1993 Nikon TV-Nikkor manufacturer advertisement, marketing material, tier-4 per POS-D12, owner-approved), hasServoZoom -> true. Source added. Entry count unchanged, 124
+- Released as db-v29
+
 ### v1.53.3 — 2026-08-21
 
 - fieldNotes copyedit pass (db-v23), Kay-finalized apply-map, 9 mutations in this file: 8 Canon broadcast entries (uj111x8-3b, uj122x8-2b, uj122x8-2b-af, xj22x7-3b, xj23x7b, xj25x6-8b, xj27x6-5b, xj72x9-3b) had a terminal period added to `fieldNotes.hasMacro`. 1 Fujinon entry (fujinon-ua30x7-3berd) had `fieldNotes.filterThreadMm` reworded from restating both thread sizes to naming only the additive second thread. Every op validated against its exact current text before writing; no other field touched. Entry count unchanged, 124
@@ -262,6 +279,11 @@ Most recent changes at the top. One line per file changed per commit.
 - nikon-s19x8 (broadcast_details_nikon): servoConnector "unconfirmed" → null, hasServoZoom "unconfirmed" → null.
 
 ## lens-details.json
+### v1.57.0 — 2026-09-06
+
+- Legacy union rebuild: 16 new Sigma Aizu Prime cine detail entries (PL + E), plus the whitelisted db-v29 detail corrections above — NiSi Athena Prime 8-entry fills (closeFocusM, frontDiameterMm, filterThreadMm, lengthMm, weightG; nisi-athena-14mm filterType internal + fieldNote), Zeiss Supreme Prime Radiance 18/135mm (filterType, filterThreadMm, hasFocusBreathing, focusRingRotationDeg, gearPitch), and Nikon S19x8B (introductionYear 1993, hasServoZoom true). The per-field sources objects are not in the union whitelist and do not propagate. Entry count: 730 -> 746
+- Released as db-v29
+
 ### v1.56.2 — 2026-08-21
 
 - Legacy union rebuild aggregating the fieldNotes copyedit pass above: cine_lens_details v1.54.3 (54 mutations: 53 Cooke PL filterThreadMm notes removed, 1 Thypoch filterThreadMm note reworded) and broadcast_lens_details v1.53.3 (9 mutations: 8 Canon hasMacro terminal-period fixes, 1 Fujinon filterThreadMm note reworded). Entry count unchanged, 730
@@ -682,6 +704,13 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.16.1 — 2026-09-06
+
+- Telycam Explore 500 and Explore 300 (Explore 100 untouched): sensorWidthMM 13.97 -> 12.672, sensorHeightMM 7.86 -> 7.128 (4K crops the 4/3 sensor to 3840x2160 at 3.30um square pixels; Ivy Li / Telycam, 2026-08-31). notes appended with the correction and source. HFOV is the render source and is unchanged
+- Sony BRC-H800: minFocalLengthMM 10.4 -> 9.3, maxFocalLengthMM 125.9 -> 111.6 (Sony HFOV-calculator crosscheck, 2026-08-18); notes appended. HFOV unchanged. The ptz_core schema carries no sources field, so the source is recorded in notes
+- Entry count unchanged, 272
+- Released as db-v29
+
 ### v1.16.0 — 2026-09-02
 
 - 4 new Panasonic PTZ core entries, born-complete, in source/ptz-cameras/ptz_cameras_panasonic.json: AW-UE200, AW-UE210, AW-UER200, AW-UER210. Shared 1.2-type global-shutter lens block, HFOV 80-4 deg published by Panasonic (render source). Announced 2026-09-02, ships 2027 (core render fields complete, POS-D30-herziening)
@@ -776,6 +805,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.27.2 — 2026-09-06
+
+- Marshall CV605-BK: maxApertureTele "unknown" -> 2.8. Marshall CV612-TBI: maxApertureTele -> 2.68. apertureType "f" on both (PTZ convention). Marshall tech-support confirmation (2026-08-24) added to both sources. Marshall CV605-U3: corroborating tech-support source note added (shared 5x optical module, tele f/2.8), no value change
+- Entry count unchanged, 272
+- Released as db-v29
 
 ### v1.27.1 — 2026-09-02
 

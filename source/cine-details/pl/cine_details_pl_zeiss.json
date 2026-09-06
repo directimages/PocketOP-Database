@@ -1708,13 +1708,13 @@
       "introductionYear": 2021,
       "imageCircleMm": 46.3,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": null,
-      "gearPitch": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime Radiance product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime Radiance spec table (tier-1) — Gemini flagged as inferred from chassis family, not directly sourced for 135mm individually",
@@ -1724,12 +1724,12 @@
         "introductionYear": "Zeiss Supreme Prime Radiance announced 2021 — zeiss.com (tier-1)",
         "imageCircleMm": "Zeiss publishes full frame coverage for Supreme Prime Radiance — zeiss.com (tier-1)",
         "opticalElements": "Not published by Zeiss for Supreme Prime Radiance",
-        "filterType": "Not confirmed for Supreme Prime Radiance from zeiss.com or secondary sources",
-        "filterThreadMm": "Not confirmed for Supreme Prime Radiance from zeiss.com or secondary sources",
+        "filterType": "Zeiss Supreme Prime 135mm (non-Radiance twin): matte-box lens, no front filter interface. Same optical body; the T* Radiance coating does not affect the filter interface.",
+        "filterThreadMm": "Zeiss Supreme Prime 135mm (non-Radiance twin): no front filter thread. Same optical body as the Radiance.",
         "isParfocal": "Not confirmed by Zeiss for Supreme Prime Radiance",
-        "hasFocusBreathing": "Not confirmed by Zeiss for Supreme Prime Radiance",
-        "focusRingRotationDeg": "Not published by Zeiss for Supreme Prime Radiance",
-        "gearPitch": "Not published by Zeiss for Supreme Prime Radiance"
+        "hasFocusBreathing": "Zeiss Supreme Prime 135mm (non-Radiance twin): minimal focus breathing. The T* Radiance coating does not affect breathing.",
+        "focusRingRotationDeg": "Zeiss Supreme Prime 135mm (non-Radiance twin): 300 deg focus rotation. Shared chassis with the Radiance.",
+        "gearPitch": "Zeiss Supreme Prime 135mm (non-Radiance twin): 0.8 MOD gears. Shared chassis with the Radiance."
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"
@@ -1752,13 +1752,13 @@
       "introductionYear": 2021,
       "imageCircleMm": 46.3,
       "opticalElements": null,
-      "filterType": null,
-      "filterThreadMm": null,
+      "filterType": "none",
+      "filterThreadMm": "none",
       "isParfocal": null,
-      "hasFocusBreathing": null,
+      "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
-      "focusRingRotationDeg": null,
-      "gearPitch": null,
+      "focusRingRotationDeg": 300,
+      "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "zeiss.com Supreme Prime Radiance product page (tier-1)",
         "weightG": "zeiss.com Supreme Prime Radiance spec table (tier-1)",
@@ -1768,12 +1768,12 @@
         "introductionYear": "Zeiss Supreme Prime Radiance announced 2021 — zeiss.com (tier-1)",
         "imageCircleMm": "Zeiss publishes full frame coverage for Supreme Prime Radiance — zeiss.com (tier-1)",
         "opticalElements": "Not published by Zeiss for Supreme Prime Radiance",
-        "filterType": "Not confirmed for Supreme Prime Radiance from zeiss.com or secondary sources",
-        "filterThreadMm": "Not confirmed for Supreme Prime Radiance from zeiss.com or secondary sources",
+        "filterType": "Zeiss Supreme Prime 18mm (non-Radiance twin): matte-box lens, no front filter interface. Same optical body; the T* Radiance coating does not affect the filter interface.",
+        "filterThreadMm": "Zeiss Supreme Prime 18mm (non-Radiance twin): no front filter thread. Same optical body as the Radiance.",
         "isParfocal": "Not confirmed by Zeiss for Supreme Prime Radiance",
-        "hasFocusBreathing": "Not confirmed by Zeiss for Supreme Prime Radiance",
-        "focusRingRotationDeg": "Not published by Zeiss for Supreme Prime Radiance",
-        "gearPitch": "Not published by Zeiss for Supreme Prime Radiance"
+        "hasFocusBreathing": "Zeiss Supreme Prime 18mm (non-Radiance twin): minimal focus breathing. The T* Radiance coating does not affect breathing.",
+        "focusRingRotationDeg": "Zeiss Supreme Prime 18mm (non-Radiance twin): 300 deg focus rotation. Shared chassis with the Radiance.",
+        "gearPitch": "Zeiss Supreme Prime 18mm (non-Radiance twin): 0.8 MOD gears. Shared chassis with the Radiance."
       },
       "webSources": [
         "https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html"

@@ -4,10 +4,10 @@
       "id": "nisi-athena-135mm-t2-2",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
+      "weightG": 1070,
       "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "frontDiameterMm": 80,
+      "closeFocusM": 1.0,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -18,7 +18,13 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\""
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -33,21 +39,28 @@
       "id": "nisi-athena-14mm-t2-4",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "weightG": 890,
+      "lengthMm": 119.3,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.25,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
-      "filterType": "none",
+      "filterType": "internal",
       "filterThreadMm": "none",
       "isParfocal": null,
       "hasFocusBreathing": "minimal",
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\"",
+        "lengthMm": "NiSi Athena spec table image, en.nisioptics.com/athena"
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -56,16 +69,19 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/"
+      "productUrl": "https://nisioptics.co.uk/nisi-athena-prime/",
+      "fieldNotes": {
+        "filterThreadMm": "No front filter thread; the E-mount version accepts a rear drop-in filter (without drop-in filter: 875 g)."
+      }
     },
     {
       "id": "nisi-athena-18mm-t2-2",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
+      "weightG": 890,
       "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.25,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -76,7 +92,13 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\""
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -91,10 +113,10 @@
       "id": "nisi-athena-25mm-t1-9",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "weightG": 890,
+      "lengthMm": 81.3,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.3,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -105,7 +127,14 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\"",
+        "lengthMm": "NiSi Athena spec table image, en.nisioptics.com/athena"
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -120,10 +149,10 @@
       "id": "nisi-athena-35mm-t1-9",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "weightG": 890,
+      "lengthMm": 81.3,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.3,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -134,7 +163,14 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\"",
+        "lengthMm": "NiSi Athena spec table image, en.nisioptics.com/athena"
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -149,10 +185,10 @@
       "id": "nisi-athena-40mm-t1-9",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
+      "weightG": 890,
       "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.4,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -163,7 +199,13 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\""
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -178,10 +220,10 @@
       "id": "nisi-athena-50mm-t1-9",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "weightG": 890,
+      "lengthMm": 81.3,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.5,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -192,7 +234,14 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\"",
+        "lengthMm": "NiSi Athena spec table image, en.nisioptics.com/athena"
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],
@@ -207,10 +256,10 @@
       "id": "nisi-athena-85mm-t1-9",
       "lensType": "cine",
       "manufacturerUrl": "https://en.nisioptics.com/",
-      "weightG": null,
-      "lengthMm": null,
-      "frontDiameterMm": null,
-      "closeFocusM": null,
+      "weightG": 890,
+      "lengthMm": 81.3,
+      "frontDiameterMm": 80,
+      "closeFocusM": 0.8,
       "introductionYear": null,
       "imageCircleMm": 46.0,
       "opticalElements": null,
@@ -221,7 +270,14 @@
       "hasFrontRotation": null,
       "focusRingRotationDeg": 300,
       "gearPitch": 0.8,
-      "sources": {},
+      "sources": {
+        "weightG": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "closeFocusM": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "frontDiameterMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "filterThreadMm": "NiSi Athena Prime 2024 brochure, text-layer conversion",
+        "hasFocusBreathing": "NiSi Athena Prime brochure: \"No Visible Focus Breathing\"",
+        "lengthMm": "NiSi Athena spec table image, en.nisioptics.com/athena"
+      },
       "webSources": [
         "https://nisioptics.co.uk/nisi-athena-prime/"
       ],

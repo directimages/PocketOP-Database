@@ -24,14 +24,14 @@
       "sensorLabel": "1 inch",
       "sensorWidthMM": 13.2,
       "sensorHeightMM": 8.8,
-      "minFocalLengthMM": 10.4,
-      "maxFocalLengthMM": 125.9,
+      "minFocalLengthMM": 9.3,
+      "maxFocalLengthMM": 111.6,
       "hFOVWide": 64.6,
       "hFOVTele": 6.0,
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T*. Clear Image Zoom extends to 24x (HD). HFOV from Sony specs / B&H. Focal lengths derived from HFOV and sensor width. 3G-SDI + HDMI output. Discontinued. (Duplicate entry removed v1.2.1 — second entry claimed shared optics with BRC-X1000 at 9.3–111.6mm with hFOVTele 6.8°; kept this entry's Sony/B&H-sourced values.)",
+      "notes": "1-inch Exmor R CMOS, 12x Zeiss Vario-Sonnar T*. Clear Image Zoom extends to 24x (HD). HFOV from Sony specs / B&H. Focal lengths derived from HFOV and sensor width. 3G-SDI + HDMI output. Discontinued. (Duplicate entry removed v1.2.1 — second entry claimed shared optics with BRC-X1000 at 9.3–111.6mm with hFOVTele 6.8°; kept this entry's Sony/B&H-sourced values.) Update 2026-08-18: minFocalLengthMM and maxFocalLengthMM corrected to 9.3 and 111.6mm (from 10.4 and 125.9mm) following a Sony HFOV-calculator crosscheck; the published HFOV (64.6 deg wide, 6.0 deg tele) is unchanged and remains the render source. Source: Sony HFOV calculator crosscheck, 2026-08-18.",
       "addedDate": null
     },
     {

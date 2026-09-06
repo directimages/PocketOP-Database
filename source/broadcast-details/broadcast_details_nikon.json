@@ -68,18 +68,19 @@
       "lengthMm": 215,
       "frontDiameterMm": null,
       "closeFocusM": 0.9,
-      "introductionYear": null,
+      "introductionYear": 1993,
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
       "hasMacro": true,
-      "hasServoZoom": null,
+      "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": null,
       "formFactor": "portable",
       "sources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "1993 Nikon TV-Nikkor manufacturer advertisement (marketing material, tier-4 per POS-D12; owner-approved): documents the 1993 introduction and the servo zoom drive."
       ],
       "webSources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"

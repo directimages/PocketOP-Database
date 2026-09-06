@@ -1,6 +1,6 @@
 {
-  "version": "1.27.1",
-  "updatedAt": "2026-09-02",
+  "version": "1.27.2",
+  "updatedAt": "2026-09-06",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -6511,7 +6511,8 @@
       "hasWallMount": true,
       "sources": [
         "https://marshall-usa.com/cameras/CV605-BK-WH/",
-        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd Martijn 2026-07-24)"
+        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd Martijn 2026-07-24)",
+        "Marshall tech support confirmation, 2026-08-24 (maxApertureTele)."
       ],
       "fieldNotes": {}
     },
@@ -6548,7 +6549,8 @@
       "sources": [
         "https://marshall-usa.com/cameras/CV605-U3-U3W/",
         "https://marshall-usa.com/pdf/CV605U3-U3W-specsheet.pdf",
-        "https://www.manua.ls/marshall-electronics/cv605-u3w/manual"
+        "https://www.manua.ls/marshall-electronics/cv605-u3w/manual",
+        "Marshall tech support, 2026-08-24: the shared 5x optical module corroborates tele f/2.8 (cf. CV605-BK)."
       ]
     },
     {
@@ -6589,7 +6591,8 @@
       "hasWallMount": null,
       "sources": [
         "https://marshall-usa.com/cameras/CV612-TBI-TWI/",
-        "https://marshall-usa.com/pdf/CV612-TBI-TWI-Cutsheet.pdf"
+        "https://marshall-usa.com/pdf/CV612-TBI-TWI-Cutsheet.pdf",
+        "Marshall tech support confirmation, 2026-08-24 (maxApertureTele)."
       ],
       "fieldNotes": {}
     },
