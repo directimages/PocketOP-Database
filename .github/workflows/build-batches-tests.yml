@@ -19,6 +19,12 @@ on:
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
 
+# This workflow only checks out the repo and runs tests. It never writes to the
+# repo and does not use the GITHUB_TOKEN beyond reading source for checkout, so
+# read only on repo contents is the minimum it needs.
+permissions:
+  contents: read
+
 jobs:
   test:
     strategy:

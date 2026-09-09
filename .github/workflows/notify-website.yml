@@ -9,6 +9,11 @@ on:
       - 'ptz_cameras.json'
       - 'devices.json'
 
+# This workflow does not check out the repo and never uses the GITHUB_TOKEN. The
+# website dispatch runs entirely on the separate PAT_DISPATCH_WEBSITE secret, so
+# the GITHUB_TOKEN needs no permissions at all.
+permissions: {}
+
 jobs:
   notify-website:
     runs-on: ubuntu-latest
