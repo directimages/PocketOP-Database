@@ -1,6 +1,6 @@
 {
-  "version": "1.27.2",
-  "updatedAt": "2026-09-06",
+  "version": "1.28.0",
+  "updatedAt": "2026-09-13",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -9267,6 +9267,52 @@
         "https://ptzoptics.com/move-se/",
         "https://www.bhphotovideo.com/lit_files/1074274.pdf",
         "https://www.conferenceroomav.com/pdf/pt12x-se-gy-g3-PDF.pdf"
+      ]
+    },
+    {
+      "id": "ptzoptics-rise-4k",
+      "manufacturerUrl": "https://ptzoptics.com",
+      "controlProtocols": [
+        "VISCA IP",
+        "VISCA RS-232",
+        "VISCA RS-422",
+        "VISCA RS-485",
+        "Pelco-D",
+        "Pelco-P",
+        "ONVIF"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 255,
+      "panRangeDeg": 344,
+      "tiltRangeDeg": 150,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": null,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "Indoor",
+        "Outdoor",
+        "One Push",
+        "VAR"
+      ],
+      "minLux": 0.5,
+      "weightG": 4800,
+      "widthMm": 205,
+      "heightMm": 237,
+      "depthMm": 272,
+      "mountThreads": null,
+      "hasCeilingMount": true,
+      "hasWallMount": null,
+      "sources": [
+        "https://docs.ptzoptics.com/docs/cameras/rise/technical-specs/",
+        "https://ptzoptics.com/ptz-cameras/rise"
       ]
     },
     {
