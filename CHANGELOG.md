@@ -704,6 +704,12 @@ Most recent changes at the top. One line per file changed per commit.
 
 ## ptz_cameras.json
 
+### v1.17.0 — 2026-09-13
+
+- New PTZOptics core entry: Rise 4K (`ptzoptics-rise-4k`), 1-inch CMOS, 50MP effective, 20x nameplate (9.79-186.5mm, focal-derived ratio 19.05x), HFOV 70.0-4.1 deg published by PTZOptics. OEM platform is a rebadge of the ValueHD VX90; PTZOptics-published figures used per POS-D61. addedDate 2026-09-13
+- PTZ core count 272 -> 273
+- Released as db-v30
+
 ### v1.16.1 — 2026-09-06
 
 - Telycam Explore 500 and Explore 300 (Explore 100 untouched): sensorWidthMM 13.97 -> 12.672, sensorHeightMM 7.86 -> 7.128 (4K crops the 4/3 sensor to 3840x2160 at 3.30um square pixels; Ivy Li / Telycam, 2026-08-31). notes appended with the correction and source. HFOV is the render source and is unchanged
@@ -805,6 +811,12 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.0.0** (2026-03-26) — Initial upload
 
 ## ptz-details.json
+
+### v1.28.0 — 2026-09-13
+
+- Sidecar for the new PTZOptics Rise 4K core entry above, born-complete, in source/ptz-details/ptz_details_ptzoptics.json: VISCA/Pelco/ONVIF control, NDI|HX3/SRT/RTSP/RTMP(S) streaming, FreeD tracking data out, PoE++, ReID/FaceID/voice auto-tracking with Horizon automation
+- Entry count 272 -> 273
+- Released as db-v30
 
 ### v1.27.2 — 2026-09-06
 

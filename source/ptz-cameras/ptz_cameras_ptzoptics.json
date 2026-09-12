@@ -205,6 +205,23 @@
       "addedDate": null
     },
     {
+      "id": "ptzoptics-rise-4k",
+      "brand": "ptzoptics",
+      "model": "Rise 4K",
+      "sensorLabel": "1 inch",
+      "sensorWidthMM": 13.2,
+      "sensorHeightMM": 8.8,
+      "minFocalLengthMM": 9.79,
+      "maxFocalLengthMM": 186.5,
+      "hFOVWide": 70.0,
+      "hFOVTele": 4.1,
+      "opticalZoom": 20,
+      "isFree": false,
+      "isCustom": false,
+      "addedDate": "2026-09-13",
+      "notes": "1-inch CMOS, 50MP effective, 4K UHD up to 60p. SKU PT20X-RISE-4K-BK. HFOV 70.0 to 4.1 deg published by PTZOptics (docs.ptzoptics.com/docs/cameras/rise/technical-specs). Focal 9.79-186.5mm published; focal-derived zoom ratio = 186.5/9.79 = 19.05x (POS-D02). opticalZoom stores the marketed 20x nameplate (integer field); the FOV bracket uses the exact published hFOV and focal, not this integer. Sensor stated as 1 inch; physical dims not published, industry-standard 13.2x8.8mm used. Shipping 2026. OEM platform: rebadge of the ValueHD (VHD) VX90; per POS-D61 the Rise carries PTZOptics-published figures (1-inch/50MP sensor, pan/tilt 180 deg/s, min illum F2.8), which differ from the VHD brochure."
+    },
+    {
       "id": "ptzoptics-simpltrack3",
       "brand": "ptzoptics",
       "model": "SimplTrack3",
