@@ -8,8 +8,11 @@ Classification produced here is one of:
   needed, these are trusted on the first sighting.
 - "needs_manual_check": an ambiguous or blocking result that survived
   retries within this run (403, 429, 408, 5xx, timeout, a redirect landing
-  on the site homepage, or a 200 whose body looks like a soft-404). Never
-  reported as dead.
+  on the site homepage, a 200 whose body looks like a soft-404, a redirect
+  loop, or any other unanticipated request-level failure). Never reported
+  as dead. A redirect loop and other unanticipated failures are not
+  retried -- they are deterministic, so retrying would just repeat the
+  same failure.
 - "network_error": a connection-level failure (DNS resolution, connection
   refused, or another connection error). This is deliberately NOT decided
   as dead or needs_manual_check here -- a briefly-down host must not be
@@ -102,13 +105,27 @@ def _attempt(session, url, method, timeout):
         return resp.status_code, resp.url, body, None
     except requests.exceptions.Timeout:
         return None, None, None, "timeout"
+    except requests.exceptions.TooManyRedirects:
+        # A redirect loop is deterministic, not a transient blip -- retrying
+        # the same URL would just repeat the same 30-hop failure. Reported
+        # once, not dead (this checker cannot tell "broken redirect chain"
+        # from "anti-bot redirect trap"), and never retried.
+        return None, None, None, "too_many_redirects"
     except requests.exceptions.ConnectionError as exc:
         return None, None, None, classify_connection_error(exc)
+    except requests.exceptions.RequestException:
+        # Catch-all for any other requests-level failure this checker has
+        # not seen in practice (bad SSL cert, malformed response, etc.). A
+        # single unanticipated site should never crash the whole run --
+        # report it and move on, same as any other ambiguous result.
+        return None, None, None, "request_error"
 
 
 def _build_result(status, exc, final_url, body, original_url):
     if exc == "timeout":
         return CheckResult("needs_manual_check", "timeout_after_retries", None, None)
+    if exc in ("too_many_redirects", "request_error"):
+        return CheckResult("needs_manual_check", exc, None, None)
     if exc in ("dns_failure", "connection_refused", "connection_error"):
         return CheckResult("network_error", exc, None, None)
 

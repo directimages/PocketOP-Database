@@ -229,5 +229,68 @@ class WafDomainBlockIntegrationTests(unittest.TestCase):
         self.assertEqual(call_count["n"], 1)
 
 
+CRASH_FIXTURES = {
+    "broadcast_lenses.json": {
+        "lenses": [
+            {"id": "crash-b1", "manufacturer": "Boom", "model": "B1"},
+            {"id": "fine-b2", "manufacturer": "Fine", "model": "B2"},
+        ]
+    },
+    "broadcast_lens_details.json": {
+        "lenses": [
+            {"id": "crash-b1", "productUrl": "https://boom.example/x", "manufacturerUrl": None},
+            {"id": "fine-b2", "productUrl": "https://fine.example/y", "manufacturerUrl": None},
+        ]
+    },
+    "cine_lenses.json": {"lenses": []},
+    "cine_lens_details.json": {"lenses": []},
+    "ptz_cameras.json": {"ptzCameras": []},
+    "ptz_details.json": {"cameras": []},
+}
+
+
+def crash_fake_fetch(filename):
+    return CRASH_FIXTURES[filename]
+
+
+def crash_fake_check_url(session, url, **kwargs):
+    if url == "https://boom.example/x":
+        # Something this checker never anticipated (not a requests
+        # exception at all) -- the run must survive this regardless.
+        raise ValueError("totally unforeseen failure")
+    return checker.CheckResult("live", None, 200, url)
+
+
+class UnexpectedErrorResilienceTests(unittest.TestCase):
+    def test_one_bad_link_does_not_crash_the_whole_run(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+
+            with patch.object(cli.checker, "check_url", side_effect=crash_fake_check_url), \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=crash_fake_fetch,
+                    github_token="", github_repo="",
+                )
+
+            self.assertTrue(report_path.exists())
+            text = report_path.read_text(encoding="utf-8")
+
+            needs_check_section = text.split("## Product link check -- Unverifiable from CI")[0]
+            self.assertIn("crash-b1", needs_check_section)
+            self.assertIn("unexpected_error_ValueError", text)
+
+            # The other, unrelated entry is live, so it should not appear in
+            # any of the Dead/Needs-manual/Unverifiable sections (both entries
+            # legitimately show up further down, in the manufacturer
+            # integrity gaps section -- neither fixture has a manufacturerUrl).
+            flagged_sections = text.split("## Product coverage gaps")[0]
+            self.assertNotIn("fine-b2", flagged_sections)
+
+            self.assertTrue(state_path.exists())
+
+
 if __name__ == "__main__":
     unittest.main()
