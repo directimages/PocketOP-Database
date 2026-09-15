@@ -1,0 +1,55 @@
+name: Product link check
+
+# Weekly, read-only monitor for productUrl/manufacturerUrl link health. Reads
+# the published database from jsDelivr @main (the same CDN ref the app and
+# website use) and writes a triage report under linkcheck/reports/. Never
+# edits any database field. See linkcheck/ module docstrings for the
+# dead-vs-transient classification rules. On a run with anything actionable
+# it also posts to a rolling "link-check" labelled Issue, so GitHub's own
+# notification email reaches the repo owner (no SMTP, no extra secret: the
+# default GITHUB_TOKEN covers it, gated by the issues: write permission
+# below). A run with nothing actionable stays quiet on the Issues side. This
+# file contains no em dashes by project policy.
+
+on:
+  schedule:
+    - cron: "0 9 * * 3"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: product-link-check
+  cancel-in-progress: false
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r linkcheck/requirements.txt
+
+      - name: Run link check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m linkcheck.cli
+
+      - name: Commit report and state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add linkcheck/reports/ linkcheck/state.json
+          git diff --staged --quiet || git commit -m "linkcheck: weekly product/manufacturer link report $(date -u +%Y-W%V)"
+
+      - name: Push
+        run: git push origin HEAD:main

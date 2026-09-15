@@ -1,0 +1,39 @@
+name: Linkcheck Tests
+
+# Unit tests for linkcheck/ (classification logic, state persistence, the
+# CDN join, and report rendering). All tests run on mocked HTTP and
+# synthetic fixtures, never on production data or live network calls. This
+# file contains no em dashes by project policy.
+
+on:
+  push:
+    paths:
+      - "linkcheck/**"
+      - ".github/workflows/linkcheck-tests.yml"
+  pull_request:
+    paths:
+      - "linkcheck/**"
+      - ".github/workflows/linkcheck-tests.yml"
+
+# This workflow only checks out the repo and runs tests. It never writes to
+# the repo, so read only on repo contents is the minimum it needs.
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r linkcheck/requirements.txt
+
+      - name: Run linkcheck tests
+        run: python -m unittest discover -s linkcheck/tests -v
