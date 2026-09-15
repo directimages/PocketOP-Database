@@ -4,8 +4,12 @@ name: Product link check
 # the published database from jsDelivr @main (the same CDN ref the app and
 # website use) and writes a triage report under linkcheck/reports/. Never
 # edits any database field. See linkcheck/ module docstrings for the
-# dead-vs-transient classification rules. This file contains no em dashes by
-# project policy.
+# dead-vs-transient classification rules. On a run with anything actionable
+# it also posts to a rolling "link-check" labelled Issue, so GitHub's own
+# notification email reaches the repo owner (no SMTP, no extra secret: the
+# default GITHUB_TOKEN covers it, gated by the issues: write permission
+# below). A run with nothing actionable stays quiet on the Issues side. This
+# file contains no em dashes by project policy.
 
 on:
   schedule:
@@ -14,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: product-link-check
@@ -35,6 +40,8 @@ jobs:
         run: pip install -r linkcheck/requirements.txt
 
       - name: Run link check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m linkcheck.cli
 
       - name: Commit report and state

@@ -40,7 +40,10 @@ class RunIntegrationTests(unittest.TestCase):
 
             with patch.object(cli.checker, "check_url", side_effect=fake_check_url), \
                  patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
-                report_path = cli.run(state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch)
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch,
+                    github_token="", github_repo="",  # deterministic: no issue notification attempted here
+                )
 
             self.assertTrue(report_path.exists())
             text = report_path.read_text(encoding="utf-8")
@@ -58,11 +61,70 @@ class RunIntegrationTests(unittest.TestCase):
 
             with patch.object(cli.checker, "check_url", side_effect=fake_check_url), \
                  patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
-                cli.run(state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch)
-                second_report = cli.run(state_path=state_path, reports_dir=reports_dir, now=later, fetch=fake_fetch)
+                cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch,
+                    github_token="", github_repo="",
+                )
+                second_report = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=later, fetch=fake_fetch,
+                    github_token="", github_repo="",
+                )
 
             text = second_report.read_text(encoding="utf-8")
             self.assertNotIn("full current audit", text)
+
+
+class IssueNotificationWiringTests(unittest.TestCase):
+    """cli.run() must call issue_reporter.post_report with the right
+    actionable flag, and must never attempt it without a token/repo."""
+
+    def _run(self, tmp, now, github_token, github_repo):
+        state_path = Path(tmp) / "state.json"
+        reports_dir = Path(tmp) / "reports"
+        with patch.object(cli.checker, "check_url", side_effect=fake_check_url), \
+             patch.object(cli.issue_reporter, "post_report") as mock_post, \
+             patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+            cli.run(
+                state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch,
+                github_token=github_token, github_repo=github_repo,
+            )
+        return mock_post
+
+    def test_posts_when_actionable_and_credentials_present(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+            mock_post = self._run(tmp, now, "fake-token", "directimages/PocketOP-Database")
+            mock_post.assert_called_once()
+            self.assertTrue(mock_post.call_args.kwargs["actionable"])
+
+    def test_never_posts_without_a_token(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+            mock_post = self._run(tmp, now, "", "directimages/PocketOP-Database")
+            mock_post.assert_not_called()
+
+    def test_never_posts_without_a_repo(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+            mock_post = self._run(tmp, now, "fake-token", "")
+            mock_post.assert_not_called()
+
+    def test_does_not_post_when_nothing_actionable(self):
+        def all_live(session, url, **kwargs):
+            return checker.CheckResult("live", None, 200, url)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+            with patch.object(cli.checker, "check_url", side_effect=all_live), \
+                 patch.object(cli.issue_reporter, "post_report") as mock_post, \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=fake_fetch,
+                    github_token="fake-token", github_repo="directimages/PocketOP-Database",
+                )
+            mock_post.assert_not_called()
 
 
 if __name__ == "__main__":

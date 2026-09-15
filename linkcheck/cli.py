@@ -15,13 +15,13 @@ from urllib.parse import urlsplit
 
 import requests
 
-from . import checker, fetch_database, report, state as state_module
+from . import checker, fetch_database, issue_reporter, report, state as state_module
 
 GLOBAL_CONCURRENCY = 8
 PER_HOST_CONCURRENCY = 2
 USER_AGENT = (
     "PocketOP-LinkCheck/1.0 (+https://pocketop.app; weekly productUrl/manufacturerUrl "
-    "liveness check; contact: news@pocketop.app)"
+    "liveness check)"
 )
 
 REPORTS_DIR = Path(__file__).resolve().parent / "reports"
@@ -101,7 +101,15 @@ def check_field(entries, field_name, existing_state, is_scheduled_run, now):
     return dead, needs_manual_check, new_state_records
 
 
-def run(state_path=state_module.DEFAULT_STATE_PATH, reports_dir=REPORTS_DIR, now=None, fetch=fetch_database.fetch_json):
+def run(
+    state_path=state_module.DEFAULT_STATE_PATH,
+    reports_dir=REPORTS_DIR,
+    now=None,
+    fetch=fetch_database.fetch_json,
+    github_token=None,
+    github_repo=None,
+    issue_session_factory=requests.Session,
+):
     now = now or dt.datetime.now(dt.timezone.utc)
     is_scheduled_run = os.environ.get("GITHUB_EVENT_NAME") == "schedule"
 
@@ -140,6 +148,30 @@ def run(state_path=state_module.DEFAULT_STATE_PATH, reports_dir=REPORTS_DIR, now
     report_path.write_text(report_text, encoding="utf-8")
 
     state_module.save_state(new_state, state_path)
+
+    actionable = issue_reporter.is_actionable(
+        product_dead=product_dead,
+        product_needs_check=product_needs_check,
+        manufacturer_dead=manufacturer_dead,
+        manufacturer_needs_check=manufacturer_needs_check,
+        manufacturer_gaps=manufacturer_gaps,
+    )
+    token = github_token if github_token is not None else os.environ.get("GITHUB_TOKEN")
+    repo = github_repo if github_repo is not None else os.environ.get("GITHUB_REPOSITORY")
+    if actionable and token and repo:
+        try:
+            issue_reporter.post_report(
+                session=issue_session_factory(),
+                repo=repo,
+                token=token,
+                report_body=report_text,
+                run_date=run_date,
+                actionable=actionable,
+            )
+        except Exception as exc:  # notification is best-effort; never fail the run over it
+            print(f"Warning: could not post link-check issue notification: {exc}")
+    elif actionable:
+        print("Skipping issue notification: no GITHUB_TOKEN/GITHUB_REPOSITORY in this environment.")
 
     return report_path
 
