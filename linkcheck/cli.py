@@ -211,13 +211,24 @@ def run(
     token = github_token if github_token is not None else os.environ.get("GITHUB_TOKEN")
     repo = github_repo if github_repo is not None else os.environ.get("GITHUB_REPOSITORY")
     if actionable and token and repo:
+        report_relative_path = f"linkcheck/reports/{report_path.name}"
+        report_link = f"[{report_relative_path}](https://github.com/{repo}/blob/main/{report_relative_path})"
+        issue_body = report.render_issue_summary(
+            run_date=run_date,
+            is_first_run=is_first_run,
+            product_dead=product_dead,
+            product_needs_check=product_needs_check,
+            manufacturer_dead=manufacturer_dead,
+            manufacturer_needs_check=manufacturer_needs_check,
+            manufacturer_gaps=manufacturer_gaps,
+            report_link=report_link,
+        )
         try:
             issue_reporter.post_report(
                 session=issue_session_factory(),
                 repo=repo,
                 token=token,
-                report_body=report_text,
-                run_date=run_date,
+                body=issue_body,
                 actionable=actionable,
             )
         except Exception as exc:  # notification is best-effort; never fail the run over it

@@ -66,7 +66,7 @@ class PostReportTests(unittest.TestCase):
         session = FakeGithubSession()
         result = issue_reporter.post_report(
             session=session, repo=self.REPO, token=self.TOKEN,
-            report_body="nothing to see", run_date="2026-09-16", actionable=False,
+            body="nothing to see", actionable=False,
         )
         self.assertIsNone(result)
         self.assertEqual(session.calls, [])
@@ -75,7 +75,7 @@ class PostReportTests(unittest.TestCase):
         session = FakeGithubSession(get_responses=[FakeResponse([])])
         issue_reporter.post_report(
             session=session, repo=self.REPO, token=self.TOKEN,
-            report_body="report body", run_date="2026-09-16", actionable=True,
+            body="report body", actionable=True,
         )
         methods = [c[0] for c in session.calls]
         self.assertEqual(methods, ["GET", "POST"])
@@ -89,7 +89,7 @@ class PostReportTests(unittest.TestCase):
         session = FakeGithubSession(get_responses=[FakeResponse([existing])])
         issue_reporter.post_report(
             session=session, repo=self.REPO, token=self.TOKEN,
-            report_body="report body", run_date="2026-09-16", actionable=True,
+            body="report body", actionable=True,
         )
         methods = [c[0] for c in session.calls]
         self.assertEqual(methods, ["GET", "POST"])
@@ -101,18 +101,41 @@ class PostReportTests(unittest.TestCase):
         session = FakeGithubSession(get_responses=[FakeResponse([existing])])
         issue_reporter.post_report(
             session=session, repo=self.REPO, token=self.TOKEN,
-            report_body="report body", run_date="2026-09-16", actionable=True,
+            body="report body", actionable=True,
         )
         methods = [c[0] for c in session.calls]
         self.assertEqual(methods, ["GET", "PATCH", "POST"])
         self.assertEqual(session.calls[1][2], {"state": "open"})
+
+    def test_body_over_the_github_limit_is_clamped(self):
+        # This is a defensive last resort, not the primary fix (that's
+        # report.render_issue_summary staying counts-only) -- but it must
+        # never again silently fail a real post the way the first full-audit
+        # run did with a ~69600 character body against GitHub's 65536 cap.
+        session = FakeGithubSession(get_responses=[FakeResponse([])])
+        oversized = "x" * (issue_reporter.MAX_BODY_LENGTH + 10000)
+        issue_reporter.post_report(
+            session=session, repo=self.REPO, token=self.TOKEN,
+            body=oversized, actionable=True,
+        )
+        posted_body = session.calls[1][2]["body"]
+        self.assertLessEqual(len(posted_body), issue_reporter.MAX_BODY_LENGTH + 100)
+        self.assertIn("truncated", posted_body)
+
+    def test_body_under_the_limit_is_posted_unchanged(self):
+        session = FakeGithubSession(get_responses=[FakeResponse([])])
+        issue_reporter.post_report(
+            session=session, repo=self.REPO, token=self.TOKEN,
+            body="a short summary", actionable=True,
+        )
+        self.assertEqual(session.calls[1][2]["body"], "a short summary")
 
     def test_pull_requests_in_the_label_search_are_ignored(self):
         pr_item = {"number": 7, "state": "open", "pull_request": {"url": "..."}}
         session = FakeGithubSession(get_responses=[FakeResponse([pr_item])])
         issue_reporter.post_report(
             session=session, repo=self.REPO, token=self.TOKEN,
-            report_body="report body", run_date="2026-09-16", actionable=True,
+            body="report body", actionable=True,
         )
         # No real issue found among results -> falls back to creating one.
         methods = [c[0] for c in session.calls]

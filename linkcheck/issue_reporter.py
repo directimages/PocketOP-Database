@@ -16,11 +16,21 @@ exists yet, one is created instead.
 The productUrl coverage gap list is deliberately NOT part of the
 actionable check: it is a slow-moving worklist, expected to have entries
 most weeks, not something worth a notification every run.
+
+The posted body is a caller-built summary (counts plus a link to the
+committed report file), never the full report text: GitHub caps an issue
+or comment body at 65536 characters, and the first real full-audit run
+produced a ~69600 character report that a naive full-body post rejected
+outright with a 422. This module still clamps defensively as a last
+resort (MAX_BODY_LENGTH) in case a future caller passes something larger
+than expected -- better a truncated notification than another silent
+notification failure.
 """
 
 API_BASE = "https://api.github.com"
 ISSUE_LABEL = "link-check"
 ISSUE_TITLE = "Product/manufacturer link check"
+MAX_BODY_LENGTH = 60000  # headroom under GitHub's hard 65536 limit
 
 
 def is_actionable(*, product_dead, product_needs_check, manufacturer_dead,
@@ -84,8 +94,18 @@ def _add_comment(session, repo, token, issue_number, body):
     return resp.json()
 
 
-def post_report(*, session, repo, token, report_body, run_date, actionable):
-    """Post this run's report to the rolling issue, only if actionable.
+def _clamp_body(body):
+    if len(body) <= MAX_BODY_LENGTH:
+        return body
+    return body[:MAX_BODY_LENGTH] + "\n\n...(truncated -- see the linked report for the rest)"
+
+
+def post_report(*, session, repo, token, body, actionable):
+    """Post this run's summary to the rolling issue, only if actionable.
+
+    `body` is the fully-formatted comment/issue text (see
+    report.render_issue_summary) -- this module posts it as-is, aside from
+    the defensive length clamp.
 
     Returns the created issue or comment payload, or None if nothing was
     posted (nothing actionable this run).
@@ -93,10 +113,10 @@ def post_report(*, session, repo, token, report_body, run_date, actionable):
     if not actionable:
         return None
 
-    post_body = f"## Run {run_date}\n\n{report_body}"
+    body = _clamp_body(body)
     existing = _find_existing_issue(session, repo, token)
     if existing is None:
-        return _create_issue(session, repo, token, post_body)
+        return _create_issue(session, repo, token, body)
 
     _reopen_if_closed(session, repo, token, existing)
-    return _add_comment(session, repo, token, existing["number"], post_body)
+    return _add_comment(session, repo, token, existing["number"], body)

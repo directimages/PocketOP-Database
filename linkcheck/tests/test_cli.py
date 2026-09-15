@@ -97,6 +97,19 @@ class IssueNotificationWiringTests(unittest.TestCase):
             mock_post.assert_called_once()
             self.assertTrue(mock_post.call_args.kwargs["actionable"])
 
+    def test_posted_body_is_the_compact_summary_not_the_full_report(self):
+        # Regression test for the real failure: posting the full report body
+        # (hundreds of rows) exceeded GitHub's 65536 character limit and the
+        # notification silently failed. cli.run() must build a short summary
+        # plus a link, never hand the full report text to post_report.
+        with tempfile.TemporaryDirectory() as tmp:
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+            mock_post = self._run(tmp, now, "fake-token", "directimages/PocketOP-Database")
+            body = mock_post.call_args.kwargs["body"]
+            self.assertLess(len(body), 2000)
+            self.assertNotIn("acme-b1", body)  # the entry id itself never appears in the summary
+            self.assertIn("blob/main/linkcheck/reports/", body)
+
     def test_never_posts_without_a_token(self):
         with tempfile.TemporaryDirectory() as tmp:
             now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
