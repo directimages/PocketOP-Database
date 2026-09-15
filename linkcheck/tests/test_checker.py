@@ -136,6 +136,30 @@ class CheckUrlTests(unittest.TestCase):
         result = checker.check_url(session, URL, max_retries=3, backoff_base=0.01)
         self.assertEqual(result.classification, "live")
 
+    def test_redirect_loop_is_needs_manual_check_and_not_retried(self):
+        # HEAD hits the loop; the GET fallback also hits it, once -- a
+        # redirect loop is deterministic, so it must not be retried like a
+        # transient status would be.
+        session = ScriptedSession(
+            head_script=[requests.exceptions.TooManyRedirects("Exceeded 30 redirects.")],
+            get_script=[requests.exceptions.TooManyRedirects("Exceeded 30 redirects.")],
+        )
+        result = checker.check_url(session, URL, max_retries=3, backoff_base=0.01)
+        self.assertEqual(result.classification, "needs_manual_check")
+        self.assertEqual(result.failure_type, "too_many_redirects")
+
+    def test_unanticipated_request_exception_is_needs_manual_check_not_a_crash(self):
+        # Any other requests-level failure this checker hasn't seen before
+        # (bad cert, malformed response, ...) must not propagate and crash
+        # the run -- it becomes a reported, non-retried result instead.
+        session = ScriptedSession(
+            head_script=[requests.exceptions.RequestException("something unforeseen")],
+            get_script=[requests.exceptions.RequestException("something unforeseen")],
+        )
+        result = checker.check_url(session, URL, max_retries=3, backoff_base=0.01)
+        self.assertEqual(result.classification, "needs_manual_check")
+        self.assertEqual(result.failure_type, "request_error")
+
 
 class ClassifyConnectionErrorTests(unittest.TestCase):
     def test_dns_markers(self):

@@ -54,6 +54,18 @@ def _get_session(local_storage):
     return session
 
 
+def _safe_is_blocked(domain_block_cache, session, entry_url):
+    """Same safety net as around checker.check_url: if the domain-root probe
+    itself fails unexpectedly, fall back to "not domain-blocked" rather than
+    crashing the run -- the entry then falls through to its normal
+    needs_manual_check classification instead of disappearing."""
+    try:
+        return domain_block_cache.is_blocked(session, entry_url)
+    except Exception as exc:
+        print(f"Warning: unexpected error probing domain for {entry_url}: {exc!r}")
+        return False
+
+
 def check_field(entries, field_name, existing_state, is_scheduled_run, now, domain_block_cache):
     """Check every entry for one field (productUrl or manufacturerUrl).
 
@@ -82,8 +94,20 @@ def check_field(entries, field_name, existing_state, is_scheduled_run, now, doma
 
         host = urlsplit(entry["url"]).netloc
         session = _get_session(local_storage)
-        with host_gate.for_host(host):
-            result = checker.check_url(session, entry["url"])
+        try:
+            with host_gate.for_host(host):
+                result = checker.check_url(session, entry["url"])
+        except Exception as exc:
+            # Last-resort safety net: checker.py already handles every
+            # requests-level failure this tool has seen in practice, but
+            # ~1900 arbitrary third-party URLs will eventually produce
+            # something nobody anticipated. One bad link must never take
+            # down the whole run and lose every result already computed --
+            # it becomes a needs-manual-check row instead of a crash.
+            print(f"Warning: unexpected error checking {entry['url']}: {exc!r}")
+            result = checker.CheckResult(
+                "needs_manual_check", f"unexpected_error_{type(exc).__name__}", None, None
+            )
 
         if result.classification == "network_error":
             final_classification, new_record = state_module.resolve_network_error(
@@ -92,7 +116,7 @@ def check_field(entries, field_name, existing_state, is_scheduled_run, now, doma
         elif (
             result.classification == "needs_manual_check"
             and result.failure_type == waf_detection.DOMAIN_BLOCK_FAILURE_TYPE
-            and domain_block_cache.is_blocked(session, entry["url"])
+            and _safe_is_blocked(domain_block_cache, session, entry["url"])
         ):
             final_classification = "unverifiable_domain"
             new_record = state_module.record_clean_result(
