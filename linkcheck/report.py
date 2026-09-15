@@ -19,6 +19,9 @@ Eight sections, each with a distinct downstream meaning:
 - Manufacturer integrity gaps: entries with no manufacturerUrl at all. By
   the database's own data rules manufacturerUrl should always be present,
   so this list is expected to be near-empty; anything here is a real gap.
+
+render_issue_summary() below renders a separate, much shorter counts-only
+summary for the GitHub Issue notification -- see its own docstring.
 """
 
 ROW_HEADER = "| id | model / display name | category | url | failure type |\n|---|---|---|---|---|\n"
@@ -99,5 +102,40 @@ def render_report(*, run_date, is_first_run, product_dead, product_needs_check, 
         "listed here is a real data gap worth surfacing.\n\n"
     )
     lines.append(_table(manufacturer_gaps, _gap_row, GAP_ROW_HEADER, "No integrity gaps."))
+
+    return "".join(lines)
+
+
+def render_issue_summary(*, run_date, is_first_run, product_dead, product_needs_check,
+                          manufacturer_dead, manufacturer_needs_check, manufacturer_gaps, report_link):
+    """A short, size-bounded summary for the GitHub Issue notification.
+
+    GitHub caps an issue/comment body at 65536 characters; a full audit
+    with hundreds of rows exceeded that easily (a ~69600 character report
+    on the first real run). The issue is only the notification trigger --
+    the committed report file is the actual triage surface (see
+    issue_reporter.py) -- so the issue only ever needs counts and a link to
+    it, never row-level detail. This stays well under the limit regardless
+    of how large the database grows.
+    """
+    lines = [f"## Run {run_date}\n\n"]
+
+    if is_first_run:
+        lines.append(
+            "First run: the linked report is the full current audit of the published "
+            "database, not an incremental delta.\n\n"
+        )
+
+    lines.append("| Section | Count |\n|---|---|\n")
+    lines.append(f"| Product link check -- Dead | {len(product_dead)} |\n")
+    lines.append(f"| Product link check -- Needs manual check | {len(product_needs_check)} |\n")
+    lines.append(f"| Manufacturer link check -- Dead | {len(manufacturer_dead)} |\n")
+    lines.append(f"| Manufacturer link check -- Needs manual check | {len(manufacturer_needs_check)} |\n")
+    lines.append(f"| Manufacturer integrity gaps | {len(manufacturer_gaps)} |\n\n")
+
+    lines.append(
+        f"Full report, including row-level detail and the unverifiable-from-CI and "
+        f"coverage-gap sections: {report_link}\n"
+    )
 
     return "".join(lines)

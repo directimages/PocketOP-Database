@@ -89,5 +89,45 @@ class RenderReportTests(unittest.TestCase):
         self.assertIn("| id | model / display name | category |", gap_section)
 
 
+class RenderIssueSummaryTests(unittest.TestCase):
+    def test_counts_and_link_present_no_row_level_detail(self):
+        text = report.render_issue_summary(
+            run_date="2026-09-16",
+            is_first_run=True,
+            product_dead=[{"id": "a1"}, {"id": "a2"}],
+            product_needs_check=[{"id": "b1"}],
+            manufacturer_dead=[],
+            manufacturer_needs_check=[],
+            manufacturer_gaps=[],
+            report_link="[linkcheck/reports/2026-W38.md](https://github.com/x/y/blob/main/linkcheck/reports/2026-W38.md)",
+        )
+        self.assertIn("| Product link check -- Dead | 2 |", text)
+        self.assertIn("| Product link check -- Needs manual check | 1 |", text)
+        self.assertIn("| Manufacturer link check -- Dead | 0 |", text)
+        self.assertIn("linkcheck/reports/2026-W38.md", text)
+        self.assertIn("full current audit", text)
+        # Counts only -- no per-entry rows leak into the summary.
+        self.assertNotIn("a1", text)
+        self.assertNotIn("b1", text)
+
+    def test_stays_small_regardless_of_how_many_entries_are_summarized(self):
+        # This is the actual fix for the real failure: a full-audit report
+        # with hundreds of rows exceeded GitHub's 65536 character issue/
+        # comment limit. The issue summary must never scale with row count.
+        many_dead = [{"id": f"item-{i}"} for i in range(2000)]
+        text = report.render_issue_summary(
+            run_date="2026-09-16",
+            is_first_run=True,
+            product_dead=many_dead,
+            product_needs_check=many_dead,
+            manufacturer_dead=many_dead,
+            manufacturer_needs_check=many_dead,
+            manufacturer_gaps=many_dead,
+            report_link="linkcheck/reports/2026-W38.md",
+        )
+        self.assertLess(len(text), 2000)
+        self.assertIn("| Product link check -- Dead | 2000 |", text)
+
+
 if __name__ == "__main__":
     unittest.main()
