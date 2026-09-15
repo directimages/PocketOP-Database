@@ -15,7 +15,7 @@ from urllib.parse import urlsplit
 
 import requests
 
-from . import checker, fetch_database, issue_reporter, report, state as state_module
+from . import checker, fetch_database, issue_reporter, report, state as state_module, waf_detection
 
 GLOBAL_CONCURRENCY = 8
 PER_HOST_CONCURRENCY = 2
@@ -54,17 +54,23 @@ def _get_session(local_storage):
     return session
 
 
-def check_field(entries, field_name, existing_state, is_scheduled_run, now):
+def check_field(entries, field_name, existing_state, is_scheduled_run, now, domain_block_cache):
     """Check every entry for one field (productUrl or manufacturerUrl).
 
-    Returns (dead_list, needs_manual_check_list, new_state_records) where the
-    list items are {"id", "name", "category", "url", "failure_type"}.
+    Returns (dead_list, needs_manual_check_list, unverifiable_domain_list,
+    new_state_records) where the list items are
+    {"id", "name", "category", "url", "failure_type"}.
+
+    unverifiable_domain holds links whose whole domain 403s CI traffic (a
+    WAF, not a per-link defect) -- see waf_detection.py. These are never
+    dead, never needs_manual_check, and the caller must not count them
+    toward the actionable/notification trigger.
     """
     now_iso = now.isoformat()
     local_storage = threading.local()
     host_gate = _HostGate(PER_HOST_CONCURRENCY)
     new_state_records = {}
-    dead, needs_manual_check = [], []
+    dead, needs_manual_check, unverifiable_domain = [], [], []
     results_lock = threading.Lock()
 
     def worker(entry):
@@ -83,22 +89,38 @@ def check_field(entries, field_name, existing_state, is_scheduled_run, now):
             final_classification, new_record = state_module.resolve_network_error(
                 prior, result.failure_type, is_scheduled_run, now_iso
             )
+        elif (
+            result.classification == "needs_manual_check"
+            and result.failure_type == waf_detection.DOMAIN_BLOCK_FAILURE_TYPE
+            and domain_block_cache.is_blocked(session, entry["url"])
+        ):
+            final_classification = "unverifiable_domain"
+            new_record = state_module.record_clean_result(
+                final_classification, waf_detection.UNVERIFIABLE_FAILURE_TYPE, now_iso
+            )
         else:
             final_classification = result.classification
             new_record = state_module.record_clean_result(result.classification, result.failure_type, now_iso)
 
         return key, entry, final_classification, new_record.get("failure_type") if new_record else result.failure_type, new_record
 
+    target_by_classification = {
+        "dead": dead,
+        "needs_manual_check": needs_manual_check,
+        "unverifiable_domain": unverifiable_domain,
+    }
+
     with ThreadPoolExecutor(max_workers=GLOBAL_CONCURRENCY) as pool:
         for key, entry, final_classification, failure_type, new_record in pool.map(worker, entries):
             if new_record is not None:
                 new_state_records[key] = new_record
-            if final_classification in ("dead", "needs_manual_check"):
+            target = target_by_classification.get(final_classification)
+            if target is not None:
                 row = {**entry, "failure_type": failure_type}
                 with results_lock:
-                    (dead if final_classification == "dead" else needs_manual_check).append(row)
+                    target.append(row)
 
-    return dead, needs_manual_check, new_state_records
+    return dead, needs_manual_check, unverifiable_domain, new_state_records
 
 
 def run(
@@ -118,11 +140,15 @@ def run(
 
     product_entries, product_gaps, manufacturer_entries, manufacturer_gaps = fetch_database.load_link_entries(fetch)
 
-    product_dead, product_needs_check, product_state = check_field(
-        product_entries, "productUrl", existing_state, is_scheduled_run, now
+    # Shared across both fields so a domain hit once (e.g. via a productUrl
+    # entry) is not re-probed again for a manufacturerUrl entry on the same host.
+    domain_block_cache = waf_detection.DomainBlockCache()
+
+    product_dead, product_needs_check, product_unverifiable, product_state = check_field(
+        product_entries, "productUrl", existing_state, is_scheduled_run, now, domain_block_cache
     )
-    manufacturer_dead, manufacturer_needs_check, manufacturer_state = check_field(
-        manufacturer_entries, "manufacturerUrl", existing_state, is_scheduled_run, now
+    manufacturer_dead, manufacturer_needs_check, manufacturer_unverifiable, manufacturer_state = check_field(
+        manufacturer_entries, "manufacturerUrl", existing_state, is_scheduled_run, now, domain_block_cache
     )
 
     new_state = dict(existing_state)
@@ -136,9 +162,11 @@ def run(
         is_first_run=is_first_run,
         product_dead=product_dead,
         product_needs_check=product_needs_check,
+        product_unverifiable=product_unverifiable,
         product_gaps=product_gaps,
         manufacturer_dead=manufacturer_dead,
         manufacturer_needs_check=manufacturer_needs_check,
+        manufacturer_unverifiable=manufacturer_unverifiable,
         manufacturer_gaps=manufacturer_gaps,
     )
 

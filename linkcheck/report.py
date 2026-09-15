@@ -1,11 +1,18 @@
 """Render the weekly link-check markdown report.
 
-Six sections, each with a distinct downstream meaning:
+Eight sections, each with a distinct downstream meaning:
 
 - Product link check: Dead / Needs manual check -- fix candidates.
 - Manufacturer link check: Dead / Needs manual check -- fix candidates.
   Kept separate from the product sections: the two fields have different
   fix paths, so they are never merged into one table.
+- Product / Manufacturer link check -- Unverifiable from CI: links whose
+  whole domain 403s this checker's requests (a WAF blocking datacenter
+  traffic, not a per-link defect -- see waf_detection.py). Not dead, not
+  needs-manual-check, and never counted toward the actionable/notification
+  trigger; otherwise a single blocked domain (~40 Canon entries in
+  practice) would dominate needs-manual-check and make almost every run
+  "actionable" on WAF noise alone.
 - Product coverage gaps: entries with no productUrl at all. Not a defect --
   a null productUrl can be legitimate when the manufacturer never had a
   dedicated product page. Framed as a worklist, not broken links.
@@ -32,8 +39,9 @@ def _table(items, row_fn, header, empty_note):
     return header + "".join(row_fn(i) for i in items) + "\n"
 
 
-def render_report(*, run_date, is_first_run, product_dead, product_needs_check, product_gaps,
-                   manufacturer_dead, manufacturer_needs_check, manufacturer_gaps):
+def render_report(*, run_date, is_first_run, product_dead, product_needs_check, product_unverifiable,
+                   product_gaps, manufacturer_dead, manufacturer_needs_check, manufacturer_unverifiable,
+                   manufacturer_gaps):
     lines = [f"# Product/manufacturer link check -- {run_date}\n\n"]
 
     if is_first_run:
@@ -51,6 +59,14 @@ def render_report(*, run_date, is_first_run, product_dead, product_needs_check, 
         "Nothing ambiguous this run.",
     ))
 
+    lines.append(
+        "## Product link check -- Unverifiable from CI\n\n"
+        "The whole domain returned 403 to this checker, including its own root -- a WAF "
+        "blocking datacenter traffic, not a defect in this specific link. Not dead, not "
+        "needs-manual-check, and does not trigger a notification.\n\n"
+    )
+    lines.append(_table(product_unverifiable, _row, ROW_HEADER, "No domain-wide CI blocks this run."))
+
     lines.append("## Manufacturer link check -- Dead\n\n")
     lines.append(_table(manufacturer_dead, _row, ROW_HEADER, "No confirmed dead manufacturerUrl links."))
 
@@ -59,6 +75,14 @@ def render_report(*, run_date, is_first_run, product_dead, product_needs_check, 
         manufacturer_needs_check, _row, ROW_HEADER,
         "Nothing ambiguous this run.",
     ))
+
+    lines.append(
+        "## Manufacturer link check -- Unverifiable from CI\n\n"
+        "The whole domain returned 403 to this checker, including its own root -- a WAF "
+        "blocking datacenter traffic, not a defect in this specific link. Not dead, not "
+        "needs-manual-check, and does not trigger a notification.\n\n"
+    )
+    lines.append(_table(manufacturer_unverifiable, _row, ROW_HEADER, "No domain-wide CI blocks this run."))
 
     lines.append(
         "## Product coverage gaps\n\n"
