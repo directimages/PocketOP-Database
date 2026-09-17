@@ -1,28 +1,35 @@
 {
   "manufacturerUrl:https://7artisans.store/collections/cine-lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://birddog.tv": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://cookeoptics.com/lenses/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://datavideo.com/global/category/cameras": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "manufacturerUrl:https://dzofilm.com/en/lens": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -36,154 +43,161 @@
   },
   "manufacturerUrl:https://electronics.sony.com/imaging/c/lenses": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "manufacturerUrl:https://en.nisioptics.com/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://fomako.net": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://laowacine.com/products": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://marshall-usa.com/cameras": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://meikeglobal.com/collections/meike-cine-lens": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://pro-av.panasonic.net/en/products/ptz_camera_systems.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://pro.sony/products/ptz-network-cameras": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "manufacturerUrl:https://ptzoptics.com": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://store.sirui.com/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://telycam.com/ndi-ip-ptz-camera": {
-    "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "failure_type": "connection_error",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
-    "raw_classification": "live",
-    "reported_classification": "live"
+    "raw_classification": "network_error",
+    "reported_classification": "needs_manual_check"
   },
   "manufacturerUrl:https://telycam.com/video-conference-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://thypoch.com/en": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://tokinalens.com/catalog/cinema/lenses/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "manufacturerUrl:https://viltrox.com/collections/cine-lens-1": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.angenieux.com/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "manufacturerUrl:https://www.angenieux.com/lenses/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "manufacturerUrl:https://www.arri.com/en/cine-lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.averusa.com/products/ptz-camera/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.bolintechnology.com": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.canon-europe.com/pro/broadcast/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "manufacturerUrl:https://www.canon-europe.com/pro/cinema-lenses/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "manufacturerUrl:https://www.canon-europe.com/ptz-cameras/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
@@ -195,93 +209,100 @@
     "raw_classification": "dead",
     "reported_classification": "dead"
   },
+  "manufacturerUrl:https://www.fujifilm.com/uk/en/business/cine-and-broadcast": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
   "manufacturerUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.hollyland.com/collections": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.irixusa.com/cine-lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.jvc.com/usa/pro/professional-video/ptz-cameras/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.leitz-cine.com/products": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.masterbuiltlenses.com/lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.minrraycam.com/products.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.mylumens.com/en/Products": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.nikonusa.com/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.obsbot.com": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.ptzoptics.com/ptz-cameras": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.reddigitalcinema.com/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.sigma-global.com/en/cine-lenses/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -295,7 +316,7 @@
   },
   "manufacturerUrl:https://www.vantagefilm.com/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -307,6 +328,13 @@
     "raw_classification": "dead",
     "reported_classification": "dead"
   },
+  "manufacturerUrl:https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
   "manufacturerUrl:https://www.viltrox.com/collections/cine-lenses": {
     "failure_type": "404",
     "last_checked": "2026-09-16T13:50:08.413905+00:00",
@@ -316,245 +344,315 @@
   },
   "manufacturerUrl:https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://www.zeiss.com/photonics-and-optics/en/home.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "manufacturerUrl:https://xeenglobal.com/en/index.php": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://asia.canon/en/consumer/cn5-x-11-ias-t-rf-pl/main/product": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/max-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/o4-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p100-overview/p100-techspecs/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p110p120-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p200-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p240-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p400-overview/p400-techspecs/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/p4k-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/x1-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/x4-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/x4e-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/x5-overview/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://birddog.tv/xl/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/b2-210-b2-220-full-hd-proav-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/b6-420-4k60-conferencing-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/d2-210h-d2-220h-dante-av-h-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/n2-210x-n2-220x-fhd-ndi-hx3-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/r9-230h-fhd-low-light-performance-ptz": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/r9-418f-1-inch-4k-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/r9-418n-1-inch-4k-high-bandwidth-ndi-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/r9-l420n-large-sensor-4k-ptz-camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/product/range-ptz-camera-all-weather-indoor-outdoor-professional-ptz": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://bolintechnology.com/professional-outdoor-ptz-camera-line": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cf.sirui.com/lens/Product/jupiter?lang=en-us": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/cooke-panchro-classic-i-ff/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/minis4-i/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/s4-i-prime/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/s7-i-prime/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/s8-i-ff/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/sp3/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://cookeoptics.com/lens/varotal-i-ff/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/macro-probe/gnosis-macro": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/macro-probe/x-tract": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/prime/arles-prime": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/prime/vespid-cyber": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/prime/vespid-prime": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/prime/vespid-prime2": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/prime/vespid-retro": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/zoom/catta-ace": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/zoom/pictor-zoom": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://dzofilm.com/en/lens/zoom/tango-zoom": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -631,329 +729,329 @@
   },
   "productUrl:https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he130": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he38h": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he40s": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://eu.connect.panasonic.com/gb/en/broadcast-proav/aw-he42": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://eu.connect.panasonic.com/gb/en/broadcast-proav/remote-ptz-camera-systems/aw-he20": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl441.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl442.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl443.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl444.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl445.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl446.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl447.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl448.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl449.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl450.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/cesl520.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef317.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef335.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef340.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef356.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef373.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef377.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef389.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef392.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef393.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef397.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef398.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef400.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef405.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef406.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef407.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef412.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef417.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef424.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef425.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef428.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef432.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef435.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef437.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef452.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef457.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef466.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef467.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef469.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef474.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://global.canon/en/c-museum/product/ef475.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://hollyland.com/product/astra-p1": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -1002,105 +1100,105 @@
   },
   "productUrl:https://laowacine.com/product/laowa-ooom-25-100mm-t2-9-cine/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://laowacine.com/product/laowa-ranger-compact-cine-zoom-series/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://laowacine.com/product/laowa-ranger-s35-compact-cine-zoom-series/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://laowacine.com/product/ultima-s35-25-600mm-t4-2-zoom/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV605-BK-WH/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV605-U3-U3W/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV612-TBI-TWI/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV612HT-4K/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV620-BI-WI/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV620-BI2-WI2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV620-BK4-WH4/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV625-TB-TW/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV625-TBN-TWN/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV630-BI-WI/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV630-IP/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -1114,21 +1212,28 @@
   },
   "productUrl:https://marshall-usa.com/cameras/CV730-BHN-WHN/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://marshall-usa.com/cameras/CV730/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://marshall-usa.com/discontinued/cameras/CV630-NDI.php": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://masterbuiltlenses.com": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -1140,450 +1245,499 @@
     "raw_classification": "dead",
     "reported_classification": "dead"
   },
+  "productUrl:https://meikeglobal.com/products/gorgeous-bokeh-for-full-frame-filmmaker-prime-16mm": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/meike-prime-105mm-t2-1-cine-lens-for-full-frame-cinema-camera-systems-such-as-canon-c700-c500ii-sony-venice-sony-fx3-fx6-fx9-z-cam-e2-f6-alexa-lf-mavo-lf-mavo-edge-8k": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/meike-prime-24mm-t2-1-cine-lens-for-full-frame-cinema-camera-systems-pl-lens-mount": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/prime-135mm-modern-cinematic-lens-for-full-frame": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/prime-35mm-modern-cinematic-lens-for-full-frame": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/prime-50mm-modern-cinematic-lens-for-full-frame": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://meikeglobal.com/products/prime-85mm-modern-cinematic-lens-for-full-frame": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
   "productUrl:https://nisioptics.co.uk/nisi-athena-prime/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/dl30": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc115": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc115plus": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310h": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310hn": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310hwv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310u": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310un": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc310uv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc320unv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc320uv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc330n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc330uv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc500plus": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptc500s": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz231": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz310": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz310n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz310unv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz310uv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz330": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz330n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz330unv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/ptz330uv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr211": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr315": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr315n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr335": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr335n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr535": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr535n": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://presentation.aver.com/model/tr615": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-he145/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue100/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue150/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue150a/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue160/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue20/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue200-210/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue50-40/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ue80/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-uer200-210/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro-av.panasonic.net/en/products/aw-ur100/spec.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/brc-am7": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/brc-h800": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/brc-h900": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/brc-x1000": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/brc-x400": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-300h": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-360she": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-a12": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-a40": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-x120": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-x400": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://pro.sony/ue_US/products/ptz-network-cameras/srg-x40uh": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://ptzoptics.com/link-4k/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://ptzoptics.com/move-4k/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://ptzoptics.com/move-se/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://ptzoptics.com/ptz-cameras/rise": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://ptzoptics.com/sdi/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://ptzoptics.com/simpltrack3/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -1623,191 +1777,198 @@
     "raw_classification": "dead",
     "reported_classification": "dead"
   },
+  "productUrl:https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
   "productUrl:https://telycam.com/drive-n.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/drive-se.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/explore-100.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/explore-300.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/explore-500.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/meet-12-20.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/vision-4kn.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/vision-n3.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://telycam.com/vision-se.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://thypoch.com/en/simera-c/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://tokinacinema.com/11-20mm-t29": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://tokinacinema.com/1628mm-t30-mkii": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://tokinalens.com/product/50_135mm_t2_9_mkii/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.angenieux.com/cinema-lenses/optimo-dp/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/cinema/optimo": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/cinema/optimo-style": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-16-40/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-30-76/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/legacy-series/optimo-style-48-130/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/optimo-ultra-12x/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/optimo-ultra-compact/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.angenieux.com/lenses/type-ez-series/": {
     "failure_type": "connection_error",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 1,
     "raw_classification": "network_error",
     "reported_classification": "needs_manual_check"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/arri-ultra-wide-zooms/ultra-wide-zoom": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-lightweight-zooms": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/alura-studio-zooms": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/legacy/ultra-prime-lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-primes": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -1821,658 +1982,665 @@
   },
   "productUrl:https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-primes": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.arri.com/en/cine-lenses/signature-lenses/signature-primes-zooms/signature-zooms": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/products/ptz-camera/ptz211": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr311hwv2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr313v2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr320": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr331": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr333v2": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.averusa.com/support/#tr530": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.canon-europe.com/broadcast/cj20ex7-8b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/cj45ex13-6b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/cj45ex9.7b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/cj12ex4.3b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj14ex43b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj15ex85bkrse-v/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj17ex62b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj18ex7.6b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj22ex76b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/hj24ex7.5b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/kj13x6bkrs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/kj17ex77birse-iase/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/kj20x82birsd/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/kj20x85bkrsd/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/eng-efp-pro/kj22ex76birse-iase/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_100af/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_22/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_23_xs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_27/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_72_xs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_75_xs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_76/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_80/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_86_ii_tele_xs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_86_xs/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_95/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_27/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_86/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/uhd_digisuper_90/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj14ex4-3b-iase-s/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj18ex28b-iase-t/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj18ex7-6b-iase-s/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj20ex5b-iase-s/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj24ex7-5b-iase-s/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/cj27ex7-3b-iase-t/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/uhd-digisuper-122-af/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/uhd_digisuper_111/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/uhd_digisuper_122/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/lenses/uj66x9b/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/ptz-cameras/cr-n100/specifications/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/ptz-cameras/cr-n300/specifications/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/ptz-cameras/cr-n500/specifications/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/ptz-cameras/cr-n700/specifications/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/ptz-cameras/cr-x500/specifications/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon-europe.com/support/consumer/products/lenses/bctv/j35ex15b4-iase-h-sx12.html?type=manuals&language=EN": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.canon.co.uk/lenses/cj15ex4-3b-iase-t/": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/global/product/PTC-150TL": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/global/product/PTC-280NDI": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/global/product/PTC-300NDI": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/global/product/PTC-305G": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/global/product/PTC-305NDI": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-140": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-150": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-150T": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-280": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-285": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-285T": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-300": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-305": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-305T": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/product/PTC-325": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/us/product/PTC-100": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/us/product/PTC-140NDI": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.datavideo.com/us/product/PTC-140T": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.fomako.net/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/FMK20UH-NDI.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/FOMAKO-KN20A-NDI-PTZ.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/FOMAKO-KN30A-NDI-PTZ-Camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/FoMaKo-4K-NDI-Camera-60FPS-20X-Optical-Zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/FoMaKo-4K-PTZ-Camera-60FPS-20X-Optical-Zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/K20UH-4K-PTZ-Camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk12uh%20pro%2820x%29-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk20sdi-hdmi-ptz-camera-1080p-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk20uh-ndi-ptz-camera-1080p-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk30sdi-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk30uh-hdmi-ptz-camera-1080p-60fps-30x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-fmk30uh-ndi-ptz-camera-1080p-60fps-30x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k20-camera-1080p-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k30-camera-1080p-60fps-30x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k30ns-4k-30x-hdmi-3gsdi-ndi-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k600n-ndi-camera-4k-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k600nw-ndi-camera-4k-60fps-20x-optical-zoom-white.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k630n-ndi-camera-4k-60fps-30x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k800n-ndi-camera-4k-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fomako.net/product/fomako-k820s-12g-sdi-ndi-camera-4k-60fps-20x-optical-zoom.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.fujifilm.com/uk/en/business/cine-and-broadcast/cinelens/hk": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -2486,98 +2654,98 @@
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/mk": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/premista": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/xk": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/zk": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk14-100": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk24-300": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/duvo/hzk25-1000": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23za": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/4k-portable-lens": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/4k-studio-field-lens": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.fujinon.com/fujinon-product-guide/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -2589,37 +2757,79 @@
     "raw_classification": "dead",
     "reported_classification": "dead"
   },
+  "productUrl:https://www.irixusa.com/irix-cine-150mm-t30-tele": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.irixusa.com/irix-cine-15mm-t2-6": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.irixusa.com/irix-cine-21mm-t1-5": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.irixusa.com/irix-cine-30mm-t1-5": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.irixusa.com/irix-cine-45mm-t1-5": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
+  "productUrl:https://www.irixusa.com/irix-cine-65mm-t15": {
+    "failure_type": null,
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
+    "network_failure_streak": 0,
+    "raw_classification": "live",
+    "reported_classification": "live"
+  },
   "productUrl:https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200be/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz200nbe/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.jvc.com/in/pro/professional-camcorders/ptz-cameras/ky-pz400nbe/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz100bu/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz510nbu/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -2633,364 +2843,364 @@
   },
   "productUrl:https://www.leitz-cine.com/product/hektor/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.leitz-cine.com/product/hugo/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.leitz-cine.com/product/leitz-zoom/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.leitz-cine.com/product/summicron-c/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.leitz-cine.com/product/summilux-c/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.leitz-cine.com/product/thalia/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/4k-intelligent-dual-lens-auto-tracking-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/4k-ultra-hd-ptz-streaming-camera-bc420t.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/live-hd-ptz-camera-bc570.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/ultra-hd-4k-ptz-camera-uv420.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv100t-education-intelligent-auto-tracking-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv430a-4k-ultra-hd-ndi-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv470-series-broadcasting-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv510a-series-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv515-series-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv540-series-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv570-series-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv601-series-hd-video-conference-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv950a-series-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.minrraycam.com/uv950a-series-ndi-full-hd-ptz-camera.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1050/VC-A53": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1050/VC-A71PN-4K-NDI-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1051/VC-TR1-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1052/VC-A61PN-4K-NDI-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1072/VC-A51PN-Full-HD-NDI-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1073/VC-R30-Full-HD-IP-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1076/VC-A51P-Full-HD-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1081/VC-TA50-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1082/VC-TR40-AI-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1083/VC-A71P-HN_4K_NDI_PTZ_Camera_with_Full_NDI_and_NDHX33": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1084/VC-A71SN-4K-NDIHX3-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1095/VC-TR40N-AI-Powered-NDI-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1096/VC-TR60-4K-AI-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1110/VC-TR30-AI-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1128/VC-TR60A-4K-Dual-Lens-Speaker-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1132/VC-R31-HD-IP-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1135/VC-TR61-4K-AI-Auto-Tracking-30x-Zoom-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1141/VC-TR60A-Dante-AV-H-4K-Dual-Lens-Speaker-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1142/VC-TR61N-4K-NDI-HX3-AI-Auto-Tracking-30x-Zoom-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1144/VC-B50U-4K-PTZ-IP-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1145/VC-TR41-AI-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1147/VC-TR41N-AI-Powered-NDI-HX3-Auto-Tracking-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1153/VC-A62-4K-PTZ-IP-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1155/VC-B70U-4K-PTZ-IP-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/1158/VC-R32-HD-IP-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/18/VC-A50P": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/19/VC-A50PN-NDI-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/23/VC-B30U-Video-Conference-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/36/VC-A52S-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/37/VC-A61P": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.mylumens.com/en/Products_detail/42/VC-A71P-4K-PTZ-Camera": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.obsbot.com/obsbot-tail-2-ptzr-4k-live-production-camera/specs": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
@@ -3004,343 +3214,343 @@
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/25_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/27_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/32_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/35_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/40_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/50_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/65_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/aizu-prime/75_13/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/105_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/135_2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/14_2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/20_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/24_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/28_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/35_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/40_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/50_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/65_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-high-speed-prime/85_15/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/ff-zoom/24_35_22/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/18_35_2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sigma-global.com/en/cine-lenses/high-speed-zoom/50_100_2/": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel35f14gm/specifications": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.sony.co.uk/electronics/support/lenses-e-mount-lenses/sel70200gm2/specifications": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.sony.com/electronics/camera-lenses/selp28135g": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.tokinacinema.com/2575mm-t29": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.tokinacinemausa.com/pages/vista-p-prime-t1-5": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.tokinacinemausa.com/products/vista-c-prime-t1-5": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.tokinacinemausa.com/products/vista-prime-t15": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cine-servo-17-120mm-t2-95-3-9-pl": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cine-servo-25-250mm-t2-95-3-95-pl": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-pl": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cine-servo-40-1200mm-t5-0-10-8-rf": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e14-35mm-t1-7-l-s": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-f": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e20-50mm-t2-4-l-fp": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-s": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e31-5-95mm-t1-7l-sp": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-f": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cn-e45-135mm-t2-4-l-fp": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/compact-servo-18-80mm-t4-4-ef": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/compact-servo-70-200mm-t4-4-ef": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cr-n350": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cr-n400": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/cr-x300": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
   },
   "productUrl:https://www.usa.canon.com/shop/p/digisuper-95-tele": {
     "failure_type": "waf_blocked_domain_wide",
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "unverifiable_domain",
     "reported_classification": "unverifiable_domain"
@@ -3354,70 +3564,70 @@
   },
   "productUrl:https://www.xeenglobal.com/en/xeen-cf.php": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.xeenglobal.com/en/xeen.php": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/consumer-products/us/cinematography/compact-prime-cp-3-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/consumer-products/us/cinematography/supreme-prime-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/consumer-products/us/cinematography/supreme-zoom-radiance-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/nano-prime-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/panoptes-65-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/photonics-and-optics/en/cinematography/lenses/supreme-prime-radiance-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/cinema-zoom-lenses.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
   },
   "productUrl:https://www.zeiss.com/photonics-and-optics/us/cinematography/lenses/lightweight-zoom-lwz-3.html": {
     "failure_type": null,
-    "last_checked": "2026-09-16T13:50:08.413905+00:00",
+    "last_checked": "2026-09-17T13:36:24.805280+00:00",
     "network_failure_streak": 0,
     "raw_classification": "live",
     "reported_classification": "live"
