@@ -89,6 +89,60 @@ class RenderReportTests(unittest.TestCase):
         self.assertIn("| id | model / display name | category |", gap_section)
 
 
+class DomainLevelSectionTests(unittest.TestCase):
+    def test_new_domain_sections_are_present(self):
+        text = report.render_report(
+            run_date="2026-09-16",
+            is_first_run=False,
+            product_dead=[], product_needs_check=[], product_unverifiable=[], product_gaps=[],
+            manufacturer_dead=[], manufacturer_needs_check=[], manufacturer_unverifiable=[],
+            manufacturer_gaps=[],
+        )
+        self.assertIn("Domains unreachable from CI -- browser check needed", text)
+        self.assertIn("Manually verified live (blocking CI)", text)
+        self.assertIn("Manually verified dead -- replacement owed", text)
+        # Empty notes, not empty tables.
+        self.assertIn("No domain-wide CI-unreachable domains this run.", text)
+        self.assertIn("No manually-verified-live domains.", text)
+        self.assertIn("No manually-verified-dead domains.", text)
+
+    def test_unreachable_domain_collapses_to_one_row_with_field_counts(self):
+        text = report.render_report(
+            run_date="2026-09-16",
+            is_first_run=False,
+            product_dead=[], product_needs_check=[], product_unverifiable=[], product_gaps=[],
+            manufacturer_dead=[], manufacturer_needs_check=[], manufacturer_unverifiable=[],
+            manufacturer_gaps=[],
+            unreachable_domains=[{"domain": "www.angenieux.com", "productUrl": 19,
+                                  "manufacturerUrl": 24, "failure_type": "domain_unreachable_ci"}],
+        )
+        section = text.split("## Domains unreachable from CI")[1].split("## Manually verified live")[0]
+        self.assertIn("| www.angenieux.com | 19 | 24 | domain_unreachable_ci |", section)
+        # One domain row, not 43 per-id rows.
+        self.assertEqual(section.count("www.angenieux.com"), 1)
+
+    def test_verified_live_and_dead_isolated_from_actionable_sections(self):
+        text = report.render_report(
+            run_date="2026-09-16",
+            is_first_run=False,
+            product_dead=[], product_needs_check=[], product_unverifiable=[], product_gaps=[],
+            manufacturer_dead=[], manufacturer_needs_check=[], manufacturer_unverifiable=[],
+            manufacturer_gaps=[],
+            verified_live_domains=[{"domain": "www.angenieux.com", "productUrl": 19,
+                                    "manufacturerUrl": 24, "failure_type": "manually_verified_live"}],
+            verified_dead_domains=[{"domain": "gone.example", "productUrl": 2,
+                                    "manufacturerUrl": 1, "failure_type": "manually_verified_dead"}],
+        )
+        # The verified-live domain appears only under its own quiet heading,
+        # never in Dead or Needs-manual-check.
+        before_live = text.split("## Manually verified live (blocking CI)")[0]
+        self.assertNotIn("www.angenieux.com", before_live)
+        live_section = text.split("## Manually verified live (blocking CI)")[1].split("## Manually verified dead")[0]
+        self.assertIn("www.angenieux.com", live_section)
+        dead_section = text.split("## Manually verified dead -- replacement owed")[1].split("## Product coverage gaps")[0]
+        self.assertIn("gone.example", dead_section)
+
+
 class RenderIssueSummaryTests(unittest.TestCase):
     def test_counts_and_link_present_no_row_level_detail(self):
         text = report.render_issue_summary(
@@ -104,6 +158,7 @@ class RenderIssueSummaryTests(unittest.TestCase):
         self.assertIn("| Product link check -- Dead | 2 |", text)
         self.assertIn("| Product link check -- Needs manual check | 1 |", text)
         self.assertIn("| Manufacturer link check -- Dead | 0 |", text)
+        self.assertIn("| Domains unreachable from CI (browser check needed) | 0 |", text)
         self.assertIn("linkcheck/reports/2026-W38.md", text)
         self.assertIn("full current audit", text)
         # Counts only -- no per-entry rows leak into the summary.

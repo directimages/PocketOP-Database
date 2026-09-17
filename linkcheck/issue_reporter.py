@@ -4,8 +4,9 @@ the GITHUB_TOKEN Actions already provides, no email address anywhere in
 this repo.
 
 Design: one rolling issue, labelled ISSUE_LABEL. A run with anything
-actionable (a dead link, a needs-manual-check entry on either field, or a
-manufacturer integrity gap) adds a comment to that issue -- a comment
+actionable (a dead link, a needs-manual-check entry on either field, a
+manufacturer integrity gap, or a domain unreachable from CI with no recorded
+verdict yet) adds a comment to that issue -- a comment
 triggers GitHub's notification email the same way opening a new issue
 does. A run with nothing actionable stays quiet: no issue interaction, no
 comment, no email, no inbox noise. If the rolling issue exists but was
@@ -34,10 +35,10 @@ MAX_BODY_LENGTH = 60000  # headroom under GitHub's hard 65536 limit
 
 
 def is_actionable(*, product_dead, product_needs_check, manufacturer_dead,
-                   manufacturer_needs_check, manufacturer_gaps):
+                   manufacturer_needs_check, manufacturer_gaps, unreachable_domains=()):
     return bool(
         product_dead or product_needs_check or manufacturer_dead
-        or manufacturer_needs_check or manufacturer_gaps
+        or manufacturer_needs_check or manufacturer_gaps or unreachable_domains
     )
 
 
