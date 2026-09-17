@@ -1,6 +1,6 @@
 {
-  "version": "1.28.0",
-  "updatedAt": "2026-09-13",
+  "version": "1.28.1",
+  "updatedAt": "2026-09-17",
   "cameras": [
     {
       "id": "aver-dl30",
@@ -7375,7 +7375,7 @@
       ],
       "trackingDataOut": [],
       "description": "A compact 1080p60 PTZ with a 1/2.8-inch CMOS sensor and a genuine 12x optical zoom (3.5-42.3mm, F1.8-2.8, 72.5 to 6.9 degree horizontal field of view). It offers motorized pan/tilt with 255 presets, ToF instantaneous autofocus, and native portrait/vertical output aimed at live streaming, live commerce and webinars. Connectivity is via HDMI and USB-C (UVC) plus a network interface with RTSP and RTMP(S), ONVIF and RS-232 VISCA/Pelco control; there is no SDI, NDI, PoE, built-in subject tracking or FreeD output. It is powered by DC 12V or USB 5V and weighs 1.5kg.",
-      "productUrl": "https://www.hollyland.com/product/arocam-c2"
+      "productUrl": null
     },
     {
       "id": "hollyland-astra-p1",
@@ -7795,7 +7795,7 @@
         "RTMPS"
       ],
       "description": "A 4K60 auto-tracking PTZ built on a 1/1.8-inch sensor with a long 20x optical zoom (40x in HD), pairing advanced SMART auto-tracking with NDI|HX3 and NDI 5. With HEVC encoding and SRT streaming, it is built for sports, large events and long-reach live production.",
-      "productUrl": "https://www.jvc.com/usa/pro/professional-video/ptz-cameras/ky-pz540nb/"
+      "productUrl": null
     },
     {
       "id": "lumens-vc-a50p",
@@ -10237,7 +10237,7 @@
         "RTMP"
       ],
       "description": "A 4K PTZ with a 30x zoom and a 1/2.5-inch sensor, capturing UHD at 30fps with NDI|HX alongside HDMI and 3G-SDI output. A networked NDI video source for broadcast, newscast, corporate, worship and education.",
-      "productUrl": "https://marshall-usa.com/cameras/CV630-NDI-NDIW/"
+      "productUrl": "https://marshall-usa.com/discontinued/cameras/CV630-NDI.php"
     },
     {
       "id": "marshall-cv730-bhn",

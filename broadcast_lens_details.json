@@ -1,6 +1,6 @@
 {
-  "version": "1.53.4",
-  "updatedAt": "2026-09-06",
+  "version": "1.53.5",
+  "updatedAt": "2026-09-17",
   "lenses": [
     {
       "id": "angenieux-t12x5-3b",
@@ -2126,7 +2126,7 @@
     {
       "id": "fujinon-ha13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2157,7 +2157,7 @@
     {
       "id": "fujinon-ha14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2140,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2188,7 +2188,7 @@
     {
       "id": "fujinon-ha16x6-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -2219,7 +2219,7 @@
     {
       "id": "fujinon-ha18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1970,
       "lengthMm": 240.5,
       "frontDiameterMm": 95,
@@ -2250,7 +2250,7 @@
     {
       "id": "fujinon-ha18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1650,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -2281,7 +2281,7 @@
     {
       "id": "fujinon-ha19x7-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2150,
       "lengthMm": 238.5,
       "frontDiameterMm": 100,
@@ -2312,7 +2312,7 @@
     {
       "id": "fujinon-ha22x7-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 3000,
       "lengthMm": 287.3,
       "frontDiameterMm": 110,
@@ -2343,7 +2343,7 @@
     {
       "id": "fujinon-ha22x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1780,
       "lengthMm": 218.6,
       "frontDiameterMm": 100,
@@ -2374,7 +2374,7 @@
     {
       "id": "fujinon-ha23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1880,
       "lengthMm": 223.6,
       "frontDiameterMm": 100,
@@ -2405,7 +2405,7 @@
     {
       "id": "fujinon-ha25x11-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2810,
       "lengthMm": 265.0,
       "frontDiameterMm": 110.0,
@@ -2436,7 +2436,7 @@
     {
       "id": "fujinon-ha25x16-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2900,
       "lengthMm": 276.0,
       "frontDiameterMm": 110.0,
@@ -2467,7 +2467,7 @@
     {
       "id": "fujinon-ha27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 19700,
       "lengthMm": 539,
       "frontDiameterMm": null,
@@ -2500,7 +2500,7 @@
     {
       "id": "fujinon-ha42x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5400,
       "lengthMm": 357.5,
       "frontDiameterMm": 130.0,
@@ -2534,7 +2534,7 @@
     {
       "id": "fujinon-ha42x9-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5300,
       "lengthMm": 338.5,
       "frontDiameterMm": 130.0,
@@ -2568,7 +2568,7 @@
     {
       "id": "fujinon-la16x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 163.8,
       "frontDiameterMm": 85,
@@ -2599,7 +2599,7 @@
     {
       "id": "fujinon-la30x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1700,
       "lengthMm": 190.0,
       "frontDiameterMm": 100,
@@ -2630,7 +2630,7 @@
     {
       "id": "fujinon-ua107x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23900,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -2661,7 +2661,7 @@
     {
       "id": "fujinon-ua107x8-4-af",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 26000,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -2692,7 +2692,7 @@
     {
       "id": "fujinon-ua125x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 26600,
       "lengthMm": 635.0,
       "frontDiameterMm": null,
@@ -2723,7 +2723,7 @@
     {
       "id": "fujinon-ua13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2280,
       "lengthMm": 253.0,
       "frontDiameterMm": 95.0,
@@ -2754,7 +2754,7 @@
     {
       "id": "fujinon-ua14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2210,
       "lengthMm": 238.5,
       "frontDiameterMm": 95.0,
@@ -2785,7 +2785,7 @@
     {
       "id": "fujinon-ua16x4berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2290,
       "lengthMm": 252.6,
       "frontDiameterMm": 95,
@@ -2817,7 +2817,7 @@
     {
       "id": "fujinon-ua18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2040,
       "lengthMm": 240.5,
       "frontDiameterMm": 95.0,
@@ -2848,7 +2848,7 @@
     {
       "id": "fujinon-ua18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 204.0,
       "frontDiameterMm": 85.0,
@@ -2879,7 +2879,7 @@
     {
       "id": "fujinon-ua22x4-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2170,
       "lengthMm": 251.0,
       "frontDiameterMm": null,
@@ -2910,7 +2910,7 @@
     {
       "id": "fujinon-ua22x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2550,
       "lengthMm": 241.5,
       "frontDiameterMm": 110.0,
@@ -2941,7 +2941,7 @@
     {
       "id": "fujinon-ua23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1950,
       "lengthMm": 221.4,
       "frontDiameterMm": 100.0,
@@ -2972,7 +2972,7 @@
     {
       "id": "fujinon-ua24x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 220.5,
       "frontDiameterMm": 100.0,
@@ -3003,7 +3003,7 @@
     {
       "id": "fujinon-ua27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3034,7 +3034,7 @@
     {
       "id": "fujinon-ua30x7-3berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2260,
       "lengthMm": 230.9,
       "frontDiameterMm": 95,
@@ -3068,7 +3068,7 @@
     {
       "id": "fujinon-ua46x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5800,
       "lengthMm": 364.2,
       "frontDiameterMm": 146.5,
@@ -3099,7 +3099,7 @@
     {
       "id": "fujinon-ua46x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5700,
       "lengthMm": 345.8,
       "frontDiameterMm": 146.5,
@@ -3130,7 +3130,7 @@
     {
       "id": "fujinon-ua70x8-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3161,7 +3161,7 @@
     {
       "id": "fujinon-ua80x9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23700,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3192,7 +3192,7 @@
     {
       "id": "fujinon-ua94x8-7besm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24300,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -3224,7 +3224,7 @@
     {
       "id": "fujinon-xa101x8-9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22900,
       "lengthMm": 660,
       "frontDiameterMm": null,
@@ -3257,7 +3257,7 @@
     {
       "id": "fujinon-xa17x7-6berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1580,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -3288,7 +3288,7 @@
     {
       "id": "fujinon-xa17x7-6brm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1530,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -3319,7 +3319,7 @@
     {
       "id": "fujinon-xa20sx8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": 85.0,
@@ -3350,7 +3350,7 @@
     {
       "id": "fujinon-xa20sx8-5bemd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.8,
       "frontDiameterMm": null,
@@ -3381,7 +3381,7 @@
     {
       "id": "fujinon-xa20sx8-5berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.4,
       "frontDiameterMm": 85.0,
@@ -3412,7 +3412,7 @@
     {
       "id": "fujinon-xa20sx8-5bmd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": null,
@@ -3443,7 +3443,7 @@
     {
       "id": "fujinon-xa22x7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 6600,
       "lengthMm": 340.0,
       "frontDiameterMm": 127,
@@ -3474,7 +3474,7 @@
     {
       "id": "fujinon-xa55x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 20800,
       "lengthMm": 876.0,
       "frontDiameterMm": null,
@@ -3505,7 +3505,7 @@
     {
       "id": "fujinon-xa66x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 634.0,
       "frontDiameterMm": null,
@@ -3536,7 +3536,7 @@
     {
       "id": "fujinon-xa72x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21000,
       "lengthMm": 656.0,
       "frontDiameterMm": null,
@@ -3567,7 +3567,7 @@
     {
       "id": "fujinon-xa77x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22400,
       "lengthMm": 656.4,
       "frontDiameterMm": null,
@@ -3598,7 +3598,7 @@
     {
       "id": "fujinon-xa87x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 631,
       "frontDiameterMm": null,
@@ -3632,7 +3632,7 @@
     {
       "id": "fujinon-xa88x8-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24500,
       "lengthMm": 575.0,
       "frontDiameterMm": null,
@@ -3663,7 +3663,7 @@
     {
       "id": "fujinon-xa99x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24000,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -3694,7 +3694,7 @@
     {
       "id": "fujinon-za12x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2070,
       "lengthMm": 237.5,
       "frontDiameterMm": 95.0,
@@ -3725,7 +3725,7 @@
     {
       "id": "fujinon-za17x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 203.0,
       "frontDiameterMm": 85.0,
@@ -3756,7 +3756,7 @@
     {
       "id": "fujinon-za22x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1920,
       "lengthMm": 220.4,
       "frontDiameterMm": 100.0,

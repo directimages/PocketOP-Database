@@ -1,6 +1,6 @@
 {
-  "version": "1.55.0",
-  "updatedAt": "2026-09-06",
+  "version": "1.55.1",
+  "updatedAt": "2026-09-17",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -1784,7 +1784,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.arri.com/en/cine-lenses/arri-zeiss-fujinon-lenses/master-primes/master-zoom"
+      "productUrl": null
     },
     {
       "id": "arri-signature-prime-125mm-t1-8",
@@ -8675,7 +8675,7 @@
     {
       "id": "dzofilm-arles-100mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1830,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -8713,12 +8713,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-135mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1846,
       "lengthMm": 130,
       "frontDiameterMm": 95,
@@ -8756,12 +8756,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-14mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1645,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -8799,12 +8799,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-180mm-t2-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1675,
       "lengthMm": 130,
       "frontDiameterMm": 95,
@@ -8842,12 +8842,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-18mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1660,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -8885,12 +8885,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-21mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1490,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -8928,12 +8928,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-25mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1490,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -8971,12 +8971,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-35mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1650,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9014,12 +9014,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-40mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1633,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9057,12 +9057,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-50mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1688,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9100,12 +9100,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-arles-75mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1662,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9143,12 +9143,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/arles-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/arles-prime"
     },
     {
       "id": "dzofilm-catta-ace-18-35mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1850,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9187,12 +9187,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-catta-ace-35-80mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1635,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9231,12 +9231,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-catta-ace-70-135mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1710,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9275,12 +9275,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-gnosis-24mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1265,
       "lengthMm": 100,
       "frontDiameterMm": 114,
@@ -9319,12 +9319,12 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/gnosis-macro-prime"
+      "productUrl": "https://dzofilm.com/en/lens/macro-probe/gnosis-macro"
     },
     {
       "id": "dzofilm-gnosis-32mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1460,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9363,12 +9363,12 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/gnosis-macro-prime"
+      "productUrl": "https://dzofilm.com/en/lens/macro-probe/gnosis-macro"
     },
     {
       "id": "dzofilm-gnosis-65mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1447.5,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9407,12 +9407,12 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/gnosis-macro-prime"
+      "productUrl": "https://dzofilm.com/en/lens/macro-probe/gnosis-macro"
     },
     {
       "id": "dzofilm-gnosis-90mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1280.5,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9451,12 +9451,12 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/gnosis-macro-prime"
+      "productUrl": "https://dzofilm.com/en/lens/macro-probe/gnosis-macro"
     },
     {
       "id": "dzofilm-pictor-12-25mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1600,
       "lengthMm": 150,
       "frontDiameterMm": 95,
@@ -9495,12 +9495,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/pictor-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/pictor-zoom"
     },
     {
       "id": "dzofilm-pictor-14-30mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1880,
       "lengthMm": 173,
       "frontDiameterMm": 95,
@@ -9539,12 +9539,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/pictor-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/pictor-zoom"
     },
     {
       "id": "dzofilm-pictor-20-55mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1520,
       "lengthMm": 164,
       "frontDiameterMm": 95,
@@ -9583,12 +9583,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/pictor-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/pictor-zoom"
     },
     {
       "id": "dzofilm-pictor-50-125mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1700,
       "lengthMm": 175,
       "frontDiameterMm": 95,
@@ -9627,12 +9627,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/pictor-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/pictor-zoom"
     },
     {
       "id": "dzofilm-tango-18-90mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3539,
       "lengthMm": 256.4,
       "frontDiameterMm": 114,
@@ -9671,12 +9671,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/tango-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/tango-zoom"
     },
     {
       "id": "dzofilm-tango-18-90mm-t2-9-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3539,
       "lengthMm": 256.4,
       "frontDiameterMm": 114,
@@ -9715,12 +9715,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/tango-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/tango-zoom"
     },
     {
       "id": "dzofilm-tango-65-280mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3962,
       "lengthMm": 274.4,
       "frontDiameterMm": 114,
@@ -9759,12 +9759,12 @@
       "maxApertureTele": 4.0,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/tango-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/tango-zoom"
     },
     {
       "id": "dzofilm-vespid-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 945,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -9802,12 +9802,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-125mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 981,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -9845,12 +9845,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-16mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 930,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -9888,12 +9888,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-21mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 880,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -9931,12 +9931,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-25mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1021,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -9974,12 +9974,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 962,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10017,12 +10017,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-40mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 905,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10060,12 +10060,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 857,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10103,12 +10103,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 887,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10146,12 +10146,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-90mm-macro-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 839,
       "lengthMm": 112,
       "frontDiameterMm": 80,
@@ -10190,12 +10190,12 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/vespid-prime"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime"
     },
     {
       "id": "dzofilm-vespid-cyber-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1150,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10233,12 +10233,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-cyber"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-cyber"
     },
     {
       "id": "dzofilm-vespid-cyber-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1000,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10276,12 +10276,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-cyber"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-cyber"
     },
     {
       "id": "dzofilm-vespid-cyber-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1150,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10319,12 +10319,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-cyber"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-cyber"
     },
     {
       "id": "dzofilm-vespid-prime-2-105mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 833,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10362,12 +10362,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-prime-2-18mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 766,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10405,12 +10405,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-prime-2-24mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 776,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10448,12 +10448,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-prime-2-35mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 800,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10491,12 +10491,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-prime-2-50mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 836,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10534,12 +10534,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-prime-2-85mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 865,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10577,12 +10577,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-prime2"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-prime2"
     },
     {
       "id": "dzofilm-vespid-retro-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 945,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10620,12 +10620,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-125mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 981,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10663,12 +10663,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-16mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 930,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10705,12 +10705,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-25mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1021,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10748,12 +10748,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 962,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10790,12 +10790,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 857,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10833,12 +10833,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-vespid-retro-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 887,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10876,12 +10876,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/vespid-retro"
+      "productUrl": "https://dzofilm.com/en/lens/prime/vespid-retro"
     },
     {
       "id": "dzofilm-x-tract-18-28mm-t8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1090,
       "lengthMm": 415,
       "frontDiameterMm": 29.6,
@@ -10921,7 +10921,7 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://dzofilm.com/products/x-tract-probe-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/macro-probe/x-tract"
     },
     {
       "id": "fujinon-hk3-1x14-5-t2-0",
@@ -10966,7 +10966,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
+      "productUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast/cinelens/hk"
     },
     {
       "id": "fujinon-hk4-7x18-t2-0",
@@ -11011,7 +11011,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
+      "productUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast/cinelens/hk"
     },
     {
       "id": "fujinon-hk5-3x75-t2-8",
@@ -11056,7 +11056,7 @@
       "maxApertureTele": 3.8,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
+      "productUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast/cinelens/hk"
     },
     {
       "id": "fujinon-hk7-5x24-t2-6",
@@ -11101,7 +11101,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/cine-lens/hk-premier"
+      "productUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast/cinelens/hk"
     },
     {
       "id": "fujinon-hzk14-100mm-t2-9",
@@ -11598,7 +11598,7 @@
     {
       "id": "hawk-super-wide-zoom-10-24mm-t2-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 4100,
       "lengthMm": 255,
       "frontDiameterMm": null,
@@ -11642,7 +11642,7 @@
     {
       "id": "hawk-telephoto-zoom-100-300mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 16300,
       "lengthMm": 600.0,
       "frontDiameterMm": 156,
@@ -11686,7 +11686,7 @@
     {
       "id": "hawk-telephoto-zoom-150-450mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 15900,
       "lengthMm": 660.0,
       "frontDiameterMm": 156,
@@ -11771,7 +11771,7 @@
       "apertureType": "T",
       "hasIS": false,
       "hasMacro": true,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-150mm-t3-0-tele/"
+      "productUrl": "https://www.irixusa.com/irix-cine-150mm-t30-tele"
     },
     {
       "id": "irix-cine-15mm-t2-6-l",
@@ -11816,7 +11816,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-15mm-t2-6/"
+      "productUrl": "https://www.irixusa.com/irix-cine-15mm-t2-6"
     },
     {
       "id": "irix-cine-21mm-t1-5-l",
@@ -11861,7 +11861,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-21mm-t1-5/"
+      "productUrl": "https://www.irixusa.com/irix-cine-21mm-t1-5"
     },
     {
       "id": "irix-cine-30mm-t1-5-l",
@@ -11906,7 +11906,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-30mm-t1-5/"
+      "productUrl": "https://www.irixusa.com/irix-cine-30mm-t1-5"
     },
     {
       "id": "irix-cine-45mm-t1-5-l",
@@ -11951,7 +11951,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-45mm-t1-5/"
+      "productUrl": "https://www.irixusa.com/irix-cine-45mm-t1-5"
     },
     {
       "id": "irix-cine-65mm-t1-5-l",
@@ -11996,7 +11996,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://irixusa.com/lenses/irix-cine-65mm-t1-5/"
+      "productUrl": "https://www.irixusa.com/irix-cine-65mm-t15"
     },
     {
       "id": "laowa-ooom-25-100mm-t2-9",
@@ -15159,7 +15159,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/meike-prime-105mm-t2-1-cine-lens-for-full-frame-cinema-camera-systems-such-as-canon-c700-c500ii-sony-venice-sony-fx3-fx6-fx9-z-cam-e2-f6-alexa-lf-mavo-lf-mavo-edge-8k"
     },
     {
       "id": "meike-ff-cine-135mm-t2-4",
@@ -15188,7 +15188,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/prime-135mm-modern-cinematic-lens-for-full-frame"
     },
     {
       "id": "meike-ff-cine-16mm-t2-5",
@@ -15217,7 +15217,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/gorgeous-bokeh-for-full-frame-filmmaker-prime-16mm"
     },
     {
       "id": "meike-ff-cine-24mm-t2-1",
@@ -15246,7 +15246,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/meike-prime-24mm-t2-1-cine-lens-for-full-frame-cinema-camera-systems-pl-lens-mount"
     },
     {
       "id": "meike-ff-cine-35mm-t2-1",
@@ -15275,7 +15275,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/prime-35mm-modern-cinematic-lens-for-full-frame"
     },
     {
       "id": "meike-ff-cine-50mm-t2-1",
@@ -15304,7 +15304,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/prime-50mm-modern-cinematic-lens-for-full-frame"
     },
     {
       "id": "meike-ff-cine-85mm-t2-1",
@@ -15333,7 +15333,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://meikeglobal.com/collections/full-frame-cine-lens-set"
+      "productUrl": "https://meikeglobal.com/products/prime-85mm-modern-cinematic-lens-for-full-frame"
     },
     {
       "id": "nisi-athena-135mm-t2-2",
@@ -15666,7 +15666,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.red.com/lenses"
+      "productUrl": null
     },
     {
       "id": "red-pro-18-85mm-t2-9",
@@ -15711,7 +15711,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.red.com/lenses"
+      "productUrl": null
     },
     {
       "id": "sigma-af-cine-28-105mm-t3-ff-e",
@@ -15908,7 +15908,7 @@
     {
       "id": "sigma-aizu-prime-25mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.0,
       "frontDiameterMm": 95,
@@ -15954,7 +15954,7 @@
     {
       "id": "sigma-aizu-prime-25mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -16000,7 +16000,7 @@
     {
       "id": "sigma-aizu-prime-27mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.4,
       "frontDiameterMm": 95,
@@ -16046,7 +16046,7 @@
     {
       "id": "sigma-aizu-prime-27mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.4,
       "frontDiameterMm": 95,
@@ -16092,7 +16092,7 @@
     {
       "id": "sigma-aizu-prime-32mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 162.5,
       "frontDiameterMm": 95,
@@ -16138,7 +16138,7 @@
     {
       "id": "sigma-aizu-prime-32mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.5,
       "frontDiameterMm": 95,
@@ -16184,7 +16184,7 @@
     {
       "id": "sigma-aizu-prime-35mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 162.6,
       "frontDiameterMm": 95,
@@ -16230,7 +16230,7 @@
     {
       "id": "sigma-aizu-prime-35mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.6,
       "frontDiameterMm": 95,
@@ -16276,7 +16276,7 @@
     {
       "id": "sigma-aizu-prime-40mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 162.8,
       "frontDiameterMm": 95,
@@ -16322,7 +16322,7 @@
     {
       "id": "sigma-aizu-prime-40mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.8,
       "frontDiameterMm": 95,
@@ -16368,7 +16368,7 @@
     {
       "id": "sigma-aizu-prime-50mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 160.3,
       "frontDiameterMm": 95,
@@ -16414,7 +16414,7 @@
     {
       "id": "sigma-aizu-prime-50mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 126.3,
       "frontDiameterMm": 95,
@@ -16460,7 +16460,7 @@
     {
       "id": "sigma-aizu-prime-65mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.0,
       "frontDiameterMm": 95,
@@ -16506,7 +16506,7 @@
     {
       "id": "sigma-aizu-prime-65mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -16552,7 +16552,7 @@
     {
       "id": "sigma-aizu-prime-75mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 162.1,
       "frontDiameterMm": 95,
@@ -16598,7 +16598,7 @@
     {
       "id": "sigma-aizu-prime-75mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.1,
       "frontDiameterMm": 95,
@@ -17416,7 +17416,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-16mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-24mm-t1-2-s35-l",
@@ -17461,7 +17461,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-24mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-35mm-t1-2-s35-l",
@@ -17506,7 +17506,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-35mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-55mm-t1-2-s35-l",
@@ -17551,7 +17551,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-55mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-75mm-t1-2-s35-l",
@@ -17596,7 +17596,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-75mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sony-fe-35mm-f1-4-gm",
@@ -22188,12 +22188,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.vantagefilm.com/en/lenses"
+      "productUrl": null
     },
     {
       "id": "viltrox-luna-30-300mm-t4-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "manufacturerUrl": "https://viltrox.com/collections/cine-lens-1",
       "weightG": 15000,
       "lengthMm": 511.0,
       "frontDiameterMm": 165,
@@ -22237,7 +22237,7 @@
     {
       "id": "viltrox-luna-42-420mm-t5-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "manufacturerUrl": "https://viltrox.com/collections/cine-lens-1",
       "weightG": 16000,
       "lengthMm": 396,
       "frontDiameterMm": null,

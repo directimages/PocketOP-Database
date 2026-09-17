@@ -1,6 +1,6 @@
 {
-  "version": "1.57.0",
-  "updatedAt": "2026-09-06",
+  "version": "1.57.1",
+  "updatedAt": "2026-09-17",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -9116,7 +9116,7 @@
     {
       "id": "dzofilm-arles-100mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1830,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9153,7 +9153,7 @@
     {
       "id": "dzofilm-arles-135mm-t1-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1846,
       "lengthMm": 130,
       "frontDiameterMm": 95,
@@ -9190,7 +9190,7 @@
     {
       "id": "dzofilm-arles-14mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1645,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9227,7 +9227,7 @@
     {
       "id": "dzofilm-arles-180mm-t2-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1675,
       "lengthMm": 130,
       "frontDiameterMm": 95,
@@ -9264,7 +9264,7 @@
     {
       "id": "dzofilm-arles-18mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1660,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9301,7 +9301,7 @@
     {
       "id": "dzofilm-arles-21mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1490,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9338,7 +9338,7 @@
     {
       "id": "dzofilm-arles-25mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1490,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9375,7 +9375,7 @@
     {
       "id": "dzofilm-arles-35mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1650,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9412,7 +9412,7 @@
     {
       "id": "dzofilm-arles-40mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1633,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9449,7 +9449,7 @@
     {
       "id": "dzofilm-arles-50mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1688,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9486,7 +9486,7 @@
     {
       "id": "dzofilm-arles-75mm-t1-4",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1662,
       "lengthMm": 121,
       "frontDiameterMm": 95,
@@ -9523,7 +9523,7 @@
     {
       "id": "dzofilm-catta-ace-18-35mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1850,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9561,7 +9561,7 @@
     {
       "id": "dzofilm-catta-ace-35-80mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1635,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9599,7 +9599,7 @@
     {
       "id": "dzofilm-catta-ace-70-135mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1710,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -9637,7 +9637,7 @@
     {
       "id": "dzofilm-gnosis-24mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1265,
       "lengthMm": 100,
       "frontDiameterMm": 114,
@@ -9675,7 +9675,7 @@
     {
       "id": "dzofilm-gnosis-32mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1460,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9713,7 +9713,7 @@
     {
       "id": "dzofilm-gnosis-65mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1447.5,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9751,7 +9751,7 @@
     {
       "id": "dzofilm-gnosis-90mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1280.5,
       "lengthMm": 112,
       "frontDiameterMm": 114,
@@ -9789,7 +9789,7 @@
     {
       "id": "dzofilm-pictor-12-25mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1600,
       "lengthMm": 150,
       "frontDiameterMm": 95,
@@ -9827,7 +9827,7 @@
     {
       "id": "dzofilm-pictor-14-30mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1880,
       "lengthMm": 173,
       "frontDiameterMm": 95,
@@ -9865,7 +9865,7 @@
     {
       "id": "dzofilm-pictor-20-55mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1520,
       "lengthMm": 164,
       "frontDiameterMm": 95,
@@ -9903,7 +9903,7 @@
     {
       "id": "dzofilm-pictor-50-125mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1700,
       "lengthMm": 175,
       "frontDiameterMm": 95,
@@ -9941,7 +9941,7 @@
     {
       "id": "dzofilm-tango-18-90mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3539,
       "lengthMm": 256.4,
       "frontDiameterMm": 114,
@@ -9979,7 +9979,7 @@
     {
       "id": "dzofilm-tango-18-90mm-t2-9-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3539,
       "lengthMm": 256.4,
       "frontDiameterMm": 114,
@@ -10017,7 +10017,7 @@
     {
       "id": "dzofilm-tango-65-280mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3962,
       "lengthMm": 274.4,
       "frontDiameterMm": 114,
@@ -10055,7 +10055,7 @@
     {
       "id": "dzofilm-vespid-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 945,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10092,7 +10092,7 @@
     {
       "id": "dzofilm-vespid-125mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 981,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10129,7 +10129,7 @@
     {
       "id": "dzofilm-vespid-16mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 930,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10166,7 +10166,7 @@
     {
       "id": "dzofilm-vespid-21mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 880,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10203,7 +10203,7 @@
     {
       "id": "dzofilm-vespid-25mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1021,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10240,7 +10240,7 @@
     {
       "id": "dzofilm-vespid-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 962,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10277,7 +10277,7 @@
     {
       "id": "dzofilm-vespid-40mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 905,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10314,7 +10314,7 @@
     {
       "id": "dzofilm-vespid-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 857,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10351,7 +10351,7 @@
     {
       "id": "dzofilm-vespid-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 887,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10388,7 +10388,7 @@
     {
       "id": "dzofilm-vespid-90mm-macro-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 839,
       "lengthMm": 112,
       "frontDiameterMm": 80,
@@ -10426,7 +10426,7 @@
     {
       "id": "dzofilm-vespid-cyber-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1150,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10463,7 +10463,7 @@
     {
       "id": "dzofilm-vespid-cyber-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1000,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10500,7 +10500,7 @@
     {
       "id": "dzofilm-vespid-cyber-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1150,
       "lengthMm": 97,
       "frontDiameterMm": 95,
@@ -10537,7 +10537,7 @@
     {
       "id": "dzofilm-vespid-prime-2-105mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 833,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10574,7 +10574,7 @@
     {
       "id": "dzofilm-vespid-prime-2-18mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 766,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10611,7 +10611,7 @@
     {
       "id": "dzofilm-vespid-prime-2-24mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 776,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10648,7 +10648,7 @@
     {
       "id": "dzofilm-vespid-prime-2-35mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 800,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10685,7 +10685,7 @@
     {
       "id": "dzofilm-vespid-prime-2-50mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 836,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10722,7 +10722,7 @@
     {
       "id": "dzofilm-vespid-prime-2-85mm-t1-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 865,
       "lengthMm": 80,
       "frontDiameterMm": 80,
@@ -10759,7 +10759,7 @@
     {
       "id": "dzofilm-vespid-retro-100mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 945,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10796,7 +10796,7 @@
     {
       "id": "dzofilm-vespid-retro-125mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 981,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10833,7 +10833,7 @@
     {
       "id": "dzofilm-vespid-retro-16mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 930,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10869,7 +10869,7 @@
     {
       "id": "dzofilm-vespid-retro-25mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1021,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10906,7 +10906,7 @@
     {
       "id": "dzofilm-vespid-retro-35mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 962,
       "lengthMm": 87,
       "frontDiameterMm": 80,
@@ -10942,7 +10942,7 @@
     {
       "id": "dzofilm-vespid-retro-50mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 857,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -10979,7 +10979,7 @@
     {
       "id": "dzofilm-vespid-retro-75mm-t2-1",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 887,
       "lengthMm": 100,
       "frontDiameterMm": 80,
@@ -11016,7 +11016,7 @@
     {
       "id": "dzofilm-x-tract-18-28mm-t8",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1090,
       "lengthMm": 415,
       "frontDiameterMm": 29.6,
@@ -11055,7 +11055,7 @@
     {
       "id": "fujinon-ha13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -11080,7 +11080,7 @@
     {
       "id": "fujinon-ha14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2140,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -11105,7 +11105,7 @@
     {
       "id": "fujinon-ha16x6-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
@@ -11130,7 +11130,7 @@
     {
       "id": "fujinon-ha18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1970,
       "lengthMm": 240.5,
       "frontDiameterMm": 95,
@@ -11155,7 +11155,7 @@
     {
       "id": "fujinon-ha18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1650,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -11180,7 +11180,7 @@
     {
       "id": "fujinon-ha19x7-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2150,
       "lengthMm": 238.5,
       "frontDiameterMm": 100,
@@ -11205,7 +11205,7 @@
     {
       "id": "fujinon-ha22x7-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 3000,
       "lengthMm": 287.3,
       "frontDiameterMm": 110,
@@ -11230,7 +11230,7 @@
     {
       "id": "fujinon-ha22x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1780,
       "lengthMm": 218.6,
       "frontDiameterMm": 100,
@@ -11255,7 +11255,7 @@
     {
       "id": "fujinon-ha23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1880,
       "lengthMm": 223.6,
       "frontDiameterMm": 100,
@@ -11280,7 +11280,7 @@
     {
       "id": "fujinon-ha25x11-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2810,
       "lengthMm": 265.0,
       "frontDiameterMm": 110.0,
@@ -11305,7 +11305,7 @@
     {
       "id": "fujinon-ha25x16-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2900,
       "lengthMm": 276.0,
       "frontDiameterMm": 110.0,
@@ -11330,7 +11330,7 @@
     {
       "id": "fujinon-ha27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 19700,
       "lengthMm": 539,
       "frontDiameterMm": null,
@@ -11357,7 +11357,7 @@
     {
       "id": "fujinon-ha42x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5400,
       "lengthMm": 357.5,
       "frontDiameterMm": 130.0,
@@ -11385,7 +11385,7 @@
     {
       "id": "fujinon-ha42x9-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5300,
       "lengthMm": 338.5,
       "frontDiameterMm": 130.0,
@@ -11670,7 +11670,7 @@
     {
       "id": "fujinon-la16x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 163.8,
       "frontDiameterMm": 85,
@@ -11695,7 +11695,7 @@
     {
       "id": "fujinon-la30x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1700,
       "lengthMm": 190.0,
       "frontDiameterMm": 100,
@@ -11888,7 +11888,7 @@
     {
       "id": "fujinon-ua107x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23900,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -11913,7 +11913,7 @@
     {
       "id": "fujinon-ua107x8-4-af",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 26000,
       "lengthMm": 670.0,
       "frontDiameterMm": null,
@@ -11938,7 +11938,7 @@
     {
       "id": "fujinon-ua125x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 26600,
       "lengthMm": 635.0,
       "frontDiameterMm": null,
@@ -11963,7 +11963,7 @@
     {
       "id": "fujinon-ua13x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2280,
       "lengthMm": 253.0,
       "frontDiameterMm": 95.0,
@@ -11988,7 +11988,7 @@
     {
       "id": "fujinon-ua14x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2210,
       "lengthMm": 238.5,
       "frontDiameterMm": 95.0,
@@ -12013,7 +12013,7 @@
     {
       "id": "fujinon-ua16x4berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2290,
       "lengthMm": 252.6,
       "frontDiameterMm": 95,
@@ -12039,7 +12039,7 @@
     {
       "id": "fujinon-ua18x5-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2040,
       "lengthMm": 240.5,
       "frontDiameterMm": 95.0,
@@ -12064,7 +12064,7 @@
     {
       "id": "fujinon-ua18x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 204.0,
       "frontDiameterMm": 85.0,
@@ -12089,7 +12089,7 @@
     {
       "id": "fujinon-ua22x4-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2170,
       "lengthMm": 251.0,
       "frontDiameterMm": null,
@@ -12114,7 +12114,7 @@
     {
       "id": "fujinon-ua22x8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2550,
       "lengthMm": 241.5,
       "frontDiameterMm": 110.0,
@@ -12139,7 +12139,7 @@
     {
       "id": "fujinon-ua23x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1950,
       "lengthMm": 221.4,
       "frontDiameterMm": 100.0,
@@ -12164,7 +12164,7 @@
     {
       "id": "fujinon-ua24x7-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1980,
       "lengthMm": 220.5,
       "frontDiameterMm": 100.0,
@@ -12189,7 +12189,7 @@
     {
       "id": "fujinon-ua27x6-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -12214,7 +12214,7 @@
     {
       "id": "fujinon-ua30x7-3berd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2260,
       "lengthMm": 230.9,
       "frontDiameterMm": 95,
@@ -12242,7 +12242,7 @@
     {
       "id": "fujinon-ua46x13-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5800,
       "lengthMm": 364.2,
       "frontDiameterMm": 146.5,
@@ -12267,7 +12267,7 @@
     {
       "id": "fujinon-ua46x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 5700,
       "lengthMm": 345.8,
       "frontDiameterMm": 146.5,
@@ -12292,7 +12292,7 @@
     {
       "id": "fujinon-ua70x8-7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23800,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -12317,7 +12317,7 @@
     {
       "id": "fujinon-ua80x9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23700,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -12342,7 +12342,7 @@
     {
       "id": "fujinon-ua94x8-7besm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24300,
       "lengthMm": 610,
       "frontDiameterMm": null,
@@ -12368,7 +12368,7 @@
     {
       "id": "fujinon-xa101x8-9",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22900,
       "lengthMm": 660,
       "frontDiameterMm": null,
@@ -12395,7 +12395,7 @@
     {
       "id": "fujinon-xa17x7-6berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1580,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -12420,7 +12420,7 @@
     {
       "id": "fujinon-xa17x7-6brm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1530,
       "lengthMm": 204.0,
       "frontDiameterMm": 85,
@@ -12445,7 +12445,7 @@
     {
       "id": "fujinon-xa20sx8-5b",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": 85.0,
@@ -12470,7 +12470,7 @@
     {
       "id": "fujinon-xa20sx8-5bemd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.8,
       "frontDiameterMm": null,
@@ -12495,7 +12495,7 @@
     {
       "id": "fujinon-xa20sx8-5berm",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1600,
       "lengthMm": 200.4,
       "frontDiameterMm": 85.0,
@@ -12520,7 +12520,7 @@
     {
       "id": "fujinon-xa20sx8-5bmd",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1500,
       "lengthMm": 180.8,
       "frontDiameterMm": null,
@@ -12545,7 +12545,7 @@
     {
       "id": "fujinon-xa22x7",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 6600,
       "lengthMm": 340.0,
       "frontDiameterMm": 127,
@@ -12570,7 +12570,7 @@
     {
       "id": "fujinon-xa55x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 20800,
       "lengthMm": 876.0,
       "frontDiameterMm": null,
@@ -12595,7 +12595,7 @@
     {
       "id": "fujinon-xa66x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 634.0,
       "frontDiameterMm": null,
@@ -12620,7 +12620,7 @@
     {
       "id": "fujinon-xa72x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21000,
       "lengthMm": 656.0,
       "frontDiameterMm": null,
@@ -12645,7 +12645,7 @@
     {
       "id": "fujinon-xa77x9-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22400,
       "lengthMm": 656.4,
       "frontDiameterMm": null,
@@ -12670,7 +12670,7 @@
     {
       "id": "fujinon-xa87x9-3",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21500,
       "lengthMm": 631,
       "frontDiameterMm": null,
@@ -12698,7 +12698,7 @@
     {
       "id": "fujinon-xa88x8-8",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24500,
       "lengthMm": 575.0,
       "frontDiameterMm": null,
@@ -12723,7 +12723,7 @@
     {
       "id": "fujinon-xa99x8-4",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 24000,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
@@ -12776,7 +12776,7 @@
     {
       "id": "fujinon-za12x4-5",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 2070,
       "lengthMm": 237.5,
       "frontDiameterMm": 95.0,
@@ -12801,7 +12801,7 @@
     {
       "id": "fujinon-za17x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1740,
       "lengthMm": 203.0,
       "frontDiameterMm": 85.0,
@@ -12826,7 +12826,7 @@
     {
       "id": "fujinon-za22x7-6",
       "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/business/cine-and-broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 1920,
       "lengthMm": 220.4,
       "frontDiameterMm": 100.0,
@@ -12968,7 +12968,7 @@
     {
       "id": "hawk-super-wide-zoom-10-24mm-t2-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 4100,
       "lengthMm": 255,
       "frontDiameterMm": null,
@@ -13007,7 +13007,7 @@
     {
       "id": "hawk-telephoto-zoom-100-300mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 16300,
       "lengthMm": 600.0,
       "frontDiameterMm": 156,
@@ -13046,7 +13046,7 @@
     {
       "id": "hawk-telephoto-zoom-150-450mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 15900,
       "lengthMm": 660.0,
       "frontDiameterMm": 156,
@@ -16752,7 +16752,7 @@
     {
       "id": "sigma-aizu-prime-25mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.0,
       "frontDiameterMm": 95,
@@ -16791,7 +16791,7 @@
     {
       "id": "sigma-aizu-prime-25mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -16830,7 +16830,7 @@
     {
       "id": "sigma-aizu-prime-27mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.4,
       "frontDiameterMm": 95,
@@ -16869,7 +16869,7 @@
     {
       "id": "sigma-aizu-prime-27mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.4,
       "frontDiameterMm": 95,
@@ -16908,7 +16908,7 @@
     {
       "id": "sigma-aizu-prime-32mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 162.5,
       "frontDiameterMm": 95,
@@ -16947,7 +16947,7 @@
     {
       "id": "sigma-aizu-prime-32mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.5,
       "frontDiameterMm": 95,
@@ -16986,7 +16986,7 @@
     {
       "id": "sigma-aizu-prime-35mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 162.6,
       "frontDiameterMm": 95,
@@ -17025,7 +17025,7 @@
     {
       "id": "sigma-aizu-prime-35mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.6,
       "frontDiameterMm": 95,
@@ -17064,7 +17064,7 @@
     {
       "id": "sigma-aizu-prime-40mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 162.8,
       "frontDiameterMm": 95,
@@ -17103,7 +17103,7 @@
     {
       "id": "sigma-aizu-prime-40mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.8,
       "frontDiameterMm": 95,
@@ -17142,7 +17142,7 @@
     {
       "id": "sigma-aizu-prime-50mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 160.3,
       "frontDiameterMm": 95,
@@ -17181,7 +17181,7 @@
     {
       "id": "sigma-aizu-prime-50mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 126.3,
       "frontDiameterMm": 95,
@@ -17220,7 +17220,7 @@
     {
       "id": "sigma-aizu-prime-65mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 159.0,
       "frontDiameterMm": 95,
@@ -17259,7 +17259,7 @@
     {
       "id": "sigma-aizu-prime-65mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -17298,7 +17298,7 @@
     {
       "id": "sigma-aizu-prime-75mm-t1-3-e",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1800,
       "lengthMm": 162.1,
       "frontDiameterMm": 95,
@@ -17337,7 +17337,7 @@
     {
       "id": "sigma-aizu-prime-75mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.1,
       "frontDiameterMm": 95,
@@ -22097,7 +22097,7 @@
     {
       "id": "viltrox-luna-30-300mm-t4-0",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "manufacturerUrl": "https://viltrox.com/collections/cine-lens-1",
       "weightG": 15000,
       "lengthMm": 511.0,
       "frontDiameterMm": 165,
@@ -22136,7 +22136,7 @@
     {
       "id": "viltrox-luna-42-420mm-t5-6",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.viltrox.com/collections/cine-lenses",
+      "manufacturerUrl": "https://viltrox.com/collections/cine-lens-1",
       "weightG": 16000,
       "lengthMm": 396,
       "frontDiameterMm": null,
