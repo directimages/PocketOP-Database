@@ -3,7 +3,7 @@
     {
       "id": "dzofilm-catta-ace-18-35mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1850,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -42,12 +42,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-catta-ace-35-80mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1635,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -86,12 +86,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-catta-ace-70-135mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 1710,
       "lengthMm": 187.5,
       "frontDiameterMm": 80,
@@ -130,12 +130,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/catta-ace-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/catta-ace"
     },
     {
       "id": "dzofilm-tango-18-90mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3539,
       "lengthMm": 256.4,
       "frontDiameterMm": 114,
@@ -174,12 +174,12 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/tango-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/tango-zoom"
     },
     {
       "id": "dzofilm-tango-65-280mm-t2-9",
       "lensType": "cine",
-      "manufacturerUrl": "https://dzofilm.com/products",
+      "manufacturerUrl": "https://dzofilm.com/en/lens",
       "weightG": 3962,
       "lengthMm": 274.4,
       "frontDiameterMm": 114,
@@ -218,7 +218,7 @@
       "maxApertureTele": 4.0,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://dzofilm.com/products/tango-zoom"
+      "productUrl": "https://dzofilm.com/en/lens/zoom/tango-zoom"
     }
   ]
 }

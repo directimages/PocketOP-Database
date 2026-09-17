@@ -3,7 +3,7 @@
     {
       "id": "hawk-super-wide-zoom-10-24mm-t2-5",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 4100,
       "lengthMm": 255,
       "frontDiameterMm": null,
@@ -47,7 +47,7 @@
     {
       "id": "hawk-telephoto-zoom-100-300mm-t2-2",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 16300,
       "lengthMm": 600.0,
       "frontDiameterMm": 156,
@@ -91,7 +91,7 @@
     {
       "id": "hawk-telephoto-zoom-150-450mm-t2-8",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.vantagefilm.com/en/lenses",
+      "manufacturerUrl": "https://www.vantagefilm.com/en/products/hawk-motion-picture-lenses",
       "weightG": 15900,
       "lengthMm": 660.0,
       "frontDiameterMm": 156,

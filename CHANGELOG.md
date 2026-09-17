@@ -2,6 +2,42 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## cine_lens_details.json
+### v1.55.1 — 2026-09-17
+
+- Dead-link productUrl/manufacturerUrl fix campaign (2026-W38 report), applied via build/apply_fields.py across 15 cine detail shards, zero orphans: DZOFilm (52 entries, both fields, repointed to their current series pages); Meike FF Cine (7, productUrl to per-model pages); Fujinon HK Premier (4, productUrl to the current UK/EN cine-lens series page); Sirui Night Walker (5, productUrl to the parameterless series page); Hawk (3, manufacturerUrl to the Hawk brand page); Vantage Lightweight Zoom (1, productUrl set to null — no page specific enough to the model exists, a shared downloads listing was judged too broad); Sigma Aizu Prime (16, manufacturerUrl to the Sigma cine-lenses hub); RED Pro 17-50mm/18-85mm (2, productUrl set to null — product no longer listed on red.com, no discontinued-section equivalent); ARRI Master Zoom (1, productUrl set to null — no longer listed on arri.com); Irix Cine (6, productUrl to the current site's shorter slug pattern); Viltrox LUNA (2, manufacturerUrl to the current cine-lens collection page)
+- Entry count unchanged, 622
+- Released as db-v31
+
+## broadcast_lens_details.json
+### v1.53.5 — 2026-09-17
+
+- Dead-link manufacturerUrl fix: 53 Fujinon broadcast entries (HA/LA/UA/XA/ZA series) repointed to the current UK/EN cine-and-broadcast landing page (regional canonicalization). Applied via build/apply_fields.py, part of the 2026-W38 dead-link fix campaign
+- Entry count unchanged, 124
+- Released as db-v31
+
+## lens-details.json
+### v1.57.1 — 2026-09-17
+
+- Legacy union rebuild carrying the manufacturerUrl-only subset of the dead-link fix campaign above (manufacturerUrl is in the union's field whitelist, productUrl is not): DZOFilm (52), Fujinon broadcast (53), Hawk (3), Sigma Aizu Prime (16), Viltrox LUNA (2)
+- Entry count unchanged, 746
+- Released as db-v31
+
+## ptz-details.json
+### v1.28.1 — 2026-09-17
+
+- Dead-link productUrl fixes, part of the 2026-W38 campaign, applied via build/apply_fields.py: Marshall CV630-NDI repointed to its discontinued-products page (full specs retained there); Hollyland Arocam C2 and JVC KY-PZ540N both set to null (neither discontinued product has a live manufacturer page; search-index hits for both resolved to 404s on verification)
+- Entry count unchanged, 273
+- Released as db-v31
+
+## devices.json
+### v1.7.0 — 2026-09-17
+
+- 2 new entries: iPhone 18 Pro / iPhone 18 Pro Max (combined entry, house pattern for size variants sharing an identical camera system; modelIdentifiers iPhone19,2 / iPhone19,3 / iPhone19,7), iPhone 17e (single wide camera, modelIdentifier iPhone18,5, following the 16e single-camera pattern)
+- Camera focal lengths and hFOV from Apple's official spec pages; model identifiers verified against Xcode device_traits.db and simulator DeviceTypes profiles. hFOVVerified false on all new camera entries (calculated, consistent with existing convention)
+- Entry count: 19 -> 21
+- Released as db-v31
+
 ## search-synonyms.json
 ### v1 — 2026-08-23
 

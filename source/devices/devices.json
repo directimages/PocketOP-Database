@@ -637,6 +637,73 @@
           "displayMM": 26
         }
       ]
+    },
+    {
+      "id": "iphone-18-pro",
+      "marketingName": "iPhone 18 Pro / iPhone 18 Pro Max",
+      "modelIdentifiers": [
+        "iPhone19,2",
+        "iPhone19,3",
+        "iPhone19,7"
+      ],
+      "cameras": [
+        {
+          "label": "0.5x",
+          "type": "ultrawide",
+          "hFOVDegrees": 108.3,
+          "isDefault": false,
+          "hFOVVerified": false,
+          "hFOVSource": "calculated — 2×arctan(18/13)=108.3°; Apple official 13mm equiv 48MP Fusion ultrawide; Apple's stated 120° is diagonal (hFOV study 2026-03)",
+          "displayMM": 13
+        },
+        {
+          "label": "1x",
+          "type": "wide",
+          "hFOVDegrees": 73.7,
+          "isDefault": true,
+          "hFOVVerified": false,
+          "hFOVSource": "calculated — 2×arctan(18/24)=73.7°; Apple official 24mm equiv 48MP Fusion main camera (hFOV study 2026-03)",
+          "displayMM": 24
+        },
+        {
+          "label": "4x",
+          "type": "telephoto",
+          "hFOVDegrees": 20.4,
+          "isDefault": false,
+          "hFOVVerified": false,
+          "hFOVSource": "calculated — 2×arctan(18/100)=20.4°; Apple official 100mm equiv 4× tetraprism 48MP physical lens; videoFieldOfView API reports ~19.9° (base format, unchanged by zoom) (hFOV study 2026-03)",
+          "displayMM": 100
+        },
+        {
+          "label": "8x",
+          "type": "telephoto",
+          "hFOVDegrees": 10.3,
+          "isDefault": false,
+          "hFOVVerified": false,
+          "hFOVSource": "calculated — 2×arctan(18/200)=10.3°; 48MP sensor crop of 4× tele; effective FOV must be computed as 2×arctan(tan(baseFOV/2)/zoomFactor); videoFieldOfView returns base 4× FOV (~19.9°) regardless of zoom (hFOV study 2026-03)",
+          "isSensorCrop": true,
+          "videoZoomFactor": 2.0,
+          "displayMM": 200
+        }
+      ]
+    },
+    {
+      "id": "iphone-17e",
+      "marketingName": "iPhone 17e",
+      "modelIdentifiers": [
+        "iPhone18,5"
+      ],
+      "cameras": [
+        {
+          "label": "1x",
+          "type": "wide",
+          "hFOVDegrees": 69.4,
+          "isDefault": true,
+          "hFOVVerified": false,
+          "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; Apple official 26mm equiv 48MP Fusion camera; single rear camera (hFOV study 2026-03)",
+          "displayMM": 26
+        }
+      ]
     }
   ]
 }

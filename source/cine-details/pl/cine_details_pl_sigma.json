@@ -594,7 +594,7 @@
     {
       "id": "sigma-aizu-prime-25mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -640,7 +640,7 @@
     {
       "id": "sigma-aizu-prime-27mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 125.4,
       "frontDiameterMm": 95,
@@ -686,7 +686,7 @@
     {
       "id": "sigma-aizu-prime-32mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.5,
       "frontDiameterMm": 95,
@@ -732,7 +732,7 @@
     {
       "id": "sigma-aizu-prime-35mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.6,
       "frontDiameterMm": 95,
@@ -778,7 +778,7 @@
     {
       "id": "sigma-aizu-prime-40mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 128.8,
       "frontDiameterMm": 95,
@@ -824,7 +824,7 @@
     {
       "id": "sigma-aizu-prime-50mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 126.3,
       "frontDiameterMm": 95,
@@ -870,7 +870,7 @@
     {
       "id": "sigma-aizu-prime-65mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1600,
       "lengthMm": 125.0,
       "frontDiameterMm": 95,
@@ -916,7 +916,7 @@
     {
       "id": "sigma-aizu-prime-75mm-t1-3-pl",
       "lensType": "cine",
-      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/aizu-prime/",
+      "manufacturerUrl": "https://www.sigma-global.com/en/cine-lenses/",
       "weightG": 1700,
       "lengthMm": 128.1,
       "frontDiameterMm": 95,

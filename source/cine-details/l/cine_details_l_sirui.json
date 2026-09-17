@@ -43,7 +43,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-16mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-24mm-t1-2-s35-l",
@@ -88,7 +88,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-24mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-35mm-t1-2-s35-l",
@@ -133,7 +133,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-35mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-55mm-t1-2-s35-l",
@@ -178,7 +178,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-55mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     },
     {
       "id": "sirui-nightwalker-75mm-t1-2-s35-l",
@@ -223,7 +223,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://store.sirui.com/products/night-walker-75mm-t1-2-s35-cine-lens"
+      "productUrl": "https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series"
     }
   ]
 }

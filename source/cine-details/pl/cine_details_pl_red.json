@@ -43,7 +43,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.red.com/lenses"
+      "productUrl": null
     },
     {
       "id": "red-pro-18-85mm-t2-9",
@@ -88,7 +88,7 @@
       "maxApertureTele": null,
       "apertureType": "T",
       "hasIS": false,
-      "productUrl": "https://www.red.com/lenses"
+      "productUrl": null
     }
   ]
 }
