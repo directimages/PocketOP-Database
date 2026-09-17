@@ -305,5 +305,196 @@ class UnexpectedErrorResilienceTests(unittest.TestCase):
             self.assertTrue(state_path.exists())
 
 
+
+# --- Domain-wide-CI-unreachable + verdict layer -----------------------------
+
+# The real angenieux URL set (a known public sample, not production secrets):
+# every path on this host, including the root, refuses CI connections with no
+# HTTP status. 19 productUrl entries + 24 manufacturerUrl entries = the ~43
+# rows this feature has to collapse and, once verified live, silence.
+ANGENIEUX_PRODUCT_URLS = [
+    "https://www.angenieux.com/cinema/optimo",
+    "https://www.angenieux.com/cinema/optimo-style",
+    "https://www.angenieux.com/cinema-lenses/optimo-dp/",
+    "https://www.angenieux.com/lenses/optimo-ultra-12x/",
+    "https://www.angenieux.com/lenses/optimo-ultra-compact/",
+    "https://www.angenieux.com/lenses/type-ez-series/",
+    "https://www.angenieux.com/lenses/legacy-series/optimo-style-48-130/",
+    "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-16-40/",
+    "https://www.angenieux.com/lenses/legacy-series/compact-lens-zoom-optimo-style-30-76/",
+]
+ANGENIEUX_MFR_URL = "https://www.angenieux.com/lenses/"
+
+
+def build_angenieux_fixtures():
+    core, details = [], []
+    for i in range(19):  # 19 productUrl + 19 manufacturerUrl entries
+        eid = f"angenieux-{i}"
+        core.append({"id": eid, "manufacturer": "Angenieux", "model": f"Optimo {i}"})
+        details.append({
+            "id": eid,
+            "productUrl": ANGENIEUX_PRODUCT_URLS[i % len(ANGENIEUX_PRODUCT_URLS)],
+            "manufacturerUrl": ANGENIEUX_MFR_URL,
+        })
+    for i in range(19, 24):  # +5 manufacturerUrl-only entries -> 24 manufacturer total
+        eid = f"angenieux-{i}"
+        core.append({"id": eid, "manufacturer": "Angenieux", "model": f"Optimo {i}"})
+        details.append({"id": eid, "productUrl": None, "manufacturerUrl": ANGENIEUX_MFR_URL})
+    return {
+        "broadcast_lenses.json": {"lenses": core},
+        "broadcast_lens_details.json": {"lenses": details},
+        "cine_lenses.json": {"lenses": []},
+        "cine_lens_details.json": {"lenses": []},
+        "ptz_cameras.json": {"ptzCameras": []},
+        "ptz_details.json": {"cameras": []},
+    }
+
+
+def angenieux_fetch(filename):
+    return build_angenieux_fixtures()[filename]
+
+
+def angenieux_unreachable_check_url(session, url, **kwargs):
+    # Every angenieux URL, including the root the domain probe hits, refuses
+    # the connection with no HTTP status.
+    if url.startswith("https://www.angenieux.com/"):
+        return checker.CheckResult("network_error", "connection_error", None, None)
+    return checker.CheckResult("live", None, 200, url)
+
+
+def _write_verdicts(tmp, domains):
+    import json
+    path = Path(tmp) / "verdicts.json"
+    path.write_text(json.dumps({"domains": domains}), encoding="utf-8")
+    return path
+
+
+class UnreachableDomainIntegrationTests(unittest.TestCase):
+    def test_unverified_domain_collapses_to_one_actionable_row_not_promoted_to_dead(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            no_verdicts = Path(tmp) / "verdicts-absent.json"  # missing on purpose
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+
+            with patch.object(cli.checker, "check_url", side_effect=angenieux_unreachable_check_url), \
+                 patch.object(cli.issue_reporter, "post_report") as mock_post, \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=angenieux_fetch,
+                    github_token="fake-token", github_repo="directimages/PocketOP-Database",
+                    verdicts_path=no_verdicts,
+                )
+
+            text = report_path.read_text(encoding="utf-8")
+
+            # One grouped domain row (19 product + 24 manufacturer), not 43 per-id rows.
+            unreachable_section = text.split("## Domains unreachable from CI")[1].split("## Manually verified live")[0]
+            self.assertIn("| www.angenieux.com | 19 | 24 | domain_unreachable_ci |", unreachable_section)
+            self.assertEqual(unreachable_section.count("www.angenieux.com"), 1)
+
+            # Never in Dead, and never flooding Needs manual check.
+            self.assertNotIn("| angenieux-", text.split("## Domains unreachable from CI")[0])
+
+            # Ambiguous but visible: it must make the run actionable.
+            mock_post.assert_called_once()
+            self.assertTrue(mock_post.call_args.kwargs["actionable"])
+
+            # State recorded as unreachable_domain, streak reset -> never a false-dead.
+            import json
+            saved = json.loads(state_path.read_text(encoding="utf-8"))
+            rec = saved["manufacturerUrl:https://www.angenieux.com/lenses/"]
+            self.assertEqual(rec["reported_classification"], "unreachable_domain")
+            self.assertEqual(rec["network_failure_streak"], 0)
+
+    def test_live_verdict_silences_all_rows_and_skips_the_http_checks(self):
+        # The headline done-criterion: recording angenieux as live empties the
+        # 43-row needs-manual list on the next run.
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            verdicts_path = _write_verdicts(tmp, {
+                "www.angenieux.com": {"verdict": "live", "recheck_after": "2026-12-17"}
+            })
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+
+            with patch.object(cli.checker, "check_url", side_effect=angenieux_unreachable_check_url) as mock_check, \
+                 patch.object(cli.issue_reporter, "post_report") as mock_post, \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=angenieux_fetch,
+                    github_token="fake-token", github_repo="directimages/PocketOP-Database",
+                    verdicts_path=verdicts_path,
+                )
+
+            text = report_path.read_text(encoding="utf-8")
+
+            # Quiet verified-live line, one row per domain.
+            live_section = text.split("## Manually verified live (blocking CI)")[1].split("## Manually verified dead")[0]
+            self.assertIn("| www.angenieux.com | 19 | 24 | manually_verified_live |", live_section)
+
+            # Unreachable and needs-manual are empty of angenieux.
+            unreachable_section = text.split("## Domains unreachable from CI")[1].split("## Manually verified live")[0]
+            self.assertIn("No domain-wide CI-unreachable domains this run.", unreachable_section)
+            needs_check_product = text.split("## Product link check -- Needs manual check")[1].split(
+                "## Product link check -- Unverifiable from CI")[0]
+            self.assertIn("Nothing ambiguous this run.", needs_check_product)
+
+            # Not actionable: no notification.
+            mock_post.assert_not_called()
+            # Live-but-blocking-CI can't be checked from here anyway: the HTTP
+            # checks are short-circuited entirely.
+            mock_check.assert_not_called()
+
+    def test_dead_verdict_is_a_quiet_replacement_worklist(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            verdicts_path = _write_verdicts(tmp, {"www.angenieux.com": {"verdict": "dead"}})
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)
+
+            with patch.object(cli.checker, "check_url", side_effect=angenieux_unreachable_check_url) as mock_check, \
+                 patch.object(cli.issue_reporter, "post_report") as mock_post, \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=angenieux_fetch,
+                    github_token="fake-token", github_repo="directimages/PocketOP-Database",
+                    verdicts_path=verdicts_path,
+                )
+
+            text = report_path.read_text(encoding="utf-8")
+            dead_section = text.split("## Manually verified dead -- replacement owed")[1].split(
+                "## Product coverage gaps")[0]
+            self.assertIn("| www.angenieux.com | 19 | 24 | manually_verified_dead |", dead_section)
+
+            mock_post.assert_not_called()  # operator already knows; worklist, not a notification
+            mock_check.assert_not_called()
+
+    def test_expired_live_verdict_re_surfaces_the_domain_as_actionable(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state_path = Path(tmp) / "state.json"
+            reports_dir = Path(tmp) / "reports"
+            verdicts_path = _write_verdicts(tmp, {
+                "www.angenieux.com": {"verdict": "live", "recheck_after": "2026-01-01"}
+            })
+            now = dt.datetime(2026, 9, 16, 9, 0, 0, tzinfo=dt.timezone.utc)  # well past recheck_after
+
+            with patch.object(cli.checker, "check_url", side_effect=angenieux_unreachable_check_url), \
+                 patch.object(cli.issue_reporter, "post_report") as mock_post, \
+                 patch.dict(os.environ, {"GITHUB_EVENT_NAME": "schedule"}):
+                report_path = cli.run(
+                    state_path=state_path, reports_dir=reports_dir, now=now, fetch=angenieux_fetch,
+                    github_token="fake-token", github_repo="directimages/PocketOP-Database",
+                    verdicts_path=verdicts_path,
+                )
+
+            text = report_path.read_text(encoding="utf-8")
+            unreachable_section = text.split("## Domains unreachable from CI")[1].split("## Manually verified live")[0]
+            self.assertIn("www.angenieux.com", unreachable_section)
+            live_section = text.split("## Manually verified live (blocking CI)")[1].split("## Manually verified dead")[0]
+            self.assertIn("No manually-verified-live domains.", live_section)
+            mock_post.assert_called_once()
+
+
 if __name__ == "__main__":
     unittest.main()

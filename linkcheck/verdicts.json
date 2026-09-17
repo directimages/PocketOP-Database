@@ -1,0 +1,10 @@
+{
+  "domains": {
+    "www.angenieux.com": {
+      "verdict": "live",
+      "checked": "2026-09-17",
+      "recheck_after": "2026-12-17",
+      "note": "Confirmed live in a browser: root returns 200, product pages 301-redirect. Refuses the CI runner's connections at the network level, so CI cannot verify it. Live, not dead."
+    }
+  }
+}
