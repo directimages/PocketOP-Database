@@ -1,0 +1,55 @@
+name: No generic Claude branding
+
+# Public-repo guardrail. The repo owner does not want generic Claude /
+# "Claude Code" branding anywhere in this repository's pull requests or
+# history. The standing rule lives in CLAUDE.md (the "Attribution on this
+# public repository" section) and overrides the Claude Code harness default
+# that appends a "Generated with Claude Code" footer to PR descriptions.
+# This workflow is the mechanical backstop: it reads the PR description and
+# the PR's commit messages and FAILS if either carries that branding, so such
+# a PR cannot be merged. It only preserves the agent-specific
+# "Co-Authored-By: <AgentName>" trailer. This file contains no em dashes by
+# project policy.
+
+on:
+  pull_request:
+    # "edited" is essential: it fires when the PR title or body changes, so
+    # pasting the footer into the description after opening is caught too.
+    types: [opened, edited, reopened, synchronize]
+
+# Read and fail only. Checkout and the commit-message scan need contents:
+# read; the PR description comes from the event payload, which needs no API
+# scope. There is no auto-strip and nothing is written back, so no
+# pull-requests: write (or any write) is granted (POS-W96, least privilege).
+permissions:
+  contents: read
+
+jobs:
+  check-branding:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+        with:
+          # Full history so the base..head commit range resolves for the scan.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: "3.12"
+
+      - name: Gather PR description and commit messages
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          printf '%s' "$PR_BODY" > pr_body.txt
+          git log --format=%B "$BASE_SHA..$HEAD_SHA" > commit_messages.txt
+
+      - name: Check for generic Claude branding
+        run: |
+          python scripts/check_pr_branding.py \
+            pr-description=pr_body.txt \
+            commit-messages=commit_messages.txt
