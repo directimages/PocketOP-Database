@@ -1,42 +1,88 @@
 {
   "schema": "1.0",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "announcements": [
     {
-      "id": "debug-test-long-2026-09-18",
-      "debugOnly": true,
+      "id": "test-01-minor",
+      "priority": "minor",
+      "type": "info",
+      "version": "1.4.0",
+      "title": "Minor banner test",
+      "headline": "This is a minor-priority announcement. It should show as a lightweight top banner with a dismiss control, no hero and no sections."
+    },
+    {
+      "id": "test-02-badbanner",
       "priority": "feature",
       "type": "info",
       "version": "1.4.0",
-      "title": "PocketOP 1.4.0 (TEST)",
-      "headline": "This is a debug-only test announcement used to check the rich popup layout. It is intentionally long, with several sections and multiple bullets, so we can see how the modal scrolls and wraps on a real device.",
+      "title": "Bad banner test",
+      "headline": "This feature entry points at a broken image URL. The modal must still appear, falling back to the logo hero.",
+      "banner": {
+        "imageURL": "https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/announcement-assets/does-not-exist.png",
+        "alt": "missing"
+      },
       "sections": [
-        {
-          "heading": "What's new",
-          "bullets": [
-            "Live lens preview: switch from the field-of-view outline to a live zoom that shows what each focal length would frame, and the app steps to the sharpest lens on your iPhone automatically.",
-            "The preview stays clean across the full zoom range, so you can judge framing before you commit to a lens.",
-            "This bullet is deliberately verbose to test how a long single line wraps across multiple lines inside the card without pushing the close control off screen or clipping the text at the edges."
-          ]
-        },
-        {
-          "heading": "Improvements",
-          "bullets": [
-            "Screenshot annotations are more detailed, with clearer brackets and a per-lens legend.",
-            "Assorted layout and readability refinements throughout the camera view.",
-            "Faster, smoother transitions when you change lenses."
-          ]
-        },
-        {
-          "heading": "Bug fixes",
-          "bullets": [
-            "Fixed a case where the AUTO pill could linger after a lens change.",
-            "Resolved minor visual glitches during rapid zooming.",
-            "Various stability fixes."
-          ]
-        }
-      ],
-      "expires": null
+        { "heading": "Improvements", "bullets": ["The popup should render without the image."] }
+      ]
+    },
+    {
+      "id": "test-03-warning",
+      "priority": "feature",
+      "type": "warning",
+      "version": "1.4.0",
+      "title": "Warning tone test",
+      "headline": "This entry uses type warning. Expect an amber accent and a leading warning symbol, with the feature layout unchanged.",
+      "sections": [
+        { "heading": "Notes", "bullets": ["Amber accent.", "Layout identical to an info feature."] }
+      ]
+    },
+    {
+      "id": "test-04-critical",
+      "priority": "feature",
+      "type": "critical",
+      "version": "1.4.0",
+      "title": "Critical tone test",
+      "headline": "This entry uses type critical. Expect a red accent and a leading critical symbol, feature layout unchanged.",
+      "sections": [
+        { "heading": "Notes", "bullets": ["Red accent.", "Layout identical to an info feature."] }
+      ]
+    },
+    {
+      "id": "test-05-info",
+      "priority": "feature",
+      "type": "info",
+      "version": "1.4.0",
+      "title": "Zoom mode and Screenshots rework",
+      "headline": "An info feature with a normal eyecatcher header. The header should read as one line combining the version and this title.",
+      "sections": [
+        { "heading": "Improvements", "bullets": ["Neutral brand accent.", "Logo hero on top."] },
+        { "heading": "Bug fixes", "bullets": ["Various."] }
+      ]
+    },
+    {
+      "id": "test-06-unknownpriority",
+      "priority": "spotlight",
+      "type": "info",
+      "version": "1.4.0",
+      "title": "Unknown priority test",
+      "headline": "priority is spotlight, which the app does not recognise. It must still show, using the full feature layout.",
+      "sections": [
+        { "heading": "Notes", "bullets": ["Unknown priority degrades to the feature layout."] }
+      ]
+    },
+    {
+      "id": "test-07-minimal",
+      "priority": "feature",
+      "type": "info",
+      "headline": "This entry omits version, title, banner and sections. Only id, priority, type and headline are present. It must still show without crashing, rendering just what is here."
+    },
+    {
+      "id": "test-08-unknowntype",
+      "priority": "feature",
+      "type": "promo",
+      "version": "1.4.0",
+      "title": "Unknown type test",
+      "headline": "type is promo, which is unrecognised. It must still show, with the neutral fallback accent and the feature layout unchanged."
     }
   ]
 }
