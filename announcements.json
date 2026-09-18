@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "announcement": {
-    "id": "2026-09-update-1-2-1",
-    "message": "PocketOP 1.2.1. This maintenance update keeps your search active when you switch between the Broadcast, Cine and PTZ tabs, and improves how the interface scales across iPhone models. Update to get the latest, with improvements and fixes throughout.",
+    "id": "2026-09-update-1-3-0",
+    "message": "PocketOP 1.3.0 is here. You can now preview any lens live: switch from the field-of-view outline to a live zoom that shows what each focal length would frame and steps to the sharpest lens on your iPhone automatically. Screenshot annotations are now more detailed, with clearer brackets and a per-lens legend. Update to get the latest, with more improvements and fixes throughout.",
     "type": "info"
   }
 }
