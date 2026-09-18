@@ -1,0 +1,42 @@
+{
+  "schema": "1.0",
+  "version": "1.0.0",
+  "announcements": [
+    {
+      "id": "debug-test-long-2026-09-18",
+      "debugOnly": true,
+      "priority": "feature",
+      "type": "info",
+      "version": "1.4.0",
+      "title": "PocketOP 1.4.0 (TEST)",
+      "headline": "This is a debug-only test announcement used to check the rich popup layout. It is intentionally long, with several sections and multiple bullets, so we can see how the modal scrolls and wraps on a real device.",
+      "sections": [
+        {
+          "heading": "What's new",
+          "bullets": [
+            "Live lens preview: switch from the field-of-view outline to a live zoom that shows what each focal length would frame, and the app steps to the sharpest lens on your iPhone automatically.",
+            "The preview stays clean across the full zoom range, so you can judge framing before you commit to a lens.",
+            "This bullet is deliberately verbose to test how a long single line wraps across multiple lines inside the card without pushing the close control off screen or clipping the text at the edges."
+          ]
+        },
+        {
+          "heading": "Improvements",
+          "bullets": [
+            "Screenshot annotations are more detailed, with clearer brackets and a per-lens legend.",
+            "Assorted layout and readability refinements throughout the camera view.",
+            "Faster, smoother transitions when you change lenses."
+          ]
+        },
+        {
+          "heading": "Bug fixes",
+          "bullets": [
+            "Fixed a case where the AUTO pill could linger after a lens change.",
+            "Resolved minor visual glitches during rapid zooming.",
+            "Various stability fixes."
+          ]
+        }
+      ],
+      "expires": null
+    }
+  ]
+}
