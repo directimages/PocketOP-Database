@@ -1,88 +1,16 @@
 {
   "schema": "1.0",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "announcements": [
-    {
-      "id": "test-01-minor",
-      "priority": "minor",
-      "type": "info",
-      "version": "1.4.0",
-      "title": "Minor banner test",
-      "headline": "This is a minor-priority announcement. It should show as a lightweight top banner with a dismiss control, no hero and no sections."
-    },
-    {
-      "id": "test-02-badbanner",
-      "priority": "feature",
-      "type": "info",
-      "version": "1.4.0",
-      "title": "Bad banner test",
-      "headline": "This feature entry points at a broken image URL. The modal must still appear, falling back to the logo hero.",
-      "banner": {
-        "imageURL": "https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/announcement-assets/does-not-exist.png",
-        "alt": "missing"
-      },
-      "sections": [
-        { "heading": "Improvements", "bullets": ["The popup should render without the image."] }
-      ]
-    },
-    {
-      "id": "test-03-warning",
-      "priority": "feature",
-      "type": "warning",
-      "version": "1.4.0",
-      "title": "Warning tone test",
-      "headline": "This entry uses type warning. Expect an amber accent and a leading warning symbol, with the feature layout unchanged.",
-      "sections": [
-        { "heading": "Notes", "bullets": ["Amber accent.", "Layout identical to an info feature."] }
-      ]
-    },
-    {
-      "id": "test-04-critical",
-      "priority": "feature",
-      "type": "critical",
-      "version": "1.4.0",
-      "title": "Critical tone test",
-      "headline": "This entry uses type critical. Expect a red accent and a leading critical symbol, feature layout unchanged.",
-      "sections": [
-        { "heading": "Notes", "bullets": ["Red accent.", "Layout identical to an info feature."] }
-      ]
-    },
-    {
-      "id": "test-05-info",
-      "priority": "feature",
-      "type": "info",
-      "version": "1.4.0",
-      "title": "Zoom mode and Screenshots rework",
-      "headline": "An info feature with a normal eyecatcher header. The header should read as one line combining the version and this title.",
-      "sections": [
-        { "heading": "Improvements", "bullets": ["Neutral brand accent.", "Logo hero on top."] },
-        { "heading": "Bug fixes", "bullets": ["Various."] }
-      ]
-    },
-    {
-      "id": "test-06-unknownpriority",
-      "priority": "spotlight",
-      "type": "info",
-      "version": "1.4.0",
-      "title": "Unknown priority test",
-      "headline": "priority is spotlight, which the app does not recognise. It must still show, using the full feature layout.",
-      "sections": [
-        { "heading": "Notes", "bullets": ["Unknown priority degrades to the feature layout."] }
-      ]
-    },
-    {
-      "id": "test-07-minimal",
-      "priority": "feature",
-      "type": "info",
-      "headline": "This entry omits version, title, banner and sections. Only id, priority, type and headline are present. It must still show without crashing, rendering just what is here."
-    },
-    {
-      "id": "test-08-unknowntype",
-      "priority": "feature",
-      "type": "promo",
-      "version": "1.4.0",
-      "title": "Unknown type test",
-      "headline": "type is promo, which is unrecognised. It must still show, with the neutral fallback accent and the feature layout unchanged."
-    }
+    { "id": "hdr-01-minor-feature", "priority": "feature", "type": "info", "version": "1.4.0", "title": "Zoom mode and Screenshots rework", "headline": "A minor-version feature modal. The header should read \"Update 1.4.0 - Zoom mode and Screenshots rework\".", "sections": [ { "heading": "Improvements", "bullets": ["Neutral accent.", "Logo hero on top."] } ] },
+    { "id": "hdr-02-major", "priority": "feature", "type": "info", "version": "2.0.0", "title": "The big rebuild", "headline": "A major-version feature modal. The header should read \"Introducing version 2.0.0 - The big rebuild\".", "sections": [ { "heading": "Notes", "bullets": ["Major prefix test."] } ] },
+    { "id": "hdr-03-patch-with-title", "priority": "feature", "type": "info", "version": "1.4.1", "title": "This title must not appear", "headline": "A patch-version feature modal WITH a title. The header must read exactly \"1.4.1 Patch notes\"; the title must not be appended.", "sections": [ { "heading": "Notes", "bullets": ["Patch form drops the theme even when a title is present."] } ] },
+    { "id": "hdr-04-noversion-title", "priority": "feature", "type": "info", "title": "Header with no version", "headline": "A feature modal with a title but no version. The header should show just \"Header with no version\", no prefix and no dangling separator.", "sections": [ { "heading": "Notes", "bullets": ["No version -> title as-is."] } ] },
+    { "id": "hdr-05-notitle-minor", "priority": "feature", "type": "info", "version": "1.4.0", "headline": "A minor-version feature modal with no title. The header should read \"Update 1.4.0\" with no trailing separator.", "sections": [ { "heading": "Notes", "bullets": ["Prefix alone, no title."] } ] },
+    { "id": "hdr-06-malformed", "priority": "feature", "type": "info", "version": "1.4", "title": "Malformed version", "headline": "A feature modal whose version is not three numeric parts. The header should show the version and title joined as-is with no derived prefix, and must not crash.", "sections": [ { "heading": "Notes", "bullets": ["Unparseable version degrades to a plain join."] } ] },
+    { "id": "hdr-07-neither", "priority": "feature", "type": "info", "headline": "A feature modal with neither version nor title. There should be no header line at all; the logo carries the brand. Must not crash.", "sections": [ { "heading": "Notes", "bullets": ["No header line; logo only."] } ] },
+    { "id": "reg-01-minor-banner", "priority": "minor", "type": "info", "version": "1.4.0", "title": "Minor banner", "headline": "A minor-priority announcement. It should show as a lightweight top banner with a dismiss control, no hero and no sections." },
+    { "id": "reg-02-warning", "priority": "feature", "type": "warning", "version": "1.4.0", "title": "Warning tone", "headline": "A feature entry with type warning. Expect an amber accent, feature layout unchanged.", "sections": [ { "heading": "Notes", "bullets": ["Amber accent."] } ] },
+    { "id": "reg-03-critical", "priority": "feature", "type": "critical", "version": "1.4.0", "title": "Critical tone", "headline": "A feature entry with type critical. Expect a red accent, feature layout unchanged.", "sections": [ { "heading": "Notes", "bullets": ["Red accent."] } ] }
   ]
 }
