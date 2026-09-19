@@ -1,8 +1,8 @@
 {
   "schema": "1.0",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "announcements": [
-    { "id": "hdr-01-minor-feature", "priority": "feature", "type": "info", "version": "1.4.0", "title": "Zoom mode and Screenshots rework", "headline": "A minor-version feature modal. The header should read \"Update 1.4.0 - Zoom mode and Screenshots rework\".", "sections": [ { "heading": "Improvements", "bullets": ["Neutral accent.", "Logo hero on top."] } ] },
+    { "id": "hdr-01-minor-feature", "priority": "feature", "type": "info", "version": "1.4.0", "title": "Zoom mode and Screenshots rework", "headline": "A minor-version feature modal. The header should read \"Update 1.4.0 - Zoom mode and Screenshots rework\".", "banner": { "imageURL": "https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/announcement-assets/test-hero.png", "alt": "1.4.0 Virtual Scout" }, "sections": [ { "heading": "Improvements", "bullets": ["Neutral accent.", "Logo hero on top."] } ] },
     { "id": "hdr-02-major", "priority": "feature", "type": "info", "version": "2.0.0", "title": "The big rebuild", "headline": "A major-version feature modal. The header should read \"Introducing version 2.0.0 - The big rebuild\".", "sections": [ { "heading": "Notes", "bullets": ["Major prefix test."] } ] },
     { "id": "hdr-03-patch-with-title", "priority": "feature", "type": "info", "version": "1.4.1", "title": "This title must not appear", "headline": "A patch-version feature modal WITH a title. The header must read exactly \"1.4.1 Patch notes\"; the title must not be appended.", "sections": [ { "heading": "Notes", "bullets": ["Patch form drops the theme even when a title is present."] } ] },
     { "id": "hdr-04-noversion-title", "priority": "feature", "type": "info", "title": "Header with no version", "headline": "A feature modal with a title but no version. The header should show just \"Header with no version\", no prefix and no dangling separator.", "sections": [ { "heading": "Notes", "bullets": ["No version -> title as-is."] } ] },
