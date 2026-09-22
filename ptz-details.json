@@ -1,7 +1,430 @@
 {
-  "version": "1.28.1",
-  "updatedAt": "2026-09-17",
+  "version": "1.29.0",
+  "updatedAt": "2026-09-22",
   "cameras": [
+    {
+      "id": "aida-ptz-ndi-x12",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x12/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi-x18",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x18/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi-x20",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x20",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi3-x20",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1400,
+      "widthMm": 196.85,
+      "heightMm": 190,
+      "depthMm": 176.5,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi3-x20",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-x12-ip",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-x12-ip/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-x20-ip",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz-x20-ip/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k-ndi-x12",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 2100,
+      "widthMm": 197,
+      "heightMm": 197,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz4k-ndi-x12",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k-ndi-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 2100,
+      "widthMm": 197,
+      "heightMm": 197,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz4k-ndi-x30",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k12g-fndi-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 4590,
+      "widthMm": 266.7,
+      "heightMm": 228,
+      "depthMm": 305,
+      "mountThreads": "2x 1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz4k12g-fndi-x30",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4kwp-ndi3-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "controlProtocols": [
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [],
+      "poeClass": "PoE++",
+      "presetCount": 128,
+      "panRangeDeg": 330,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 51,
+      "maxTiltSpeedDegS": 25,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 4880,
+      "widthMm": 250,
+      "heightMm": 130,
+      "depthMm": 305,
+      "mountThreads": "4x 6.6mm holes on base",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://aidaimaging.com/ptz4kwp-ndi3-x30",
+        "https://aidaimaging.com/"
+      ]
+    },
     {
       "id": "aver-dl30",
       "manufacturerUrl": "https://www.averusa.com/products/ptz-camera/",
