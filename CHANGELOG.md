@@ -2,6 +2,20 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## ptz_cameras.json
+### v1.18.0 - 2026-09-22
+
+- New brand: AIDA (source/ptz-cameras/ptz_cameras_aida.json, paired with source/ptz-details/ptz_details_aida.json). 10 new born-complete PTZ core entries: PTZ-X12-IP, PTZ-NDI-X12, PTZ-NDI-X18, PTZ-X20-IP, PTZ-NDI-X20, PTZ-NDI3-X20, PTZ4K-NDI-X12, PTZ4K-NDI-X30, PTZ4K12G-FNDI-X30, PTZ4KWP-NDI3-X30. Sheet-authoritative per Justin McMichael/AIDA (Path A, Martijn 2026-09-22); AIDA confirmed the public catalog and site will be corrected to match the sheet on the contested fields (HD-HFOV, sensor labels, aperture, focal on 5-6 models)
+- PTZ core count 273 -> 283
+- Released as db-v32
+
+## ptz-details.json
+### v1.29.0 - 2026-09-22
+
+- Sidecars for the 10 new AIDA core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_aida.json. WebRTC deliberately left out of streamingProtocols on all 10 entries per the staging brief, even though the enum already carries WebRTC (PR #33, already live on Telycam Vision+): AIDA's catalog lists it but the supplied staging data is authoritative as given (POS-D23); flagged for a possible immediate WebRTC backfill in a follow-up pass instead of waiting on a future enum widen
+- Entry count 273 -> 283
+- Released as db-v32
+
 ## cine_lens_details.json
 ### v1.55.1 — 2026-09-17
 

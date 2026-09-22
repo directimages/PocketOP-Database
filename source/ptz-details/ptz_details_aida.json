@@ -1,0 +1,611 @@
+{
+  "cameras": [
+    {
+      "id": "aida-ptz-x12-ip",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-x12-ip/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2019,
+      "description": "AIDA Imaging's entry-level Full HD PTZ, made to give a single operator broadcast-style pan, tilt and zoom coverage in houses of worship, huddle rooms and small productions. Simultaneous baseband and IP output lets it sit in both traditional switcher setups and streaming workflows.",
+      "sources": [
+        "https://aidaimaging.com/ptz-x12-ip/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi-x12",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-ndi-x12/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 2.8,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2020,
+      "description": "The NDI-equipped version of AIDA's compact Full HD PTZ, adding NDI|HX streaming to the same optics and body. It targets houses of worship and live productions that run on an IP backbone while still needing SDI and HDMI on hand.",
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x12/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi-x18",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-ndi-x18/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "HDMI"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2022,
+      "description": "Positioned as AIDA's everyday broadcast PTZ, the NDI-X18 aims to deliver professional pan-tilt-zoom performance without a premium price. With Full HD imaging, longer optical reach and NDI|HX streaming over a single PoE cable, it suits new systems and expanding live-production setups. Offered in black and white.",
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x18/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-x20-ip",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-x20-ip/",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2019,
+      "description": "One of AIDA's original IP PTZ cameras, the X20-IP is a dependable Full HD workhorse with generous optical reach for broadcast, worship and conference use. It combines SDI, HDMI, USB and IP output for flexibility across established and modern infrastructures.",
+      "sources": [
+        "https://aidaimaging.com/ptz-x20-ip/",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi-x20",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-ndi-x20",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1350,
+      "widthMm": 155,
+      "heightMm": 160,
+      "depthMm": 170,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2020,
+      "description": "Billed as AIDA's production-standard entry PTZ, the NDI-X20 gives teams an affordable route into professional Full HD with the connectivity AIDA is known for. NDI|HX streaming sits alongside SDI, HDMI and USB, at home in both traditional and IP-based workflows. One of AIDA's most widely deployed cameras.",
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi-x20",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz-ndi3-x20",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz-ndi3-x20",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "A.I. facial auto-tracking; shares the same SoC chipset as AIDA's other tracking models.",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 1400,
+      "widthMm": 196.85,
+      "heightMm": 190,
+      "depthMm": 176.5,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2023,
+      "description": "AIDA's replay-ready Full HD PTZ, built around next-generation NDI|HX3 and high-frame-rate capture up to 1080p120 for slow-motion and fast-action live production, with full audio embedding. It brings capabilities usually reserved for specialist cameras into a versatile PTZ. Offered in black and white.",
+      "sources": [
+        "https://aidaimaging.com/ptz-ndi3-x20",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k-ndi-x12",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz4k-ndi-x12",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.8,
+      "maxApertureTele": 3.6,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "A.I. facial-target auto-tracking; follows a subject on stage without additional equipment.",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 2100,
+      "widthMm": 197,
+      "heightMm": 197,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2023,
+      "description": "An affordable 4K PTZ from AIDA, pairing UHD imaging with a wide-to-tele zoom and NDI|HX streaming over HDMI, USB or IP. It features A.I. facial auto-tracking that follows talent on stage without extra hardware, aimed at worship, education and budget-conscious 4K productions.",
+      "sources": [
+        "https://aidaimaging.com/ptz4k-ndi-x12",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k-ndi-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz4k-ndi-x30",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB"
+      ],
+      "poeClass": "PoE+",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "A.I. facial-target auto-tracking; follows talent and adjusts framing automatically.",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 120,
+      "maxTiltSpeedDegS": 80,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 2100,
+      "widthMm": 197,
+      "heightMm": 197,
+      "depthMm": 186,
+      "mountThreads": "1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2022,
+      "description": "AIDA's 4K powerhouse PTZ, built around a larger Sony sensor and long 4K optical reach to deliver premium-camera image quality at a sensible price. Auto-tracking, NDI|HX, SDI and IP streaming make it a flexible multi-camera option for productions that want more angles for the budget. Offered in black and white.",
+      "sources": [
+        "https://aidaimaging.com/ptz4k-ndi-x30",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4k12g-fndi-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz4k12g-fndi-x30",
+      "controlProtocols": [
+        "VISCA RS-232",
+        "VISCA IP",
+        "ONVIF",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI",
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "videoOutputs": [
+        "12G-SDI",
+        "3G-SDI",
+        "HDMI",
+        "USB-C",
+        "Fiber"
+      ],
+      "poeClass": "PoE++",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "ai",
+      "autoTrackingNote": "A.I. facial-target auto-tracking; maintains framing and zoom on a moving subject.",
+      "presetCount": 128,
+      "panRangeDeg": 340,
+      "tiltRangeDeg": 120,
+      "maxPanSpeedDegS": 80,
+      "maxTiltSpeedDegS": 60,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 4590,
+      "widthMm": 266.7,
+      "heightMm": 228,
+      "depthMm": 305,
+      "mountThreads": "2x 1/4\"-20",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2024,
+      "description": "AIDA's flagship no-compromise PTZ, combining a 4K optical zoom module with 12G-SDI, full-bandwidth NDI, SFP+, genlock, FreeD and SD recording in one body. It targets professional broadcast and virtual-production environments that need broadcast-grade connectivity without a flagship price. Offered in black and white.",
+      "sources": [
+        "https://aidaimaging.com/ptz4k12g-fndi-x30",
+        "https://aidaimaging.com/"
+      ]
+    },
+    {
+      "id": "aida-ptz4kwp-ndi3-x30",
+      "manufacturerUrl": "https://aidaimaging.com/",
+      "productUrl": "https://aidaimaging.com/ptz4kwp-ndi3-x30",
+      "controlProtocols": [
+        "VISCA IP",
+        "CGI"
+      ],
+      "streamingProtocols": [
+        "NDI|HX3",
+        "NDI|HX2",
+        "SRT",
+        "RTSP",
+        "RTMP"
+      ],
+      "trackingDataOut": [],
+      "videoOutputs": [],
+      "poeClass": "PoE++",
+      "maxApertureWide": 1.5,
+      "maxApertureTele": 3.0,
+      "apertureType": "f",
+      "hasIS": false,
+      "hasND": false,
+      "ndDetail": null,
+      "autoTracking": "none",
+      "autoTrackingNote": null,
+      "presetCount": 128,
+      "panRangeDeg": 330,
+      "tiltRangeDeg": 110,
+      "maxPanSpeedDegS": 51,
+      "maxTiltSpeedDegS": 25,
+      "hasIR": false,
+      "whiteBalanceModes": [
+        "Auto",
+        "Manual",
+        "ATW",
+        "Push",
+        "Indoor",
+        "Outdoor",
+        "Temperature"
+      ],
+      "minLux": 0.1,
+      "weightG": 4880,
+      "widthMm": 250,
+      "heightMm": 130,
+      "depthMm": 305,
+      "mountThreads": "4x 6.6mm holes on base",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "introductionYear": 2026,
+      "description": "AIDA's first weatherproof PTZ, built to deliver reliable 4K performance outdoors in an IP66-rated housing with integrated heating and cooling. With NDI|HX, SRT, RTMP and RTSP over IP plus a built-in white LED and switchable IR-cut filter, it is aimed at long-range and outdoor live capture.",
+      "sources": [
+        "https://aidaimaging.com/ptz4kwp-ndi3-x30",
+        "https://aidaimaging.com/"
+      ]
+    }
+  ]
+}
