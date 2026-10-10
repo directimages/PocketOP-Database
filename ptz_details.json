@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "updatedAt": "2026-09-22",
+  "version": "1.29.1",
+  "updatedAt": "2026-10-10",
   "cameras": [
     {
       "id": "aida-ptz-ndi-x12",
@@ -15204,7 +15204,8 @@
         "NDI|HX3",
         "SRT",
         "RTSP",
-        "RTMP"
+        "RTMP",
+        "WebRTC"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -15272,7 +15273,8 @@
         "RTSP",
         "RTMP",
         "RTMPS",
-        "MPEG-TS"
+        "MPEG-TS",
+        "WebRTC"
       ],
       "trackingDataOut": [
         "FreeD"
@@ -15340,7 +15342,8 @@
         "RTSP",
         "RTMP",
         "RTMPS",
-        "MPEG-TS"
+        "MPEG-TS",
+        "WebRTC"
       ],
       "trackingDataOut": [
         "FreeD"
