@@ -2,6 +2,34 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## broadcast_lenses.json
+### v1.33.0 - 2026-10-10
+
+- 19 new Fujinon A-series SD-era core entries in source/broadcast-lenses/broadcast_lens_fujinon.json (2/3-inch, B4, generation SD, discontinued): 10 portable (A10x4.8EVM, A13x4.5, A17x7.8, A18x7.6, A22x7.8, A23x7.6, A36x10.5BERD, A36x14.5BERD, A42x9.7BERD, A42x13.5BERD), 5 professional (A13x6.3BRM, A13x6.3BERM, A17x9BRM, A20x8.6BRM, A20x8.6BERM) and 4 studio/field box lenses (Ah20x8BESM, Ah24x7BESM, Ah50x9.5BESM, Ah60x9.5BESM). Values as supplied in the staging file. addedDate 2026-10-10
+- Entry count 124 -> 143
+- Released as new db tag
+
+## broadcast_lens_details.json
+### v1.54.0 - 2026-10-10
+
+- Born-complete detail sidecars for the 19 new Fujinon A-series entries above, in source/broadcast-details/broadcast_details_fujinon.json, values as supplied in the staging file. hasMacro null on Ah20x8BESM and Ah50x9.5BESM and introductionYear null on several entries (not published)
+- Entry count 124 -> 143, matches broadcast_lenses.json id-set exactly
+- Released as new db tag
+
+## lenses.json
+### v1.39.0 - 2026-10-10
+
+- Legacy union rebuild carrying the 19 new Fujinon A-series core entries above (broadcast_lenses.json split bumped to v1.33.0, same 19 additions). Cine unchanged at 624
+- Entry count: broadcast 124 -> 143, lenses union 748 -> 767
+- Released as new db tag
+
+## lens-details.json
+### v1.59.0 - 2026-10-10
+
+- Legacy union rebuild carrying the 19 new Fujinon A-series detail entries above (same ids as the lenses.json additions)
+- Entry count 748 -> 767
+- Released as new db tag
+
 ## lenses.json
 ### v1.38.0 - 2026-10-10
 
