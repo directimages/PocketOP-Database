@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
+  "version": "1.38.0",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -5327,6 +5327,42 @@
       "isCustom": false,
       "notes": "DZOFilm Arles Prime, full frame/VV (46.5mm image circle). T1.4. PL primary, EF available as kit. Source: dzofilm.com, bhphotovideo.com.",
       "addedDate": null
+    },
+    {
+      "id": "dzofilm-arles-zoom-25-75mm-t2-6-pl",
+      "manufacturer": "DZOFilm",
+      "model": "Arles Zoom 25-75mm T2.6",
+      "series": "Arles Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 25.0,
+      "focalLengthMax": 75.0,
+      "zoomRatio": 3.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "DZOFilm Arles Zoom, full frame (43.5mm image circle = fullFrame per POS-D28). Constant T2.6, parfocal, prime-matched to the Arles Prime set. PL native, user-swappable EF mount kit (EF not imported, POS-D68). zoomRatio from focal lengths (75.0/25.0, published 3X), POS-D02. Source: dzofilm.com product page. Staged 2026-10-10 (Arles/Fujinon-A spoor).",
+      "addedDate": "2026-10-10"
+    },
+    {
+      "id": "dzofilm-arles-zoom-65-180mm-t2-6-pl",
+      "manufacturer": "DZOFilm",
+      "model": "Arles Zoom 65-180mm T2.6",
+      "series": "Arles Zoom",
+      "generation": "Cinema",
+      "focalLengthMin": 65.0,
+      "focalLengthMax": 180.0,
+      "zoomRatio": 2.77,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "DZOFilm Arles Zoom, full frame (43.5mm image circle = fullFrame per POS-D28). Constant T2.6, parfocal, prime-matched to the Arles Prime set. PL native, user-swappable EF mount kit (EF not imported, POS-D68). zoomRatio from focal lengths (180.0/65.0 = 2.769, published 2.8X), POS-D02. Source: dzofilm.com product page. Staged 2026-10-10 (Arles/Fujinon-A spoor).",
+      "addedDate": "2026-10-10"
     },
     {
       "id": "dzofilm-catta-ace-18-35mm-t2-9",
@@ -13429,5 +13465,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-09-06"
+  "updatedAt": "2026-10-10"
 }
