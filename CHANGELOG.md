@@ -3,6 +3,35 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## broadcast_lenses.json
+### v1.34.0 - 2026-10-10
+
+- 33 new Canon SD-era core entries in source/broadcast-lenses/broadcast_lens_canon.json (2/3-inch, B4, generation SD, discontinued): 13 portable J series (J9ax5.2B IRS, J9ax5.2B KRS, J11ax4.5B, J11ex4.5B, J13ax9B KRS-V, J14ax17B KRS-V, J16ax8B, J17ax7.7B, J17ex7.7B, J21ax7.8B, J22ex7.6B, J33ax11B, J33ax15B), 10 pro-video YJ series (YJ12x6.5B, YJ13x6B, YJ18x9B, YJ19x9B, YJ20x8.5B, each in KRS and IRS) and 10 studio/field box lenses PJ series (PJ20x7.5B, PJ21x7B, PJ20x8B, PJ47x9.5B, PJ55x9B, PJ55x13.5B, PJ62x9B, PJ62x13.5B, PJ70x9.5B, PJ70x13.5B). Values as supplied in the staging file. addedDate 2026-10-10
+- Entry count 143 -> 176
+- Released as new db tag (db-v36)
+
+## broadcast_lens_details.json
+### v1.55.0 - 2026-10-10
+
+- Born-complete detail sidecars for the 33 new Canon SD-era entries above, in source/broadcast-details/broadcast_details_canon.json, values as supplied in the staging file (isParfocal and hasFocusBreathing keys not carried, matching the existing broadcast detail shards). Several fields null or "unknown" where not published (hasMacro, hasServoZoom, hasServoFocus, introductionYear, maxApertureTele on YJ18x9B KRS and IRS, filterThreadMm on the box lenses)
+- Correction on canon-j35ex11b: filterThreadMm 105 -> 125 (Canon catalog filter table lists 125 mm P1 for the J35ex11B); the Canon catalog PDF added to its sources and webSources. No other existing entry changed
+- Entry count 143 -> 176, matches broadcast_lenses.json id-set exactly
+- Released as new db tag (db-v36)
+
+## lenses.json
+### v1.40.0 - 2026-10-10
+
+- Legacy union rebuild carrying the 33 new Canon SD-era core entries above (broadcast_lenses.json split bumped to v1.34.0, same 33 additions). Cine unchanged at 624
+- Entry count: broadcast 143 -> 176, lenses union 767 -> 800
+- Released as new db tag (db-v36)
+
+## lens-details.json
+### v1.60.0 - 2026-10-10
+
+- Legacy union rebuild carrying the 33 new Canon SD-era detail entries above (same ids as the lenses.json additions) and the canon-j35ex11b filterThreadMm correction (105 -> 125)
+- Entry count 767 -> 800
+- Released as new db tag (db-v36)
+
+## broadcast_lenses.json
 ### v1.33.0 - 2026-10-10
 
 - 19 new Fujinon A-series SD-era core entries in source/broadcast-lenses/broadcast_lens_fujinon.json (2/3-inch, B4, generation SD, discontinued): 10 portable (A10x4.8EVM, A13x4.5, A17x7.8, A18x7.6, A22x7.8, A23x7.6, A36x10.5BERD, A36x14.5BERD, A42x9.7BERD, A42x13.5BERD), 5 professional (A13x6.3BRM, A13x6.3BERM, A17x9BRM, A20x8.6BRM, A20x8.6BERM) and 4 studio/field box lenses (Ah20x8BESM, Ah24x7BESM, Ah50x9.5BESM, Ah60x9.5BESM). Values as supplied in the staging file. addedDate 2026-10-10
