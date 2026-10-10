@@ -2,6 +2,13 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## ptz-details.json
+### v1.29.1 - 2026-10-10
+
+- WebRTC backfill: added WebRTC to streamingProtocols on three Telycam Explore entries (telycam-explore-100, telycam-explore-300, telycam-explore-500), verified against the Telycam product page protocol table (tier 1). Applied via build/apply_fields.py, zero orphans. No other field or entry changed
+- Entry count unchanged, 283
+- Released as new db tag
+
 ## ptz_cameras.json
 ### v1.18.0 - 2026-09-22
 
