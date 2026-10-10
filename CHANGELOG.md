@@ -2,6 +2,26 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## lenses.json
+### v1.38.0 - 2026-10-10
+
+- 2 new DZOFilm Arles Zoom cine core entries in source/cine-lenses/pl/cine_lens_pl_dzofilm.json: dzofilm-arles-zoom-25-75mm-t2-6-pl and dzofilm-arles-zoom-65-180mm-t2-6-pl (PL, fullFrame, image circle 43.5mm per POS-D28). Complement the 11 Arles primes already live. EF kit variant not imported (POS-D68). addedDate 2026-10-10. cine_lenses.json split bumped to v1.35.0 (same 2 additions). Entry count: cine 622 -> 624, lenses union 746 -> 748
+- Released as new db tag
+
+## cine_lens_details.json
+### v1.56.0 - 2026-10-10
+
+- Born-complete detail sidecars for the 2 new DZOFilm Arles Zoom entries above, in source/cine-details/pl/cine_details_pl_dzofilm.json, values as supplied in the staging file. hasFrontRotation null on both (not published)
+- Entry count 622 -> 624, matches cine_lenses.json id-set exactly
+- Released as new db tag
+
+## lens-details.json
+### v1.58.0 - 2026-10-10
+
+- Legacy union rebuild carrying the 2 new DZOFilm Arles Zoom detail entries above (same ids as the lenses.json additions)
+- Entry count 746 -> 748
+- Released as new db tag
+
 ## ptz-details.json
 ### v1.29.1 - 2026-10-10
 
