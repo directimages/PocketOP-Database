@@ -372,7 +372,7 @@
       "maxApertureTele": 2.2,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
+      "productUrl": null
     },
     {
       "id": "fujinon-ha42x13-5",
@@ -1346,7 +1346,7 @@
       "maxApertureTele": 2.4,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
+      "productUrl": null
     },
     {
       "id": "fujinon-xa55x9-5",
@@ -1377,7 +1377,7 @@
       "maxApertureTele": 2.9,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/hd"
     },
     {
       "id": "fujinon-xa66x9-3",
@@ -1470,7 +1470,7 @@
       "maxApertureTele": 3.8,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/hd"
     },
     {
       "id": "fujinon-xa87x9-3",
@@ -1566,7 +1566,7 @@
       "maxApertureTele": 4.15,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/studio-field-lenses"
+      "productUrl": null
     },
     {
       "id": "fujinon-za12x4-5",

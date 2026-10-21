@@ -2,6 +2,28 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## broadcast_lens_details.json
+### v1.55.1 - 2026-10-21
+
+- Dead-link productUrl fixes from the 2026-W43 link check, applied via build/apply_fields.py (zero orphans, 6 entries written across this file and ptz_details.json): fujinon-xa55x9-5 and fujinon-xa77x9-5 repointed to the Fujifilm HD studio/field lens page (Fujifilm moved that page and now lists only the XA55x9.5BESM and XA77x9.5BESM there); fujinon-xa22x7, fujinon-ha27x6-5 and fujinon-xa99x8-4 set to null (XA22x7BES, HA27x6.5BESM and XA99x8.4BESM are no longer on any English Fujifilm page). No other field changed
+- Entry count unchanged, 176
+- lens-details.json unchanged (productUrl is not in the legacy union whitelist)
+- Released as new db tag (db-v37)
+
+## ptz_details.json
+### v1.29.2 - 2026-10-21
+
+- Dead-link productUrl fix from the 2026-W43 link check, applied via build/apply_fields.py: marshall-cv612ht-4k repointed to the Marshall discontinued-products page (Marshall moved the CV612HT-4K there; full specs retained). No other field changed
+- Entry count unchanged, 283
+- Released as new db tag (db-v37)
+
+## ptz-details.json
+### v1.29.2 - 2026-10-21
+
+- Legacy hyphen alias of ptz_details.json (shared meta), carrying the same Marshall CV612HT-4K productUrl fix above
+- Entry count unchanged, 283
+- Released as new db tag (db-v37)
+
 ## broadcast_lenses.json
 ### v1.34.0 - 2026-10-10
 
