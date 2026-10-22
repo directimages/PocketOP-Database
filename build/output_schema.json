@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://pocketop.app/schema/output_schema.json",
   "title": "PocketOP-Database assembled output registry",
-  "description": "The authoritative field registry for the assembled published outputs. This file IS the registry: a field counts as added to an output kind only once it is listed under that kind's $def here. Every entry in an assembled output is validated against the $def for its kind. Each $def is closed at the entry top level (additionalProperties false), so any field not registered here is rejected. Every field is optional: nothing is marked required, so a historical entry that omits a field still validates. The two open objects (the cine sources object, and the fieldNotes objects) permit free string-valued keys internally; closedness applies only to the entry top level. Legacy union outputs (lenses.json, lens-details.json) and the ptz-details.json hyphen alias are out of scope and are not validated here. No em dashes appear in this file by project policy.",
+  "description": "The authoritative field registry for the assembled published outputs. This file IS the registry: a field counts as added to an output kind only once it is listed under that kind's $def here. Every entry in an assembled output is validated against the $def for its kind. Each $def is closed at the entry top level (additionalProperties false), so any field not registered here is rejected, with one deliberate exception: the device $def (devices.json) is open, so only the fields it lists are checked and every other device field passes unchecked. Every field is optional: nothing is marked required, so a historical entry that omits a field still validates. The two open objects (the cine sources object, and the fieldNotes objects) permit free string-valued keys internally; closedness applies only to the entry top level. Legacy union outputs (lenses.json, lens-details.json) and the ptz-details.json hyphen alias are out of scope and are not validated here. No em dashes appear in this file by project policy.",
 
   "$defs": {
 
@@ -179,6 +179,14 @@
         "trackingDataOut": { "anyOf": [{ "type": "array", "items": { "enum": ["FreeD", "OpenTrackIO"] } }, { "type": "null" }] },
         "description": { "type": ["string", "null"] },
         "fieldNotes": { "type": "object", "additionalProperties": { "type": "string" } }
+      }
+    },
+
+    "device": {
+      "description": "DEVICE (devices.json). Deliberately open at the entry top level (no additionalProperties false): only the fields listed here are checked, every other device field passes unchecked. virtualPathAllowed is an optional per model switch for the app's virtual camera path; when present it must be a boolean, and any other value, null included, is rejected by the build.",
+      "type": "object",
+      "properties": {
+        "virtualPathAllowed": { "type": "boolean" }
       }
     }
 
