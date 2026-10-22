@@ -1,21 +1,28 @@
 name: Build Batches Tests
 
-# Runs tests/test_build_batches.py on macOS and Windows so cross-file shard
-# pooling in build/build_batches.py is verified on both platforms this
-# script is used on, not just the platform CI happens to run on by default.
-# All tests operate on synthetic fixtures under a temporary directory; none
-# of them touch the real vault import pipeline or any real staging data.
+# Runs the whole unit test suite under tests/ on macOS and Windows, so the
+# build tooling is verified on both platforms it is used on, not just the
+# platform CI happens to run on by default. This covers cross-file shard
+# pooling in build/build_batches.py and the schema gate in build/assemble.py
+# (including the devices.json checks against build/output_schema.json),
+# among the other test files in tests/. All tests operate on synthetic
+# fixtures under a temporary directory; none of them touch the real vault
+# import pipeline, any real staging data, or the real source shards.
 # This file contains no em dashes by project policy.
 
 on:
   push:
     paths:
       - 'build/build_batches.py'
+      - 'build/assemble.py'
+      - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
   pull_request:
     paths:
       - 'build/build_batches.py'
+      - 'build/assemble.py'
+      - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
 
@@ -41,5 +48,5 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Run build_batches.py tests
+      - name: Run unit tests
         run: python -m unittest discover -s tests -v

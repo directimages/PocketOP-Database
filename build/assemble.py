@@ -371,6 +371,10 @@ def build_outputs(pools):
 # details files dispatch per entry on lensType to the matching variant. Legacy
 # union outputs (lenses.json, lens-details.json) and the ptz-details.json hyphen
 # alias are out of scope and are not listed here, so they are not validated.
+# devices.json validates against the device $def, which is deliberately open:
+# only the device fields registered there are checked (today virtualPathAllowed,
+# which must be a boolean when present); every other device field passes
+# unchecked, as before devices.json entered the gate.
 OUTPUT_VALIDATION = {
     "broadcast_lenses.json":       {"def": "lens_core"},
     "cine_lenses.json":            {"def": "lens_core"},
@@ -382,6 +386,7 @@ OUTPUT_VALIDATION = {
                                                  "cine": "lens_details_cine"}},
     "ptz_cameras.json":            {"def": "ptz_core"},
     "ptz_details.json":            {"def": "ptz_details"},
+    "devices.json":                {"def": "device"},
 }
 
 
