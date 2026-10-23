@@ -1,16 +1,5 @@
 {
   "schema": "1.0",
-  "version": "1.3.0",
-  "announcements": [
-    { "id": "hdr-01-minor-feature", "priority": "feature", "type": "info", "version": "1.4.0", "title": "Zoom mode and Screenshots rework", "headline": "A minor-version feature modal. The header should read \"Update 1.4.0 - Zoom mode and Screenshots rework\".", "banner": { "imageURL": "https://cdn.jsdelivr.net/gh/directimages/PocketOP-Database@main/announcement-assets/test-hero.png", "alt": "1.4.0 Virtual Scout" }, "sections": [ { "heading": "Improvements", "bullets": ["Neutral accent.", "Logo hero on top."] } ] },
-    { "id": "hdr-02-major", "priority": "feature", "type": "info", "version": "2.0.0", "title": "The big rebuild", "headline": "A major-version feature modal. The header should read \"Introducing version 2.0.0 - The big rebuild\".", "sections": [ { "heading": "Notes", "bullets": ["Major prefix test."] } ] },
-    { "id": "hdr-03-patch-with-title", "priority": "feature", "type": "info", "version": "1.4.1", "title": "This title must not appear", "headline": "A patch-version feature modal WITH a title. The header must read exactly \"1.4.1 Patch notes\"; the title must not be appended.", "sections": [ { "heading": "Notes", "bullets": ["Patch form drops the theme even when a title is present."] } ] },
-    { "id": "hdr-04-noversion-title", "priority": "feature", "type": "info", "title": "Header with no version", "headline": "A feature modal with a title but no version. The header should show just \"Header with no version\", no prefix and no dangling separator.", "sections": [ { "heading": "Notes", "bullets": ["No version -> title as-is."] } ] },
-    { "id": "hdr-05-notitle-minor", "priority": "feature", "type": "info", "version": "1.4.0", "headline": "A minor-version feature modal with no title. The header should read \"Update 1.4.0\" with no trailing separator.", "sections": [ { "heading": "Notes", "bullets": ["Prefix alone, no title."] } ] },
-    { "id": "hdr-06-malformed", "priority": "feature", "type": "info", "version": "1.4", "title": "Malformed version", "headline": "A feature modal whose version is not three numeric parts. The header should show the version and title joined as-is with no derived prefix, and must not crash.", "sections": [ { "heading": "Notes", "bullets": ["Unparseable version degrades to a plain join."] } ] },
-    { "id": "hdr-07-neither", "priority": "feature", "type": "info", "headline": "A feature modal with neither version nor title. There should be no header line at all; the logo carries the brand. Must not crash.", "sections": [ { "heading": "Notes", "bullets": ["No header line; logo only."] } ] },
-    { "id": "reg-01-minor-banner", "priority": "minor", "type": "info", "version": "1.4.0", "title": "Minor banner", "headline": "A minor-priority announcement. It should show as a lightweight top banner with a dismiss control, no hero and no sections." },
-    { "id": "reg-02-warning", "priority": "feature", "type": "warning", "version": "1.4.0", "title": "Warning tone", "headline": "A feature entry with type warning. Expect an amber accent, feature layout unchanged.", "sections": [ { "heading": "Notes", "bullets": ["Amber accent."] } ] },
-    { "id": "reg-03-critical", "priority": "feature", "type": "critical", "version": "1.4.0", "title": "Critical tone", "headline": "A feature entry with type critical. Expect a red accent, feature layout unchanged.", "sections": [ { "heading": "Notes", "bullets": ["Red accent."] } ] }
-  ]
+  "version": "1.4.0",
+  "announcements": []
 }
