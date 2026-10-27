@@ -1,0 +1,284 @@
+{
+  "cameras": [
+    {
+      "id": "zcam-p2-r1-18x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "productUrl": "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3350,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 195.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/",
+        "https://www.newsshooter.com/2024/09/15/z-cam-p2-r1-ptz-camera-first-look-ibc-2024/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "AI Auto Framing tracks the subject in real time to keep the shot framed, with hand gestures to lock tracking or switch view angles.",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol. NDI|HX3 is available as a separately purchased upgrade license; the P2-R1N has it built in."
+      },
+      "description": "Z CAM's PTZ camera brings the color science of its cinema cameras to a pan-tilt-zoom head; this is the standard-reach 18x version on a 1/1.3-inch sensor. A bright f/1.6 lens, phase-detection autofocus and AI auto framing with gesture control, 4K60 over HDMI and IP alongside 3G-SDI, plus genlock, FreeD tracking output, tally lights and a fanless body, aimed at live production, streaming and virtual studio work."
+    },
+    {
+      "id": "zcam-p2-r1n-18x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "productUrl": "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3350,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 195.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/",
+        "https://www.newsshooter.com/2024/09/15/z-cam-p2-r1-ptz-camera-first-look-ibc-2024/"
+      ],
+      "introductionYear": 2024,
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 3.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "AI Auto Framing tracks the subject in real time to keep the shot framed, with hand gestures to lock tracking or switch view angles.",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol."
+      },
+      "description": "Z CAM's PTZ camera brings the color science of its cinema cameras to a pan-tilt-zoom head; this is the standard-reach 18x version on a 1/1.3-inch sensor. A bright f/1.6 lens, phase-detection autofocus and AI auto framing with gesture control, 4K60 over HDMI and IP alongside 3G-SDI, plus genlock, FreeD tracking output, tally lights and a fanless body, with NDI|HX3 built in, aimed at live production, streaming and virtual studio work."
+    },
+    {
+      "id": "zcam-p2-r1-24x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "productUrl": "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3070,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 192.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "AI Auto Framing tracks the subject in real time to keep the shot framed, with hand gestures to lock tracking or switch view angles.",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol. NDI|HX3 is available as a separately purchased upgrade license; the P2-R1N has it built in."
+      },
+      "description": "Z CAM's PTZ camera brings the color science of its cinema cameras to a pan-tilt-zoom head; this is the longer-reach 24x version on a 1/1.5-inch sensor. A bright f/1.6 lens, phase-detection autofocus and AI auto framing with gesture control, 4K60 over HDMI and IP alongside 3G-SDI, plus genlock, FreeD tracking output, tally lights and a fanless body, aimed at live production, streaming and virtual studio work."
+    },
+    {
+      "id": "zcam-p2-r1n-24x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "productUrl": "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3070,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 192.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/"
+      ],
+      "introductionYear": "unknown",
+      "maxApertureWide": 1.6,
+      "maxApertureTele": 4.5,
+      "apertureType": "f",
+      "autoTracking": "ai",
+      "autoTrackingNote": "AI Auto Framing tracks the subject in real time to keep the shot framed, with hand gestures to lock tracking or switch view angles.",
+      "hasIS": true,
+      "hasND": false,
+      "ndDetail": null,
+      "streamingProtocols": [
+        "NDI|HX3",
+        "SRT",
+        "RTSP",
+        "RTMP",
+        "RTMPS"
+      ],
+      "trackingDataOut": [
+        "FreeD"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol."
+      },
+      "description": "Z CAM's PTZ camera brings the color science of its cinema cameras to a pan-tilt-zoom head; this is the longer-reach 24x version on a 1/1.5-inch sensor. A bright f/1.6 lens, phase-detection autofocus and AI auto framing with gesture control, 4K60 over HDMI and IP alongside 3G-SDI, plus genlock, FreeD tracking output, tally lights and a fanless body, with NDI|HX3 built in, aimed at live production, streaming and virtual studio work."
+    }
+  ]
+}

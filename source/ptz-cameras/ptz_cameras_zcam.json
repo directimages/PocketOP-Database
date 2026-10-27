@@ -1,0 +1,72 @@
+{
+  "ptzCameras": [
+    {
+      "id": "zcam-p2-r1-18x",
+      "brand": "zcam",
+      "model": "P2-R1 18x zoom",
+      "sensorLabel": "1/1.3 inch",
+      "sensorWidthMM": 9.19,
+      "sensorHeightMM": 5.17,
+      "minFocalLengthMM": 9.5,
+      "maxFocalLengthMM": 171.0,
+      "hFOVWide": 51.0,
+      "hFOVTele": 3.6,
+      "opticalZoom": 18,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.3-inch CMOS, 18x optical (focal ratio 171/9.5 = 18.0x). Focal 9.5-171 mm, HFOV 51 to 3.6 deg and active image size 9.19 x 5.17 mm published by Z CAM (P2-R1 product page and a spec image from a Z CAM representative, 2026-10-22). A Z CAM representative (2026-10-27): the published values are mass-production measured data; FOV is identical in 4K and 1080p, no crop. Consistency note: wide end matches focal and active width (calc 51.62 deg), tele published 3.6 deg is wider than focal and active width imply (calc 3.08 deg); manufacturer value kept as published. P2-R1 and P2-R1N share lens and sensor, NDI is the only difference (Z CAM representative, 2026-10-23). NDI|HX3 offered as a separately purchased upgrade license. Current.",
+      "addedDate": "2026-10-27"
+    },
+    {
+      "id": "zcam-p2-r1n-18x",
+      "brand": "zcam",
+      "model": "P2-R1N 18x zoom",
+      "sensorLabel": "1/1.3 inch",
+      "sensorWidthMM": 9.19,
+      "sensorHeightMM": 5.17,
+      "minFocalLengthMM": 9.5,
+      "maxFocalLengthMM": 171.0,
+      "hFOVWide": 51.0,
+      "hFOVTele": 3.6,
+      "opticalZoom": 18,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.3-inch CMOS, 18x optical (focal ratio 171/9.5 = 18.0x). Focal 9.5-171 mm, HFOV 51 to 3.6 deg and active image size 9.19 x 5.17 mm published by Z CAM (P2-R1 product page and a spec image from a Z CAM representative, 2026-10-22). A Z CAM representative (2026-10-27): the published values are mass-production measured data; FOV is identical in 4K and 1080p, no crop. Consistency note: wide end matches focal and active width (calc 51.62 deg), tele published 3.6 deg is wider than focal and active width imply (calc 3.08 deg); manufacturer value kept as published. P2-R1 and P2-R1N share lens and sensor, NDI is the only difference (Z CAM representative, 2026-10-23). NDI|HX3 built in. Current.",
+      "addedDate": "2026-10-27"
+    },
+    {
+      "id": "zcam-p2-r1-24x",
+      "brand": "zcam",
+      "model": "P2-R1 24x zoom",
+      "sensorLabel": "1/1.5 inch",
+      "sensorWidthMM": 7.74,
+      "sensorHeightMM": 4.35,
+      "minFocalLengthMM": 6.5,
+      "maxFocalLengthMM": 156.0,
+      "hFOVWide": 60.0,
+      "hFOVTele": 3.2,
+      "opticalZoom": 24,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.5-inch CMOS, 24x optical (focal ratio 156/6.5 = 24.0x). Focal 6.5-156 mm, HFOV 60 to 3.2 deg and active image size 7.74 x 4.35 mm published by Z CAM (P2-R1 product page and a spec image from a Z CAM representative, 2026-10-22). A Z CAM representative (2026-10-27): the published values are mass-production measured data; FOV is identical in 4K and 1080p, no crop. Consistency note: wide end matches focal and active width (calc 61.54 deg), tele published 3.2 deg is wider than focal and active width imply (calc 2.84 deg); manufacturer value kept as published. P2-R1 and P2-R1N share lens and sensor, NDI is the only difference (Z CAM representative, 2026-10-23). NDI|HX3 offered as a separately purchased upgrade license. Current.",
+      "addedDate": "2026-10-27"
+    },
+    {
+      "id": "zcam-p2-r1n-24x",
+      "brand": "zcam",
+      "model": "P2-R1N 24x zoom",
+      "sensorLabel": "1/1.5 inch",
+      "sensorWidthMM": 7.74,
+      "sensorHeightMM": 4.35,
+      "minFocalLengthMM": 6.5,
+      "maxFocalLengthMM": 156.0,
+      "hFOVWide": 60.0,
+      "hFOVTele": 3.2,
+      "opticalZoom": 24,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "1/1.5-inch CMOS, 24x optical (focal ratio 156/6.5 = 24.0x). Focal 6.5-156 mm, HFOV 60 to 3.2 deg and active image size 7.74 x 4.35 mm published by Z CAM (P2-R1 product page and a spec image from a Z CAM representative, 2026-10-22). A Z CAM representative (2026-10-27): the published values are mass-production measured data; FOV is identical in 4K and 1080p, no crop. Consistency note: wide end matches focal and active width (calc 61.54 deg), tele published 3.2 deg is wider than focal and active width imply (calc 2.84 deg); manufacturer value kept as published. P2-R1 and P2-R1N share lens and sensor, NDI is the only difference (Z CAM representative, 2026-10-23). NDI|HX3 built in. Current.",
+      "addedDate": "2026-10-27"
+    }
+  ]
+}

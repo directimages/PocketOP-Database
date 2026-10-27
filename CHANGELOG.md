@@ -2,6 +2,27 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## ptz_cameras.json
+### v1.19.0 - 2026-10-27
+
+- New brand: Z CAM (source/ptz-cameras/ptz_cameras_zcam.json, paired with source/ptz-details/ptz_details_zcam.json). 4 new born-complete PTZ core entries: P2-R1 18x zoom, P2-R1N 18x zoom, P2-R1 24x zoom, P2-R1N 24x zoom (ids zcam-p2-r1-18x, zcam-p2-r1n-18x, zcam-p2-r1-24x, zcam-p2-r1n-24x). Values as supplied in the staging file. addedDate 2026-10-27
+- PTZ core count 283 -> 287
+- Released as new db tag (db-v38)
+
+## ptz_details.json
+### v1.30.0 - 2026-10-27
+
+- Sidecars for the 4 new Z CAM core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_zcam.json. Values as supplied in the staging file. minLux null (not published); introductionYear 2024 on the 18x entries and "unknown" on the 24x entries
+- Entry count 283 -> 287, matches ptz_cameras.json id-set exactly
+- Released as new db tag (db-v38)
+
+## ptz-details.json
+### v1.30.0 - 2026-10-27
+
+- Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
+- Entry count 283 -> 287
+- Released as new db tag (db-v38)
+
 ## broadcast_lens_details.json
 ### v1.55.1 - 2026-10-21
 
