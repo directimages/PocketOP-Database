@@ -1,6 +1,6 @@
 {
-  "version": "1.29.2",
-  "updatedAt": "2026-10-21",
+  "version": "1.30.0",
+  "updatedAt": "2026-10-27",
   "cameras": [
     {
       "id": "aida-ptz-ndi-x12",
@@ -10887,6 +10887,204 @@
       ],
       "fieldNotes": {
         "videoOutputs": "Sold as either an NDI/3G-SDI output model or an HDMI output model; USB-C on both."
+      }
+    },
+    {
+      "id": "zcam-p2-r1-18x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3350,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 195.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/",
+        "https://www.newsshooter.com/2024/09/15/z-cam-p2-r1-ptz-camera-first-look-ibc-2024/"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol. NDI|HX3 is available as a separately purchased upgrade license; the P2-R1N has it built in."
+      }
+    },
+    {
+      "id": "zcam-p2-r1-24x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3070,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 192.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol. NDI|HX3 is available as a separately purchased upgrade license; the P2-R1N has it built in."
+      }
+    },
+    {
+      "id": "zcam-p2-r1n-18x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3350,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 195.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/",
+        "https://www.newsshooter.com/2024/09/15/z-cam-p2-r1-ptz-camera-first-look-ibc-2024/"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol."
+      }
+    },
+    {
+      "id": "zcam-p2-r1n-24x",
+      "manufacturerUrl": "https://www.z-cam.com/products/ptz-cameras/",
+      "controlProtocols": [
+        "VISCA RS-422",
+        "VISCA IP",
+        "CGI"
+      ],
+      "videoOutputs": [
+        "3G-SDI",
+        "HDMI",
+        "USB-C"
+      ],
+      "poeClass": "PoE+",
+      "presetCount": 256,
+      "panRangeDeg": 350,
+      "tiltRangeDeg": 240,
+      "maxPanSpeedDegS": 180,
+      "maxTiltSpeedDegS": 180,
+      "hasIR": true,
+      "whiteBalanceModes": [
+        "Auto",
+        "Incandescent",
+        "Cloudy",
+        "D10000",
+        "Fluorescent",
+        "Indoor",
+        "Daylight",
+        "Shade",
+        "Manual",
+        "Expert"
+      ],
+      "minLux": null,
+      "weightG": 3070,
+      "widthMm": 175.0,
+      "heightMm": 235.5,
+      "depthMm": 192.5,
+      "mountThreads": "3/8\" screw hole with 1/4\" adapter",
+      "hasCeilingMount": true,
+      "hasWallMount": true,
+      "sources": [
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1/",
+        "https://www.z-cam.com/products/ptz-cameras/p2-r1-new/"
+      ],
+      "fieldNotes": {
+        "hasIS": "Electronic image stabilization.",
+        "streamingProtocols": "Also streams over SSP, Z CAM's own streaming protocol."
       }
     }
   ]
