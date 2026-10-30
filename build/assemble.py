@@ -31,6 +31,7 @@ No em dashes appear anywhere in this file by project policy.
 """
 
 import json
+import math
 import os
 import re
 import sys
@@ -373,8 +374,9 @@ def build_outputs(pools):
 # alias are out of scope and are not listed here, so they are not validated.
 # devices.json validates against the device $def, which is deliberately open:
 # only the device fields registered there are checked (today virtualPathAllowed,
-# which must be a boolean when present); every other device field passes
-# unchecked, as before devices.json entered the gate.
+# which must be a boolean when present, and lensCluster, see device_violations
+# for the rules beyond the schema); every other device field passes unchecked,
+# as before devices.json entered the gate.
 OUTPUT_VALIDATION = {
     "broadcast_lenses.json":       {"def": "lens_core"},
     "cine_lenses.json":            {"def": "lens_core"},
@@ -446,7 +448,8 @@ def validate_value(value, schema, path, errors):
     """Validate value against the registry subschema, appending failure lines.
 
     Only the keywords the registry uses are interpreted: type, const, enum,
-    anyOf, items, properties, additionalProperties. A hard mismatch stops the
+    minimum, exclusiveMinimum, minItems, anyOf, items, properties,
+    additionalProperties. A hard mismatch stops the
     descent for that value so one bad field yields one clear message.
     """
     where = path if path else "<entry>"
@@ -497,6 +500,23 @@ def validate_value(value, schema, path, errors):
                       % (where, value, schema["enum"]))
         return
 
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        # Written as "not value >= bound" so NaN, which compares false to
+        # everything, is rejected rather than slipping through.
+        if "minimum" in schema and not value >= schema["minimum"]:
+            errors.append("at '%s': value %r is below the minimum %r"
+                          % (where, value, schema["minimum"]))
+            return
+        if "exclusiveMinimum" in schema and not value > schema["exclusiveMinimum"]:
+            errors.append("at '%s': value %r must be greater than %r"
+                          % (where, value, schema["exclusiveMinimum"]))
+            return
+
+    if isinstance(value, list) and "minItems" in schema and len(value) < schema["minItems"]:
+        errors.append("at '%s': %d item(s), at least %d required"
+                      % (where, len(value), schema["minItems"]))
+        return
+
     if isinstance(value, dict) and ("properties" in schema or "additionalProperties" in schema):
         props = schema.get("properties", {})
         additional = schema.get("additionalProperties", True)
@@ -513,6 +533,44 @@ def validate_value(value, schema, path, errors):
     if isinstance(value, list) and "items" in schema:
         for index, item in enumerate(value):
             validate_value(item, schema["items"], "%s[%d]" % (path, index), errors)
+
+
+def device_violations(entry):
+    """Device rules the schema vocabulary cannot express, for lensCluster.
+
+    Every lens type must appear in the entry's own cameras, no type may appear
+    twice, and the numbers must be finite (the schema bounds alone let inf
+    through). Only well formed lens objects are looked at here; anything else
+    is already reported by the schema pass.
+    """
+    cluster = entry.get("lensCluster")
+    if not isinstance(cluster, list):
+        return []
+    cameras = entry.get("cameras")
+    camera_types = {cam.get("type") for cam in cameras if isinstance(cam, dict)} \
+        if isinstance(cameras, list) else set()
+    errors = []
+    seen = set()
+    for index, lens in enumerate(cluster):
+        if not isinstance(lens, dict):
+            continue
+        where = "lensCluster[%d]" % index
+        lens_type = lens.get("type")
+        if isinstance(lens_type, str):
+            if lens_type in seen:
+                errors.append("at '%s': type '%s' appears twice in lensCluster"
+                              % (where, lens_type))
+            seen.add(lens_type)
+            if lens_type not in camera_types:
+                errors.append("at '%s': type '%s' is not among this entry's cameras (%s)"
+                              % (where, lens_type, ", ".join(sorted(t for t in camera_types
+                                                                    if isinstance(t, str)))))
+        for key in ("xMM", "yMM", "diameterMM"):
+            number = lens.get(key)
+            if isinstance(number, float) and not math.isfinite(number):
+                errors.append("at '%s.%s': value %r is not a finite number"
+                              % (where, key, number))
+    return errors
 
 
 def validate_outputs(built):
@@ -546,6 +604,8 @@ def validate_outputs(built):
             entry_errors = []
             validate_value(entry, defs[def_name], "", entry_errors)
             entry_errors.extend(field_registry.partition_violations(def_name, entry))
+            if def_name == "device":
+                entry_errors.extend(device_violations(entry))
             for line in entry_errors:
                 errors.append("%s id '%s' [%s]: %s"
                               % (out["name"], entry_id, def_name, line))
