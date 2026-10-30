@@ -6,6 +6,13 @@ virtualPathAllowed. The gate accepts a boolean, accepts a missing field, and
 stops the build on any other value, naming the entry. The field passes
 through to the published devices.json exactly as set in the source shard.
 
+Entries may also carry the optional per model field lensCluster: one object
+per physical rear lens, keyed by camera type, with the centre position and
+ring diameter in mm as seen from the back of the phone. The gate accepts a
+missing field, accepts well formed values, and stops the build on malformed
+ones (unknown type, type not among the entry's cameras, missing coordinate,
+the same type twice, and so on).
+
 Every test builds its own synthetic repository tree (source shards, meta
 files, output location) under a temporary directory and points assemble.py
 at it. The real output_schema.json and legacy_whitelist.json are used, so the
@@ -52,13 +59,31 @@ def device(entry_id, **extra):
     return entry
 
 
+def camera(cam_type, label="1x"):
+    return {"label": label, "type": cam_type, "hFOVDegrees": 70.0, "isDefault": False}
+
+
+def lens(lens_type, x, y, diameter=16.0):
+    return {"type": lens_type, "xMM": x, "yMM": y, "diameterMM": diameter}
+
+
+def multi_camera_device(entry_id, camera_types, lens_cluster=None):
+    """A synthetic device with one camera per given type (repeats allowed)."""
+    entry = device(entry_id)
+    entry["cameras"] = [camera(t) for t in camera_types]
+    if lens_cluster is not None:
+        entry["lensCluster"] = lens_cluster
+    return entry
+
+
 def write_json(path, data):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as handle:
         json.dump(data, handle, indent=2)
 
 
-class DevicesGateTests(unittest.TestCase):
+class GateTestCase(unittest.TestCase):
+    """Builds a synthetic tree per test and assembles device entries into it."""
 
     def setUp(self):
         tmp = tempfile.TemporaryDirectory()
@@ -86,6 +111,10 @@ class DevicesGateTests(unittest.TestCase):
     def published_devices(self):
         with open(os.path.join(self.root, "devices.json"), encoding="utf-8") as handle:
             return {e["id"]: e for e in json.load(handle)["devices"]}
+
+
+class DevicesGateTests(GateTestCase):
+    """The optional virtualPathAllowed field on devices.json entries."""
 
     def test_non_boolean_values_stop_the_build_and_name_the_entry(self):
         for bad in ("false", "true", 0, 1, 1.5, None, [], {}):
@@ -130,6 +159,133 @@ class DevicesGateTests(unittest.TestCase):
         self.assertEqual(code, 0, err)
         self.assertEqual(self.published_devices()["unittest-device-extra"]["someFutureField"],
                          {"any": "shape"})
+
+
+class LensClusterGateTests(GateTestCase):
+    """The optional lensCluster field on devices.json entries."""
+
+    def assert_rejected(self, entry, *expected_fragments):
+        code, err = self.assemble_devices([entry])
+        self.assertEqual(code, 1, err)
+        self.assertIn("VALIDATION FAILED", err)
+        self.assertIn("devices.json id '%s'" % entry["id"], err)
+        self.assertIn("lensCluster", err)
+        for fragment in expected_fragments:
+            self.assertIn(fragment, err)
+        self.assertFalse(os.path.exists(os.path.join(self.root, "devices.json")),
+                         "nothing may be published when the gate fails")
+
+    def triple(self, **overrides):
+        cluster = [lens("ultrawide", 8.1, 8.1), lens("wide", 8.1, 27.34),
+                   lens("telephoto", 26.09, 17.72)]
+        return multi_camera_device("unittest-triple", ["ultrawide", "wide", "telephoto"],
+                                   overrides.get("cluster", cluster))
+
+    def dual(self, cluster):
+        return multi_camera_device("unittest-dual", ["ultrawide", "wide"], cluster)
+
+    def test_valid_triple_camera_sample_passes_and_reaches_the_output_unchanged(self):
+        entry = self.triple()
+        code, err = self.assemble_devices([entry])
+        self.assertEqual(code, 0, err)
+        self.assertEqual(self.published_devices()["unittest-triple"]["lensCluster"],
+                         entry["lensCluster"])
+
+    def test_valid_dual_camera_sample_passes(self):
+        cluster = [lens("ultrawide", 8.0, 8.0), lens("wide", 8.0, 25.72)]
+        code, err = self.assemble_devices([self.dual(cluster)])
+        self.assertEqual(code, 0, err)
+
+    def test_entry_without_the_field_still_validates_and_stays_absent(self):
+        code, err = self.assemble_devices(
+            [multi_camera_device("unittest-plain", ["ultrawide", "wide"])])
+        self.assertEqual(code, 0, err)
+        self.assertNotIn("lensCluster", self.published_devices()["unittest-plain"])
+
+    def test_telephoto_lens_is_valid_when_cameras_list_telephoto_twice(self):
+        entry = multi_camera_device(
+            "unittest-crop", ["ultrawide", "wide", "telephoto", "telephoto"],
+            [lens("ultrawide", 8.1, 8.1), lens("wide", 8.1, 27.34),
+             lens("telephoto", 26.09, 17.72)])
+        code, err = self.assemble_devices([entry])
+        self.assertEqual(code, 0, err)
+
+    def test_unknown_camera_type_is_rejected(self):
+        entry = self.dual([lens("ultrawide", 8.0, 8.0), lens("macro", 8.0, 25.72)])
+        entry["cameras"].append(camera("macro"))
+        self.assert_rejected(entry, "macro")
+
+    def test_type_not_among_the_entry_cameras_is_rejected(self):
+        cluster = [lens("ultrawide", 8.0, 8.0), lens("telephoto", 8.0, 25.72)]
+        self.assert_rejected(self.dual(cluster), "telephoto", "not among")
+
+    def test_missing_coordinate_is_rejected(self):
+        for key in ("type", "xMM", "yMM", "diameterMM"):
+            with self.subTest(missing=key):
+                broken = lens("wide", 8.0, 25.72)
+                del broken[key]
+                self.assert_rejected(self.dual([lens("ultrawide", 8.0, 8.0), broken]),
+                                     key)
+
+    def test_same_type_twice_is_rejected(self):
+        cluster = [lens("ultrawide", 8.0, 8.0), lens("ultrawide", 8.0, 25.72)]
+        self.assert_rejected(self.dual(cluster), "ultrawide", "twice")
+
+    def test_non_numeric_coordinates_are_rejected(self):
+        for key in ("xMM", "yMM", "diameterMM"):
+            for bad in ("8.0", True, None, [], {}):
+                with self.subTest(key=key, value=bad):
+                    broken = lens("wide", 8.0, 25.72)
+                    broken[key] = bad
+                    self.assert_rejected(
+                        self.dual([lens("ultrawide", 8.0, 8.0), broken]), key)
+
+    def test_negative_position_is_rejected(self):
+        for key in ("xMM", "yMM"):
+            with self.subTest(key=key):
+                broken = lens("wide", 8.0, 25.72)
+                broken[key] = -0.5
+                self.assert_rejected(self.dual([lens("ultrawide", 8.0, 8.0), broken]), key)
+
+    def test_zero_or_negative_diameter_is_rejected(self):
+        for bad in (0, 0.0, -16.0):
+            with self.subTest(diameter=bad):
+                broken = lens("wide", 8.0, 25.72, bad)
+                self.assert_rejected(self.dual([lens("ultrawide", 8.0, 8.0), broken]),
+                                     "diameterMM")
+
+    def test_non_finite_numbers_are_rejected(self):
+        for bad in (float("nan"), float("inf")):
+            with self.subTest(value=bad):
+                broken = lens("wide", bad, 25.72)
+                self.assert_rejected(self.dual([lens("ultrawide", 8.0, 8.0), broken]),
+                                     "xMM")
+
+    def test_fewer_than_two_lenses_is_rejected(self):
+        for cluster in ([], [lens("wide", 8.0, 8.0)]):
+            with self.subTest(count=len(cluster)):
+                self.assert_rejected(self.dual(cluster))
+
+    def test_non_array_value_is_rejected(self):
+        for bad in ({}, "ultrawide", 3, None, lens("wide", 8.0, 8.0)):
+            with self.subTest(value=bad):
+                entry = self.dual([])
+                entry["lensCluster"] = bad
+                self.assert_rejected(entry)
+
+    def test_unknown_key_inside_a_lens_is_rejected(self):
+        broken = lens("wide", 8.0, 25.72)
+        broken["x"] = 8.0
+        self.assert_rejected(self.dual([lens("ultrawide", 8.0, 8.0), broken]), "'x'")
+
+    def test_only_the_bad_entry_is_named(self):
+        good = self.dual([lens("ultrawide", 8.0, 8.0), lens("wide", 8.0, 25.72)])
+        bad = self.dual([lens("ultrawide", 8.0, 8.0), lens("ultrawide", 8.0, 25.72)])
+        bad["id"] = "unittest-dual-bad"
+        code, err = self.assemble_devices([good, bad])
+        self.assertEqual(code, 1)
+        self.assertIn("devices.json id 'unittest-dual-bad'", err)
+        self.assertNotIn("id 'unittest-dual'", err)
 
 
 if __name__ == "__main__":

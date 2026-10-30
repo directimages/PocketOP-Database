@@ -183,10 +183,25 @@
     },
 
     "device": {
-      "description": "DEVICE (devices.json). Deliberately open at the entry top level (no additionalProperties false): only the fields listed here are checked, every other device field passes unchecked. virtualPathAllowed is an optional per model switch for the app's virtual camera path; when present it must be a boolean, and any other value, null included, is rejected by the build.",
+      "description": "DEVICE (devices.json). Deliberately open at the entry top level (no additionalProperties false): only the fields listed here are checked, every other device field passes unchecked. virtualPathAllowed is an optional per model switch for the app's virtual camera path; when present it must be a boolean, and any other value, null included, is rejected by the build. lensCluster is an optional per model description of the rear lens pattern for the lens cluster indicator: one object per physical rear lens (at least 2), keyed by camera type, with the lens centre (xMM, yMM) and ring diameter (diameterMM) in mm as seen from the back of the phone, portrait upright, x to the right and y downward. The origin is the top left corner of the box around all lens rings of the entry; the distance to the housing edge is deliberately not part of the data. Beyond this schema the build also requires every lensCluster type to appear in the entry's own cameras and no type to appear twice (assemble.py, device_violations).",
       "type": "object",
       "properties": {
-        "virtualPathAllowed": { "type": "boolean" }
+        "virtualPathAllowed": { "type": "boolean" },
+        "lensCluster": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["type", "xMM", "yMM", "diameterMM"],
+            "additionalProperties": false,
+            "properties": {
+              "type": { "enum": ["ultrawide", "wide", "telephoto"] },
+              "xMM": { "type": "number", "minimum": 0 },
+              "yMM": { "type": "number", "minimum": 0 },
+              "diameterMM": { "type": "number", "exclusiveMinimum": 0 }
+            }
+          }
+        }
       }
     }
 
