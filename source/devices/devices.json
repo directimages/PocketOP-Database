@@ -190,6 +190,20 @@
           "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; 26mm equiv — widely reported; Apple spec pages for this model do not state mm focal lengths (hFOV study 2026-03)",
           "displayMM": 26
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 6.845,
+          "yMM": 6.845,
+          "diameterMM": 13.69
+        },
+        {
+          "type": "wide",
+          "xMM": 19.205,
+          "yMM": 19.205,
+          "diameterMM": 13.69
+        }
       ]
     },
     {
@@ -227,6 +241,26 @@
           "hFOVSource": "calculated — 2×arctan(18/77)=26.3°; 77mm equiv — widely reported; Apple spec pages for this model do not state mm focal lengths (hFOV study 2026-03)",
           "displayMM": 77
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "telephoto",
+          "xMM": 7.765,
+          "yMM": 7.765,
+          "diameterMM": 15.53
+        },
+        {
+          "type": "wide",
+          "xMM": 7.765,
+          "yMM": 25.685,
+          "diameterMM": 15.53
+        },
+        {
+          "type": "ultrawide",
+          "xMM": 24.415,
+          "yMM": 16.725,
+          "diameterMM": 15.53
+        }
       ]
     },
     {
@@ -254,6 +288,20 @@
           "hFOVVerified": false,
           "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; Apple official 26mm equiv wide camera (hFOV study 2026-03)",
           "displayMM": 26
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 7.19,
+          "yMM": 7.19,
+          "diameterMM": 14.38
+        },
+        {
+          "type": "wide",
+          "xMM": 19.94,
+          "yMM": 19.94,
+          "diameterMM": 14.38
         }
       ]
     },
@@ -292,6 +340,26 @@
           "hFOVSource": "calculated — 2×arctan(18/77)=26.3°; Apple official 77mm equiv 3× physical telephoto (hFOV study 2026-03)",
           "displayMM": 77
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "telephoto",
+          "xMM": 7.805,
+          "yMM": 7.805,
+          "diameterMM": 15.61
+        },
+        {
+          "type": "wide",
+          "xMM": 7.805,
+          "yMM": 27.045,
+          "diameterMM": 15.61
+        },
+        {
+          "type": "ultrawide",
+          "xMM": 25.645,
+          "yMM": 17.425,
+          "diameterMM": 15.61
+        }
       ]
     },
     {
@@ -319,6 +387,20 @@
           "hFOVVerified": false,
           "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; Apple official 26mm equiv 48MP Fusion camera (hFOV study 2026-03)",
           "displayMM": 26
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 7.535,
+          "yMM": 7.535,
+          "diameterMM": 15.07
+        },
+        {
+          "type": "wide",
+          "xMM": 20.445,
+          "yMM": 20.445,
+          "diameterMM": 15.07
         }
       ]
     },
@@ -355,6 +437,26 @@
           "hFOVVerified": false,
           "hFOVSource": "calculated — 2×arctan(18/77)=26.3°; Apple official 77mm equiv 3× physical telephoto (hFOV study 2026-03)",
           "displayMM": 77
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.1,
+          "yMM": 8.1,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "wide",
+          "xMM": 8.1,
+          "yMM": 27.34,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.09,
+          "yMM": 17.72,
+          "diameterMM": 16.2
         }
       ]
     },
@@ -403,6 +505,26 @@
           "videoZoomFactor": 2.0,
           "displayMM": 240
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.1,
+          "yMM": 8.1,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "wide",
+          "xMM": 8.1,
+          "yMM": 27.34,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.09,
+          "yMM": 17.72,
+          "diameterMM": 16.2
+        }
       ]
     },
     {
@@ -430,6 +552,20 @@
           "hFOVVerified": false,
           "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; Apple official 26mm equiv 48MP Fusion camera (hFOV study 2026-03)",
           "displayMM": 26
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.0,
+          "yMM": 8.0,
+          "diameterMM": 16.0
+        },
+        {
+          "type": "wide",
+          "xMM": 8.0,
+          "yMM": 25.72,
+          "diameterMM": 16.0
         }
       ]
     },
@@ -479,6 +615,26 @@
           "videoZoomFactor": 2.0,
           "displayMM": 240
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.1,
+          "yMM": 8.1,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "wide",
+          "xMM": 8.1,
+          "yMM": 27.34,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.09,
+          "yMM": 17.72,
+          "diameterMM": 16.2
+        }
       ]
     },
     {
@@ -523,6 +679,20 @@
           "hFOVVerified": false,
           "hFOVSource": "calculated — 2×arctan(18/26)=69.4°; Apple official 26mm equiv 48MP Fusion camera (hFOV study 2026-03)",
           "displayMM": 26
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.0,
+          "yMM": 8.0,
+          "diameterMM": 16.0
+        },
+        {
+          "type": "wide",
+          "xMM": 8.0,
+          "yMM": 25.72,
+          "diameterMM": 16.0
         }
       ]
     },
@@ -571,6 +741,26 @@
           "videoZoomFactor": 2.0,
           "displayMM": 200
         }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.1,
+          "yMM": 8.1,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "wide",
+          "xMM": 8.1,
+          "yMM": 27.34,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.09,
+          "yMM": 17.72,
+          "diameterMM": 16.2
+        }
       ]
     },
     {
@@ -617,6 +807,26 @@
           "isSensorCrop": true,
           "videoZoomFactor": 2.0,
           "displayMM": 200
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.1,
+          "yMM": 8.1,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "wide",
+          "xMM": 8.1,
+          "yMM": 27.34,
+          "diameterMM": 16.2
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.09,
+          "yMM": 17.72,
+          "diameterMM": 16.2
         }
       ]
     },
@@ -684,6 +894,26 @@
           "isSensorCrop": true,
           "videoZoomFactor": 2.0,
           "displayMM": 200
+        }
+      ],
+      "lensCluster": [
+        {
+          "type": "ultrawide",
+          "xMM": 8.29,
+          "yMM": 8.29,
+          "diameterMM": 16.58
+        },
+        {
+          "type": "wide",
+          "xMM": 8.29,
+          "yMM": 27.53,
+          "diameterMM": 16.58
+        },
+        {
+          "type": "telephoto",
+          "xMM": 26.41,
+          "yMM": 17.91,
+          "diameterMM": 16.58
         }
       ]
     },

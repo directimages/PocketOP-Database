@@ -2,6 +2,14 @@
 
 Most recent changes at the top. One line per file changed per commit.
 
+## devices.json
+### v1.8.0 - 2026-10-30
+
+- Added the optional lensCluster field to 13 device entries: iphone-13, iphone-13-pro, iphone-14, iphone-14-pro, iphone-15, iphone-15-pro, iphone-15-pro-max, iphone-16, iphone-16-pro, iphone-17, iphone-17-pro, iphone-17-pro-max, iphone-18-pro. One object per physical rear lens with type (ultrawide, wide or telephoto), xMM, yMM (lens centre) and diameterMM, in mm as seen from the back, portrait upright, x to the right, y downward, origin at the top left of the box around all lens rings. Values as supplied, unrounded
+- The other 8 entries (iphone-11, iphone-11-pro, iphone-12, iphone-12-pro, iphone-12-pro-max, iphone-16e, iphone-17e, iphone-air) stay without the field. No other value in devices.json changed
+- Entry count unchanged, 21
+- Released as new db tag (db-v39)
+
 ## ptz_cameras.json
 ### v1.19.0 - 2026-10-27
 
