@@ -3,6 +3,13 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## devices.json
+### v1.8.1 - 2026-11-04
+
+- Value correction on the iphone-17-pro-max entry: the camera field of view values were calculated estimates and are now measured on the physical device (app build 149, virtual camera path). hFOVDegrees, hFOVVerified and hFOVSource are overwritten on four cameras: 0.5x 108.3 -> 106.2 (verified), 1x 73.7 -> 74.6 (verified), 4x 20.4 -> 19.86 (verified), 8x 10.3 -> 10.01 (derived from the measured 4x value as a 2x sensor crop, hFOVVerified stays false). The sources record that these are the AVCaptureDevice.activeFormat.videoFieldOfView format values and that the field of view delivered per frame can be narrower
+- verificationWarning in meta_devices.json now ends "Values are NOT direct AVFoundation measurements, except entries with hFOVVerified: true."
+- Every other field and entry unchanged (isDefault, type, displayMM, isSensorCrop, videoZoomFactor, lensCluster, and the other 20 entries). Entry count unchanged, 21
+- Released as new db tag (db-v40)
+
 ### v1.8.0 - 2026-10-30
 
 - Added the optional lensCluster field to 13 device entries: iphone-13, iphone-13-pro, iphone-14, iphone-14-pro, iphone-15, iphone-15-pro, iphone-15-pro-max, iphone-16, iphone-16-pro, iphone-17, iphone-17-pro, iphone-17-pro-max, iphone-18-pro. One object per physical rear lens with type (ultrawide, wide or telephoto), xMM, yMM (lens centre) and diameterMM, in mm as seen from the back, portrait upright, x to the right, y downward, origin at the top left of the box around all lens rings. Values as supplied, unrounded

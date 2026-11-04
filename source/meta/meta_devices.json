@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "verificationWarning": [
     "hFOVDegrees values are calculated from Apple's officially published 35mm-equivalent focal lengths",
     "using the standard rectilinear formula 2×arctan(18/f_equiv), cross-checked against independent",
-    "published analyses (see hFOV Research Study 2026-03). Values are NOT direct AVFoundation measurements.",
+    "published analyses (see hFOV Research Study 2026-03). Values are NOT direct AVFoundation measurements, except entries with hFOVVerified: true.",
     "",
     "KEY CORRECTION (v1.1.0): All ultrawide (0.5×) entries have been corrected from 120.0° to 108.3°.",
     "Apple's stated '120° field of view' for ultrawide cameras is a DIAGONAL figure, not horizontal.",

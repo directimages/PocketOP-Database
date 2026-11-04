@@ -773,37 +773,37 @@
         {
           "label": "0.5x",
           "type": "ultrawide",
-          "hFOVDegrees": 108.3,
+          "hFOVDegrees": 106.2,
           "isDefault": false,
-          "hFOVVerified": false,
-          "hFOVSource": "calculated — 2×arctan(18/13)=108.3°; Apple official 13mm equiv 48MP Fusion ultrawide; Apple's stated 120° is diagonal (hFOV study 2026-03)",
+          "hFOVVerified": true,
+          "hFOVSource": "measured on iPhone 17 Pro Max hardware via AVCaptureDevice.activeFormat.videoFieldOfView: 106.20 degrees (1920x1080 format, 2026-09-30), same value read 2026-11-04 on app build 149. This is the format value; the field of view delivered per frame varies and can be slightly narrower.",
           "displayMM": 13
         },
         {
           "label": "1x",
           "type": "wide",
-          "hFOVDegrees": 73.7,
+          "hFOVDegrees": 74.6,
           "isDefault": true,
-          "hFOVVerified": false,
-          "hFOVSource": "calculated — 2×arctan(18/24)=73.7°; Apple official 24mm equiv 48MP Fusion main camera (hFOV study 2026-03)",
+          "hFOVVerified": true,
+          "hFOVSource": "measured on iPhone 17 Pro Max hardware via AVCaptureDevice.activeFormat.videoFieldOfView: 74.60 degrees (1920x1080 format, 2026-09-30), same value read 2026-11-04 on app build 149. This is the format value; the field of view delivered per frame varies with focus and can be several percent narrower.",
           "displayMM": 24
         },
         {
           "label": "4x",
           "type": "telephoto",
-          "hFOVDegrees": 20.4,
+          "hFOVDegrees": 19.86,
           "isDefault": false,
-          "hFOVVerified": false,
-          "hFOVSource": "calculated — 2×arctan(18/100)=20.4°; Apple official 100mm equiv 4× tetraprism 48MP physical lens; videoFieldOfView API reports ~19.9° (base format, unchanged by zoom) (hFOV study 2026-03)",
+          "hFOVVerified": true,
+          "hFOVSource": "measured on iPhone 17 Pro Max hardware via AVCaptureDevice.activeFormat.videoFieldOfView: 19.86 degrees (1920x1080 format, 2026-09-30), same value (19.9 at one decimal) read 2026-11-04 on app build 149. This is the format value; the field of view delivered per frame varies and can be slightly narrower.",
           "displayMM": 100
         },
         {
           "label": "8x",
           "type": "telephoto",
-          "hFOVDegrees": 10.3,
+          "hFOVDegrees": 10.01,
           "isDefault": false,
           "hFOVVerified": false,
-          "hFOVSource": "calculated — 2×arctan(18/200)=10.3°; 48MP sensor crop of 4× tele; effective FOV must be computed as 2×arctan(tan(baseFOV/2)/zoomFactor); videoFieldOfView returns base 4× FOV (~19.9°) regardless of zoom (hFOV study 2026-03)",
+          "hFOVSource": "derived, not measured: 2 x arctan(tan(19.86 / 2) / 2), a 2x sensor crop of the measured 4x format value. videoFieldOfView returns the base 4x value regardless of zoom.",
           "isSensorCrop": true,
           "videoZoomFactor": 2.0,
           "displayMM": 200
