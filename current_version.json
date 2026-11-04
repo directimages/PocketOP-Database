@@ -1,6 +1,6 @@
 {
-  "latest": "db-v39",
-  "updatedAt": "2026-10-30T12:10:07Z",
+  "latest": "db-v40",
+  "updatedAt": "2026-11-04T16:26:17Z",
   "files": {
     "broadcast_lenses.json": {
       "version": "1.34.0",
@@ -39,7 +39,7 @@
       "entries": 287
     },
     "devices.json": {
-      "version": "1.8.0",
+      "version": "1.8.1",
       "entries": 21
     }
   }
