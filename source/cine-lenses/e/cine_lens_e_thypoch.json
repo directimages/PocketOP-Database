@@ -89,6 +89,42 @@
       "isCustom": false,
       "notes": "Thypoch Simera-C prime, full frame, E mount. Source: thypoch.com.",
       "addedDate": null
+    },
+    {
+      "id": "thypoch-simera-c-16mm-t1-9",
+      "manufacturer": "Thypoch",
+      "model": "Simera-C 16mm T1.9",
+      "series": "Simera-C",
+      "generation": "Cinema",
+      "focalLengthMin": 16.0,
+      "focalLengthMax": 16.0,
+      "zoomRatio": 1.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Thypoch Simera-C, full frame (43.2mm image circle = fullFrame per POS-D28). T1.9 (the 21-75mm Simera-C are T1.5). Sony E-mount entry; Leica M version not imported (M outside the mount enum). Source: thypoch.com Simera-C specification table. Staged 2026-11-15 (cine spec-pass).",
+      "addedDate": "2026-11-16"
+    },
+    {
+      "id": "thypoch-simera-c-100mm-t1-9",
+      "manufacturer": "Thypoch",
+      "model": "Simera-C 100mm T1.9",
+      "series": "Simera-C",
+      "generation": "Cinema",
+      "focalLengthMin": 100.0,
+      "focalLengthMax": 100.0,
+      "zoomRatio": 1.0,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Thypoch Simera-C, full frame (43.2mm image circle = fullFrame per POS-D28). T1.9 (the 21-75mm Simera-C are T1.5). Sony E-mount entry; Leica M version not imported (M outside the mount enum). Source: thypoch.com Simera-C specification table. Staged 2026-11-15 (cine spec-pass).",
+      "addedDate": "2026-11-16"
     }
   ]
 }
