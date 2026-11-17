@@ -70,6 +70,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v39)
 
 ## ptz_cameras.json
+### v1.19.2 - 2026-11-17
+
+- Text-only cleanup: a personal name in two notes replaced by the contact's role
+- Entry count unchanged, 287
+- Released as new db tag (db-v44)
+
 ### v1.19.1 - 2026-11-17
 
 - Text-only cleanup of personal names in notes fields: 14 PTZ core notes (AIDA 10, BirdDog 1, Hollyland 1, Marshall 1, Minrray 1). No value, id or other field changed
@@ -1059,7 +1065,7 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.6.0** (2026-05-18) — Added 3 BirdDog X1 series entries: birddog-x1 (20x, 55.8°/3.2°), birddog-x1-30x (30x, 58.1°/2.14°), birddog-x1-ultra (12x, 70.28°/6.57°). All HFOV published by BirdDog (Tier 1).
 - **1.5.0** (2026-04-29) — Added 33 entries across 4 new brands: Fomako (12: K820/K820N/K30NS/K20/K30/KN20/KN30/KN20A/KN30A/FMK12UH/FMK20UH/K600N), Bolin (11: B2-210/B2-220/B6-420/R9-418F/R9-418N/R9-230H/RANGE/D2-210H/D2-220H/N2-210X/N2-220X), AVer (3: PTZ310UV2/PTZ330UV2/PTZ330UNV2), Minrray (7: UV430E0/E2/E3/UV510E0/E2/UV950E0/E2)
 - **1.4.6** (2026-04-09) — Added Sony BRC-AM7(W): 1-inch Exmor RS CMOS, 20x, 8.8–176mm, hFOVWide 75.0° (Sony help guide). Lens module appears shared with Panasonic AW-HE145/UE160/UE150. Panasonic AW-UE4 marked outOfScope (111° HFOV exceeds iPhone ultrawide ~108°)
-- **1.4.5** (2026-04-08) — Marshall CV730 FOV correction: marshall-cv730-bk hFOVWide 65.0→63.0 + hFOVTele 2.04→3.7, marshall-cv730-bhn hFOVTele 2.04→3.7 — manufacturer-confirmed by Greg Foster, Applications Engineer, Marshall Electronics
+- **1.4.5** (2026-04-08) — Marshall CV730 FOV correction: marshall-cv730-bk hFOVWide 65.0→63.0 + hFOVTele 2.04→3.7, marshall-cv730-bhn hFOVTele 2.04→3.7 — manufacturer-confirmed by a Marshall Electronics applications engineer
 - **1.4.4** (2026-04-06) — datavideo-ptc-150: maxFocalLengthMM corrected 94.6→129.0 (data entry error; correct 30x range is 4.3–129mm per Datavideo)
 - **1.4.3** (2026-04-06) — HFOV audit: marshall-cv730-bk hFOVTele 2.0→2.04 (calc), marshall-cv730-bhn hFOVWide 65.0→63.0 + hFOVTele 2.0→2.04, panasonic-aw-ue4 notes corrected (motorized PTZ + digital zoom)
 - **1.4.2** (2026-04-05) — panasonic-aw-ue4: hFOVTele null → 111.0 (ePTZ fixed lens, wide=tele)
