@@ -1,5 +1,5 @@
 {
-  "version": "1.19.1",
+  "version": "1.19.2",
   "ptzCameras": [
     {
       "id": "aida-ptz-ndi-x12",
@@ -3347,7 +3347,7 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Current.",
+      "notes": "1/1.8-inch CMOS, 30x. hFOV wide/tele confirmed by a Marshall Electronics applications engineer. Current.",
       "addedDate": null
     },
     {
@@ -3364,7 +3364,7 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by Greg Foster, Applications Engineer, Marshall Electronics. Discontinued.",
+      "notes": "1/1.8-inch CMOS, 30x. Shares 6.5–202mm OEM lens module with Lumens VC-A71P. hFOV wide/tele confirmed by a Marshall Electronics applications engineer. Discontinued.",
       "addedDate": null
     },
     {
