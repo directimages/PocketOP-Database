@@ -269,7 +269,7 @@
       "opticalZoom": 30,
       "isFree": false,
       "isCustom": false,
-      "notes": "Outdoor IP66 4K60 PTZ, Sony 1/1.8-inch CMOS, 6.9-215mm optisch 30x (4K, canoniek POS-D40); 60x in HD-modus (pixel-crop van dezelfde optiek, geen aparte lens). HFOV 60/2 fabrikant-gepubliceerd (horizontaal), bevestigd via de officiele O4 User Guide (LENS_AND_PTZ_SPECSHEETS, Martijn 2026-07-24): Horizontal FOV 60-2, Vertical 34-1.1, Video Output 12G-SDI + RJ-45/SFP (geen HDMI). Die-cast alu, -40 tot +60C, heater, 500m IR-laser. Full NDI plus FreeD. Current (2026).",
+      "notes": "Outdoor IP66 4K60 PTZ, Sony 1/1.8-inch CMOS, 6.9-215mm optisch 30x (4K, canoniek POS-D40); 60x in HD-modus (pixel-crop van dezelfde optiek, geen aparte lens). HFOV 60/2 fabrikant-gepubliceerd (horizontaal), bevestigd via de officiele O4 User Guide (LENS_AND_PTZ_SPECSHEETS, 2026-07-24): Horizontal FOV 60-2, Vertical 34-1.1, Video Output 12G-SDI + RJ-45/SFP (geen HDMI). Die-cast alu, -40 tot +60C, heater, 500m IR-laser. Full NDI plus FreeD. Current (2026).",
       "addedDate": "2026-08-11"
     }
   ]

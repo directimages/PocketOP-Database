@@ -20,12 +20,13 @@ build/__pycache__/
 __pycache__/
 *.pyc
 
-# Test fixtures — never committed; Martijn copies to app Resources manually
+# Test fixtures: never committed; copied to app Resources manually
 mockups/
 
 # Local Claude Code tooling config (machine-specific, never committed)
 .mcp.json
 .claude/
+CLAUDE.md
 
 # Local editor workspace files (machine-specific, never committed)
 *.code-workspace

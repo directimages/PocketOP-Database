@@ -14,6 +14,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## cine_lens_details.json
+### v1.58.1 - 2026-11-17
+
+- Text-only cleanup of personal names in sources fields: 25 strings across 4 detail shards (Sigma Aizu Prime E and PL, ZEISS Panoptes LPL, Laowa OOOM PL). No value, id or other field changed
+- Entry count unchanged, 647
+- Released as new db tag (db-v43)
+
 ### v1.58.0 - 2026-11-17
 
 - Born-complete detail sidecars for the 6 new Sigma Aizu Prime entries above, in source/cine-details/pl/cine_details_pl_sigma.json and source/cine-details/e/cine_details_e_sigma.json. Values as supplied in the staging file
@@ -30,6 +36,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.62.1 - 2026-11-17
+
+- Legacy union rebuild carrying the same text-only cleanup of personal names in sources fields (25 strings). No other field changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v43)
+
 ### v1.62.0 - 2026-11-17
 
 - Legacy union rebuild carrying the 6 new Sigma Aizu Prime detail entries above (same ids as the lenses.json additions)
@@ -58,6 +70,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v39)
 
 ## ptz_cameras.json
+### v1.19.1 - 2026-11-17
+
+- Text-only cleanup of personal names in notes fields: 14 PTZ core notes (AIDA 10, BirdDog 1, Hollyland 1, Marshall 1, Minrray 1). No value, id or other field changed
+- Entry count unchanged, 287
+- Released as new db tag (db-v43)
+
 ### v1.19.0 - 2026-10-27
 
 - New brand: Z CAM (source/ptz-cameras/ptz_cameras_zcam.json, paired with source/ptz-details/ptz_details_zcam.json). 4 new born-complete PTZ core entries: P2-R1 18x zoom, P2-R1N 18x zoom, P2-R1 24x zoom, P2-R1N 24x zoom (ids zcam-p2-r1-18x, zcam-p2-r1n-18x, zcam-p2-r1-24x, zcam-p2-r1n-24x). Values as supplied in the staging file. addedDate 2026-10-27
@@ -65,6 +83,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v38)
 
 ## ptz_details.json
+### v1.30.1 - 2026-11-17
+
+- Text-only cleanup of personal names in sources fields: 1 string in the Marshall CV605-BK detail entry. No other field changed
+- Entry count unchanged, 287
+- Released as new db tag (db-v43)
+
 ### v1.30.0 - 2026-10-27
 
 - Sidecars for the 4 new Z CAM core entries above, born-complete alongside their core entries, in source/ptz-details/ptz_details_zcam.json. Values as supplied in the staging file. minLux null (not published); introductionYear 2024 on the 18x entries and "unknown" on the 24x entries
@@ -72,6 +96,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v38)
 
 ## ptz-details.json
+### v1.30.1 - 2026-11-17
+
+- Legacy hyphen alias of ptz_details.json (shared meta), carrying the same text-only cleanup
+- Entry count unchanged, 287
+- Released as new db tag (db-v43)
+
 ### v1.30.0 - 2026-10-27
 
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
@@ -187,7 +217,7 @@ Most recent changes at the top. One line per file changed per commit.
 ## ptz_cameras.json
 ### v1.18.0 - 2026-09-22
 
-- New brand: AIDA (source/ptz-cameras/ptz_cameras_aida.json, paired with source/ptz-details/ptz_details_aida.json). 10 new born-complete PTZ core entries: PTZ-X12-IP, PTZ-NDI-X12, PTZ-NDI-X18, PTZ-X20-IP, PTZ-NDI-X20, PTZ-NDI3-X20, PTZ4K-NDI-X12, PTZ4K-NDI-X30, PTZ4K12G-FNDI-X30, PTZ4KWP-NDI3-X30. Sheet-authoritative per Justin McMichael/AIDA (Path A, Martijn 2026-09-22); AIDA confirmed the public catalog and site will be corrected to match the sheet on the contested fields (HD-HFOV, sensor labels, aperture, focal on 5-6 models)
+- New brand: AIDA (source/ptz-cameras/ptz_cameras_aida.json, paired with source/ptz-details/ptz_details_aida.json). 10 new born-complete PTZ core entries: PTZ-X12-IP, PTZ-NDI-X12, PTZ-NDI-X18, PTZ-X20-IP, PTZ-NDI-X20, PTZ-NDI3-X20, PTZ4K-NDI-X12, PTZ4K-NDI-X30, PTZ4K12G-FNDI-X30, PTZ4KWP-NDI3-X30. Sheet-authoritative per the AIDA spec sheet (Path A, 2026-09-22); AIDA confirmed the public catalog and site will be corrected to match the sheet on the contested fields (HD-HFOV, sensor labels, aperture, focal on 5-6 models)
 - PTZ core count 273 -> 283
 - Released as db-v32
 
@@ -262,8 +292,8 @@ Most recent changes at the top. One line per file changed per commit.
 ### v1.35.0 — 2026-07-23
 
 - Cine datafixes batch 4, pass 4b (entry-set change only, kept separate from the pass 4a value corrections above per POS-D45): rename + two deletions
-- dzofilm-tango-18-90mm-t2-9-e (E) renamed to dzofilm-tango-18-90mm-t2-9-pl and mount E -> PL: was a phantom E-mount copy of the native PL Tango zoom (Martijn-approved mount datafix, option A). Entry moved from cine_lens_e_dzofilm.json (now-empty file removed) into cine_lens_pl_dzofilm.json. Every other field (model, description, aperture, filter, FOV inputs) carried over unchanged. Base dzofilm-tango-18-90mm-t2-9 (EF) untouched
-- fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 (bare EF phantom bases, MK is an E-mount-only series) deleted outright (Martijn-approved 2026-07-23). cine_lens_ef_fujinon.json is now empty of entries and removed. Their -e twins (fujinon-mk18-55mm-t2-9-e, fujinon-mk50-135mm-t2-9-e) untouched
+- dzofilm-tango-18-90mm-t2-9-e (E) renamed to dzofilm-tango-18-90mm-t2-9-pl and mount E -> PL: was a phantom E-mount copy of the native PL Tango zoom (owner-approved mount datafix, option A). Entry moved from cine_lens_e_dzofilm.json (now-empty file removed) into cine_lens_pl_dzofilm.json. Every other field (model, description, aperture, filter, FOV inputs) carried over unchanged. Base dzofilm-tango-18-90mm-t2-9 (EF) untouched
+- fujinon-mk18-55mm-t2-9 and fujinon-mk50-135mm-t2-9 (bare EF phantom bases, MK is an E-mount-only series) deleted outright (owner-approved 2026-07-23). cine_lens_ef_fujinon.json is now empty of entries and removed. Their -e twins (fujinon-mk18-55mm-t2-9-e, fujinon-mk50-135mm-t2-9-e) untouched
 - Entry count: cine 603 -> 601, lenses union 727 -> 725
 - cine_lenses.json split bumped to v1.32.0 (same rename + deletions)
 

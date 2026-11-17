@@ -269,7 +269,7 @@
       "opticalZoom": 10,
       "isFree": false,
       "isCustom": false,
-      "notes": "FHD USB PTZ, 1/2.9-inch 2.07MP, 10x. Datasheet 'Viewing Angle' 66.0/8.8 confirmed HORIZONTAL (Tier-1, matches geometric H 64.0, not diagonal); staged as published HFOV 66.0/8.8, no conversion (Martijn 2026-08-10). USB2.0 UVC only, no IP streaming. 1/2.9-inch dims nominal (flag). Part of UV515 family. Current.",
+      "notes": "FHD USB PTZ, 1/2.9-inch 2.07MP, 10x. Datasheet 'Viewing Angle' 66.0/8.8 confirmed HORIZONTAL (Tier-1, matches geometric H 64.0, not diagonal); staged as published HFOV 66.0/8.8, no conversion (project owner 2026-08-10). USB2.0 UVC only, no IP streaming. 1/2.9-inch dims nominal (flag). Part of UV515 family. Current.",
       "addedDate": "2026-08-11"
     },
     {

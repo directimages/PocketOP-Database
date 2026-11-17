@@ -235,7 +235,7 @@
       "opticalZoom": 5,
       "isFree": false,
       "isCustom": false,
-      "notes": "5x HD60 IP PTZ, IP/3G-SDI-tegenhanger van de USB-C CV605-U3; deelt de 5x-lensmodule. Volledig bevestigd tegen de officiele Marshall CV605-BK/WH-manual (LENS_AND_PTZ_SPECSHEETS, door Martijn aangeleverd 2026-07-24): 1/2.8-inch HD CMOS, 5X (3-15.5mm), Viewing Angle 85 (wide) t/m 16 (tele) fabrikant-gepubliceerd. De web-cutsheet noemde tele ~20, maar de manual (autoritair, POS-D01) geeft 16, consistent met de bestaande U3-entry. Current.",
+      "notes": "5x HD60 IP PTZ, IP/3G-SDI-tegenhanger van de USB-C CV605-U3; deelt de 5x-lensmodule. Volledig bevestigd tegen de officiele Marshall CV605-BK/WH-manual (LENS_AND_PTZ_SPECSHEETS, aangeleverd 2026-07-24): 1/2.8-inch HD CMOS, 5X (3-15.5mm), Viewing Angle 85 (wide) t/m 16 (tele) fabrikant-gepubliceerd. De web-cutsheet noemde tele ~20, maar de manual (autoritair, POS-D01) geeft 16, consistent met de bestaande U3-entry. Current.",
       "addedDate": "2026-08-11"
     }
   ]

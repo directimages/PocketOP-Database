@@ -31,7 +31,7 @@
       "opticalZoom": 12,
       "isFree": false,
       "isCustom": false,
-      "notes": "1/2.8-inch CMOS 2MP, 12x optical (3.5-42.3mm), 1080p60. HFOV 72.5-6.9 published by Hollyland. ToF autofocus, portrait/vertical output. USB/HDMI only, no SDI, no PoE (DC12V or USB5V). Streaming-positioned but a genuine 12x optical PTZ; in scope per lean-IN (POS-D59, Martijn 2026-07-24). Current.",
+      "notes": "1/2.8-inch CMOS 2MP, 12x optical (3.5-42.3mm), 1080p60. HFOV 72.5-6.9 published by Hollyland. ToF autofocus, portrait/vertical output. USB/HDMI only, no SDI, no PoE (DC12V or USB5V). Streaming-positioned but a genuine 12x optical PTZ; in scope per lean-IN (POS-D59, project owner 2026-07-24). Current.",
       "addedDate": "2026-08-11"
     }
   ]
