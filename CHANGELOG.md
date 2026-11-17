@@ -3,12 +3,24 @@
 Most recent changes at the top. One line per file changed per commit.
 
 ## lenses.json
+### v1.42.0 - 2026-11-17
+
+- 6 new Sigma Aizu Prime cine core entries: 21mm, 100mm and 125mm T1.3, each in PL and Sony E (POS-D09). sensorFormat fullFrame, image circle 46.3mm per POS-D28. Shards: source/cine-lenses/pl/cine_lens_pl_sigma.json and source/cine-lenses/e/cine_lens_e_sigma.json. Values as supplied in the staging file. addedDate 2026-11-17. The 16 existing Aizu entries (25 to 75mm) are untouched. cine_lenses.json split bumped to v1.37.0 (same 6 additions). Entry count: cine 641 -> 647, lenses union 817 -> 823
+- Released as new db tag (db-v42)
+
 ### v1.41.0 - 2026-11-16
 
 - 17 new cine core entries, addedDate 2026-11-16. ZEISS Aatma 18/25/35/40/50/65/85/100/135mm T1.5 (9, PL) in source/cine-lenses/pl/cine_lens_pl_zeiss.json. Cooke S4 FF/i 18/25/35/50/75/100mm T2.0 (6, PL) in source/cine-lenses/pl/cine_lens_pl_cooke.json. Thypoch Simera-C 16mm and 100mm T1.9 (2, E) in source/cine-lenses/e/cine_lens_e_thypoch.json. LPL variants of ZEISS and Cooke not imported (POS-D68). Values as supplied in the staging file. cine_lenses.json split bumped to v1.36.0 (same 17 additions). Entry count: cine 624 -> 641, lenses union 800 -> 817
 - Released as new db tag (db-v41)
 
 ## cine_lens_details.json
+### v1.58.0 - 2026-11-17
+
+- Born-complete detail sidecars for the 6 new Sigma Aizu Prime entries above, in source/cine-details/pl/cine_details_pl_sigma.json and source/cine-details/e/cine_details_e_sigma.json. Values as supplied in the staging file
+- No existing entry changed
+- Entry count 641 -> 647, matches cine_lenses.json id-set exactly
+- Released as new db tag (db-v42)
+
 ### v1.57.0 - 2026-11-16
 
 - Born-complete detail sidecars for the 17 new cine entries above, in source/cine-details/pl/cine_details_pl_zeiss.json, source/cine-details/pl/cine_details_pl_cooke.json and source/cine-details/e/cine_details_e_thypoch.json. Values as supplied in the staging file
@@ -18,6 +30,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.62.0 - 2026-11-17
+
+- Legacy union rebuild carrying the 6 new Sigma Aizu Prime detail entries above (same ids as the lenses.json additions)
+- Entry count 817 -> 823
+- Released as new db tag (db-v42)
+
 ### v1.61.0 - 2026-11-16
 
 - Legacy union rebuild carrying the 17 new cine detail entries above (same ids as the lenses.json additions) and the field pass on 12 existing cine entries
