@@ -1,5 +1,5 @@
 {
-  "version": "1.41.0",
+  "version": "1.42.0",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -10369,6 +10369,114 @@
       "addedDate": null
     },
     {
+      "id": "sigma-aizu-prime-100mm-t1-3-e",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 100mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 100.0,
+      "focalLengthMax": 100.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), E mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (100mm = 20.4 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
+      "id": "sigma-aizu-prime-100mm-t1-3-pl",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 100mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 100.0,
+      "focalLengthMax": 100.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), PL mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (100mm = 20.4 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
+      "id": "sigma-aizu-prime-125mm-t1-3-e",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 125mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 125.0,
+      "focalLengthMax": 125.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), E mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (125mm = 16.4 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
+      "id": "sigma-aizu-prime-125mm-t1-3-pl",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 125mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 125.0,
+      "focalLengthMax": 125.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), PL mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (125mm = 16.4 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
+      "id": "sigma-aizu-prime-21mm-t1-3-e",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 21mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 21.0,
+      "focalLengthMax": 21.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "E",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), E mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (21mm = 81.2 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
+      "id": "sigma-aizu-prime-21mm-t1-3-pl",
+      "manufacturer": "Sigma",
+      "model": "Aizu Prime 21mm T1.3",
+      "series": "Aizu Prime",
+      "generation": "Cinema",
+      "focalLengthMin": 21.0,
+      "focalLengthMax": 21.0,
+      "zoomRatio": 1,
+      "extenderFactor": 1.0,
+      "sensorFormat": "fullFrame",
+      "mount": "PL",
+      "isPTZ": false,
+      "isFree": false,
+      "isCustom": false,
+      "notes": "Full-frame cine prime, T1.3. Image circle 46.3mm = fullFrame per POS-D28 (Sigma markets as LF-covering: ARRI ALEXA LF Open Gate / VistaVision, which is the FF class). Part of the second Aizu Prime release (21/100/125mm, announced 2026-08-31, launch November 2026), PL mount. Prime: zoomRatio 1, maxApertureTele null. HFOV cross-check: 36mm-FF model reproduces Sigma's published Full Frame AOV exactly (21mm = 81.2 deg). Source: sigma-global.com per-lens spec page. Staged 2026-11-17 (Sniffer W47).",
+      "addedDate": "2026-11-17"
+    },
+    {
       "id": "sigma-aizu-prime-25mm-t1-3-e",
       "manufacturer": "Sigma",
       "model": "Aizu Prime 25mm T1.3",
@@ -14707,5 +14815,5 @@
       "addedDate": null
     }
   ],
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-17"
 }
