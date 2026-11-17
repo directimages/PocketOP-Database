@@ -1,5 +1,5 @@
 {
-  "version": "1.62.0",
+  "version": "1.62.1",
   "updatedAt": "2026-11-17",
   "lenses": [
     {
@@ -15435,7 +15435,7 @@
       "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "laowacine.com OOOM product page (tier-1)",
-        "weightG": "Duclos Lenses: 2700g (tier-2); manufacturer page says '~2.5kg' (approximate, tier-1) — Duclos concrete value used per Martijn instruction",
+        "weightG": "Duclos Lenses: 2700g (tier-2); manufacturer page says '~2.5kg' (approximate, tier-1); Duclos concrete value used per project owner instruction",
         "lengthMm": "laowacine.com: '240mm' (tier-1)",
         "frontDiameterMm": "laowacine.com: 'Φ 102*240mm' (tier-1)",
         "closeFocusM": "laowacine.com: '60cm' (tier-1)",
@@ -19107,7 +19107,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19146,7 +19146,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19185,7 +19185,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19224,7 +19224,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19263,7 +19263,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19302,7 +19302,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19341,7 +19341,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19380,7 +19380,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19419,7 +19419,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19458,7 +19458,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19497,7 +19497,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19536,7 +19536,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19575,7 +19575,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19614,7 +19614,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -19653,7 +19653,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -19692,7 +19692,7 @@
       "gearPitch": 0.8,
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -26843,7 +26843,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -26878,7 +26878,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -26913,7 +26913,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -26949,7 +26949,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -26984,7 +26984,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -27019,7 +27019,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -27054,7 +27054,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -27089,7 +27089,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [

@@ -1,6 +1,6 @@
 {
-  "version": "1.30.0",
-  "updatedAt": "2026-10-27",
+  "version": "1.30.1",
+  "updatedAt": "2026-11-17",
   "cameras": [
     {
       "id": "aida-ptz-ndi-x12",
@@ -10232,7 +10232,7 @@
       "hasWallMount": true,
       "sources": [
         "https://marshall-usa.com/cameras/CV605-BK-WH/",
-        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd Martijn 2026-07-24)",
+        "CV605-BK-WH-manual.pdf (Marshall official manual, LENS_AND_PTZ_SPECSHEETS, aangeleverd 2026-07-24)",
         "Marshall tech support confirmation, 2026-08-24 (maxApertureTele)."
       ],
       "introductionYear": "unknown",

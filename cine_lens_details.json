@@ -1,5 +1,5 @@
 {
-  "version": "1.58.0",
+  "version": "1.58.1",
   "updatedAt": "2026-11-17",
   "lenses": [
     {
@@ -12451,7 +12451,7 @@
       "gearPitch": 0.8,
       "sources": {
         "manufacturerUrl": "laowacine.com OOOM product page (tier-1)",
-        "weightG": "Duclos Lenses: 2700g (tier-2); manufacturer page says '~2.5kg' (approximate, tier-1) — Duclos concrete value used per Martijn instruction",
+        "weightG": "Duclos Lenses: 2700g (tier-2); manufacturer page says '~2.5kg' (approximate, tier-1); Duclos concrete value used per project owner instruction",
         "lengthMm": "laowacine.com: '240mm' (tier-1)",
         "frontDiameterMm": "laowacine.com: 'Φ 102*240mm' (tier-1)",
         "closeFocusM": "laowacine.com: '60cm' (tier-1)",
@@ -16647,7 +16647,7 @@
       "description": "The 25mm is a wide-angle prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, suited to environmental and establishing framing. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -16693,7 +16693,7 @@
       "description": "The 25mm is a wide-angle prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, suited to environmental and establishing framing. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -16739,7 +16739,7 @@
       "description": "The 27mm sits at the wide end of Sigma's Aizu line, the first cinema series to carry a T1.3 aperture across every focal length, a touch tighter than a classic wide. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -16785,7 +16785,7 @@
       "description": "The 27mm sits at the wide end of Sigma's Aizu line, the first cinema series to carry a T1.3 aperture across every focal length, a touch tighter than a classic wide. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -16831,7 +16831,7 @@
       "description": "The 32mm is a wide-normal prime in the Aizu line, Sigma's first cinema series to hold T1.3 at every focal length, a versatile field of view for handheld and documentary work. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -16877,7 +16877,7 @@
       "description": "The 32mm is a wide-normal prime in the Aizu line, Sigma's first cinema series to hold T1.3 at every focal length, a versatile field of view for handheld and documentary work. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -16923,7 +16923,7 @@
       "description": "The 35mm is a classic wide-normal prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, a mainstay focal for narrative coverage. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -16969,7 +16969,7 @@
       "description": "The 35mm is a classic wide-normal prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, a mainstay focal for narrative coverage. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -17015,7 +17015,7 @@
       "description": "The 40mm is a normal-length prime in the Aizu line, Sigma's first cinema series to carry T1.3 at every focal length, close to the eye's natural perspective. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -17061,7 +17061,7 @@
       "description": "The 40mm is a normal-length prime in the Aizu line, Sigma's first cinema series to carry T1.3 at every focal length, close to the eye's natural perspective. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -17107,7 +17107,7 @@
       "description": "The 50mm is a standard prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, a natural, neutral field of view for dialogue and coverage. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -17153,7 +17153,7 @@
       "description": "The 50mm is a standard prime in Sigma's Aizu line, the first cinema series to hold a T1.3 aperture across every focal length, a natural, neutral field of view for dialogue and coverage. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -17199,7 +17199,7 @@
       "description": "The 65mm is a short-telephoto prime in the Aizu line, Sigma's first cinema series to hold T1.3 at every focal length, flattering for close framing and portraiture. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -17245,7 +17245,7 @@
       "description": "The 65mm is a short-telephoto prime in the Aizu line, Sigma's first cinema series to hold T1.3 at every focal length, flattering for close framing and portraiture. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.6kg -> 1600g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -17291,7 +17291,7 @@
       "description": "The 75mm is a portrait-length telephoto in Sigma's Aizu line, the first cinema series to carry a T1.3 aperture across every focal length, isolating subjects with a shallow, organic falloff. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, E mount: Sigma publishes 1-decimal kg (1.8kg -> 1800g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, E mount (Tier 1)",
@@ -17337,7 +17337,7 @@
       "description": "The 75mm is a portrait-length telephoto in Sigma's Aizu line, the first cinema series to carry a T1.3 aperture across every focal length, isolating subjects with a shallow, organic falloff. Modern sharpness meets an organic, gently soft rendering, with distortion and focus breathing held to a minimum and a consistent color, contrast and flare character across the line. Covers full-frame and large-format cinema cameras such as the ARRI ALEXA LF Open Gate and VistaVision, in PL and Sony E mount.",
       "sources": {
         "imageCircleMm": "sigma-global.com per-lens spec page: phi 46.3mm (Tier 1)",
-        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed Martijn 2026-09-05",
+        "sensorFormat": "Derived from imageCircleMm 46.3mm per POS-D28 (fullFrame ~46mm; largeFormat is 54mm+). Sigma's LF marketing = ALEXA LF Open Gate / VistaVision coverage, i.e. the FF class. Confirmed by the project owner 2026-09-05",
         "maxApertureWide": "sigma-global.com spec page: T1.3, apertureType T from Sigma T-stop notation (Tier 1)",
         "weightG": "sigma-global.com spec page, PL mount: Sigma publishes 1-decimal kg (1.7kg -> 1700g); lb figures are Sigma's own rounding, not recorded (Tier 1)",
         "lengthMm": "sigma-global.com spec page, PL mount (Tier 1)",
@@ -25596,7 +25596,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25637,7 +25637,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25678,7 +25678,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25720,7 +25720,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25761,7 +25761,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25802,7 +25802,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25843,7 +25843,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
@@ -25884,7 +25884,7 @@
         "imageCircleMm": "zeiss.com Panoptes 65 product page (Tier 1): 59.9mm image circle",
         "filterType": "B&H per-lens specs: Filter Thread No; ZEISS frames 95/114mm as front outside diameters for matte box use (Tier 1 + Tier 4)",
         "filterThreadMm": "B&H per-lens specs table: Filter Thread No (Tier 4); Duclos 35mm listing: Filter Thread N/A. Confirmed absent (POS-D24)",
-        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by Martijn 2026-06-13",
+        "hasFocusBreathing": "Duclos Lenses 35mm listing: Minimal focus breathing (Tier 4); approved as series value by the project owner 2026-06-13",
         "gearPitch": "B&H per-lens listing key features: 0.8 MOD Gearing (Tier 4), individually verified on all eight product pages"
       },
       "webSources": [
