@@ -25,10 +25,11 @@ to its first letter plus asterisks, because CI logs of a public repo are public.
 
 Known limits: a name outside an attribution phrase is not seen; a subject
 written in lower case is not seen; a name next to a company that is not a
-manufacturer in the data ("X/SomeCorp") is not seen. Words with digits and
-single letters are skipped (model numbers, decision ids). Kay and Tim are
-agent names on the allowlist, and are also common given names, so "confirmed by
-Tim" passes for any real person called Tim.
+manufacturer in the data ("X/SomeCorp") is not seen; "source: X" is not
+checked. Words with digits and single letters are skipped (model numbers,
+decision ids). Kay is an agent name on the allowlist and is also a given name,
+so "confirmed by Kay" passes for any real person called Kay. Short capitalised
+allowlist terms could equal a person's initials.
 
 Standard library only. Works on macOS and Windows.
 
@@ -217,6 +218,10 @@ _DATE = (r"(?:\d{4}-\d{2}-\d{2}"
 _VERB = (r"(?:confirm\w*|approv\w*|verif\w*|check\w*|suppl\w*|provid\w*|measur\w*"
          r"|sign\w*\s+off|review\w*|bevestigd|goedgekeurd|aangeleverd|opgegeven|gemeten)")
 
+_PARTICIPLE = (r"(?:approved|confirmed|verified|sourced|supplied|provided|checked|measured"
+               r"|signed|reviewed|tested|validated|authori[sz]ed|goedgekeurd|bevestigd"
+               r"|gecontroleerd|aangeleverd|opgegeven|gemeten|geleverd|nagekeken)")
+
 _START = r"(?<![\w\-])"
 
 # Order matters: when two forms hit the same subject the first one is reported.
@@ -234,7 +239,25 @@ _FORMS = [
     ("akkoord", r"(?i:\bakkoord\s+(?:van|door|met)\s+)" + _SUBJ),
     ("possessive", _START + _SUBJ + r"['\u2019]s?\s+(?i:" + _NOUN + r")\b"),
     ("from_noun", r"(?i:\b(?:uit|from|via|volgens)\s+)" + _SUBJ + r"\s+(?i:" + _NOUN + r")\b"),
-    ("quarter", _START + _SUBJ + r"\s+Q[1-4]\b"),
+    ("quarter", _START + _SUBJ + r"\s+Q\d{1,2}\b"),
+    # Compound: a capitalised word joined to an attribution participle,
+    # "(X-approved mount datafix)", "X-sourced". The subject is the part before
+    # the participle, checked like any other subject.
+    ("compound", _START + r"(?P<a>[%s][\w\u2019']*(?:-[%s][\w\u2019']*)*)-(?i:%s)\b"
+                 % (_CAP, _CAP, _PARTICIPLE)),
+    # Attribution verb, then "with X": "confirmed with X", "bevestigd met X".
+    ("with_x", r"(?i:\b(?:confirm\w*|check\w*|verif\w*|approv\w*|agreed|clarif\w*|bevestigd"
+               r"|gecontroleerd|afgestemd|besproken)\s+(?:(?:it|this|that|them)\s+)?"
+               r"(?:with|met|bij)\s+)" + _SUBJ),
+    # Subject before the verb: "X confirmed", "X (Brand) said", "X bevestigde".
+    # "stated" and "verified" are left out on purpose: in this data they are
+    # record words ("Not stated", "HFOV verified"), not attributions.
+    ("subject_verb", _START + _SUBJ + r"(?:\s*\([^)]{1,40}\))?\s+"
+                     r"(?i:confirmed|said|wrote|approved|agreed|replied|mailed|emailed|told"
+                     r"|confirms|says|writes|approves|agrees|replies"
+                     r"|bevestigde|zei|schreef|meldde|mailde|antwoordde|keurde"
+                     r"|bevestigt|zegt|schrijft|meldt|mailt|antwoordt|keurt)\b"),
+    ("thanks", r"(?i:\b(?:thanks\s+to|dank\s+aan|credits?\s+to)\s+)" + _SUBJ),
 ]
 _FORM_RES = [(name, re.compile(pattern)) for name, pattern in _FORMS]
 
@@ -244,6 +267,25 @@ _FORM_RES = [(name, re.compile(pattern)) for name, pattern in _FORMS]
 _SLASH = re.compile(r"(?<![\w/.\-])(?P<l>%s)/(?P<r>%s)(?![\w/])" % (_WORD, _WORD))
 
 _URL = re.compile(r"https?://\S+")
+
+# Forms that start with the subject cannot tell "iPhone 13 Pro Max confirms" or
+# "0.8 MOD confirmed" from "X confirms", so they skip a subject that belongs to
+# a model designation. Names carry no digits.
+_MODEL_GUARDED = {"subject_verb"}
+_DATE_LIKE = re.compile(r"\d{4}-\d{2}-\d{2}|\d{1,2}[-/.]\d{1,2}[-/.]\d{4}")
+
+
+def _is_model_designation(text, match):
+    """True when the subject contains a model number or follows a bare number."""
+    subject = match.group("a")
+    if any(c.isdigit() for c in subject):
+        return True
+    before = text[:match.start("a")]
+    if not before or not before[-1].isspace():
+        return False
+    token = before.split()[-1]
+    return (any(c.isdigit() for c in token) and token[-1] not in ",;:.)!?"
+            and not _DATE_LIKE.fullmatch(token))
 
 
 def scan_text(text, vocab):
@@ -257,6 +299,8 @@ def scan_text(text, vocab):
         for m in rx.finditer(blanked):
             key = m.start("a")
             if key in seen:
+                continue
+            if form in _MODEL_GUARDED and _is_model_designation(blanked, m):
                 continue
             terms = vocab.unallowed(m.group("a"))
             if terms:

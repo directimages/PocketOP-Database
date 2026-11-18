@@ -166,8 +166,10 @@ by role ("the project owner"). Names enter published text through attribution
 phrasing in free text, so `build/attribution_gate.py` checks the pattern, not a
 list of names. It scans every string in every `source/**/*.json` shard and every
 line of `CHANGELOG.md`, in English and Dutch, for phrases such as "confirmed by
-X", "approved ... by X", "per X", "according to X", "(X 2026-08-10)", "X
-akkoord", "uit Xs sheet", "X Q2" and "X/BRAND". The subject X must be allowed:
+X", "approved ... by X", "per X", "according to X", "confirmed with X", "X
+confirmed" and "X said" (and "X bevestigt", "X zei"), "thanks to X", "(X
+2026-08-10)", "X akkoord", "uit Xs sheet", "X Q2", "X/BRAND" and the compound
+"X-approved" / "X-sourced". The subject X must be allowed:
 
 - a manufacturer or brand taken from the `manufacturer` and `brand` fields of
   the shards, derived automatically, so a new brand needs no manual addition; or
@@ -185,11 +187,15 @@ person, replace it with a role in the text.
 
 Known limits: a name outside an attribution phrase is not seen; a subject
 written in lower case is not seen; "X/COMPANY" is only checked when COMPANY is a
-manufacturer in the data and the brand comes second; words with digits and
-single letters are skipped. Kay and Tim are agent names on the allowlist and
-also common given names, so "confirmed by Tim" passes for any real person called
-Tim. The gate cannot block a direct push to main; it blocks the release (no
-tag, no website dispatch) and fails the workflow.
+manufacturer in the data and the brand comes second; "source: X" is not checked
+(too common in ordinary data text); the subject-before-verb form leaves out
+"stated" and "verified" and skips a subject that contains a model number or
+follows a bare number ("iPhone 13 Pro Max confirms"); words with digits and
+single letters are skipped. Kay is an agent name on the allowlist and also a
+given name, so "confirmed by Kay" passes for any real person called Kay; short
+capitalised terms on the list could equal a person's initials. The gate cannot
+block a direct push to main; it blocks the release (no tag, no website
+dispatch) and fails the workflow.
 
 ## When the Action fails
 

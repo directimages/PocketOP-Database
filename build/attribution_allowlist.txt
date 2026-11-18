@@ -15,10 +15,10 @@
 #   - Months that double as given names (April, May, June, August, mei, juni)
 #     are deliberately not listed.
 
-# Agent names. Not real people, but also common given names, so "confirmed by
-# Tim" passes for any real person called Tim. This is a known limit.
+# Agent name. Not a real person, but also a given name, so "confirmed by Kay"
+# passes for any real person called Kay. This is a known limit. Other agent
+# names are deliberately not listed: add one only when current data needs it.
 Kay
-Tim
 
 # Publications and public sources.
 Newsshooter
@@ -51,6 +51,26 @@ Zoom
 Retro
 Optimo
 Style
+
+# Record verbs used in dated notes ("Verified 2026-11-20"). A name after one of
+# them is still checked: "Verified <name> 2026-11-20" fails.
+Verified
+Confirmed
+Checked
+Updated
+Measured
+Corrected
+Added
+Removed
+Released
+Bevestigd
+Gecontroleerd
+Bijgewerkt
+
+# Ordinary words and technical terms met in "Not confirmed" style text and in
+# "thanks to X" text.
+Not
+DO
 
 # Technical terms.
 EF

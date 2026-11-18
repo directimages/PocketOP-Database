@@ -160,7 +160,89 @@ class PhraseFormTests(TreeCase):
 
     def test_quarter(self):
         self.assert_flags("quarter", ["F1.5-F3.0 (%s Q2)." % NAME,
-                                      "chipset (%s Q3 bevestigd)" % NAME])
+                                      "chipset (%s Q3 bevestigd)" % NAME,
+                                      "no IR remote (%s Q6: none)" % NAME,
+                                      "answer (%s Q12)" % NAME])
+
+    def test_quarter_style_numbers_need_a_boundary(self):
+        for text in ("%s Q123 model" % NAME, "%s Q6A body" % NAME):
+            with self.subTest(text=text):
+                self.assertEqual(self.scan_notes(text), [])
+
+    def test_compound_name_joined_to_an_attribution_participle(self):
+        self.assert_flags("compound", [
+            "(%s-approved mount datafix)" % NAME,
+            "%s-confirmed value" % NAME,
+            "%s-verified" % NAME,
+            "%s-sourced values" % NAME,
+            "%s-supplied" % NAME,
+            "%s-provided" % NAME,
+            "%s-checked" % NAME,
+            "%s-measured" % NAME,
+            "%s-signed off" % NAME,
+            "%s-goedgekeurd" % NAME,
+            "%s-bevestigd" % NAME,
+        ])
+
+    def test_compound_with_a_hyphenated_name_reports_every_part(self):
+        self.assertEqual(self.flagged_terms("(%s-%s-approved)" % (NAME, OTHER_NAME)),
+                         sorted([NAME, OTHER_NAME]))
+
+    def test_compound_with_an_allowed_subject_passes(self):
+        for text in ("Newsfeed-verified", "%s-sourced" % BRAND, "%s-supplied" % BRAND.upper(),
+                     "%s-approved" % NAME.lower(), "X100-approved", "A-approved"):
+            with self.subTest(text=text):
+                self.assertEqual(self.scan_notes(text), [])
+
+    def test_attribution_verb_with_a_subject(self):
+        self.assert_flags("with_x", ["confirmed with %s" % NAME,
+                                     "checked with %s." % NAME,
+                                     "confirmed it with %s" % NAME,
+                                     "bevestigd met %s" % NAME,
+                                     "afgestemd met %s" % NAME])
+
+    def test_subject_before_the_verb(self):
+        self.assert_flags("subject_verb", ["%s confirmed the value" % NAME,
+                                           "%s said so" % NAME,
+                                           "%s wrote back" % NAME,
+                                           "%s approved it" % NAME,
+                                           "%s (%s) confirmed" % (NAME, BRAND),
+                                           "%s bevestigde dit" % NAME,
+                                           "%s zei dat" % NAME,
+                                           "%s bevestigt dat site en catalogus kloppen" % NAME,
+                                           "%s zegt dat" % NAME,
+                                           "%s schrijft dat" % NAME,
+                                           "%s confirms the value" % NAME,
+                                           "%s says so" % NAME,
+                                           "%s writes that" % NAME])
+
+    def test_subject_before_the_verb_ignores_model_designations(self):
+        for text in ("iPhone 13 Pro Max confirms the value", "0.8 MOD confirmed (primary)",
+                     "CN7x17 KAS S confirmed", "Series 7 Zoom Pro approved"):
+            with self.subTest(text=text):
+                self.assertEqual(self.scan_notes(text), [])
+
+    def test_a_number_or_date_in_front_of_a_name_does_not_hide_it(self):
+        for text in ("values gave 72.5, %s confirms that" % NAME,
+                     "2026-10-10 %s confirmed" % NAME,
+                     "wide 56 (%s confirmed)" % NAME):
+            with self.subTest(text=text):
+                self.assertEqual(self.flagged_terms(text), [NAME])
+
+    def test_subject_before_the_verb_passes_for_allowed_subjects(self):
+        for text in ("%s confirmed" % BRAND, "Newsfeed confirmed", "the lens was confirmed",
+                     "%s confirmed" % NAME.lower()):
+            with self.subTest(text=text):
+                self.assertEqual(self.scan_notes(text), [])
+
+    def test_thanks_to_and_credit(self):
+        self.assert_flags("thanks", ["thanks to %s" % NAME, "dank aan %s" % NAME,
+                                     "credit to %s." % NAME])
+
+    def test_source_colon_is_not_checked(self):
+        # Known limit: "source: X" is too common in ordinary data text.
+        self.assertEqual(self.scan_notes("Source: %s" % NAME), [])
+        self.assertEqual(self.scan_notes("bron: %s" % NAME), [])
 
     def test_slash_with_a_brand_from_the_data(self):
         self.assert_flags("slash", ["Sheet-authoritair (%s/%s, Path)" % (NAME, BRAND),
@@ -417,6 +499,36 @@ class AllowlistFileTests(unittest.TestCase):
     def test_committed_allowlist_parses_and_is_not_empty(self):
         terms = gate.load_allowlist(gate.DEFAULT_ALLOWLIST)
         self.assertGreater(len(terms), 10)
+
+
+class CommittedAllowlistBehaviourTests(TreeCase):
+    """What the shipped allowlist lets through and what it still stops."""
+
+    def committed(self, text):
+        self.shard("lenses/lens_acme.json", [lens("unit-1", notes=text)])
+        return self.scan(gate.load_allowlist(gate.DEFAULT_ALLOWLIST))
+
+    def test_a_dated_record_note_passes(self):
+        words = ("Verified", "Confirmed", "Checked", "Updated", "Measured", "Corrected",
+                 "Added", "Removed", "Released", "Bevestigd", "Gecontroleerd", "Bijgewerkt")
+        for word in words:
+            with self.subTest(word=word):
+                self.assertEqual(self.committed("%s 2026-11-20" % word), [])
+        self.assertEqual(self.committed("Verified 2026-11-20"), [])
+
+    def test_a_record_verb_in_front_of_a_name_still_fails(self):
+        found = self.committed("Verified %s 2026-11-20" % NAME)
+        self.assertEqual([t for v in found for t in v.terms], [NAME])
+        found = self.committed("(Verified %s 2026-11-20)" % NAME)
+        self.assertEqual([t for v in found for t in v.terms], [NAME])
+
+    def test_the_first_agent_name_stays_and_the_second_is_not_listed(self):
+        self.assertEqual(self.committed("confirmed by Kay"), [])
+        self.assertEqual([t for v in self.committed("confirmed by Tim") for t in v.terms],
+                         ["Tim"])
+
+    def test_ordinary_negations_before_a_verb_pass(self):
+        self.assertEqual(self.committed("Not confirmed by the manufacturer"), [])
 
 
 class AssembleIntegrationTests(TreeCase):
