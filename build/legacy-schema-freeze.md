@@ -35,7 +35,7 @@ data: stop and report, do not widen the whitelist to force a pass.
 The strip is wired into `assemble.py` live, as a proven no op today. It begins
 removing fields the moment the first field outside this whitelist appears in the
 source. The strip and this whitelist are throwaway: once the `@main` legacy route
-is retired (a separate Martijn decision), both are deleted.
+is retired (a separate decision by the project owner), both are deleted.
 
 ## Granularity
 
@@ -45,7 +45,7 @@ not where new fields enter the pipeline.
 
 ## Teardown (when @main is retired)
 
-The freeze is throwaway. Once Martijn retires the `@main` legacy route (a
+The freeze is throwaway. Once the project owner retires the `@main` legacy route (a
 separate decision, POS-D31), delete the whole mechanism in one pass:
 
 - Delete the three build files: `build/legacy_whitelist.json`,

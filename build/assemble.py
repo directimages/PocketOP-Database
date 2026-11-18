@@ -37,6 +37,7 @@ import re
 import sys
 import unicodedata
 
+import attribution_gate
 import field_registry
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -44,6 +45,7 @@ SOURCE = os.path.join(REPO_ROOT, "source")
 META_DIR = os.path.join(SOURCE, "meta")
 SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output_schema.json")
 LEGACY_WHITELIST_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "legacy_whitelist.json")
+ATTRIBUTION_ALLOWLIST_PATH = attribution_gate.DEFAULT_ALLOWLIST
 
 
 class AssembleError(Exception):
@@ -619,6 +621,29 @@ def validate_outputs(built):
 
 
 # --------------------------------------------------------------------------
+# Attribution gate (POS-W113).
+#
+# No real person's name may appear in published text. Names enter through
+# attribution phrasing ("confirmed by X", "per X instruction", "(X 2026-08-10)"),
+# so build/attribution_gate.py checks that pattern in every shard string and
+# every CHANGELOG.md line, and fails unless the subject is a brand from the data
+# or on build/attribution_allowlist.txt. In CI the subject text is masked.
+# --------------------------------------------------------------------------
+
+
+def check_attribution():
+    try:
+        violations = attribution_gate.scan(
+            SOURCE, os.path.join(REPO_ROOT, "CHANGELOG.md"),
+            attribution_gate.load_allowlist(ATTRIBUTION_ALLOWLIST_PATH),
+            base_dir=REPO_ROOT)
+    except attribution_gate.GateError as exc:
+        fail(str(exc))
+    if violations:
+        fail(attribution_gate.format_report(violations, attribution_gate.is_ci()))
+
+
+# --------------------------------------------------------------------------
 # Legacy schema freeze strip.
 #
 # The legacy outputs (lenses.json, lens-details.json, and the ptz-details.json
@@ -761,6 +786,7 @@ def run_check():
     built = build_outputs(pools)
     strip_legacy_outputs(built)
     validate_outputs(built)
+    check_attribution()
     baselines = load_baselines()
     diffs = field_diff(built, baselines)
     if diffs:
@@ -785,6 +811,7 @@ def run_assemble():
     built = build_outputs(pools)
     strip_legacy_outputs(built)
     validate_outputs(built)
+    check_attribution()
     written = write_outputs(built)
     print("Assembled %d output files:" % len(written))
     for out in OUTPUTS:

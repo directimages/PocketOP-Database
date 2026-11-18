@@ -4,8 +4,9 @@ name: Build Batches Tests
 # build tooling is verified on both platforms it is used on, not just the
 # platform CI happens to run on by default. This covers cross-file shard
 # pooling in build/build_batches.py and the schema gate in build/assemble.py
-# (including the devices.json checks against build/output_schema.json),
-# among the other test files in tests/. All tests operate on synthetic
+# (including the devices.json checks against build/output_schema.json), plus
+# the attribution gate in build/attribution_gate.py, among the other test files
+# in tests/. All tests operate on synthetic
 # fixtures under a temporary directory; none of them touch the real vault
 # import pipeline, any real staging data, or the real source shards.
 # This file contains no em dashes by project policy.
@@ -15,6 +16,8 @@ on:
     paths:
       - 'build/build_batches.py'
       - 'build/assemble.py'
+      - 'build/attribution_gate.py'
+      - 'build/attribution_allowlist.txt'
       - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
@@ -22,6 +25,8 @@ on:
     paths:
       - 'build/build_batches.py'
       - 'build/assemble.py'
+      - 'build/attribution_gate.py'
+      - 'build/attribution_allowlist.txt'
       - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
@@ -37,7 +42,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [macos-14, windows-latest]
+        # macos-14 is no longer offered by GitHub (the runner configuration is
+        # rejected), so the macOS leg uses the next exact image label.
+        os: [macos-15, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout

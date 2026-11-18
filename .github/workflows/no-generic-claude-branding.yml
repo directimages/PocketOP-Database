@@ -2,9 +2,10 @@ name: No generic Claude branding
 
 # Public-repo guardrail. The repo owner does not want generic Claude /
 # "Claude Code" branding anywhere in this repository's pull requests or
-# history. The standing rule lives in CLAUDE.md (the "Attribution on this
-# public repository" section) and overrides the Claude Code harness default
-# that appends a "Generated with Claude Code" footer to PR descriptions.
+# history. The standing rule is the agent attribution policy (POS-W59), kept
+# as local agent configuration that is not tracked in this repository, and it
+# overrides the Claude Code harness default that appends a "Generated with
+# Claude Code" footer to PR descriptions.
 # This workflow is the mechanical backstop: it reads the PR description and
 # the PR's commit messages and FAILS if either carries that branding, so such
 # a PR cannot be merged. It only preserves the agent-specific
