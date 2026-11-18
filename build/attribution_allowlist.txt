@@ -1,0 +1,80 @@
+# Allowlist for the attribution gate (build/attribution_gate.py, POS-W113).
+#
+# A word on this list may be the subject of an attribution phrase such as
+# "confirmed by X" or "per X" without failing the build. Manufacturer and brand
+# names are NOT listed here: they are derived from the manufacturer and brand
+# fields of the shards, so a new brand never needs an entry.
+#
+# Rules for this file:
+#   - One word per line. Case, accents and a trailing possessive are ignored.
+#   - Public sources, retailers, ordinary words and document words only.
+#   - NEVER add a real person's name. If a flagged subject is a person, fix the
+#     text (use a role such as "the project owner") instead of adding it here.
+#   - Adding a term is a visible diff in a PR. The PR description lists each
+#     term added.
+#   - Months that double as given names (April, May, June, August, mei, juni)
+#     are deliberately not listed.
+
+# Agent names. Not real people, but also common given names, so "confirmed by
+# Tim" passes for any real person called Tim. This is a known limit.
+Kay
+Tim
+
+# Publications and public sources.
+Newsshooter
+YMCinema
+Crafting
+Pixels
+FD
+Times
+
+# Brands and companies that are not a manufacturer or brand field in the data.
+Amazon
+Apple
+Fujifilm
+CAM
+AVCaptureDevice
+
+# Document and ordinary words.
+ADDENDUM
+Section
+Manual
+Operation
+Feedback
+Announced
+Staged
+Update
+Path
+Tier
+Film
+Zoom
+Retro
+Optimo
+Style
+
+# Technical terms.
+EF
+SW
+CP
+DC
+PoE
+NDI
+SMO
+AV
+IQ
+
+# Months that are not also given names. Dutch months spelled like the English
+# one (September, November, December) are covered by the English entry.
+January
+February
+March
+July
+September
+October
+November
+December
+januari
+februari
+maart
+juli
+oktober

@@ -157,6 +157,39 @@ field, and commits nothing:
 - the lenses id set not equal to the lens-details id set, or the ptz_cameras id
   set not equal to the ptz-details id set
 - a meta file missing its `version`
+- an attribution phrase whose subject is not allowed (see below)
+
+### The attribution gate (POS-W113)
+
+No real person's name goes into a public PocketOP repo; people are referred to
+by role ("the project owner"). Names enter published text through attribution
+phrasing in free text, so `build/attribution_gate.py` checks the pattern, not a
+list of names. It scans every string in every `source/**/*.json` shard and every
+line of `CHANGELOG.md`, in English and Dutch, for phrases such as "confirmed by
+X", "approved ... by X", "per X", "according to X", "(X 2026-08-10)", "X
+akkoord", "uit Xs sheet", "X Q2" and "X/BRAND". The subject X must be allowed:
+
+- a manufacturer or brand taken from the `manufacturer` and `brand` fields of
+  the shards, derived automatically, so a new brand needs no manual addition; or
+- a word on `build/attribution_allowlist.txt` (public sources, ordinary words,
+  agent names). Adding a word is a visible diff in a PR. Never add a person.
+
+The gate runs inside `build/assemble.py` (also with `--check`), before anything
+is written, and as its own read-only workflow, `attribution-gate.yml`, on pull
+requests and on pushes to main that touch `source/` or `CHANGELOG.md`. Run it
+alone with `python build/attribution_gate.py`. A failure names the file, entry
+id, field (or CHANGELOG line), phrase form and character offset. When the `CI`
+environment variable is set, the subject text is masked (first letter plus
+asterisks), because CI logs of a public repo are public. If the subject is a
+person, replace it with a role in the text.
+
+Known limits: a name outside an attribution phrase is not seen; a subject
+written in lower case is not seen; "X/COMPANY" is only checked when COMPANY is a
+manufacturer in the data and the brand comes second; words with digits and
+single letters are skipped. Kay and Tim are agent names on the allowlist and
+also common given names, so "confirmed by Tim" passes for any real person called
+Tim. The gate cannot block a direct push to main; it blocks the release (no
+tag, no website dispatch) and fails the workflow.
 
 ## When the Action fails
 

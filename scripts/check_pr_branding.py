@@ -4,8 +4,10 @@ Claude / "Claude Code" branding or attribution.
 This is a public repository. The repo owner does not want generic-Claude
 branding anywhere in its history or its pull requests. The Claude Code
 harness has a default that tells agents to end PR descriptions with a
-"Generated with Claude Code" footer; the standing rule in CLAUDE.md overrides
-that default, and this check is the mechanical backstop that guarantees it:
+"Generated with Claude Code" footer; the standing agent attribution policy
+(POS-W59, kept as local agent configuration and not tracked in this repo)
+overrides that default, and this check is the mechanical backstop that
+guarantees it:
 a PR whose body or commits carry the footer fails here and cannot be merged.
 
 What is flagged (attribution and branding only, never prose):
@@ -106,7 +108,7 @@ def main(argv):
         return 0
 
     print("Generic Claude branding / attribution is not allowed on this public repository.")
-    print("See the 'Attribution on this public repository' section of CLAUDE.md.\n")
+    print("The standing rule is the agent attribution policy (POS-W59).\n")
     for label, violations in dirty.items():
         print(f"In {label}:")
         for line_number, line, _pattern in violations:

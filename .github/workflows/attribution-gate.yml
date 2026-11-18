@@ -1,0 +1,50 @@
+name: Attribution gate
+
+# Public-repo guardrail (POS-W113): no real person's name in a public PocketOP
+# repo. Names enter through attribution phrasing in free text ("confirmed by X",
+# "per X instruction", "(X 2026-08-10)"), so build/attribution_gate.py checks
+# that pattern in every source shard string and every CHANGELOG.md line, and
+# fails unless the subject is a manufacturer or brand from the data or a term on
+# build/attribution_allowlist.txt. This workflow runs the gate alone, so it also
+# covers a CHANGELOG-only push, which does not trigger the assemble workflow.
+# It never assembles, tags, commits or dispatches anything. On failure the log
+# masks the subject text, because CI logs of a public repo are public.
+# This file contains no em dashes by project policy.
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'source/**'
+      - 'CHANGELOG.md'
+      - 'build/attribution_gate.py'
+      - 'build/attribution_allowlist.txt'
+      - '.github/workflows/attribution-gate.yml'
+  pull_request:
+    paths:
+      - 'source/**'
+      - 'CHANGELOG.md'
+      - 'build/attribution_gate.py'
+      - 'build/attribution_allowlist.txt'
+      - '.github/workflows/attribution-gate.yml'
+  workflow_dispatch:
+
+# Read only: checkout and a local scan, nothing is written back (POS-W96).
+permissions:
+  contents: read
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.12'
+
+      - name: Run the attribution gate
+        run: python build/attribution_gate.py
