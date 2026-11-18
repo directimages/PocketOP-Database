@@ -42,7 +42,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [macos-14, windows-latest]
+        # macos-14 is no longer offered by GitHub (the runner configuration is
+        # rejected), so the macOS leg uses the next exact image label.
+        os: [macos-15, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout
