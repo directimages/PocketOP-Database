@@ -121,7 +121,9 @@ Workflow: `.github/workflows/assemble-database.yml`. It runs on any push that
 touches `source/`, and on manual dispatch.
 
 1. Checks out the repo and sets up Python.
-2. Runs `python build/assemble.py`, which validates every shard and writes the
+2. Runs `python build/broadcast_source_gate.py`, which refuses a broadcast spec
+   value set or changed without a new source (see the broadcast source gate below),
+   then `python build/assemble.py`, which validates every shard and writes the
    published files.
 3. Stages the published files. If nothing changed, it commits nothing. If they
    changed, it commits them back with `chore: assemble database outputs from
@@ -196,6 +198,133 @@ given name, so "confirmed by Kay" passes for any real person called Kay; short
 capitalised terms on the list could equal a person's initials. The gate cannot
 block a direct push to main; it blocks the release (no tag, no website
 dispatch) and fails the workflow.
+
+### The broadcast source gate
+
+A broadcast lens spec value cannot enter or change in the published database
+unless the same change also brings its source. `build/broadcast_source_gate.py`
+checks the broadcast shards (`source/broadcast-lenses/` and
+`source/broadcast-details/`) and judges **changes only**: a value that did not
+change is never judged, whatever its source state, so the old unsourced values do
+not block any release. Cleanup batches pass it: a value that is moved to `null`
+or `"unknown"` is never refused, and a filled value that brings its source passes.
+Cine and PTZ data are not covered.
+
+**What counts as a spec value.** The fields come from `output_schema.json`: every
+property of the broadcast core `$def` (`lens_core`) and the broadcast details
+`$def` (`lens_details_broadcast`), minus a short explicit non spec list in the
+script. A schema field on neither list is gated by default, and a test fails
+until a new schema field is classified.
+
+- Core spec fields (5): `generation`, `focalLengthMin`, `focalLengthMax`,
+  `zoomRatio`, `extenderFactor`.
+- Detail spec fields (21): `weightG`, `lengthMm`, `frontDiameterMm`,
+  `maximumDiameterMm`, `closeFocusM`, `imageCircleMm`, `opticalElements`,
+  `introductionYear`, `maxApertureWide`, `maxApertureTele`, `apertureType`,
+  `hasIS`, `hasMacro`, `hasServoZoom`, `hasServoFocus`, `servoConnector`,
+  `formFactor`, `filterType`, `filterThreadMm`, `isParfocal`,
+  `hasFocusBreathing`.
+- Not spec fields, they never trigger the gate: `id`, `manufacturer`, `model`,
+  `series`, `sensorFormat`, `mount`, `isPTZ`, `isFree`, `isCustom`, `notes`,
+  `addedDate`, `lensType`, `description`, `fieldNotes`, `productUrl`,
+  `manufacturerUrl`, `sources`, `webSources`. `sensorFormat` and `mount` decide
+  whether a lens is a broadcast lens at all, so they classify rather than measure.
+
+**What is refused.**
+
+- A spec value that is set or altered (the new value is not null or `"unknown"`
+  and differs from the baseline value) when the entry's source list gained no
+  new source in the same change.
+- A brand-new entry that sets a spec value and has an empty source list.
+
+The source list of an entry is the union of its `sources` and `webSources`.
+"Gained a source" means a string that was not in the baseline union; removing a
+source never counts, so a value change plus an unrelated source removal is
+refused. A core field change (for example a focal length) is judged against the
+paired detail entry with the same `id`, because the source list lives there.
+Entries are matched by `id` across all broadcast shards, so moving an entry to
+another shard is not a new entry. Values are compared by type: `true` is not `1`,
+and `2` equals `2.0`.
+
+**A correction whose source is already listed.** When the supporting source is
+already in the entry's list there is nothing new to add. Add an acknowledgement to
+`build/broadcast_source_acks.json` in the same change:
+
+```json
+{"acks": [
+  {"id": "<entry id>", "field": "<field>", "value": <the new value>,
+   "source": "<a URL already in the entry's sources>"}
+]}
+```
+
+An ack counts only when it is new in this change (an ack already in the baseline
+file does not), its `value` equals the new value, and its `source` is in the
+entry's source list (for a core field, the paired detail entry's list). The diff
+then shows which listed source supports which new value. Acks are never pruned
+automatically; an old ack that no longer matches does nothing. A new entry cannot
+be rescued by an ack.
+
+**Baseline.** The gate compares the shards on disk, uncommitted edits included,
+against a baseline that is chosen automatically so a local run matches CI:
+
+- pull request (`GITHUB_BASE_REF` set): the merge-base with `origin/<base>`.
+- on `main`: the latest released `db-v` tag, not the previous commit. A change
+  that reached main unsourced stays judged until it is fixed, instead of being
+  forgiven by the next commit.
+- any other branch: the merge-base with `origin/main` (local `main` as a
+  fallback). A branch is judged on its net change, not commit by commit.
+- `--base REF` overrides the choice.
+
+**No baseline, and a stale baseline.** With no baseline at all (no release tag
+on main, or no `main` to take a merge-base with), a local run passes with a
+notice, because there is nothing to compare against. In CI (the `CI` variable is
+set) the gate fails closed with exit code 2; a shallow checkout also gets this,
+which is why the workflows use `fetch-depth: 0`. A local run also refuses when its
+baseline is behind the remote: it asks `origin` for the latest `db-v` tag (or the
+tip of `main`) and exits 2 with a message when the remote is ahead, because
+comparing against old tags would judge changes that are already released. Run
+`git fetch --tags origin` and run it again. Offline, `--no-remote-check` skips that
+check. An explicit `--base` is trusted as given.
+
+**Where it runs.**
+
+- `broadcast-source-gate.yml`: a read only workflow on pull requests and on pushes
+  to main that touch the broadcast shards, the ack file or the gate. This is the
+  failing check on a pull request. It only blocks merging if the repository makes
+  it a required status check, and a path filtered workflow that does not run for a
+  PR cannot report a status, so require it only with that in mind.
+- The first step of `assemble-database.yml`, before the shards are validated and
+  assembled. A refused change stops the job there, so there is no tag and no
+  website dispatch. This also covers the dry run on a feature branch.
+- Locally: `python build/broadcast_source_gate.py` (optionally `--base REF`).
+  The tests in `tests/test_broadcast_source_gate.py` run on macOS and Windows in
+  `build-batches-tests.yml`.
+
+**What Tim sees on a failure.** The report names the file, the entry id and the
+field, the old and the new value, and what is missing, then how to fix it:
+
+```
+BROADCAST SOURCE GATE: 2 spec value(s) set or changed without a source (baseline: db-v44 (abc1234)).
+  source/broadcast-details/broadcast_details_x.json | some-entry | weightG: 2100 -> 2250
+    value set or changed, but this entry's sources and webSources gained no new source in this change.
+  source/broadcast-lenses/broadcast_lens_x.json | some-entry | focalLengthMax: 52.0 -> 55.0
+    core value changed, but the paired detail entry (source/broadcast-details/broadcast_details_x.json) gained no new source in this change.
+```
+
+Exit code 1 is a refusal, 2 means the gate could not run (bad, missing or stale
+baseline, unreadable shard or ack file). Fix a refusal by adding a new source URL
+to the entry, by recording an ack, or by moving the value to `null`.
+
+Known limits: the gate checks that a source was brought, not that it is reachable
+or that it supports the value; that is the reviewer's job, and an ack is an
+unchecked claim. One new source covers every changed field of that entry and of
+its core partner, because the list is per entry, not per field. A new source string
+can be any non empty string, not only a URL. A renamed `id` is a new entry. The
+first run with no baseline compares nothing. The gate cannot block a direct push to
+main; it blocks the release (no tag, no website dispatch) and fails the workflow.
+An unreleased bad value on main is judged against the last release, so it keeps
+failing until fixed. It needs the `git` command line. Cine and PTZ entries are out
+of scope.
 
 ## When the Action fails
 

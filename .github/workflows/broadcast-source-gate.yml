@@ -1,0 +1,59 @@
+name: Broadcast source gate
+
+# A broadcast lens spec value cannot enter or change in the published database
+# unless the same change also brings its source. build/broadcast_source_gate.py
+# compares source/broadcast-lenses and source/broadcast-details against a
+# baseline and fails on a spec value that is set or changed without a new
+# source, or on a new entry with spec values and an empty source list. It
+# judges changes only; existing values are never judged.
+# Baseline: on a pull request the merge-base with the base branch; on main the
+# latest released db-v tag. In CI a missing baseline fails the run (exit 2)
+# instead of passing. fetch-depth 0 is required for the merge-base and the tags.
+# This workflow runs the gate alone, as the failing check on a pull request. The
+# same gate also runs as the first step of assemble-database.yml, so a refused
+# change on main never gets a tag or a website dispatch. It never assembles,
+# commits, tags or dispatches anything.
+# This file contains no em dashes by project policy.
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'source/broadcast-lenses/**'
+      - 'source/broadcast-details/**'
+      - 'build/broadcast_source_gate.py'
+      - 'build/broadcast_source_acks.json'
+      - 'build/output_schema.json'
+      - '.github/workflows/broadcast-source-gate.yml'
+  pull_request:
+    paths:
+      - 'source/broadcast-lenses/**'
+      - 'source/broadcast-details/**'
+      - 'build/broadcast_source_gate.py'
+      - 'build/broadcast_source_acks.json'
+      - 'build/output_schema.json'
+      - '.github/workflows/broadcast-source-gate.yml'
+  workflow_dispatch:
+
+# Read only: checkout and a local comparison, nothing is written back (POS-W96).
+permissions:
+  contents: read
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6.0.2
+        with:
+          # Full history and tags: the baseline is a merge-base or a release tag.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.12'
+
+      - name: Run the broadcast source gate
+        run: python build/broadcast_source_gate.py

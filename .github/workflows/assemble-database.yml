@@ -48,6 +48,12 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Refuses a broadcast spec value set or changed without a new source, before
+      # anything is assembled, tagged or dispatched. On main the baseline is the
+      # latest released db-v tag; on any other ref it is the merge-base with main.
+      - name: Broadcast source gate
+        run: python build/broadcast_source_gate.py
+
       - name: Validate and assemble
         run: python build/assemble.py
 
