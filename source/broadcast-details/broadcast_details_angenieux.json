@@ -4,25 +4,27 @@
       "id": "angenieux-t12x5-3b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.angenieux.com/",
-      "weightG": 5200,
-      "lengthMm": 345,
-      "frontDiameterMm": null,
-      "closeFocusM": 0.6,
+      "weightG": 1650,
+      "lengthMm": 248,
+      "frontDiameterMm": 92,
+      "closeFocusM": 0.3,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": null,
       "filterThreadMm": "unknown",
-      "hasMacro": false,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://forum.blackmagicdesign.com/viewtopic.php?f=14&t=98234"
       ],
       "webSources": [
-        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://forum.blackmagicdesign.com/viewtopic.php?f=14&t=98234"
       ],
       "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's T series, the high-resolution (HR) line the French optical house built for standard- and early-HD broadcast work. The T12x5.3B is the wide-angle member, pairing a broad starting angle with a built-in 2x extender and Angénieux's well-regarded optics; like the rest of the series it is long discontinued, with support and documentation now scarce.",
       "maxApertureWide": 1.7,
@@ -34,29 +36,33 @@
       "id": "angenieux-t15x8-3b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.angenieux.com/",
-      "weightG": 5500,
-      "lengthMm": 372,
-      "frontDiameterMm": null,
-      "closeFocusM": 0.9,
+      "weightG": 1390,
+      "lengthMm": 196.6,
+      "frontDiameterMm": 85,
+      "closeFocusM": 0.8,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": "unknown",
-      "hasMacro": false,
+      "filterType": "hood_thread",
+      "filterThreadMm": 95,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://drive.google.com/file/d/1vbdhfgh6jJE3cOkbHIi59RRxrXYaHT9i/view",
+        "https://groups.google.com/g/rec.video.production/c/onOuxWPeyRo/m/mpuh3Kf-nZMJ"
       ],
       "webSources": [
-        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q"
+        "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
+        "https://drive.google.com/file/d/1vbdhfgh6jJE3cOkbHIi59RRxrXYaHT9i/view",
+        "https://groups.google.com/g/rec.video.production/c/onOuxWPeyRo/m/mpuh3Kf-nZMJ"
       ],
       "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T15x8.3B is a standard-range parfocal zoom praised for its optics and still usable on modern HD and UHD broadcast bodies. It carries a built-in 2x extender; like the rest of the series it is long discontinued, with support and documentation now scarce.",
       "maxApertureWide": 1.7,
-      "maxApertureTele": "unknown",
+      "maxApertureTele": 2.1,
       "apertureType": "f",
       "hasIS": false
     },
@@ -71,8 +77,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": false,
@@ -98,14 +104,14 @@
       "id": "angenieux-t26x7-8b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.angenieux.com/",
-      "weightG": 1980,
+      "weightG": 1900,
       "lengthMm": 245,
-      "frontDiameterMm": null,
+      "frontDiameterMm": 103,
       "closeFocusM": 0.9,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": "hood_thread",
       "filterThreadMm": 105,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -114,15 +120,19 @@
       "formFactor": "portable",
       "sources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
-        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
+        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom",
+        "https://enhancedviewhd.com/wp-content/uploads/2022/02/26x7.8-HD-Data-Sheet.jpeg",
+        "https://web.archive.org/web/20050310180027fw_/http://www.angenieux.com/pages/index_frame.php?page=308.php?IdProd=132"
       ],
       "webSources": [
         "https://www.amazon.com/Eonvic-cables-Hirose-Fujinon-Angenieux/dp/B01EHW3M5Q",
-        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom"
+        "https://newprovideo.com/equipment/product/latest-listings/angenieux-tele-zoom-eng-lens-26x7-8-aif-hr-zoom",
+        "https://enhancedviewhd.com/wp-content/uploads/2022/02/26x7.8-HD-Data-Sheet.jpeg",
+        "https://web.archive.org/web/20050310180027fw_/http://www.angenieux.com/pages/index_frame.php?page=308.php?IdProd=132"
       ],
       "description": "A 2/3-inch B4-mount ENG zoom from Angénieux's high-resolution T series, the T26x7.8B is the long-telephoto member, reaching well into telephoto from a standard wide for sports and field work. It carries a built-in 2x extender; like the rest of the series it is now discontinued and comparatively rare.",
       "maxApertureWide": 2.2,
-      "maxApertureTele": null,
+      "maxApertureTele": 2.8,
       "apertureType": "f",
       "hasIS": false
     }

@@ -36,6 +36,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.63.0 - 2026-11-23
+
+- Legacy union rebuild carrying the same sourced correction of four Angénieux broadcast detail entries (angenieux-t12x5-3b, angenieux-t15x8-3b, angenieux-t19x7-3b, angenieux-t26x7-8b): closeFocusM, filterType, filterThreadMm, frontDiameterMm, hasMacro, lengthMm, weightG and sources. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v45)
+
 ### v1.62.1 - 2026-11-17
 
 - Legacy union rebuild carrying the same text-only cleanup of personal names in sources fields (25 strings). No other field changed
@@ -115,6 +121,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v38)
 
 ## broadcast_lens_details.json
+### v1.56.0 - 2026-11-23
+
+- Sourced correction of four Angénieux broadcast detail entries (angenieux-t12x5-3b, angenieux-t15x8-3b, angenieux-t19x7-3b, angenieux-t26x7-8b) in source/broadcast-details/broadcast_details_angenieux.json. Spec values from an unsourced May 2026 gap fill are replaced with manufacturer-sourced values (technical manual, brochure page, datasheet reproductions) or moved to "unknown"/null where no source exists. Applied with build/apply_fields.py (26 fields on 4 entries, zero orphans). Fields touched: closeFocusM, hasMacro, lengthMm, weightG, frontDiameterMm, filterType, filterThreadMm and maxApertureTele, plus the full sources and webSources lists on t12x5, t15x8 and t26x7. No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v45)
+
 ### v1.55.1 - 2026-10-21
 
 - Dead-link productUrl fixes from the 2026-W43 link check, applied via build/apply_fields.py (zero orphans, 6 entries written across this file and ptz_details.json): fujinon-xa55x9-5 and fujinon-xa77x9-5 repointed to the Fujifilm HD studio/field lens page (Fujifilm moved that page and now lists only the XA55x9.5BESM and XA77x9.5BESM there); fujinon-xa22x7, fujinon-ha27x6-5 and fujinon-xa99x8-4 set to null (XA22x7BES, HA27x6.5BESM and XA99x8.4BESM are no longer on any English Fujifilm page). No other field changed
