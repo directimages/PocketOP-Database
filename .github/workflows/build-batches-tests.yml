@@ -5,8 +5,9 @@ name: Build Batches Tests
 # platform CI happens to run on by default. This covers cross-file shard
 # pooling in build/build_batches.py and the schema gate in build/assemble.py
 # (including the devices.json checks against build/output_schema.json), plus
-# the attribution gate in build/attribution_gate.py, among the other test files
-# in tests/. All tests operate on synthetic
+# the attribution gate in build/attribution_gate.py and the broadcast source gate in
+# build/broadcast_source_gate.py (it builds throwaway git repos, so it needs git),
+# among the other test files in tests/. All tests operate on synthetic
 # fixtures under a temporary directory; none of them touch the real vault
 # import pipeline, any real staging data, or the real source shards.
 # This file contains no em dashes by project policy.
@@ -18,6 +19,8 @@ on:
       - 'build/assemble.py'
       - 'build/attribution_gate.py'
       - 'build/attribution_allowlist.txt'
+      - 'build/broadcast_source_gate.py'
+      - 'build/field_registry.py'
       - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
@@ -27,6 +30,8 @@ on:
       - 'build/assemble.py'
       - 'build/attribution_gate.py'
       - 'build/attribution_allowlist.txt'
+      - 'build/broadcast_source_gate.py'
+      - 'build/field_registry.py'
       - 'build/output_schema.json'
       - 'tests/**'
       - '.github/workflows/build-batches-tests.yml'
