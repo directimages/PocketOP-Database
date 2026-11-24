@@ -36,6 +36,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.65.0 - 2026-11-24
+
+- Legacy union rebuild carrying the same sourced correction of 23 Canon and Fujinon broadcast detail entries: closeFocusM, weightG, lengthMm, hasMacro, filterType, filterThreadMm, fieldNotes, sources and webSources. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v47)
+
+## lens-details.json
 ### v1.64.0 - 2026-11-24
 
 - Legacy union rebuild carrying the same sourced correction of four Nikon broadcast detail entries (nikon-s9x5-5b, nikon-s13x9, nikon-s15x8-5b, nikon-s19x8): closeFocusM, filterType, filterThreadMm, hasMacro, lengthMm, weightG and sources. No other field or entry changed
@@ -125,6 +132,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
 - Entry count 283 -> 287
 - Released as new db tag (db-v38)
+
+## broadcast_lens_details.json
+### v1.58.0 - 2026-11-24
+
+- Sourced correction of 23 Canon and Fujinon broadcast detail entries in source/broadcast-details/broadcast_details_canon.json (18 entries) and source/broadcast-details/broadcast_details_fujinon.json (5 entries). Spec values from an unsourced May 2026 gap fill are confirmed or replaced with manufacturer-sourced values (Canon broadcast lens catalogs 2005, 2023 and 2025/26, the Canon CJ27ex7.3B manual, the Canon XJ95 brochure, Canon Asia specification pages, the Fujinon 2023 catalogue and 2026 lens guide), or moved to null/"unknown" where no source carries them. Canon hood and lens barrel filter threads are now recorded as the barrel thread, with the hood thread in fieldNotes.filterThreadMm. Applied with build/apply_fields.py (72 fields on 23 entries, zero orphans). Fields touched: closeFocusM, weightG, lengthMm, hasMacro, filterType, filterThreadMm and fieldNotes (filterThreadMm key added, existing keys kept), plus the full sources and webSources lists where changed. No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v47)
 
 ## broadcast_lens_details.json
 ### v1.57.0 - 2026-11-24
