@@ -36,6 +36,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.66.0 - 2026-11-24
+
+- Legacy union rebuild carrying the same sourced correction of 13 Canon DIGISUPER XJ broadcast detail entries: closeFocusM, weightG, lengthMm, hasMacro, filterType, filterThreadMm, fieldNotes, sources and webSources. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v48)
+
+## lens-details.json
 ### v1.65.0 - 2026-11-24
 
 - Legacy union rebuild carrying the same sourced correction of 23 Canon and Fujinon broadcast detail entries: closeFocusM, weightG, lengthMm, hasMacro, filterType, filterThreadMm, fieldNotes, sources and webSources. No other field or entry changed
@@ -132,6 +139,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
 - Entry count 283 -> 287
 - Released as new db tag (db-v38)
+
+## broadcast_lens_details.json
+### v1.59.0 - 2026-11-24
+
+- Sourced correction of 13 Canon DIGISUPER XJ broadcast detail entries in source/broadcast-details/broadcast_details_canon.json (canon-xj22x7-3b, canon-xj23x7b, canon-xj25x6-8b, canon-xj27x6-5b, canon-xj60x9b, canon-xj72x9-3b, canon-xj75x9-3b, canon-xj76x9b, canon-xj80x8-8b, canon-xj86x13-5b, canon-xj86x9-3b, canon-xj86x9-3b-af, canon-xj100x9-3b). Spec values from an unsourced May 2026 gap fill are confirmed or replaced with manufacturer-sourced values (Canon Broadcast Television Lens catalog 2005, the DIGISUPER 25 xs and 86 xs brochures, Canon Asia and Canon Hong Kong specification pages). Minimum object distance, weight and length were confirmed or replaced with manufacturer-sourced values. Filter fields (filterType, filterThreadMm) moved to null or "unknown" where no source carries them. One built-in macro flag was corrected (hasMacro true on canon-xj22x7-3b, with its hasMacro fieldNote rewritten, other fieldNotes keys kept). Applied with build/apply_fields.py (49 fields on 13 entries, zero orphans), including the full sources and webSources lists where changed. No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v48)
 
 ## broadcast_lens_details.json
 ### v1.58.0 - 2026-11-24
