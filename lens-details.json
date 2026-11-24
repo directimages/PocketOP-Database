@@ -1,5 +1,5 @@
 {
-  "version": "1.64.0",
+  "version": "1.65.0",
   "updatedAt": "2026-11-24",
   "lenses": [
     {
@@ -2827,7 +2827,8 @@
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ12ex4.3B IRSE S/IASE S: M.O.D. 0.3 m, size 163.5x108.0x247.8 mm, approx. weight 2.1 kg (IRSE S)."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
@@ -3001,18 +3002,22 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterThreadMm": 94,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj20ex7-8b/main/specification"
+        "https://asia.canon/en/business/cj20ex7-8b/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ20ex7.8B IASE S: filter thread size (hood/lens barrel) 105mm P1 / 94mm P1."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj20ex7-8b/main/specification"
-      ]
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "The lens hood carries a 105 mm filter thread."
+      }
     },
     {
       "id": "canon-cj24ex7-5b",
@@ -3026,18 +3031,22 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 105,
+      "filterThreadMm": 94,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj24ex7-5b/main/specification"
+        "https://asia.canon/en/business/cj24ex7-5b/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ24ex7.5B IRSE S/IASE S: filter thread size (hood/lens barrel) 105mm P1 / 94mm P1, size 164.6x109.1x221.4 mm."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj24ex7-5b/main/specification"
-      ]
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "The lens hood carries a 105 mm filter thread."
+      }
     },
     {
       "id": "canon-cj25ex7-6b",
@@ -3051,7 +3060,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 105,
+      "filterThreadMm": 94,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -3060,11 +3069,15 @@
       "sources": [
         "https://www.canon-europe.com/lenses/cj25ex7.6b/specifications/",
         "https://www.bhphotovideo.com/c/product/1701905-REG/canon_cj25ex7_6b_iase_s_2_3_uhd_xs_standard.html",
-        "https://www.prnewswire.com/news-releases/canon-expands-lineup-of-portable-zoom-lenses-for-4k-broadcast-cameras-with-the-introduction-of-the-cj25ex7-6b-300711146.html"
+        "https://www.prnewswire.com/news-releases/canon-expands-lineup-of-portable-zoom-lenses-for-4k-broadcast-cameras-with-the-introduction-of-the-cj25ex7-6b-300711146.html",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ25ex7.6B IRSE S/IASE S: filter thread size (hood/lens barrel) 105mm P1 / 94mm P1."
       ],
       "webSources": [
         "https://www.canon-europe.com/lenses/cj25ex7.6b/specifications/"
-      ]
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "The lens hood carries a 105 mm filter thread."
+      }
     },
     {
       "id": "canon-cj27ex7-3b",
@@ -3077,9 +3090,9 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
-      "hasMacro": false,
+      "filterType": "front_thread",
+      "filterThreadMm": 94,
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -3087,13 +3100,19 @@
       "sources": [
         "https://www.bhphotovideo.com/c/product/1823939-REG/canon_cj27ex7_3b_iase_t_2_3.html",
         "https://theasc.com/articles/canon-introduces-cj27ex7-3b",
-        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification"
+        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification",
+        "Canon broadcast lens brochure 2025/26 (manufacturer PDF), p. 20, CJ27ex7.3B IASE T: M.O.D. 0.80 m (10 mm with Macro).",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-cj27ex7.3b-iase-t-manuel.pdf"
       ],
       "webSources": [
         "https://www.bhphotovideo.com/c/product/1823939-REG/canon_cj27ex7_3b_iase_t_2_3.html",
         "https://theasc.com/articles/canon-introduces-cj27ex7-3b",
-        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification"
-      ]
+        "https://asia.canon/en/business/cj27ex7-3b-iase-t/main/specification",
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-cj27ex7.3b-iase-t-manuel.pdf"
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "The lens hood carries a 105 mm filter thread."
+      }
     },
     {
       "id": "canon-cj45ex13-6b",
@@ -3141,7 +3160,8 @@
       "formFactor": "portable",
       "sources": [
         "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification",
-        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 127 mm P0.75 (lens barrel thread size)."
+        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 127 mm P0.75 (lens barrel thread size).",
+        "Canon broadcast lens brochure 2025/26 (manufacturer PDF), p. 20, CJ45ex9.7B IASE-V H: M.O.D. 2.8 m, filter thread size (hood/lens barrel) - / 127mm P0.75, size 173.2x147.5x337.0 mm, approx. weight 5.60 kg."
       ],
       "webSources": [
         "https://sg.canon/en/business/cj45ex9-7b-iase-v-h/specification"
@@ -5182,7 +5202,7 @@
       "id": "canon-hj17ex7-6b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
-      "weightG": 1600,
+      "weightG": 1620,
       "lengthMm": 206.4,
       "frontDiameterMm": null,
       "closeFocusM": 0.56,
@@ -5197,7 +5217,8 @@
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, HJ17ex7.6B IRSE/IASE: M.O.D. 0.56 m (10 mm with Macro), size 164x106.5x206.4 mm, approx. mass 1.62 kg (IRSE) / 1.72 kg (IASE)."
       ],
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
@@ -6116,8 +6137,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6167,7 +6188,7 @@
       "imageCircleMm": 11.0,
       "opticalElements": null,
       "filterType": "front_thread",
-      "filterThreadMm": 105,
+      "filterThreadMm": 94,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6176,13 +6197,17 @@
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii",
-        "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification"
+        "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 22, KJ22ex7.6B IRSE S/IASE S: filter thread size (hood/lens barrel) 105mm P1 / 94mm P1."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
         "https://www.usa.canon.com/shop/p/kj22ex7-6b-ii",
         "https://asia.canon/en/business/kj22ex7-6b-irse-iase-s/main/specification"
-      ]
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "The lens hood carries a 105 mm filter thread."
+      }
     },
     {
       "id": "canon-pj20x7-5b",
@@ -6523,8 +6548,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6555,8 +6580,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6587,8 +6612,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6615,8 +6640,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6644,8 +6669,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6671,8 +6696,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -6700,8 +6725,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -7095,12 +7120,12 @@
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
-      "closeFocusM": 3.5,
+      "closeFocusM": 3.0,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -7108,7 +7133,8 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf"
+        "https://www.avbroadcast.fr/media/productfile/c/a/canon-xj95x8.6b-brochure.pdf",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 13, XJ95x12.4B: M.O.D. 3.0 m."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -7126,8 +7152,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -13998,24 +14024,26 @@
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 23900,
-      "lengthMm": 670.0,
+      "lengthMm": 610,
       "frontDiameterMm": null,
       "closeFocusM": 3.05,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/master/emea/files/2023-09/fa5698133ed3e6f734726dabd2c53bb0/Fujifilm_Fujinon_catalogue_2023_.pdf"
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/master/emea/files/2023-09/fa5698133ed3e6f734726dabd2c53bb0/Fujifilm_Fujinon_catalogue_2023_.pdf"
       ]
     },
     {
@@ -14029,8 +14057,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -14054,8 +14082,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -14299,24 +14327,26 @@
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 22800,
-      "lengthMm": 610.0,
+      "lengthMm": 536,
       "frontDiameterMm": null,
       "closeFocusM": 0.6,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/master/emea/files/2023-09/fa5698133ed3e6f734726dabd2c53bb0/Fujifilm_Fujinon_catalogue_2023_.pdf"
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/master/emea/files/2023-09/fa5698133ed3e6f734726dabd2c53bb0/Fujifilm_Fujinon_catalogue_2023_.pdf"
       ]
     },
     {
@@ -14408,8 +14438,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
