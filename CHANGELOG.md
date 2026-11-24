@@ -36,6 +36,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.64.0 - 2026-11-24
+
+- Legacy union rebuild carrying the same sourced correction of four Nikon broadcast detail entries (nikon-s9x5-5b, nikon-s13x9, nikon-s15x8-5b, nikon-s19x8): closeFocusM, filterType, filterThreadMm, hasMacro, lengthMm, weightG and sources. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v46)
+
 ### v1.63.0 - 2026-11-23
 
 - Legacy union rebuild carrying the same sourced correction of four Angénieux broadcast detail entries (angenieux-t12x5-3b, angenieux-t15x8-3b, angenieux-t19x7-3b, angenieux-t26x7-8b): closeFocusM, filterType, filterThreadMm, frontDiameterMm, hasMacro, lengthMm, weightG and sources. No other field or entry changed
@@ -121,6 +127,12 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v38)
 
 ## broadcast_lens_details.json
+### v1.57.0 - 2026-11-24
+
+- Sourced correction of four Nikon broadcast detail entries (nikon-s9x5-5b, nikon-s13x9, nikon-s15x8-5b, nikon-s19x8) in source/broadcast-details/broadcast_details_nikon.json. Spec values from an unsourced May 2026 gap fill are replaced with manufacturer-sourced values (Nikon trade advertisements, a 1992 NAB showcase listing and the manufacturer-supplied lens table in the 1990 Broadcast Engineering Buyers Guide), or moved to null/"unknown" where no source exists. Applied with build/apply_fields.py (27 fields on 4 entries, zero orphans). Fields touched: closeFocusM, weightG, lengthMm, hasMacro, filterType, filterThreadMm and maxApertureTele, plus the full sources and webSources lists on all four entries. No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v46)
+
 ### v1.56.0 - 2026-11-23
 
 - Sourced correction of four Angénieux broadcast detail entries (angenieux-t12x5-3b, angenieux-t15x8-3b, angenieux-t19x7-3b, angenieux-t26x7-8b) in source/broadcast-details/broadcast_details_angenieux.json. Spec values from an unsourced May 2026 gap fill are replaced with manufacturer-sourced values (technical manual, brochure page, datasheet reproductions) or moved to "unknown"/null where no source exists. Applied with build/apply_fields.py (26 fields on 4 entries, zero orphans). Fields touched: closeFocusM, hasMacro, lengthMm, weightG, frontDiameterMm, filterType, filterThreadMm and maxApertureTele, plus the full sources and webSources lists on t12x5, t15x8 and t26x7. No other entry or field changed
