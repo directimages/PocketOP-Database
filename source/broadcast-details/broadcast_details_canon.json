@@ -115,7 +115,8 @@
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj15ex8-5b/main/specification"
+        "https://asia.canon/en/business/cj15ex8-5b/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 21, CJ15ex8.5B KRSE-V: filter thread size (hood/lens barrel) - / 82mm P0.75, size 170.2x116.2x239.5 mm, approx. weight 2.03 kg."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj15ex8-5b/main/specification"
@@ -137,15 +138,16 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj18ex28b/main/specification"
+        "https://asia.canon/en/business/cj18ex28b/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 21, CJ18ex28B IASE S: M.O.D. 2.2 m, filter thread size (hood/lens barrel) 127mm P0.75 / -, size 177.8x122.5x268.3 mm, approx. weight 2.76 kg."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj18ex28b/main/specification"
@@ -433,27 +435,30 @@
       "id": "canon-hj11x4-7b-kll-sc",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
-      "weightG": 1600,
-      "lengthMm": 260.0,
+      "weightG": 2000,
+      "lengthMm": 242,
       "frontDiameterMm": null,
       "closeFocusM": 1.17,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "none",
-      "filterThreadMm": "none",
-      "hasMacro": false,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": true,
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ11x4.7B-3 KLL-SC: size 95x95x242 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
       "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the wide member of Canon's three EC zooms. Like the rest of the EC range it is built for film-style handling rather than ENG: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it a film-like rendering for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
       "maxApertureWide": 2.1,
@@ -481,11 +486,14 @@
       "formFactor": "portable",
       "sources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
-        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
+        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html",
+        "https://asia.canon/en/business/hj14ex4-3b-irse-iase-s/main/specification",
+        "Canon Asia HJ14ex4.3B IRSE / IASE S specification: size 163.5x110.8x247.8 mm, weight IRSE 1.99 kg / IASE 2.07 kg, M.O.D. 0.3 m from lens front (10 mm with Macro). No filter specification published."
       ],
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
-        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html"
+        "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html",
+        "https://asia.canon/en/business/hj14ex4-3b-irse-iase-s/main/specification"
       ],
       "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this ultra-wide 14x lens is the successor to the long-running HJ11ex4.7B wide-angle, built for HD newsgathering and documentary field work. It opens to a bright f/1.8 across much of its range and stays compact and light for handheld and shoulder use, carrying the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ14ex4.3B.",
       "maxApertureWide": 1.8,
@@ -513,7 +521,8 @@
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "Canon HJ15ex8.5B KRSE-V brochure (manufacturer PDF): 82 mm diameter P0.75 filters are applicable and attach to the lens barrel; M.O.D. 0.8 m (10 mm with Macro), size 170.2x119.1x239.1 mm, approx. mass 1.99 kg."
       ],
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
@@ -598,15 +607,16 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "Canon HJ18ex28B brochure (manufacturer PDF), p. 4, Optical Accessories: 127 mm filters (UV/127mm and others), to be attached to the threaded hood unit; M.O.D. 2.2 m (10 mm with Macro), size 182.8x123.7x268.3 mm, approx. mass 2.50 kg (IRSE) / 2.60 kg (IASE)."
       ],
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
@@ -621,25 +631,28 @@
       "id": "canon-hj18ex7-6b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
-      "weightG": 1600,
-      "lengthMm": 206.4,
+      "weightG": 1580,
+      "lengthMm": 206.2,
       "frontDiameterMm": null,
       "closeFocusM": 0.56,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://asia.canon/en/business/hj18ex7-6b-irse-s-iase-s/main/specification",
+        "Canon Asia HJ18ex7.6B IRSE S / IASE S specification: size approx. 160.5x105x206.2 mm, weight approx. 1.58 kg, M.O.D. 0.56 m from lens front (10 mm with Macro). No filter specification published."
       ],
       "webSources": [
-        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/"
+        "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
+        "https://asia.canon/en/business/hj18ex7-6b-irse-s-iase-s/main/specification"
       ],
       "description": "A 2/3-inch HD portable broadcast zoom from Canon's eHDxs line, this standard 18x lens covers a general-purpose wide-to-telephoto range for HD newsgathering and documentary field work. It stays light for handheld and shoulder use and carries the series' digital drive, internal focus and a built-in 2x extender. It is the HD counterpart to Canon's later 4K CJ18ex7.6B. Discontinued.",
       "maxApertureWide": 1.8,
@@ -682,27 +695,30 @@
       "id": "canon-hj21x7-5b-kll-sc",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
-      "weightG": 2400,
+      "weightG": 2700,
       "lengthMm": 260.0,
       "frontDiameterMm": null,
       "closeFocusM": 1.17,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "none",
-      "filterThreadMm": "none",
-      "hasMacro": false,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": true,
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ21x7.5B-3 KLL-SC: size 130x130x260 mm, weight approx. 2.7 kg, Macro Standard, M.O.D. 1.16 m from image plane. No filter specification listed."
       ],
       "webSources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
       "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, the longest of Canon's three EC zooms. Built for film-style handling rather than ENG, it carries a 270-degree focus rotation, engraved focus and iris scales, and gear rings for studio follow-focus and motorised rigs, with no servo drive and no extender. A constant T2.1 aperture and exceptionally low focus breathing give it the rendering of a cine prime across a standard-to-telephoto range, for commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
       "maxApertureWide": 2.1,
@@ -843,7 +859,7 @@
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
       "weightG": 5400,
-      "lengthMm": 335.5,
+      "lengthMm": 335.4,
       "frontDiameterMm": null,
       "closeFocusM": 2.8,
       "introductionYear": null,
@@ -858,11 +874,14 @@
       "formFactor": "portable",
       "sources": [
         "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
-        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 20-21, HJ40x10B IASD-V: M.O.D. 2.8 m from lens front (10 mm with Macro), size 174.1x133x335.4 mm, approx. mass 5.40 kg; p. 43, Application of Filters: HJ40x10B lens barrel thread 127mm P0.75, no hood unit thread."
       ],
       "webSources": [
         "https://www.bhphotovideo.com/c/product/860488-REG/Canon_hj40x10b_iasd_v_semi_HJ40X10B_2_3_EFP_Telephoto.html",
-        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/"
+        "https://www.focusnordic.com/products/video/circular-filters/clear-explosion-proof-filters/nisi-filter-nc-uv-127mm-for-fuji-canon-broadcast-lenses/",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
       "description": "A 2/3-inch HD field telephoto zoom from Canon's e-HDxs line, this 40x DIGISUPER-series field lens covers a long wide-to-telephoto range that the built-in 2x extender pushes further still, for documentary, natural-history and sports work at long distance. A built-in Optical Shift Image Stabiliser steadies the long end against wind and movement, and a framing-preset function recalls rehearsed zoom positions at the push of a button, alongside internal focus and crossover switching between 16:9 and 4:3.",
       "maxApertureWide": 2.0,
@@ -881,20 +900,23 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "none",
-      "filterThreadMm": "none",
-      "hasMacro": false,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": true,
       "hasServoZoom": false,
       "hasServoFocus": false,
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ8x5.5B KLL-SC: size 95x95x245.2 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
-        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html"
+        "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
       "description": "A 2/3-inch HD cine-style zoom from Canon's HD-EC (High Definition Electronic Cinematography) line, and the widest of Canon's three EC zooms. It is built for film-style handling rather than electronic newsgathering: a 270-degree focus rotation, engraved focus and iris scales, and gear rings matched to studio follow-focus and motorised control rigs, with no servo drive and no extender. A constant T2.1 aperture with very low focus breathing and minimal ramping gives it the rendering and feel of a cine prime in zoom form, aimed at commercials, drama and motion-picture work on 2/3-inch cameras. Discontinued.",
       "maxApertureWide": 2.1,
@@ -922,7 +944,8 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
-        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 22-23, J35ex11B IASD: M.O.D. 2.2 m (50 mm with Macro), size 169.5x143x316 mm, approx. mass 4.5 kg; p. 43, Application of Filters: lens barrel thread 125mm P1."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
@@ -954,10 +977,13 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
-        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 125 mm P1.0 (lens barrel thread size)."
+        "Canon Operation Manual OMLS-D037A, Sect. 7 Product Specifications: Thread for Filters 125 mm P1.0 (lens barrel thread size).",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 22-23, J35ex15B IASD: M.O.D. 2.2 m (50 mm with Macro), size 169.5x143x330 mm, approx. mass 4.5 kg; p. 43, Application of Filters: lens barrel thread 125mm P1."
       ],
       "webSources": [
-        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html"
+        "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
+        "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
       "description": "A 2/3-inch portable EFP zoom from Canon's standard-definition J series, the J35ex15B is the ultra-telephoto companion to the J35ex11B, trading a wider angle for greater reach in NTSC and SDTV field production. It suits long-distance documentary, natural-history and sports coverage from remote locations, with full servo control and a built-in 2x extender; it remains in use in legacy SD workflows.",
       "maxApertureWide": 2.7,
@@ -977,8 +1003,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -986,7 +1012,8 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
-        "https://asia.canon/en/business/kj10ex4-5b-irse-s-iase-s/main/specification"
+        "https://asia.canon/en/business/kj10ex4-5b-irse-s-iase-s/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 22, KJ10ex4.5B IRSE S/IASE S: M.O.D. 0.3 m, filter thread size (hood/lens barrel) 127mm P0.75 / -, size 168.2x111.8x237.7 mm, approx. weight 1.83 kg (IRSE) / 1.91 kg (IASE)."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
@@ -1009,8 +1036,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": "hood_thread",
+      "filterThreadMm": 105,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -1018,7 +1045,8 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
-        "https://www.bhphotovideo.com/c/product/887504-REG/Canon_kj13x6b_krsd_KJ13x6_KRS_HDgc_13x.html"
+        "https://www.bhphotovideo.com/c/product/887504-REG/Canon_kj13x6b_krsd_KJ13x6_KRS_HDgc_13x.html",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 22, KJ13x6B KRSD: M.O.D. 0.4 m, filter thread size (hood/lens barrel) 105mm P1 / -, size 165.4x104.1x211.7 mm, approx. weight 1.59 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
@@ -1042,9 +1070,9 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
-      "hasMacro": true,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1114,7 +1142,8 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
-        "https://asia.canon/en/business/kj20x8-2b-irsd/main/specification"
+        "https://asia.canon/en/business/kj20x8-2b-irsd/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 22, KJ20x8.2B IRSD: M.O.D. 0.9 m, filter thread size (hood/lens barrel) - / 82mm P0.75, size 163.3x104.1x208.0 mm, approx. weight 1.42 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2260534/Canon-Hd-Xs-Hj14ex4-3b.html",
@@ -1169,8 +1198,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
