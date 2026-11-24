@@ -1,5 +1,5 @@
 {
-  "version": "1.58.0",
+  "version": "1.59.0",
   "updatedAt": "2026-11-24",
   "lenses": [
     {
@@ -2578,18 +2578,21 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://asia.canon/en/business/digisuper-100/main/specification",
+        "Canon Asia DIGISUPER 100 specification, XJ100x9.3B: size 250.6x255.5x610 mm, weight 23.5 kg, M.O.D. 3.0 m from lens front. No filter specification published."
       ],
       "webSources": [
-        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "https://asia.canon/en/business/digisuper-100/main/specification"
       ],
       "description": "The flagship of Canon's HD DIGISUPER field-box line, the 2/3-inch XJ100x9.3B reaches a 100x zoom range for the most demanding stadium and live-event coverage. It carries a built-in optical Shift-IS image stabilizer, the Power Optical System with X-Element and focus-breathing correction, plus sealing against dust, rain and radio interference, with an internal filter and a built-in 2x extender.",
       "maxApertureWide": 1.7,
@@ -2609,9 +2612,9 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
-      "hasMacro": false,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -2619,10 +2622,12 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887256-REG/Canon_XJ22X7_3B_IE_D_LO.html",
-        "http://hk.canon/en/business/digisuper-22-xs/main/specification"
+        "http://hk.canon/en/business/digisuper-22-xs/main/specification",
+        "Canon Hong Kong DIGISUPER 22 xs specification, XJ22x7.3B IE-D: Macro Standard (Manual), M.O.D. 0.8 m (10 mm with Macro), size 165x175x336 mm, weight 6.1 kg.",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 14, XJ22x7.3B IE-D: M.O.D. 0.8 m (10 mm with Macro), Macro Standard, Protection Filter none listed."
       ],
       "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory."
+        "hasMacro": "Built-in macro, operated manually; in macro mode the minimum object distance is 10 mm from the lens front."
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2647,8 +2652,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2657,7 +2662,8 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ23x7B IE-D: M.O.D. 0.6 m, size 250.6x255.5x525 mm, approx. mass 19.5 kg, Macro Option, Protection Filter Option."
       ],
       "fieldNotes": {
         "hasMacro": "Macro available via optional MCJ-S02 accessory."
@@ -2685,8 +2691,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2694,7 +2700,9 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/538423/Canon-High-Resolution-Lenses.html",
-        "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf"
+        "https://www.overall.ee/tootepildid/broadcast/pdf/digisuper25.pdf",
+        "Canon DIGISUPER 25 xs brochure (manufacturer PDF), XJ25x6.8B IE: M.O.D. 0.6 m from front lens vertex (with macro 0.1 m), size 250.6x255.5x557.8 mm, mass 21.5 kg.",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ25x6.8B IE-D: M.O.D. 0.6 m, Macro Option, Protection Filter Option."
       ],
       "fieldNotes": {
         "hasMacro": "Macro available via optional MCJ-S02 accessory."
@@ -2720,8 +2728,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2754,12 +2762,12 @@
       "weightG": 19900,
       "lengthMm": 547.8,
       "frontDiameterMm": null,
-      "closeFocusM": 2.2,
+      "closeFocusM": 2.8,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2768,7 +2776,9 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887586-REG/Canon_xj60x9b_ie_d_lo_XJ60x9BIE_D_LO_DIGISUPER.html",
-        "https://asia.canon/en/business/digisuper-60-xs/main/specification"
+        "https://asia.canon/en/business/digisuper-60-xs/main/specification",
+        "Canon Asia DIGISUPER 60 xs specification, XJ60x9B IE-D: M.O.D. 2.8 m from lens front, size 250.6x255.5x547.8 mm, weight 19.9 kg, Protection Filter Option.",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ60x9B IE-D: M.O.D. 2.8 m, approx. mass 19.9 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2785,22 +2795,23 @@
       "id": "canon-xj72x9-3b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.canon-europe.com/pro/broadcast/",
-      "weightG": 21500,
-      "lengthMm": 569,
+      "weightG": 21800,
+      "lengthMm": 591.5,
       "frontDiameterMm": null,
       "closeFocusM": 2.8,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ72x9.3B IE-D: M.O.D. 2.8 m, size 250.6x255.5x591.5 mm, approx. mass 21.8 kg, no macro, Protection Filter Option."
       ],
       "fieldNotes": {
         "hasMacro": "Macro available via optional MCJ-S02 accessory."
@@ -2822,12 +2833,12 @@
       "weightG": 22000,
       "lengthMm": 591.5,
       "frontDiameterMm": null,
-      "closeFocusM": 2.7,
+      "closeFocusM": 2.8,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2835,7 +2846,8 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ75x9.3B IE-D: M.O.D. 2.8 m, size 250.6x255.5x591.5 mm, approx. mass 22.0 kg, Protection Filter Option."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2855,12 +2867,12 @@
       "weightG": 23000,
       "lengthMm": 610,
       "frontDiameterMm": null,
-      "closeFocusM": 2.7,
+      "closeFocusM": 3.0,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2868,7 +2880,8 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "http://hk.canon/en/business/digisuper-76/main/specification"
+        "http://hk.canon/en/business/digisuper-76/main/specification",
+        "Canon Hong Kong DIGISUPER 76 specification, XJ76x9B: M.O.D. 3.0 m from lens front, size 250.6x255.5x610 mm, weight 23 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2888,12 +2901,12 @@
       "weightG": 23200,
       "lengthMm": 610,
       "frontDiameterMm": null,
-      "closeFocusM": 2.7,
+      "closeFocusM": 3.0,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2901,7 +2914,8 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "http://hk.canon/en/business/digisuper-80/main/specification"
+        "http://hk.canon/en/business/digisuper-80/main/specification",
+        "Canon Hong Kong DIGISUPER 80 specification, XJ80x8.8B: M.O.D. 3.0 m from lens front, size 250.6x255.5x610 mm, weight 23.2 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2921,12 +2935,12 @@
       "weightG": 24300,
       "lengthMm": 618.4,
       "frontDiameterMm": null,
-      "closeFocusM": 3.2,
+      "closeFocusM": 3.0,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2934,7 +2948,9 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf",
+        "Canon DIGISUPER 86 xs brochure (manufacturer PDF), XJ86x13.5B IE: M.O.D. 3.0 m from front lens vertex, size 250.6x255.5x618.4 mm, mass 24.3 kg.",
+        "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ86x13.5B IE-D: M.O.D. 3.0 m, Protection Filter Standard."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2958,8 +2974,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -2968,7 +2984,8 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://alliedbroadcastgroup.com/product/canon-xj86x9-3b-ie-ii-9-3-800mm-digisuper-hd-telephoto-field-lens-w-semi-servo-controls-sled-additional/",
-        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf"
+        "https://cvp.com/pdf/Canon%20XJ86%20DIGI%20SUPER.pdf",
+        "Canon DIGISUPER 86 xs brochure (manufacturer PDF), XJ86x9.3B IE: M.O.D. 3.0 m from front lens vertex, size 250.6x255.5x591.5 mm, mass 23.5 kg."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
@@ -2993,8 +3010,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -3002,11 +3019,14 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
+        "https://asia.canon/en/business/digisuper-86af/main/specification",
+        "Canon Asia DIGISUPER 86 AF specification, XJ86x9.3B AF: M.O.D. 3.0 m from lens front, size 250.6x255.5x661.5 mm, weight 26.8 kg. No filter specification published."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
+        "https://asia.canon/en/business/digisuper-86af/main/specification"
       ],
       "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B AF adds Canon's phase-detection autofocus to the popular XJ86x9.3B while keeping the same optics, easing subject tracking in fast live coverage. It shares the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued.",
       "maxApertureWide": 1.7,
