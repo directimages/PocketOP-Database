@@ -1,6 +1,6 @@
 {
-  "version": "1.63.0",
-  "updatedAt": "2026-11-23",
+  "version": "1.64.0",
+  "updatedAt": "2026-11-24",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -18274,25 +18274,27 @@
       "id": "nikon-s13x9",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.nikonusa.com/",
-      "weightG": 2200,
-      "lengthMm": 241,
+      "weightG": 1098,
+      "lengthMm": null,
       "frontDiameterMm": null,
-      "closeFocusM": 0.5,
+      "closeFocusM": 0.8,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1990-12-BG.pdf#page=129"
       ],
       "webSources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1990-12-BG.pdf#page=129"
       ]
     },
     {
@@ -18306,18 +18308,24 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
+        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1990-12-BG.pdf#page=129",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1992-06.pdf#page=96",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15"
       ],
       "webSources": [
-        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167"
+        "https://www.worthpoint.com/worthopedia/nikon-s15x8-b1-ems-20-tv-zoom-1791962167",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1990-12-BG.pdf#page=129",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1992-06.pdf#page=96",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15"
       ]
     },
     {
@@ -18325,50 +18333,60 @@
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.nikonusa.com/",
       "weightG": 1650,
-      "lengthMm": 215,
+      "lengthMm": null,
       "frontDiameterMm": null,
       "closeFocusM": 0.9,
       "introductionYear": 1993,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 82,
-      "hasMacro": true,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": null,
       "formFactor": "portable",
       "sources": [
         "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
-        "1993 Nikon TV-Nikkor manufacturer advertisement (marketing material, tier-4 per POS-D12; owner-approved): documents the 1993 introduction and the servo zoom drive."
+        "1993 Nikon TV-Nikkor manufacturer advertisement (marketing material, tier-4 per POS-D12; owner-approved): documents the 1993 introduction and the servo zoom drive.",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1994-06.pdf#page=43",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1992-06.pdf#page=96"
       ],
       "webSources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1994-06.pdf#page=43",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1992-06.pdf#page=96"
       ]
     },
     {
       "id": "nikon-s9x5-5b",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.nikonusa.com/",
-      "weightG": 2150,
-      "lengthMm": 232,
+      "weightG": null,
+      "lengthMm": null,
       "frontDiameterMm": null,
-      "closeFocusM": 0.4,
+      "closeFocusM": 0.3,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 127,
-      "hasMacro": true,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": false,
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1994-06.pdf#page=43"
       ],
       "webSources": [
-        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that"
+        "https://www.dvxuser.com/forum/panasonic-video-cameras/panasonic-general-other/hpx500/321140-nikkor-s9x5-5-have-you-tested-that",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1993-11-BG.pdf#page=15",
+        "https://www.worldradiohistory.com/Archive-All-BC-Engineering/BE/90s/BE-1994-06.pdf#page=43"
       ]
     },
     {
