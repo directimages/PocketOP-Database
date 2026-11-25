@@ -1,5 +1,5 @@
 {
-  "version": "1.67.0",
+  "version": "1.68.0",
   "updatedAt": "2026-11-25",
   "lenses": [
     {
@@ -13239,14 +13239,14 @@
       "id": "fujinon-ha13x4-5",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 1980,
+      "weightG": 1880,
       "lengthMm": 238.5,
       "frontDiameterMm": 95,
-      "closeFocusM": 0.59,
+      "closeFocusM": 0.3,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
+      "filterType": "hood_thread",
       "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -13254,11 +13254,20 @@
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/HA13x4.5%20ERM-ERD%20leaflet.pdf",
+        "https://asset.fujifilm.com/www/us/files/2019-10/2_3_Premier_Series.pdf",
+        "Fujinon HA13x4.5ERM/ERD leaflet 08/04 (manufacturer PDF): M.O.D. 0.3 m, size 95 mm diameter x 238.5 mm, Macro Yes, filter thread M127 P=0.75, weight without lens hood 1.88 kg (ERM) / 1.95 kg (ERD).",
+        "Filter on the lens hood: the 95 mm front diameter cannot carry a 127 mm thread, and the HD successor HA14x4.5 (Fujifilm 2/3\" Premier Series manual, same 95 mm front diameter) specifies M127 x 0.75 attached to the lens hood."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/HA13x4.5%20ERM-ERD%20leaflet.pdf",
+        "https://asset.fujifilm.com/www/us/files/2019-10/2_3_Premier_Series.pdf"
+      ],
+      "fieldNotes": {
+        "weightG": "1880 g is the ERM version without lens hood; the ERD version weighs 1950 g."
+      }
     },
     {
       "id": "fujinon-ha14x4-5",
@@ -13471,32 +13480,7 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": 95,
-      "hasMacro": true,
-      "hasServoZoom": true,
-      "hasServoFocus": false,
-      "servoConnector": "12pin",
-      "formFactor": "portable",
-      "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ],
-      "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
-    },
-    {
-      "id": "fujinon-ha25x16-5",
-      "lensType": "broadcast",
-      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 2900,
-      "lengthMm": 276.0,
-      "frontDiameterMm": 110.0,
-      "closeFocusM": 2.2,
-      "introductionYear": null,
-      "imageCircleMm": 11.0,
-      "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": "hood_thread",
       "filterThreadMm": 107,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -13504,25 +13488,66 @@
       "servoConnector": "12pin",
       "formFactor": "portable",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha",
+        "https://asset.fujifilm.com/www/us/files/2019-10/HA25x11.5BERD.pdf",
+        "Fujifilm HA25x11.5BERD specification page and operation manual (manufacturer): built-in macro (macro ring and lever), M.O.D. 2.2 m from front lens (0.11 m in macro), filter thread M107 x 1 / M127 x 0.75 attached to the lens hood, size 110 mm diameter x 265 mm, approx. mass 2.81 kg without lens hood."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
-      ]
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha",
+        "https://asset.fujifilm.com/www/us/files/2019-10/HA25x11.5BERD.pdf"
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "Filter attaches to the lens hood, which takes M107 x 1 or M127 x 0.75 filters."
+      }
+    },
+    {
+      "id": "fujinon-ha25x16-5",
+      "lensType": "broadcast",
+      "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
+      "weightG": 2900,
+      "lengthMm": 278,
+      "frontDiameterMm": 110.0,
+      "closeFocusM": 2.2,
+      "introductionYear": null,
+      "imageCircleMm": 11.0,
+      "opticalElements": null,
+      "filterType": "hood_thread",
+      "filterThreadMm": 107,
+      "hasMacro": true,
+      "hasServoZoom": true,
+      "hasServoFocus": false,
+      "servoConnector": "12pin",
+      "formFactor": "portable",
+      "sources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha",
+        "https://asset.fujifilm.com/www/us/files/2019-10/HA25x16.5BERD.pdf",
+        "Fujifilm HA25x16.5BERD specification page and operation manual (manufacturer): built-in macro (macro ring and lever), M.O.D. 2.2 m from front lens (0.11 m in macro), filter thread M107 x 1 / M127 x 0.75 attached to the lens hood, size 110 mm diameter x 278 mm, approx. mass 2.9 kg without lens hood."
+      ],
+      "webSources": [
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23ha",
+        "https://asset.fujifilm.com/www/us/files/2019-10/HA25x16.5BERD.pdf"
+      ],
+      "fieldNotes": {
+        "filterThreadMm": "Filter attaches to the lens hood, which takes M107 x 1 or M127 x 0.75 filters."
+      }
     },
     {
       "id": "fujinon-ha27x6-5",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 19700,
+      "weightG": 22300,
       "lengthMm": 539,
       "frontDiameterMm": null,
       "closeFocusM": 0.6,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -13530,11 +13555,14 @@
       "formFactor": "box",
       "sources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, HA27x6.5BESM: M.O.D. 0.6 m from front lens, size 233x231x539 mm (HxWxL), approx. mass 22.3 kg. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf"
       ]
     },
     {
@@ -14505,25 +14533,28 @@
       "id": "fujinon-ua80x9",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 23700,
+      "weightG": 23500,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
       "closeFocusM": 3.7,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 9, UA80x9BESM 1.2x EXT: M.O.D. 3.7 m from front lens, size 258x264x610 mm (HxWxL), approx. mass 23.5 kg. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf"
       ]
     },
     {
@@ -14563,8 +14594,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -14572,11 +14603,14 @@
       "formFactor": "box",
       "sources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf",
+        "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request). No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf"
+        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf"
       ]
     },
     {
@@ -14667,16 +14701,19 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
-      "hasMacro": false,
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses",
+        "Fujifilm XA20sx8.5BEMD specification (remote control lenses page, manufacturer): M.O.D. 0.9 m from front lens, filter thread M82 x 0.75, size 85 mm diameter x 200.8 mm, approx. mass 1.6 kg without lens hood. No macro specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses"
       ]
     },
     {
@@ -14717,16 +14754,19 @@
       "opticalElements": null,
       "filterType": "front_thread",
       "filterThreadMm": 82,
-      "hasMacro": false,
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses",
+        "Fujifilm XA20sx8.5BMD specification (remote control lenses page, manufacturer): M.O.D. 0.9 m from front lens, filter thread M82 x 0.75, size 85 mm diameter x 180.8 mm, approx. mass 1.5 kg without lens hood. No macro specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses"
       ]
     },
     {
@@ -14740,43 +14780,51 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "internal",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, XA22x7BES: M.O.D. 0.8 m from front lens, size 179x187x340 mm (HxWxL), approx. mass 6.6 kg. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf"
       ]
     },
     {
       "id": "fujinon-xa55x9-5",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 20800,
+      "weightG": 24800,
       "lengthMm": 876.0,
       "frontDiameterMm": null,
       "closeFocusM": 3.0,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
-      "hasMacro": true,
+      "filterType": null,
+      "filterThreadMm": "unknown",
+      "hasMacro": null,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/hd",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, and Fujifilm HD studio/field lens page, XA55x9.5BESM: M.O.D. 3.0 m from front lens, size 253x253x876 mm (HxWxL), approx. mass 24.8 kg. No filter or macro specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast/studio-field-lens/hd"
       ]
     },
     {
@@ -14784,24 +14832,27 @@
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
       "weightG": 21500,
-      "lengthMm": 634.0,
+      "lengthMm": 644,
       "frontDiameterMm": null,
       "closeFocusM": 2.7,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA66x9.3BESM%20Leaflet.pdf",
+        "Fujinon XA66x9.3BESM leaflet 2006 (manufacturer PDF): M.O.D. 2.7 m, size 253x253x644 mm, mass 21.5 kg, Macro Yes. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA66x9.3BESM%20Leaflet.pdf"
       ]
     },
     {
@@ -14815,8 +14866,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -14840,18 +14891,21 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, and Fujifilm HD studio/field lens page, XA77x9.5BESM: M.O.D. 2.7 m from front lens, size 253x253x656.4 mm (HxWxL), approx. mass 22.4 kg. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf"
       ]
     },
     {
@@ -14865,8 +14919,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
@@ -14893,43 +14947,51 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA88x8.8BESM%20leaflet%202006.08.pdf",
+        "Fujinon XA88x8.8BESM leaflet 2006 (manufacturer PDF): M.O.D. 2.9 m, Macro Yes. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA88x8.8BESM%20leaflet%202006.08.pdf"
       ]
     },
     {
       "id": "fujinon-xa99x8-4",
       "lensType": "broadcast",
       "manufacturerUrl": "https://www.fujifilm.com/uk/en/business/cine-and-broadcast",
-      "weightG": 24000,
+      "weightG": 23500,
       "lengthMm": 610.0,
       "frontDiameterMm": null,
       "closeFocusM": 2.9,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "screw_in",
-      "filterThreadMm": 127,
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "https://asset.fujifilm.com/global/files/2021-09/9d27a9dd8cd5e00fdf17d342d1aa14f5/XA99x84BESM.pdf",
+        "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, XA99x8.4BESM: M.O.D. 2.95 m from front lens, size 258x264x610 mm (HxWxL), approx. mass 23.5 kg; Fujifilm XA99x8.4BESM-T35 operation manual: M.O.D. 2.9 m (0.3 m in macro), mass approx. 23.5 kg. No filter specification."
       ],
       "webSources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
+        "https://asset.fujifilm.com/global/files/2021-09/9d27a9dd8cd5e00fdf17d342d1aa14f5/XA99x84BESM.pdf"
       ]
     },
     {
@@ -26573,8 +26635,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": 28,
-      "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": false,
       "hasServoFocus": false,
@@ -26600,8 +26662,8 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": 26,
-      "filterType": "matte_box",
-      "filterThreadMm": "none",
+      "filterType": null,
+      "filterThreadMm": "unknown",
       "hasMacro": false,
       "hasServoZoom": false,
       "hasServoFocus": false,
