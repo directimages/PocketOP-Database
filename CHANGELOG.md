@@ -36,6 +36,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.68.0 - 2026-11-25
+
+- Legacy union rebuild carrying the same sourced correction of 16 Fujinon and 2 Zeiss broadcast detail entries: weightG, lengthMm, closeFocusM, hasMacro, filterType, filterThreadMm, fieldNotes, sources and webSources. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v50)
+
+## lens-details.json
 ### v1.67.0 - 2026-11-25
 
 - Legacy union rebuild carrying the same sourced correction of 17 Canon HJ, KJ, KLL-SC, J35 and CJ broadcast detail entries: weightG, lengthMm, closeFocusM, hasMacro, filterType, filterThreadMm, sources and webSources. No other field or entry changed
@@ -146,6 +153,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
 - Entry count 283 -> 287
 - Released as new db tag (db-v38)
+
+## broadcast_lens_details.json
+### v1.61.0 - 2026-11-25
+
+- Sourced correction of 16 Fujinon and 2 Zeiss broadcast detail entries in source/broadcast-details/broadcast_details_fujinon.json (fujinon-ha13x4-5, fujinon-ha25x11-5, fujinon-ha25x16-5, fujinon-ha27x6-5, fujinon-ua80x9, fujinon-xa101x8-9, fujinon-xa20sx8-5bemd, fujinon-xa20sx8-5bmd, fujinon-xa22x7, fujinon-xa55x9-5, fujinon-xa66x9-3, fujinon-xa72x9-3, fujinon-xa77x9-5, fujinon-xa87x9-3, fujinon-xa88x8-8, fujinon-xa99x8-4) and source/broadcast-details/broadcast_details_zeiss.json (zeiss-digizoom-17-112, zeiss-digizoom-6-24). Spec values from an unsourced May 2026 gap fill are confirmed or replaced with manufacturer-sourced values (Fujinon General Catalog 2021, Fujifilm product pages and operation manuals, Fujinon Europe product leaflets). Weight, length, minimum object distance, macro and filter values were confirmed or replaced. Filter types now follow the manufacturer's hood thread where the filter attaches to the hood. Values no manufacturer source carries moved to null or "unknown", including the filter fields of the box lenses, three macro flags and both Zeiss filter fields. Three fieldNotes were merged into the existing fieldNotes, other keys kept. Applied with build/apply_fields.py (72 fields on 18 entries, zero orphans), including the full sources and webSources lists where changed. No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v50)
 
 ## broadcast_lens_details.json
 ### v1.60.0 - 2026-11-25
