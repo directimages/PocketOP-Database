@@ -40,6 +40,38 @@ A map argument may be a .json file holding the object directly, or a pass .md
 file holding one or more ```json blocks (the staging format); every block in the
 file is merged.
 
+Removing fieldNotes keys. A staged map can never remove a fieldNotes key through
+the merge above, so it states the removal explicitly with the reserved
+instruction removeFieldNotes, a list of fieldNotes key names, inside the entry's
+field map. It works the same in a .json file and in a ```json block:
+
+    { "entry-id": { "removeFieldNotes": ["hasMacro"] } }
+
+The same entry may also set other fields and merge other fieldNotes keys in the
+same map. Rules:
+
+  * Removal is never implicit. Only this instruction removes a key. A map
+    without it behaves exactly as before.
+  * The value must be a non empty list of non empty strings with no duplicates.
+    Anything else is malformed and aborts the run before anything is written.
+  * Every named key must exist in the entry's current fieldNotes. A key the
+    entry does not have aborts the run, so a rerun of an already applied
+    removal fails loudly instead of passing silently.
+  * A key that the same entry both sets (inside its fieldNotes object) and
+    removes aborts the run, also when the set and the removal come from
+    different blocks or files.
+  * If no fieldNotes key remains after the removal, the fieldNotes key is
+    deleted from the entry, so it looks like an entry that never had notes.
+    This applies only to entries a removal ran on, in every category.
+  * Combining blocks and files follows the fieldNotes rule: removeFieldNotes is
+    one whole value per (id, field). Two blocks (or files) naming the same entry
+    with different key sets abort with "Conflicting values"; identical key sets
+    are accepted, in any order. No union is formed, so list every key to remove
+    from one entry in a single block.
+  * Everything is validated before anything is written, same all or nothing
+    behavior as an orphan id. The run output lists removals in their own
+    section, separate from the applied fields.
+
 No em dashes appear anywhere in this file by project policy.
 """
 
@@ -56,6 +88,10 @@ from assemble import AssembleError
 # the assembler can never disagree about where detail entries live.
 DETAIL_CATEGORIES = [cat for cat in assemble.SHARD_CATEGORIES
                      if cat["kind"] in ("details", "ptzdet")]
+
+# Reserved instruction inside an entry's field map: a list of fieldNotes keys to
+# remove. It is not a registered field, so no valid existing map can carry it.
+REMOVE_FIELD_NOTES = "removeFieldNotes"
 
 JSON_BLOCK = re.compile(r"```json\s*\n(.*?)\n```", re.DOTALL)
 
@@ -132,6 +168,26 @@ def parse_blocks(text, source):
     return objects
 
 
+def normalize_removal(entry_id, value, source):
+    """Validate one removeFieldNotes value and return it as a sorted key list.
+
+    Sorting makes the whole value comparison in the conflict checks independent
+    of key order, the same way dict equality is for fieldNotes.
+    """
+    where = "id '%s' field '%s' in '%s'" % (entry_id, REMOVE_FIELD_NOTES, source)
+    if not isinstance(value, list) or not value:
+        fail("Malformed removal for %s: expected a non empty list of fieldNotes "
+             "key names, got %s." % (where, json.dumps(value)))
+    for key in value:
+        if not isinstance(key, str) or not key:
+            fail("Malformed removal for %s: every key must be a non empty "
+                 "string, got %s." % (where, json.dumps(key)))
+    if len(set(value)) != len(value):
+        fail("Malformed removal for %s: duplicate key names in %s."
+             % (where, json.dumps(value)))
+    return sorted(value)
+
+
 def load_field_map_file(path):
     """Read one map argument into a single id -> {field: value} dict.
 
@@ -152,6 +208,8 @@ def load_field_map_file(path):
                      % (entry_id, path, type(field_map).__name__))
             slot = merged.setdefault(entry_id, {})
             for field, value in field_map.items():
+                if field == REMOVE_FIELD_NOTES:
+                    value = normalize_removal(entry_id, value, path)
                 if field in slot and slot[field] != value:
                     fail("Conflicting values for id '%s' field '%s' within '%s'."
                          % (entry_id, field, path))
@@ -193,18 +251,57 @@ def apply_field(entry, field, value):
         entry[field] = value
 
 
+def removal_violations(entry_id, entry, field_map, keys):
+    """Why a removal cannot run on this entry, one message per bad key."""
+    notes = entry.get("fieldNotes")
+    given = field_map.get("fieldNotes")
+    problems = []
+    for key in keys:
+        if not isinstance(notes, dict) or key not in notes:
+            problems.append("id '%s': removal names fieldNotes key '%s' which "
+                            "the entry does not have" % (entry_id, key))
+        if isinstance(given, dict) and key in given:
+            problems.append("id '%s': fieldNotes key '%s' is both set and "
+                            "removed" % (entry_id, key))
+    return problems
+
+
+def apply_removals(entry, keys):
+    """Delete the keys, then drop fieldNotes itself if nothing is left."""
+    notes = entry["fieldNotes"]
+    for key in keys:
+        del notes[key]
+    if not notes:
+        del entry["fieldNotes"]
+
+
 def apply_fields(map_paths):
-    """Validate every key, then write. Returns (combined_map, touched_paths)."""
+    """Validate every key, then write.
+
+    Returns (combined, touched_paths, field_count, removals). combined holds the
+    fields to set per id (ids that only remove fieldNotes keys are not in it);
+    removals maps id to its sorted list of removed fieldNotes keys.
+    """
     index = index_detail_entries()
-    combined = combine_field_maps(map_paths)
+    staged = combine_field_maps(map_paths)
 
     # Validation phase. Every key must resolve to an existing detail entry id.
-    orphans = sorted(key for key in combined if key not in index)
+    orphans = sorted(key for key in staged if key not in index)
     if orphans:
         listed = "\n".join("  key '%s' matches no existing detail entry id" % key
                            for key in orphans)
         fail("Field import aborted, nothing written. %d orphan key(s):\n%s"
              % (len(orphans), listed))
+
+    # Split the removal instruction from the fields it travels with.
+    combined = {}
+    removals = {}
+    for entry_id, field_map in staged.items():
+        fields = {f: v for f, v in field_map.items() if f != REMOVE_FIELD_NOTES}
+        if fields:
+            combined[entry_id] = fields
+        if REMOVE_FIELD_NOTES in field_map:
+            removals[entry_id] = field_map[REMOVE_FIELD_NOTES]
 
     # Core/details partition phase. Every staged field must belong on the
     # details side of its entry's $def (field_registry.py, the same registry
@@ -225,6 +322,16 @@ def apply_fields(map_paths):
         fail("Field import aborted, nothing written. %d core/details partition "
              "violation(s):\n%s" % (len(mismatches), listed))
 
+    # Removal phase. Every named key must exist and must not also be set.
+    bad = []
+    for entry_id, keys in sorted(removals.items()):
+        bad.extend(removal_violations(entry_id, index[entry_id]["entry"],
+                                      combined.get(entry_id, {}), keys))
+    if bad:
+        listed = "\n".join("  " + line for line in bad)
+        fail("Field import aborted, nothing written. %d fieldNotes removal "
+             "violation(s):\n%s" % (len(bad), listed))
+
     # Apply phase. Reached only when the whole map validates.
     touched = {}
     field_count = 0
@@ -234,9 +341,13 @@ def apply_fields(map_paths):
             apply_field(slot["entry"], field, value)
             field_count += 1
         touched[slot["path"]] = slot["data"]
+    for entry_id, keys in removals.items():
+        slot = index[entry_id]
+        apply_removals(slot["entry"], keys)
+        touched[slot["path"]] = slot["data"]
     for path, data in sorted(touched.items()):
         write_shard(path, data)
-    return combined, sorted(touched), field_count
+    return combined, sorted(touched), field_count, removals
 
 
 def main(argv):
@@ -245,7 +356,7 @@ def main(argv):
               file=sys.stderr)
         return 2
     try:
-        combined, touched, field_count = apply_fields(argv)
+        combined, touched, field_count, removals = apply_fields(argv)
     except AssembleError as exc:
         print("FIELD IMPORT FAILED: %s" % exc, file=sys.stderr)
         return 1
@@ -253,6 +364,11 @@ def main(argv):
           % (field_count, len(combined), len(touched)))
     for path in touched:
         print("  %s" % assemble.rel(path))
+    if removals:
+        print("Removed %d fieldNotes key(s) from %d id(s):"
+              % (sum(len(keys) for keys in removals.values()), len(removals)))
+        for entry_id in sorted(removals):
+            print("  %s: %s" % (entry_id, ", ".join(removals[entry_id])))
     return 0
 
 

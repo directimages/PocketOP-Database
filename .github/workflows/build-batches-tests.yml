@@ -17,6 +17,7 @@ on:
     paths:
       - 'build/build_batches.py'
       - 'build/assemble.py'
+      - 'build/apply_fields.py'
       - 'build/attribution_gate.py'
       - 'build/attribution_allowlist.txt'
       - 'build/broadcast_source_gate.py'
@@ -28,6 +29,7 @@ on:
     paths:
       - 'build/build_batches.py'
       - 'build/assemble.py'
+      - 'build/apply_fields.py'
       - 'build/attribution_gate.py'
       - 'build/attribution_allowlist.txt'
       - 'build/broadcast_source_gate.py'
