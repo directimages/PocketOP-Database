@@ -465,6 +465,70 @@ inside it, sorted, and each is treated exactly as if it had been passed on
 the command line (folder mode). This is a pure input convenience; what gets
 validated and how does not change.
 
+## Patching existing entries: apply_fields.py
+
+`build/apply_fields.py` is the validating path for changing fields on existing
+detail entries. A staged map is `{ "entry-id": { "field": value } }`, given as a
+`.json` file or as ```json blocks inside a staging `.md` file. Every id is
+checked first; any orphan id aborts the run and nothing is written. Every field
+is set wholesale, except `fieldNotes`, which merges: given keys are added or
+overwritten and existing keys stay (POS-D17).
+
+```
+python build/apply_fields.py <map.json|pass.md> [more ...]
+```
+
+### Removing fieldNotes keys
+
+A merge can never remove a key, so a map states a removal explicitly with the
+reserved instruction `removeFieldNotes`, a list of key names, inside the
+entry's field map. It works the same in the `.json` and the `.md` format:
+
+```json
+{
+  "example-entry-id": {
+    "removeFieldNotes": ["hasMacro"],
+    "fieldNotes": { "filterThreadMm": "merged note" },
+    "weightG": 1234
+  }
+}
+```
+
+The same entry can set other fields and merge other `fieldNotes` keys in the
+same map. The rules:
+
+- Removal is never implicit. A map without `removeFieldNotes` behaves exactly as
+  before.
+- The value must be a non empty list of non empty strings with no duplicates.
+  Anything else is malformed and aborts the run.
+- Every named key must exist in the entry's current `fieldNotes`. A key the
+  entry does not have aborts the run, so rerunning an applied removal fails
+  loudly instead of passing silently.
+- A key that the same entry both sets and removes aborts the run, also when the
+  set and the removal sit in different blocks or files.
+- When no `fieldNotes` key remains, the `fieldNotes` key itself is deleted, so
+  the entry looks like one that never had notes. This holds in every category
+  (broadcast, cine, ptz) and applies only to entries a removal ran on.
+- Several blocks or files: `removeFieldNotes` combines like `fieldNotes` does,
+  as one whole value per (id, field). Two blocks naming the same entry with
+  different key sets abort with "Conflicting values"; identical key sets are
+  accepted, in any order. There is no union, so list every key to remove from
+  one entry in a single block.
+- All checks run before any write, the same all or nothing behavior as an
+  orphan id.
+
+The run output reports removals in their own section, apart from the applied
+fields:
+
+```
+Applied 0 field(s) to 0 id(s) across 1 shard(s):
+  source/broadcast-details/broadcast_details_example.json
+Removed 1 fieldNotes key(s) from 1 id(s):
+  example-entry-id: hasMacro
+```
+
+The tests are in `tests/test_apply_fields.py` (synthetic fixtures only).
+
 ## Markdown-to-batch conversion: build_batches.py
 
 Kay stages new-entry batches as JSON inside fenced code blocks in markdown
