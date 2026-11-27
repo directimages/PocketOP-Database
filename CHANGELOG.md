@@ -14,6 +14,14 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## cine_lens_details.json
+### v1.59.0 - 2026-11-27
+
+- productUrl set to null on the 7 Meike FF Cine entries in source/cine-details/e/cine_details_e_meike.json (meike-ff-cine-16mm-t2-5, -24mm-t2-1, -35mm-t2-1, -50mm-t2-1, -85mm-t2-1, -105mm-t2-1, -135mm-t2-4), because Meike no longer lists the series
+- The dead Meike collection page removed from their webSources, which is now an empty list. These entries have no source until a manufacturer source is found; that follow-up is tracked separately
+- Applied with build/apply_fields.py. No other entry or field changed
+- Entry count unchanged, 647
+- Released as new db tag (db-v52)
+
 ### v1.58.1 - 2026-11-17
 
 - Text-only cleanup of personal names in sources fields: 25 strings across 4 detail shards (Sigma Aizu Prime E and PL, ZEISS Panoptes LPL, Laowa OOOM PL). No value, id or other field changed
@@ -34,6 +42,13 @@ Most recent changes at the top. One line per file changed per commit.
 - No other field on any existing entry changed
 - Entry count 624 -> 641, matches cine_lenses.json id-set exactly
 - Released as new db tag (db-v41)
+
+## lens-details.json
+### v1.70.0 - 2026-11-27
+
+- Legacy union rebuild carrying the same changes as broadcast_lens_details.json v1.63.0 and cine_lens_details.json v1.59.0: dead third-party catalog links removed from sources and webSources on 8 Canon and Fujinon broadcast entries, and the dead Meike collection page removed from webSources on the 7 Meike FF Cine entries. The productUrl changes (canon-xj100x9-3b repoint, Meike null) are not part of the union. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v52)
 
 ## lens-details.json
 ### v1.69.0 - 2026-11-27
@@ -160,6 +175,16 @@ Most recent changes at the top. One line per file changed per commit.
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
 - Entry count 283 -> 287
 - Released as new db tag (db-v38)
+
+## broadcast_lens_details.json
+### v1.63.0 - 2026-11-27
+
+- Dead third-party catalog links removed from sources and webSources on 8 broadcast detail entries. Canon, in source/broadcast-details/broadcast_details_canon.json: canon-hj8x5-5b-kll-sc, canon-hj11x4-7b-kll-sc, canon-hj21x7-5b-kll-sc, canon-xj23x7b, canon-xj75x9-3b, canon-xj86x9-3b-af. Fujinon, in source/broadcast-details/broadcast_details_fujinon.json: fujinon-ha27x6-5, fujinon-xa101x8-9. The removed links are not replaced with archive copies; every entry keeps at least one manufacturer source
+- productUrl of canon-xj100x9-3b repointed from the DIGISUPER 100AF page (a different model) to the DIGISUPER 100 page
+- The historical 1.14.0 line in this changelog (Canon HJ KLL-SC sources) reworded to drop the dead link's domain
+- Applied with build/apply_fields.py, zero orphans. No spec value changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v52)
 
 ## broadcast_lens_details.json
 ### v1.62.0 - 2026-11-27
@@ -1019,7 +1044,7 @@ Most recent changes at the top. One line per file changed per commit.
 - **1.17.0** (2026-05-10) — Retroactive sources pass Canon UJ series (all 8 entries) + hasMacro corrections per POS-D16. Sources: ManualsLib UJ122x8.2B AF manual (2947870) for all entries; additional B&H/3dbroadcastsales product pages for uj27x6-5b/uj86x9-3b/uj111x8-3b/uj122x8-2b. Value corrections: uj111x8-3b/uj122x8-2b/uj122x8-2b-af hasMacro true→false + fieldNotes.hasMacro added. Note: uj25ex7-6b ID in DB contains "ex" (canon-uj25ex7-6b), not "uj25x7-6b" as listed in task — sources applied to correct ID.
 - **1.16.0** (2026-05-10) — Canon XJ hasMacro corrections per POS-D16 (4 entries). xj22x7-3b/xj25x6-8b/xj27x6-5b: hasMacro true→false. xj72x9-3b: hasMacro unconfirmed→false. All 4 entries: fieldNotes.hasMacro added ("Macro available via optional MCJ-S02 accessory"). Canon DIGISUPER field lenses do not have built-in macro; macro is only available via the optional MCJ-S02 accessory (POS-D16).
 - **1.15.0** (2026-05-10) — Retroactive sources pass Canon XJ series (all 15 entries). xj22x7-3b/xj23x7b/xj27x6-5b/xj60x9b/xj86x9-3b: ManualsLib XJ100x9.3B AF manual (895784) + B&H/Allied Broadcast product page. xj25x6-8b: ManualsLib High Resolution Lenses manual (538423). Remaining 9 entries (xj72x9-3b/xj75x9-3b/xj76x9b/xj80x8-8b/xj86x9-3b-af/xj86x13-5b/xj95x8-6b/xj95x12-4b/xj100x9-3b): ManualsLib XJ100x9.3B AF manual (895784). No field values changed. Discrepancies flagged for future pass: xj72x9-3b hasMacro=unconfirmed (macro via optional MCJ-S02 accessory, not built-in); xj25x6-8b hasMacro=true (Pocket Manual source not model-specific).
-- **1.14.0** (2026-05-10) — Added sources to Canon HJ KLL-SC variants (hj8x5-5b-kll-sc, hj11x4-7b-kll-sc, hj21x7-5b-kll-sc). Sources: theodoropoulos.info Canon lens catalog PDF + B&H product page (Canon HJ8x5.5B KLL-SC). Confirms cine-style HD-EC lenses, no servo zoom/focus, no connector, film-style operation.
+- **1.14.0** (2026-05-10): Added sources to Canon HJ KLL-SC variants (hj8x5-5b-kll-sc, hj11x4-7b-kll-sc, hj21x7-5b-kll-sc). Sources: a Canon lens catalog PDF on a third-party site (link since removed as unreachable, db-v52) + B&H product page (Canon HJ8x5.5B KLL-SC). Confirms cine-style HD-EC lenses, no servo zoom/focus, no connector, film-style operation.
 - **1.13.0** (2026-05-10) — Retroactive sources pass Canon HJ series (13 of 16 entries; KLL-SC variants excluded per design). Added sources array to: hj40ex14b (B&H + FocusNordic 127mm), hj40ex10b (B&H + FocusNordic 127mm), hj14ex4-3b (ManualsLib 1931526 + B&H), hj11ex4-7b (B&H), hj17ex7-6b (ManualsLib 1931526), hj22ex7-6b, hj40x10b (B&H + FocusNordic 127mm), hj21ex7-5b, hj17ex6-2b, hj18ex28b, hj15ex8-5b, hj18ex7-6b, hj24ex7-5b (last 6: ManualsLib 1931526). Value corrections: hj40ex10b filterThreadMm unconfirmed→127; hj17ex7-6b filterThreadMm null→105; hj18ex7-6b hasMacro unconfirmed→true. Sources: manualmachine.com ManualsLib FieldZoom IF1 manual (1931526), bhphotovideo.com product pages, focusnordic.com 127mm filter compatibility (Kay-verified).
 - **1.12.0** (2026-05-10) — Retroactive sources pass Canon CJ series (8 of 12 entries). Added sources array to: cj12ex4-3b (ManualsLib 2517717 p.51), cj14ex4-3b (asia.canon + ManualsLib 2517717 p.53), cj15ex4-3b (asia.canon), cj15ex8-5b (asia.canon), cj18ex28b (asia.canon), cj18ex7-6b (asia.canon), cj20ex7-8b (asia.canon), cj24ex7-5b (asia.canon). No sources for cj20ex5b/cj27ex7-3b/cj45ex13-6b/cj45ex9-7b (all primary pages 404/403 via HTTPS; HTTP-only URLs documented in Private/canon-cj-http-pending.md for manual verification). No field values changed. Discrepancy flagged: cj20ex7-8b hasMacro=false contradicted by research (correction deferred to separate pass).
 - **1.11.0** (2026-05-10) — Batch 33: filled 15 sidecars across 7 manufacturers. Tokina Vista 16-28mm T3.0 (FF): weightG=1750, lengthMm=142, frontDiameterMm=114, filterType=front_thread, filterThreadMm=112, isParfocal=false, gearPitch=null, opticalElements=15; tokina-cinema.jp (tier-1). Tokina ATX 11-20mm T2.9 (S35): weightG=1030, lengthMm=99.6, frontDiameterMm=95, filterThreadMm=86, isParfocal=false, focusRingRotationDeg=300, gearPitch=0.8, opticalElements=14; tokina-cinema.jp (tier-1). Tokina ATX 25-75mm T2.9 (S35): weightG=1960, lengthMm=174, frontDiameterMm=95, filterThreadMm=86, isParfocal=true, gearPitch=0.8, opticalElements=18; tokina-cinema.jp (tier-1). Tokina ATX 50-135mm T2.9 MkII (S35): weightG=1450, lengthMm=147.7, frontDiameterMm=95, filterThreadMm=86, isParfocal=true, focusRingRotationDeg=300, gearPitch=0.8, opticalElements=18; tokina-cinema.jp (tier-1). Hawk Super Wide 10-24mm T2.5: all null (manufacturer PDF is image-only, not text-extractable; spec sheet inaccessible via WebFetch); isParfocal=false (no parfocal claim). Hawk Telephoto 100-300mm T2.2 (system lens = 150-450mm + 0.7× reducer): weightG=16300, lengthMm=600, frontDiameterMm=156, closeFocusM=3.05, imageCircleMm=31.0, filterType=rear, isParfocal=false; hawk-v.de (tier-2). Hawk Telephoto 150-450mm T2.8: weightG=15900, lengthMm=660, frontDiameterMm=156, closeFocusM=3.05, imageCircleMm=31.0, filterType=rear, isParfocal=false, opticalElements=18; hawk-v.de (tier-2); note: DB sensorFormat=largeFormat but imageCircleMm=31mm (S35 coverage) — pre-existing lenses.json discrepancy, out of scope. Angénieux Optimo DP 16-42mm T2.8: weightG=1920, lengthMm=190, frontDiameterMm=114, closeFocusM=0.61, imageCircleMm=31.1, isParfocal=false, focusRingRotationDeg=320, gearPitch=0.8; ManualsLib OEM manual (tier-1). Angénieux Optimo DP 30-80mm T2.8: weightG=1900, lengthMm=186, frontDiameterMm=114, closeFocusM=0.61, imageCircleMm=31.4, isParfocal=false, focusRingRotationDeg=320, gearPitch=0.8; ovide.com / VMI rental pages (tier-2). Viltrox Luna 30-300mm T4.0 (FF): weightG=15000, lengthMm=511, frontDiameterMm=165, closeFocusM=1.26, imageCircleMm=46.5, filterType=rear, isParfocal=true, gearPitch=0.8, introductionYear=2024; viltrox.com (tier-1). Viltrox Luna 42-420mm T5.6 (LF): weightG=16000, closeFocusM=1.8, imageCircleMm=60.0, filterType=rear, isParfocal=null, gearPitch=0.8, opticalElements=11, introductionYear=2024; lengthMm/frontDiameterMm null (not published); viltrox.com (tier-1). RED Pro 17-50mm T2.9: weightG=1450, lengthMm=129, frontDiameterMm=114, closeFocusM=0.25, filterType=unconfirmed, isParfocal=false, gearPitch=0.8; RED pages removed post-Nikon acquisition, rental house listings (triode.tv, filmtools.com, hdgear.tv) as tier-2 sources. RED Pro 18-85mm T2.9: weightG=4500, lengthMm=280, frontDiameterMm=142, closeFocusM=0.70, filterType=unconfirmed, isParfocal=false, focusRingRotationDeg=271, gearPitch=0.8; same sources. Vantage LW Zoom 17-35mm T2.8: all null (manufacturer PDF is image-only, not text-extractable); isParfocal=false (no parfocal claim). Masterbuilt CFZ 27-60mm T2.9 (LF): weightG=1910, frontDiameterMm=114, closeFocusM=0.28, filterType=null, isParfocal=true, hasFocusBreathing=false, gearPitch=0.8; masterbuilt.com (tier-1).

@@ -452,13 +452,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ11x4.7B-3 KLL-SC: size 95x95x242 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -716,13 +714,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ21x7.5B-3 KLL-SC: size 130x130x260 mm, weight approx. 2.7 kg, Macro Standard, M.O.D. 1.16 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -917,13 +913,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ8x5.5B KLL-SC: size 95x95x245.2 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -1546,7 +1540,7 @@
       "maxApertureTele": 4.7,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_100af/"
+      "productUrl": "https://www.canon-europe.com/broadcast/tv_lenses/studio_field_lenses/digisuper_100/"
     },
     {
       "id": "canon-xj22x7-3b",
@@ -1609,7 +1603,6 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ23x7B IE-D: M.O.D. 0.6 m, size 250.6x255.5x525 mm, approx. mass 19.5 kg, Macro Option, Protection Filter Option."
       ],
       "fieldNotes": {
@@ -1617,8 +1610,7 @@
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html"
       ],
       "description": "A 2/3-inch HD studio box lens from Canon's DIGISUPER line, the XJ23x7B pairs a wide standard zoom range with the steadiness of a full-size studio box for indoor and studio productions. It carries full digital servo zoom and focus, an internal filter system and a built-in 2x extender.",
       "maxApertureWide": 1.6,
@@ -1790,12 +1782,10 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ75x9.3B IE-D: M.O.D. 2.8 m, size 250.6x255.5x591.5 mm, approx. mass 22.0 kg, Protection Filter Option."
       ],
       "webSources": [
-        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ],
       "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ75x9.3B is a high-magnification long-throw lens for stadium sports and outside broadcast. It carries a built-in optical image stabilizer to steady the long telephoto end, alongside the family's Power Optical System, focus-breathing correction and virtual-production encoder support, with an internal filter and a built-in 2x extender.",
       "maxApertureWide": 1.7,
@@ -1963,13 +1953,11 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "https://asia.canon/en/business/digisuper-86af/main/specification",
         "Canon Asia DIGISUPER 86 AF specification, XJ86x9.3B AF: M.O.D. 3.0 m from lens front, size 250.6x255.5x661.5 mm, weight 26.8 kg. No filter specification published."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "https://asia.canon/en/business/digisuper-86af/main/specification"
       ],
       "description": "A 2/3-inch HD field box lens from Canon's DIGISUPER line, the XJ86x9.3B AF adds Canon's phase-detection autofocus to the popular XJ86x9.3B while keeping the same optics, easing subject tracking in fast live coverage. It shares the field-box family's Power Optical System with X-Element and focus-breathing correction, with an internal filter and a built-in 2x extender. Discontinued.",
