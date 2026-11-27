@@ -1,6 +1,6 @@
 {
-  "version": "1.68.0",
-  "updatedAt": "2026-11-25",
+  "version": "1.69.0",
+  "updatedAt": "2026-11-27",
   "lenses": [
     {
       "id": "7artisans-spectrum-14mm-t2-9",
@@ -2819,7 +2819,7 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": "hood_thread",
       "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -2828,7 +2828,7 @@
       "formFactor": "portable",
       "sources": [
         "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51",
-        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ12ex4.3B IRSE S/IASE S: M.O.D. 0.3 m, size 163.5x108.0x247.8 mm, approx. weight 2.1 kg (IRSE S)."
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, CJ12ex4.3B IRSE S/IASE S: M.O.D. 0.3 m, size 163.5x108.0x247.8 mm, approx. weight 2.1 kg (IRSE S), filter thread size (hood/lens barrel) 127mm P0.75 / -, so the filter attaches to the lens hood only."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=51"
@@ -2845,7 +2845,7 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": "hood_thread",
       "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -2854,7 +2854,8 @@
       "formFactor": "portable",
       "sources": [
         "https://asia.canon/en/business/cj14ex4-3b/main/specification",
-        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53"
+        "https://www.manualslib.com/manual/2517717/Canon-Cj12ex4-3b-Irse.html?page=53",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, and Canon broadcast lens brochure 2025/26 (manufacturer PDF), p. 20, CJ14ex4.3B IRSE S/IASE S: filter thread size (hood/lens barrel) 127mm P0.75 / -, so the filter attaches to the lens hood only."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj14ex4-3b/main/specification",
@@ -2872,15 +2873,16 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
-      "filterThreadMm": "unknown",
+      "filterType": "hood_thread",
+      "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "portable",
       "sources": [
-        "https://asia.canon/en/business/cj15ex4-3b/main/specification"
+        "https://asia.canon/en/business/cj15ex4-3b/main/specification",
+        "Canon UHD broadcast lens catalog 2023 (manufacturer PDF), p. 20, and Canon broadcast lens brochure 2025/26 (manufacturer PDF), p. 20, CJ15ex4.3B: filter thread size (hood/lens barrel) 127mm P0.75 / -, so the filter attaches to the lens hood only."
       ],
       "webSources": [
         "https://asia.canon/en/business/cj15ex4-3b/main/specification"
@@ -5103,7 +5105,7 @@
       "weightG": 2000,
       "lengthMm": 242,
       "frontDiameterMm": null,
-      "closeFocusM": 1.17,
+      "closeFocusM": null,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
@@ -5124,7 +5126,10 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "closeFocusM": "Canon gives the minimum object distance only from the image plane: 0.59 m (Canon Broadcast Television Lens catalog 2005, pp. 32-33). No manufacturer source gives it from the lens front, the convention of this field."
+      }
     },
     {
       "id": "canon-hj14ex4-3b",
@@ -5137,7 +5142,7 @@
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
-      "filterType": "front_thread",
+      "filterType": "hood_thread",
       "filterThreadMm": 127,
       "hasMacro": true,
       "hasServoZoom": true,
@@ -5148,7 +5153,8 @@
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
         "https://www.bhphotovideo.com/c/product/634824-REG/Canon_HJ14EX4_3B_IRSE_HJ14ex4_3B_IRSE_eHDxs_14x_2_3.html",
         "https://asia.canon/en/business/hj14ex4-3b-irse-iase-s/main/specification",
-        "Canon Asia HJ14ex4.3B IRSE / IASE S specification: size 163.5x110.8x247.8 mm, weight IRSE 1.99 kg / IASE 2.07 kg, M.O.D. 0.3 m from lens front (10 mm with Macro). No filter specification published."
+        "Canon Asia HJ14ex4.3B IRSE / IASE S specification: size 163.5x110.8x247.8 mm, weight IRSE 1.99 kg / IASE 2.07 kg, M.O.D. 0.3 m from lens front (10 mm with Macro). No filter specification published.",
+        "Canon HJ14ex4.3B brochure (manufacturer PDF, PUB. 0132W411, 2009), specifications and system chart: Filter 127mm P0.75; the filters are attached to the threaded hood unit. M.O.D. 0.3 m (10 mm with Macro), approx. mass IRSE/IASE 1.99 kg / 2.07 kg."
       ],
       "webSources": [
         "https://manualmachine.com/canon/fieldzoomif1/1931526-owners-manual/",
@@ -5319,7 +5325,7 @@
       "weightG": 2700,
       "lengthMm": 260.0,
       "frontDiameterMm": null,
-      "closeFocusM": 1.17,
+      "closeFocusM": null,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
@@ -5340,7 +5346,10 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "closeFocusM": "Canon gives the minimum object distance only from the image plane: 1.16 m (Canon Broadcast Television Lens catalog 2005, pp. 32-33). No manufacturer source gives it from the lens front, the convention of this field."
+      }
     },
     {
       "id": "canon-hj22ex7-6b",
@@ -5485,7 +5494,7 @@
       "weightG": 2000,
       "lengthMm": 245.2,
       "frontDiameterMm": null,
-      "closeFocusM": 0.58,
+      "closeFocusM": null,
       "introductionYear": null,
       "imageCircleMm": 11.0,
       "opticalElements": null,
@@ -5506,7 +5515,10 @@
         "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "closeFocusM": "Canon gives the minimum object distance only from the image plane: 0.59 m (Canon Broadcast Television Lens catalog 2005, pp. 32-33). No manufacturer source gives it from the lens front, the convention of this field."
+      }
     },
     {
       "id": "canon-j11ax4-5b",
@@ -6982,9 +6994,6 @@
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ72x9.3B IE-D: M.O.D. 2.8 m, size 250.6x255.5x591.5 mm, approx. mass 21.8 kg, no macro, Protection Filter Option."
       ],
-      "fieldNotes": {
-        "hasMacro": "Macro available via optional MCJ-S02 accessory."
-      },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ]
@@ -14596,7 +14605,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": "unknown",
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -14605,13 +14614,16 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf",
-        "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request). No filter specification."
+        "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request), so a factory option and not built in as standard. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf"
-      ]
+      ],
+      "fieldNotes": {
+        "hasMacro": "Macro is a factory option (upon request), not built in as standard."
+      }
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -14921,19 +14933,21 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": "unknown",
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "Fujinon XA87x9.3ESM/XA87x13.2ESM brochure (manufacturer PDF), specifications: Macro yes (upon request) on the XA87x9.3ESM, so a factory option and not built in as standard. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
       ],
       "fieldNotes": {
-        "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
+        "hasIS": "Available with Fujinon's internal image stabilization as a factory option.",
+        "hasMacro": "Macro is a factory option (upon request), not built in as standard."
       }
     },
     {
