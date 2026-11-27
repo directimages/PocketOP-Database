@@ -1,5 +1,5 @@
 {
-  "version": "1.69.0",
+  "version": "1.70.0",
   "updatedAt": "2026-11-27",
   "lenses": [
     {
@@ -5117,13 +5117,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ11x4.7B-3 KLL-SC: size 95x95x242 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -5337,13 +5335,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ21x7.5B-3 KLL-SC: size 130x130x260 mm, weight approx. 2.7 kg, Macro Standard, M.O.D. 1.16 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -5506,13 +5502,11 @@
       "servoConnector": "none",
       "formFactor": "portable",
       "sources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), pp. 32-33, HD-EC zoom lens table, HJ8x5.5B KLL-SC: size 95x95x245.2 mm, weight approx. 2.0 kg, Macro Standard, M.O.D. 0.59 m from image plane. No filter specification listed."
       ],
       "webSources": [
-        "https://www.theodoropoulos.info/attachments/076_Canon_Lenses.pdf",
         "https://www.bhphotovideo.com/c/product/423756-REG/Canon_HJ8X5_5B_KLL_SC_HJ8x55BKLLSC_8x_2_3_Cine.html",
         "https://web.archive.org/web/2006/http://www.canon.com/bctv/products/pdf/general.pdf"
       ],
@@ -6865,7 +6859,6 @@
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
         "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ23x7B IE-D: M.O.D. 0.6 m, size 250.6x255.5x525 mm, approx. mass 19.5 kg, Macro Option, Protection Filter Option."
       ],
       "fieldNotes": {
@@ -6873,8 +6866,7 @@
       },
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.bhphotovideo.com/c/product/887255-REG/canon_xj23x7b_ie_d_lo_xj23x7b_ie_d_digisuper_23.html"
       ]
     },
     {
@@ -7018,12 +7010,10 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "Canon Broadcast Television Lens catalog 2005 (manufacturer PDF), p. 12, XJ75x9.3B IE-D: M.O.D. 2.8 m, size 250.6x255.5x591.5 mm, approx. mass 22.0 kg, Protection Filter Option."
       ],
       "webSources": [
-        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf"
+        "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html"
       ]
     },
     {
@@ -7161,13 +7151,11 @@
       "formFactor": "box",
       "sources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "https://asia.canon/en/business/digisuper-86af/main/specification",
         "Canon Asia DIGISUPER 86 AF specification, XJ86x9.3B AF: M.O.D. 3.0 m from lens front, size 250.6x255.5x661.5 mm, weight 26.8 kg. No filter specification published."
       ],
       "webSources": [
         "https://www.manualslib.com/manual/895784/Canon-Xj100x9-3b-Af.html",
-        "https://www.theodoropoulos.info/attachments/article/96/Canon%20Broadcast%20Products%202009.pdf",
         "https://asia.canon/en/business/digisuper-86af/main/specification"
       ]
     },
@@ -13564,13 +13552,11 @@
       "formFactor": "box",
       "sources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf",
         "Fujinon General Catalog 2021 (manufacturer PDF), p. 10, HA27x6.5BESM: M.O.D. 0.6 m from front lens, size 233x231x539 mm (HxWxL), approx. mass 22.3 kg. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://asset.fujifilm.com/www/us/files/2021-03/d00463289ef1cd521372670923a45cb0/Fujinon-General-Catalog_2021.pdf"
       ]
     },
@@ -14612,13 +14598,11 @@
       "formFactor": "box",
       "sources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf",
         "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request), so a factory option and not built in as standard. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
-        "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf"
       ],
       "fieldNotes": {
@@ -18283,9 +18267,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-135mm-t2-4",
@@ -18306,9 +18288,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-16mm-t2-5",
@@ -18329,9 +18309,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-24mm-t2-1",
@@ -18352,9 +18330,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-35mm-t2-1",
@@ -18375,9 +18351,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-50mm-t2-1",
@@ -18398,9 +18372,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "meike-ff-cine-85mm-t2-1",
@@ -18421,9 +18393,7 @@
       "focusRingRotationDeg": 330,
       "gearPitch": 0.8,
       "sources": {},
-      "webSources": [
-        "https://meikeglobal.com/collections/full-frame-cine-lens-set"
-      ]
+      "webSources": []
     },
     {
       "id": "nikon-s13x9",
