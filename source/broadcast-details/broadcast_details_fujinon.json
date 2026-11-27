@@ -1146,7 +1146,7 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": "unknown",
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
@@ -1155,7 +1155,7 @@
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
         "http://www.bc-s.de/downloadsfree/fujinon_catalog-2012.pdf",
         "https://www.film-tv-video.de/wp-content/uploads/2016/02/XA101x8.9BESM%20leaflet%202003-.pdf",
-        "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request). No filter specification."
+        "Fujinon XA101x8.9BESM leaflet 2003 (manufacturer PDF): M.O.D. 2.9 m, size 252x252x666 mm, mass with lens hood 22.9 kg, Macro yes (upon request), so a factory option and not built in as standard. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
@@ -1167,7 +1167,10 @@
       "maxApertureTele": 4.7,
       "apertureType": "f",
       "hasIS": true,
-      "productUrl": null
+      "productUrl": null,
+      "fieldNotes": {
+        "hasMacro": "Macro is a factory option (upon request), not built in as standard."
+      }
     },
     {
       "id": "fujinon-xa17x7-6berm",
@@ -1294,7 +1297,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses"
     },
     {
       "id": "fujinon-xa20sx8-5berm",
@@ -1359,7 +1362,7 @@
       "maxApertureTele": 2.7,
       "apertureType": "f",
       "hasIS": false,
-      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/23xa"
+      "productUrl": "https://www.fujifilm.com/us/en/business/cine-and-broadcast/portable-lens/remote-control-lenses"
     },
     {
       "id": "fujinon-xa22x7",
@@ -1543,13 +1546,14 @@
       "opticalElements": null,
       "filterType": null,
       "filterThreadMm": "unknown",
-      "hasMacro": true,
+      "hasMacro": false,
       "hasServoZoom": true,
       "hasServoFocus": true,
       "servoConnector": "20pin",
       "formFactor": "box",
       "sources": [
-        "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
+        "https://www.fujifilm.com/us/en/business/cine-and-broadcast",
+        "Fujinon XA87x9.3ESM/XA87x13.2ESM brochure (manufacturer PDF), specifications: Macro yes (upon request) on the XA87x9.3ESM, so a factory option and not built in as standard. No filter specification."
       ],
       "webSources": [
         "https://www.fujifilm.com/us/en/business/cine-and-broadcast"
@@ -1560,7 +1564,8 @@
       "apertureType": "f",
       "hasIS": false,
       "fieldNotes": {
-        "hasIS": "Available with Fujinon's internal image stabilization as a factory option."
+        "hasIS": "Available with Fujinon's internal image stabilization as a factory option.",
+        "hasMacro": "Macro is a factory option (upon request), not built in as standard."
       },
       "productUrl": null
     },

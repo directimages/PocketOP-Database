@@ -36,6 +36,13 @@ Most recent changes at the top. One line per file changed per commit.
 - Released as new db tag (db-v41)
 
 ## lens-details.json
+### v1.69.0 - 2026-11-27
+
+- Legacy union rebuild carrying the same sourced cleanup of 12 Canon and Fujinon broadcast detail entries: filterType, filterThreadMm, closeFocusM, hasMacro, fieldNotes and sources. The productUrl repoint on the two XA20sx8.5 entries is not part of the union. No other field or entry changed
+- Entry count unchanged, 823
+- Released as new db tag (db-v51)
+
+## lens-details.json
 ### v1.68.0 - 2026-11-25
 
 - Legacy union rebuild carrying the same sourced correction of 16 Fujinon and 2 Zeiss broadcast detail entries: weightG, lengthMm, closeFocusM, hasMacro, filterType, filterThreadMm, fieldNotes, sources and webSources. No other field or entry changed
@@ -153,6 +160,19 @@ Most recent changes at the top. One line per file changed per commit.
 - Legacy hyphen alias of ptz_details.json (shared meta), carrying the same 4 new Z CAM sidecars above
 - Entry count 283 -> 287
 - Released as new db tag (db-v38)
+
+## broadcast_lens_details.json
+### v1.62.0 - 2026-11-27
+
+- Sourced cleanup of 12 Canon and Fujinon broadcast detail entries in source/broadcast-details/broadcast_details_canon.json (canon-cj12ex4-3b, canon-cj14ex4-3b, canon-cj15ex4-3b, canon-hj14ex4-3b, canon-hj8x5-5b-kll-sc, canon-hj11x4-7b-kll-sc, canon-hj21x7-5b-kll-sc, canon-xj72x9-3b) and source/broadcast-details/broadcast_details_fujinon.json (fujinon-xa101x8-9, fujinon-xa87x9-3, fujinon-xa20sx8-5bmd, fujinon-xa20sx8-5bemd)
+- Hood-only filters on four Canon lenses (CJ12ex4.3B, CJ14ex4.3B, CJ15ex4.3B, HJ14ex4.3B) are now recorded as filterType hood_thread, filterThreadMm 127, with the full sources lists. Sources: Canon UHD broadcast lens catalog 2023, the Canon broadcast lens brochure 2025/26 and the HJ14ex4.3B brochure
+- closeFocusM moved to null on the three KLL-SC lenses (HJ8x5.5B, HJ11x4.7B, HJ21x7.5B). Canon gives the minimum object distance only from the image plane, and that value is now in fieldNotes
+- hasMacro false with a fieldNote that the macro is a factory option on Fujinon XA101x8.9 and XA87x9.3 (POS-D16)
+- productUrl repointed to the Fujifilm remote control lenses page on the two XA20sx8.5 entries (BMD and BEMD)
+- One hasMacro fieldNote removed from canon-xj72x9-3b with the new removeFieldNotes instruction; the entry has no fieldNotes key afterwards
+- Applied with build/apply_fields.py (26 fields on 11 entries, 1 fieldNotes key removed, zero orphans). No other entry or field changed
+- Entry count unchanged, 176
+- Released as new db tag (db-v51)
 
 ## broadcast_lens_details.json
 ### v1.61.0 - 2026-11-25
